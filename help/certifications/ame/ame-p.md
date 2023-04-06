@@ -5,9 +5,9 @@ solution: Marketo Engage
 role: Developer
 badge: label="Exam AD0-E555" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '1068'
+source-wordcount: '1098'
 ht-degree: 0%
 
 ---
@@ -61,15 +61,13 @@ En, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moeten zij
 
 **Details examen:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 36/55
-Time: 110 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E555
-```
+* Niveau: Professioneel (0-12 maanden ervaring)
+* Voldoende score: 05-36-55
+* Tijd: 110 minuten
+* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Beschikbare talen: Engels
+* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Examen-id: AD0-E555
 
 **Zelfbeoordeling van gereedheid**
 
@@ -113,7 +111,7 @@ Deel 3: Doelgroepen definiëren en aanwijzen (33%)
 
 Sectie 4: Analyseren en samenstellen van rapporten (9%)
 
-* De standaard Adobe uitleggen [!DNL Marketo Engage] rapporten en wanneer zij zouden moeten worden gebruikt (de Prestaties van de Verbinding van de E-mail, E-mailPrestaties, de Prestaties van de Landing van de Pagina, de Prestaties van Mensen, de Prestaties van het Programma, de Activiteit van de Web-pagina, enz.)
+* De standaard Adobe uitleggen [!DNL Marketo Engage] rapporten en wanneer zij zouden moeten worden gebruikt (de Prestaties van de Verbinding E-mail, E-mailPrestaties, de Prestaties van de Landing van de Pagina, de Prestaties van Mensen, de Prestaties van het Programma, de Activiteit van de Web-pagina, etc.)
 * Gegevens en metriek over het dashboard comprimeren (e-mailprogramma-dashboard, betrokkenheidsprogramma-dashboard)
 * Metrische gegevens van e-mailinzichten aanbevelen
 
@@ -191,4 +189,4 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

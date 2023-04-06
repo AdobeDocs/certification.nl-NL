@@ -5,9 +5,9 @@ solution: Audience Manager
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '1040'
 ht-degree: 0%
 
 ---
@@ -46,15 +46,13 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 **Details examen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 68 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: AD5-E826 - Adobe Audience Manager Business Practitioner expert renewal
-```
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 03-23-30
+* Tijd: 68 minuten
+* Aflevering: Op aanvraag/niet-afgehandeld
+* Beschikbare talen: Engels
+* Kosten: GRATIS
+* Examen-id: AD5-E826 - Verlenging door deskundige van Adobe Audience Manager Business Practitioner
 
 **Doelstellingen en toepassingsgebied van examen**
 
@@ -124,15 +122,13 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 **Details examen:**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 22/29
-Time: 58 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: AD5-E825 - Adobe Audience Manager Architect Master renewal
-```
+* Niveau: Master (3-5 jaar ervaring)
+* Voldoende score: 29-22-29
+* Tijd: 58 minuten
+* Aflevering: Op aanvraag/niet-afgehandeld
+* Beschikbare talen: Engels
+* Kosten: GRATIS
+* Examen-id: AD5-E825 - Master vernieuwing van de architect van Adobe Audience Manager
 
 **Toepassingsgebied en doelstellingen:**
 
@@ -141,7 +137,7 @@ Sectie 1: Implementatieanalyse (28%)
 * Bepaal hoe u de implementatie van AAM als een zelfstandig product of als onderdeel van een cloudoplossing kunt begeleiden en ondersteunen
 * Analyseer uitgaande bestemmingsopties en adviseer een AAM implementatiebenadering
 * Bepaal een gegevensonboarding strategie voor een bedrijfs gebruiksgeval
-* Omgaan met functies zoals viewer voor bezoekersprofielen, tags, RBAC, enz. om zich aan bedrijfsdoelstellingen te richten
+* Omgaan met functies zoals viewer voor bezoekersprofielen, tags, RBAC enzovoort, om deze uit te lijnen op bedrijfsdoelen
 * Bepaal hoe u pixels ontwerpt en test die nodig zijn om segmenten en kenmerken te maken
 
 Sectie 2: Oplossingsontwerp en Recommendations (17%)
@@ -192,4 +188,4 @@ Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer n
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

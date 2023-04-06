@@ -4,7 +4,7 @@ description: Leer hoe u uw Adobe vernieuwt [!DNL Journey Optimizer] certificerin
 solution: Journey Optimizer
 role: Developer
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -28,4 +28,4 @@ We zijn blij om aan te kondigen dat u nu uw certificering kunt vernieuwen via ee
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

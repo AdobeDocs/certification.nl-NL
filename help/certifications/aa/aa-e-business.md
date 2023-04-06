@@ -5,9 +5,9 @@ solution: Analytics
 role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '1190'
+source-wordcount: '1188'
 ht-degree: 2%
 
 ---
@@ -67,14 +67,13 @@ U zou moeten hebben:
 
 **Details examen:**
 
->* **Niveau:** Expert (1-3 jaar ervaring)
->* **Voldoende score:** 05-31-50
->* **Tijd:** 120 minuten
->* **Aflevering:** Online geproctoreerd (vereist cameratoegang) of >testcentrum geproctoreerd
->* **Beschikbare talen:** Engels
->* **Kosten:** $ 225 (wereldwijd) / $ 150 (India)
->* **Examen-id:** AD0-E208
-
+* **Niveau:** Expert (1-3 jaar ervaring)
+* **Voldoende score:** 05-31-50
+* **Tijd:** 120 minuten
+* **Aflevering:** Online geproctoreerd (vereist cameratoegang) of >testcentrum geproctoreerd
+* **Beschikbare talen:** Engels
+* **Kosten:** $ 225 (wereldwijd) / $ 150 (India)
+* **Examen-id:** AD0-E208
 
 **Zelfbeoordeling van gereedheid**
 
@@ -202,4 +201,4 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

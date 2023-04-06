@@ -5,10 +5,10 @@ solution: Campaign Classic
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '888'
-ht-degree: 9%
+source-wordcount: '914'
+ht-degree: 8%
 
 ---
 
@@ -48,15 +48,13 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 **Details van examen**
 
-```
-Passing Score: 42/55
-Time: 110 mins
-Cost: FREE/non-proctored
-Delivery: On-demand
-Available languages: English
-Prerequisite: current (not expired) Adobe [!DNL Campaign Classic] expert and/or master certification
-Exam ID: AD5-E823
-```
+* Voldoende score: 05-42-55
+* Tijd: 110 minuten
+* Kosten: VRIJ/niet-afgewikkeld
+* Aflevering: Op aanvraag
+* Beschikbare talen: Engels
+* Vereiste: huidige (niet verlopen) Adobe [!DNL Campaign Classic] deskundige en/of master certificering
+* Examen-id: AD5-E823
 
 **Toepassingsgebied en doelstellingen**
 
@@ -153,4 +151,4 @@ Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer n
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

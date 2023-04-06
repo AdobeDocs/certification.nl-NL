@@ -5,9 +5,9 @@ solution: Marketo Engage
 role: Architect
 badge: label="Exam AD0-E556" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '1031'
+source-wordcount: '1069'
 ht-degree: 0%
 
 ---
@@ -63,17 +63,15 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 
 **Details examen:**
 
-```
-Pre requisite: Adobe Certified Expert – [!DNL Marketo Engage] Business Practitioner expert
-Level: Master (3-5 years' experience)
-Practitioner certification
-Passing Score: 30/50
-Time: 150 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E556
-```
+* Voorwaarde: Adobe Certified Expert - [!DNL Marketo Engage] Bedrijfs Praktijkdeskundige
+* Niveau: Master (3-5 jaar ervaring)
+* Praktijkcertificering
+* Voldoende score: 05-30-50
+* Tijd: 150 minuten
+* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Beschikbare talen: Engels
+* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Examen-id: AD0-E556
 
 **Zelfbeoordeling van gereedheid**
 
@@ -186,4 +184,4 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '5197'
+source-wordcount: '5355'
 ht-degree: 5%
 
 ---
@@ -166,15 +166,14 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 
 **Details examen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 68 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E826 - Adobe Audience Manager Business Practitioner expert restart
-```
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 03-23-30
+* Tijd: 68 minuten
+* Aflevering: Op aanvraag/niet-afgehandeld
+* Beschikbare talen: Engels
+* Kosten: GRATIS
+* Examen-id: ADS-E826 - Adobe Audience Manager Business Practitioner-expert opnieuw starten
+
 
 **Doelstellingen en toepassingsgebied van examen**
 
@@ -242,15 +241,13 @@ Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer n
 
 **Details examen:**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 22/29
-Time: 58 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E825 - Adobe Audience Manager Architect Master restart
-```
+* Niveau: Master (3-5 jaar ervaring)
+* Voldoende score: 29-22-29
+* Tijd: 58 minuten
+* Aflevering: Op aanvraag/niet-afgehandeld
+* Beschikbare talen: Engels
+* Kosten: GRATIS
+* Examen-id: ADS-E825 - Master opnieuw opstarten vanaf Adobe Audience Manager Architect
 
 **Toepassingsgebied en doelstellingen:**
 
@@ -259,7 +256,7 @@ Sectie 1: Implementatieanalyse (28%)
 * Bepaal hoe u de implementatie van AAM als een zelfstandig product of als onderdeel van een cloudoplossing kunt begeleiden en ondersteunen
 * Analyseer uitgaande bestemmingsopties en adviseer een AAM implementatiebenadering
 * Bepaal een gegevensonboarding strategie voor een bedrijfs gebruiksgeval
-* Omgaan met functies zoals viewer voor bezoekersprofielen, tags, RBAC, enz. om zich aan bedrijfsdoelstellingen te richten
+* Omgaan met functies zoals viewer voor bezoekersprofielen, tags, RBAC enzovoort om deze uit te lijnen met bedrijfsdoelen
 * Bepaal hoe u pixels ontwerpt en test die nodig zijn om segmenten en kenmerken te maken
 
 Sectie 2: Oplossingsontwerp en Recommendations (17%)
@@ -344,15 +341,13 @@ Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer n
 
 **Details examen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 60 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E821 - Adobe Campaign Standard Developer expert restart
-```
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 03-23-30
+* Tijd: 60 minuten
+* Aflevering: Op aanvraag/niet-afgehandeld
+* Beschikbare talen: Engels
+* Kosten: GRATIS
+* Examen-id: ADS-E821 - Adobe Campaign Standard Developer Expert-herstart
 
 **Toepassingsgebied en doelstellingen:**
 
@@ -452,15 +447,13 @@ Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer n
 
 **Details examen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 60 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E822 - Campaign Standard Business Practitioner expert restart
-```
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 03-23-30
+* Tijd: 60 minuten
+* Aflevering: Op aanvraag/niet-afgehandeld
+* Beschikbare talen: Engels
+* Kosten: GRATIS
+* Examen-id: ADS-E822 - De deskundige van de Praktijk van de Campaign Standard opnieuw beginnen
 
 **Toepassingsgebied en doelstellingen:**
 
@@ -527,15 +520,13 @@ Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer n
 
 **Details examen:**
 
-```
-Level: Expert (1-3 years' experience) and Master (3-5 years' experience)
-Passing Score: 42/55
-Time: 110 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E823 - Adobe [!DNL Campaign Classic] expert and/or master restart
-```
+* Niveau: Expert (1-3 jaar ervaring) en Master (3-5 jaar ervaring)
+* Voldoende score: 05-42-55
+* Tijd: 110 minuten
+* Aflevering: Op aanvraag/niet-afgehandeld
+* Beschikbare talen: Engels
+* Kosten: GRATIS
+* Examen-id: ADS-E823 - Adobe [!DNL Campaign Classic] deskundige en/of master opnieuw opstarten
 
 **Toepassingsgebied en doelstellingen**
 
@@ -634,15 +625,13 @@ Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer n
 
 **Details examen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 30/40
-Time: 80 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E824 - Adobe Marketo Engage Business Practitioner expert restart
-```
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 04-30-40
+* Tijd: 80 minuten
+* Aflevering: Op aanvraag/niet-afgehandeld
+* Beschikbare talen: Engels
+* Kosten: GRATIS
+* Examen-id: ADS-E824 - Adobe Marketo Engage Business Practitioner-expert opnieuw starten
 
 **Toepassingsgebied en doelstellingen:**
 
@@ -749,4 +738,4 @@ Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer n
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

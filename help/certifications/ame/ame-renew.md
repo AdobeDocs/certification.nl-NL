@@ -5,9 +5,9 @@ solution: Marketo Engage
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '994'
+source-wordcount: '1020'
 ht-degree: 0%
 
 ---
@@ -46,15 +46,13 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 **Details examen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 30/40
-Time: 80 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: AD5-E824 - Adobe [!DNL Marketo Engage] Business Practitioner expert renewal exam
-```
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 04-30-40
+* Tijd: 80 minuten
+* Aflevering: Op aanvraag/niet-afgehandeld
+* Beschikbare talen: Engels
+* Kosten: GRATIS
+* Examen-id: AD5-E824 - Adobe [!DNL Marketo Engage] Het professionele deskundige vernieuwingsexamen van de Praktijk
 
 **Toepassingsgebied en doelstellingen:**
 
@@ -161,4 +159,4 @@ Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer n
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

@@ -5,9 +5,9 @@ solution: Experience Manager Forms
 role: Developer
 badge: label="Exam AD0-E127" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '888'
+source-wordcount: '912'
 ht-degree: 4%
 
 ---
@@ -59,15 +59,13 @@ U zou met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 
 **Details examen:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 29/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E127
-```
+* Niveau: Professioneel (0-12 maanden ervaring)
+* Voldoende score: 05-29-50
+* Tijd: 100 minuten
+* Aflevering: Online geproctoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Examen-id: AD0-E127
 
 **Doelstellingen en toepassingsgebied van examen**
 
@@ -174,4 +172,4 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

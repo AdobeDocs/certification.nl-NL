@@ -4,10 +4,10 @@ description: Leer hoe u uw Adobe vernieuwt [!DNL Campaign Standard] certificerin
 solution: Campaign Standard
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '1439'
-ht-degree: 11%
+source-wordcount: '1488'
+ht-degree: 10%
 
 ---
 
@@ -47,15 +47,13 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 **Details examen:**
 
-```
-Passing Score: 23/30
-Time: 110 mins
-Cost: FREE/non-proctored
-Delivery: On-demand
-Available languages: English
-Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Business Practitioner expert certification
-Exam ID: AD5-E822
-```
+* Voldoende score: 03-23-30
+* Tijd: 110 minuten
+* Kosten: VRIJ/niet-afgewikkeld
+* Aflevering: Op aanvraag
+* Beschikbare talen: Engels
+* Vereiste: huidige (niet verlopen) Adobe [!DNL Campaign Standard] Bedrijfs Praktijkdeskundige certificatie
+* Examen-id: AD5-E822
 
 **Toepassingsgebied en doelstellingen**
 
@@ -133,15 +131,13 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 **Details examen:**
 
-```
-Passing Score: 23/30
-Time: 60 mins
-Cost: FREE/non-proctored
-Delivery: On-demand
-Available languages: English
-Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Developer Expert certification
-Exam ID: AD5-E821
-```
+* Voldoende score: 03-23-30
+* Tijd: 60 minuten
+* Kosten: VRIJ/niet-afgewikkeld
+* Aflevering: Op aanvraag
+* Beschikbare talen: Engels
+* Vereiste: huidige (niet verlopen) Adobe [!DNL Campaign Standard] Certificering ontwikkelaarsexpert
+* Examen-id: AD5-E821
 
 **Toepassingsgebied en doelstellingen**
 
@@ -237,6 +233,6 @@ Om uw examen te vernieuwen klik op &quot;[!DNL Campaign Standard] Verlenging ont
 
 ## Vragen
 
-Heb je een vraag over Adobe-certificering? Stuur een e-mail `certif@adobe.com`.
+Heb je een vraag over Adobe-certificering? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.

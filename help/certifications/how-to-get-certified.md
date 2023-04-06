@@ -3,9 +3,9 @@ title: Gecertificeerd worden op Adobe
 description: Leer hoe je gecertificeerd kunt worden bij Adobe. Zoek alle bronnen die u nodig hebt voor, tijdens en nadat u gecertificeerd bent.
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '1462'
+source-wordcount: '1464'
 ht-degree: 1%
 
 ---
@@ -182,7 +182,7 @@ De volgende secties en koppelingen werken alleen nadat u zich met succes hebt aa
 | Snelle koppelingen | Beschrijving |
 | ------- | ------- | 
 | Adobe Referentiemanagementsysteem | [Aanvankelijke aanmelding bij Adobe Credential Management](https://www.certmetrics.com/adobe){target="_blank"} |
-| Profiel | [Demografische informatiepagina met locatie van accountnaam, adres, bedrijf, enz. Namen kunnen alleen worden bijgewerkt met een Adobe-beheerder](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
+| Profiel | [Demografische informatiepagina met locatie van accountnaam, adres, bedrijf, enzovoort. Namen kunnen alleen worden bijgewerkt met een Adobe-beheerder](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
 | Identificatie | [Locatie van Adobe-/aanmeldings-id. Doorgaans begint met ADB](https://www.certmetrics.com/adobe/candidate/identification.aspx){target="_blank"} |
 | Historie | [Muziekscore weergeven en examengeschiedenis](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
 | Certificeringen | [Bekijk al uw huidige en verlopen certificeringen](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
@@ -213,4 +213,4 @@ Uw badge is een tastbaar bewijs van uw ervaring met Adobe Experience Cloud-produ
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

@@ -5,10 +5,10 @@ solution: Campaign Classic
 role: Developer
 badge: label="Examen AD0-E330" type="positief"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '1322'
-ht-degree: 9%
+source-wordcount: '1350'
+ht-degree: 8%
 
 ---
 
@@ -44,15 +44,13 @@ U zou moeten hebben:
 
 **Details van examen**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 34/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E330
-```
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 05-34-50
+* Tijd: 100 minuten
+* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Beschikbare talen: Engels
+* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Examen-id: AD0-E330
 
 **Zelfbeoordeling van gereedheid**
 
@@ -214,4 +212,4 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

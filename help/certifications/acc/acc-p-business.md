@@ -5,9 +5,9 @@ solution: Campaign Classic
 role: User
 badge: label="Exam AD0-E329" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '1335'
+source-wordcount: '1333'
 ht-degree: 5%
 
 ---
@@ -90,7 +90,7 @@ Sectie 2: Workflowbeheer en platformmogelijkheden (16%)
 Deel 3: Gegevensbewerkingen (20%)
 
 * Bepaal hoe u kolommen binnen een weergave kunt wijzigen om gegevens/uitvoer te testen
-* Beschrijf de doelstellingen van de unitie, de intersection, de uitsluiting, en de spleet werkschema richtend activiteiten
+* Beschrijf de doelstellingen van de unitie, de intersection, de uitsluiting, en de gespleten werkschema richtende activiteiten
 * Bepaal de aangewezen methode om gegevens te combineren, een aanvulling te produceren, te dedupliceren, en de invoergegevens
 * Op basis van een scenario bepalen welke regel voor gegevensverrijking moet worden gebruikt
 * Gezien een scenario, bepaal hoe te om een publiek te segmenteren en als lijst en cellen op te slaan
@@ -200,4 +200,4 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

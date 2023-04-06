@@ -5,7 +5,7 @@ solution: Experience Platform
 role: Developer
 badge: label="Adobe Journey Optimizer Renewal" type="positive"
 hidefromtoc: true
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
@@ -25,4 +25,4 @@ We zijn blij om aan te kondigen dat u nu uw certificering kunt vernieuwen via ee
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
