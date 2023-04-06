@@ -2,12 +2,12 @@
 title: Master certificering architect
 description: Leer hoe u een gecertificeerde architect Master kunt worden in Experience Manager Sites.
 solution: Experience Manager Sites
-role: Developer
+role: Data Architect
 badge: label="Exam AD0-E117" type="positive"
 mini-toc-levels: 1
-source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '1594'
+source-wordcount: '1596'
 ht-degree: 7%
 
 ---
@@ -228,4 +228,4 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.

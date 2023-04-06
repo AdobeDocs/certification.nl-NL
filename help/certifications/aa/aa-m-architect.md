@@ -2,19 +2,19 @@
 title: Master certificering architect
 description: Leer hoe u gecertificeerd kunt worden als een [!DNL Adobe Analytics] Architect Master.
 solution: Analytics
-role: Developer
+role: Data Architect
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 4%
+source-wordcount: '963'
+ht-degree: 2%
 
 ---
 
 # Certificeringsreis voor [!DNL Adobe Analytics] Architect Master
 
-Leer hoe u een gecertificeerde Analytics Architect Master kunt worden.
+Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Analytics] Architect Master.
 
 ## Minimale ervaring
 
@@ -49,15 +49,13 @@ Bovendien, bent u verantwoordelijk voor het omzetten van bedrijfsvereisten in he
 
 **Details examen:**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 33/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E207
-```
+* Niveau: Master (3-5 jaar ervaring)
+* Voldoende score: 05-33-50
+* Tijd: 100 minuten
+* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Beschikbare talen: Engels
+* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Examen-id: AD0-E207
 
 **Doelstellingen en toepassingsgebied van examen**
 
@@ -99,20 +97,20 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 **Sectie 1: Detectie**
 
 * [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [Handleiding voor Analytics-componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Handleiding voor componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
 * [Overzicht van codes](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en){target="_blank"}
-* [Technische notities voor Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Technische notities](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=en){target="_blank"}
 * [Data Layer Manager](https://exchange.adobe.com/apps/ec/101462/data-layer-manager){target="_blank"}
 
 **Sectie 2: Oplossingsontwerp**
 
-* [Handleiding Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
-* [Handleiding voor Analytics-componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
-* [Handleiding Analytics-tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Beheerdershandleiding](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Handleiding voor componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Handleiding Tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
 * [iOS SDK 4.x voor Experience Cloud Solutions](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=en){target="_blank"}
-* [Handleiding voor Analytics importeren](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Handleiding importeren](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=en){target="_blank"}
 * [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [Analytics-tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"}
 * [Administratieve rollen](https://helpx.adobe.com/in/enterprise/using/admin-roles.html){target="_blank"}
 * [Overzicht van Admin Console](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"}
 * [Gebruikers individueel beheren](https://helpx.adobe.com/in/enterprise/using/manage-users-individually.html){target="_blank"}
@@ -120,14 +118,14 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 **Deel 3: Post Implementation**
 
 * [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [Handleiding voor Analytics-componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
-* [Handleiding Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Handleiding voor componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Beheerdershandleiding](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
 * [De door gebeurtenissen gestuurde gegevenslaag](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
-* [Handleiding voor Analytics exporteren](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=en){target="_blank"}
-* [Handleiding Adobe Target Business Practitioner](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
-* [Handleiding voor Analytics importeren](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=en){target="_blank"}
-* [Handleiding Analytics-tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Handleiding exporteren](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=en){target="_blank"}
+* [Adobe [!DNL Target] Handelspraktijken](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [Adobe [!DNL Experience Cloud] Identiteitsservice](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Handleiding importeren](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Handleiding Tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
 * [Gegevensinvoeging](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
 * [De Experience Cloud op websites implementeren met zelfstudie over tags](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=en){target="_blank"}
 

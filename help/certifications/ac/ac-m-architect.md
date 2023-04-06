@@ -2,12 +2,12 @@
 title: Master certificering architect
 description: Leer hoe u een gecertificeerde Adobe architect master in Adobe kunt worden [!DNL Commerce].
 solution: Commerce
-role: Developer
+role: Data Architect
 badge: label="Exam AD0-E718" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '961'
+source-wordcount: '987'
 ht-degree: 0%
 
 ---
@@ -72,15 +72,13 @@ Bovendien, zou u zeer vertrouwd met de volgende activiteiten en de technologieë
 
 **Details examen:**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 29/50
-Time: 120 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E718
-```
+* Niveau: Master (3-5 jaar ervaring)
+* Voldoende score: 05-29-50
+* Tijd: 120 minuten
+* Aflevering: Online geproctoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Examen-id: AD0-E718
 
 **Zelfbeoordeling van gereedheid**
 
@@ -192,4 +190,4 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.

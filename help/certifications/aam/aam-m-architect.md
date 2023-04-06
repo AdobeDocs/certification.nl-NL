@@ -2,13 +2,13 @@
 title: Master certificering architect
 description: Leer hoe u gecertificeerd kunt worden als een Adobe [!DNL Audience Manager] Architect Master.
 solution: Audience Manager
-role: Developer
+role: Data Architect
 badge: label="Exam AD0-E454" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '824'
-ht-degree: 2%
+source-wordcount: '856'
+ht-degree: 1%
 
 ---
 
@@ -53,15 +53,13 @@ Bovendien, zou u de volgende taken moeten kunnen voltooien:
 
 **Details van examen**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 29/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E454
-```
+* Niveau: Master (3-5 jaar ervaring)
+* Voldoende score: 05-29-50
+* Tijd: 100 minuten
+* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Beschikbare talen: Engels
+* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Examen-id: AD0-E454
 
 **Zelfbeoordeling van gereedheid**
 
@@ -74,7 +72,7 @@ Sectie 1: Implementatieanalyse (26%)
 * Bepaal hoe u de implementatie van AAM als een zelfstandig product of als onderdeel van een cloudoplossing kunt begeleiden en ondersteunen
 * Analyseer uitgaande bestemmingsopties en adviseer een AAM implementatiebenadering
 * Bepaal een gegevensonboarding strategie voor een bedrijfs gebruiksgeval
-* Omgaan met functies zoals viewer voor bezoekersprofielen, tags, RBAC, enz. om zich aan bedrijfsdoelstellingen te richten
+* Omgaan met functies zoals viewer voor bezoekersprofielen, tags, RBAC enzovoort, om deze uit te lijnen op bedrijfsdoelen
 * Bepaal hoe u pixels ontwerpt en test die nodig zijn om segmenten en kenmerken te maken
 
 Sectie 2: Oplossingsontwerp en aanbevelingen (18%)
@@ -167,4 +165,4 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.

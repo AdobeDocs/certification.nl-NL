@@ -2,12 +2,12 @@
 title: Bedrijfs Praktijkgerichte Beroeps certificatie
 description: Leer hoe u een gecertificeerde Adobe Business Practice Professional in Adobe kunt worden [!DNL Commerce].
 solution: Commerce
-role: Developer
+role: User
 badge: label="Exam AD0-E712" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '1068'
+source-wordcount: '1098'
 ht-degree: 0%
 
 ---
@@ -53,15 +53,13 @@ Bovendien moet u een basiskennis hebben van de eCommerce-ervaring en kennis hebb
 
 **Details examen:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 30/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E712
-```
+* Niveau: Professioneel (0-12 maanden ervaring)
+* Voldoende score: 05-30-50
+* Tijd: 100 minuten
+* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Beschikbare talen: Engels
+* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Examen-id: AD0-E712
 
 **Zelfbeoordeling van gereedheid**
 
@@ -200,4 +198,4 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.

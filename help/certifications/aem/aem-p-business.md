@@ -2,13 +2,13 @@
 title: Bedrijfs Praktijkgerichte Beroeps certificatie
 description: Leer hoe u een gecertificeerde Business Practice Professional in Adobe kunt worden [!DNL Experience Manager].
 solution: Experience Manager
-role: Developer
+role: User
 badge: label="Exam AD0-E126" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '915'
-ht-degree: 5%
+source-wordcount: '941'
+ht-degree: 4%
 
 ---
 
@@ -48,15 +48,13 @@ Bovendien moet u:
 
 **Details examen:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 33/50
-Time: 110 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E126
-```
+* Niveau: Professioneel (0-12 maanden ervaring)
+* Voldoende score: 05-33-50
+* Tijd: 110 minuten
+* Aflevering: Online geproctoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Examen-id: AD0-E126
 
 **Doelstellingen en toepassingsgebied van examen**
 
@@ -165,4 +163,4 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.

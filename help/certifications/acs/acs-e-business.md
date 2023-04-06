@@ -2,12 +2,12 @@
 title: Certificering door experts voor zakelijke gebruikers
 description: Leer hoe u een gecertificeerde Adobe Business Practice-expert in Adobe kunt worden [!DNL Campaign Standard]
 solution: Campaign Standard
-role: Developer
+role: User
 badge: label="Examen AD0-E307" type="positief"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '958'
+source-wordcount: '989'
 ht-degree: 5%
 
 ---
@@ -51,15 +51,13 @@ Bovendien moet u:
 
 **Details examen:**
 
-```
-Level: Expert (1-3 years experience)
-Passing Score: 30/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English & Japanese
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E307
-```
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 05-30-50
+* Tijd: 100 minuten
+* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Beschikbare talen: Engels en Japans
+* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Examen-id: AD0-E307
 
 **Zelfbeoordeling van gereedheid**
 
@@ -184,4 +182,4 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.

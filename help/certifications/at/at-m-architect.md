@@ -2,12 +2,12 @@
 title: Master certificering architect
 description: Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Target] Architect Master.
 solution: Target
-role: Developer
+role: Data Architect
 badge: label="Exam AD0-E407" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '1201'
+source-wordcount: '1230'
 ht-degree: 4%
 
 ---
@@ -31,10 +31,10 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 Technologieën:
 
-* Meerdere Adobe Experience Cloud-programma&#39;s (bijvoorbeeld Adobe Analytics, Adobe Campaign, Adobe Experience Manager, Adobe Experience Cloud Debugger, doel-API&#39;s)
-* JavaScript (Ajax, JQuery, enz.)
-* Op browser-gebaseerde het zuiveren hulpmiddelen (b.v. de hulpmiddelen van de ontwikkelaar van Chrome, hulp VEC), JSON voor het zuiveren reacties van Doel
-* Foutopsporingsgereedschappen voor native apps (bijvoorbeeld Charles Proxy, Fiddler)
+* Meerdere Adobe Experience Cloud-programma&#39;s (Adobe Analytics, Adobe Campaign, Adobe Experience Manager, Adobe Experience Cloud Debugger, doel-API&#39;s)
+* JavaScript (Ajax, JQuery, enzovoort)
+* Op browser-gebaseerde het zuiveren hulpmiddelen (de hulpmiddelen van de ontwikkelaar van Chrome, hulp VEC), JSON voor het zuiveren reacties van Doel
+* Foutopsporingsgereedschappen voor native apps (Charles Proxy, Fiddler)
 * HTML, CSS, HTTP, XML-configuratie
 * IDE&#39;s voor native mobiele ontwikkeling, basisbeginselen van iOS-ontwikkeling, basisbeginselen van Android-ontwikkeling
 * API-gereedschappen zoals Postman
@@ -71,15 +71,13 @@ Omgevingen:
 
 **Details examen:**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 34/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E407
-```
+* Niveau: Master (3-5 jaar ervaring)
+* Voldoende score: 05-34-50
+* Tijd: 100 minuten
+* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Beschikbare talen: Engels
+* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Examen-id: AD0-E407
 
 **Doelstellingen en toepassingsgebied van examen**
 
@@ -227,4 +225,4 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.

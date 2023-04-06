@@ -2,12 +2,12 @@
 title: Bedrijfs Praktijkgerichte Beroeps certificatie
 description: Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Target] Zakelijke beroepsbeoefenaar.
 solution: Target
-role: Developer
+role: User
 badge: label="Exam AD0-E408" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '968'
 ht-degree: 1%
 
 ---
@@ -44,15 +44,13 @@ U zou moeten hebben:
 
 **Details examen:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E408
-```
+* Niveau: Professioneel (0-12 maanden ervaring)
+* Voldoende score: 05-31-50
+* Tijd: 100 minuten
+* Aflevering: Online geproctoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Examen-id: AD0-E408
 
 **Doelstellingen en toepassingsgebied van examen**
 
@@ -172,4 +170,4 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.

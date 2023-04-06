@@ -2,12 +2,12 @@
 title: Certificering door experts voor zakelijke gebruikers
 description: Leer hoe u een gecertificeerde Adobe Business Practitioner-expert kunt worden in [!DNL Adobe Target].
 solution: Target
-role: Developer
+role: User
 badge: label="Exam AD0-E406" type="positive"
 mini-toc-levels: 1
-source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '1420'
+source-wordcount: '1422'
 ht-degree: 0%
 
 ---
@@ -218,4 +218,4 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.

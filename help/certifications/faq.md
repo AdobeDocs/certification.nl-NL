@@ -1,12 +1,12 @@
 ---
 title: Veelgestelde vragen
 description: U krijgt antwoorden op vragen over het Adobe-certificeringsprogramma. Leer meer over de voordelen van certificering, hoe u zich kunt registreren en met wie u contact kunt opnemen.
-role: Developer
+role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 76a3cea2c92ac32fc20031c32e13d7b88999363c
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '1884'
+source-wordcount: '1889'
 ht-degree: 0%
 
 ---
@@ -126,7 +126,7 @@ Certificeringen worden aangeboden bij bepaalde gebeurtenissen die door Adobe wor
 
 +++
 
-+++Zijn certificatie verbonden aan specifieke versies van toepassingen (b.v. Adobe Experience Manager 6.5)?
++++Zijn certificeringen gebonden aan specifieke versies van toepassingen (bijvoorbeeld Adobe Experience Manager 6.5)?
 
 Niet direct, nee. Maar omdat certificering nu elke twee jaar moet worden vernieuwd, zorgt uw certificering ervoor dat u op de meest recente versie van een Adobe-toepassing actief blijft.
 
@@ -169,7 +169,7 @@ Ga voor meer informatie over het vernieuwen van uw certificering naar [hier](htt
 
 Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe/){target="_blank"}. Daar kunt u zien wanneer u uw referentie hebt bereikt en wanneer het zal verlopen. Controleer ook uw profiel en bevestig dat uw contactpersoon, secundaire e-mail en taakgegevens correct zijn.
 
-Een maand voordat uw certificering verloopt, ontvangt u een e-mailbericht. Maar als je taken hebt gewijzigd en je e-mail niet hebt bijgewerkt, wordt je mogelijk niet op de hoogte gesteld. Voeg een secundaire e-mail toe (zoals Gmail, Hotmail, Yahoo, enz.) in uw CertMetrics account, zodat u een herinnering voor de vervaldatum van de certificering ontvangt, zelfs als u van bedrijf verandert.
+Een maand voordat uw certificering verloopt, ontvangt u een e-mailbericht. Maar als je taken hebt gewijzigd en je e-mail niet hebt bijgewerkt, wordt je mogelijk niet op de hoogte gesteld. Voeg een secundaire e-mail (zoals Gmail, Hotmail, Yahoo, enzovoort) toe aan uw CertMetrics-account, zodat u een herinnering voor het verlopen van de certificering ontvangt, zelfs als u van bedrijf verandert.
 
 +++
 

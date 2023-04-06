@@ -2,13 +2,13 @@
 title: Bedrijfs Praktijkgerichte Beroeps certificatie
 description: Leer hoe u een gecertificeerde Adobe Business Practice-professional kunt worden in [!DNL Campaign Classic].
 solution: Campaign Classic
-role: Developer
+role: User
 badge: label="Exam AD0-E329" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '1307'
-ht-degree: 6%
+source-wordcount: '1335'
+ht-degree: 5%
 
 ---
 
@@ -29,7 +29,7 @@ U zou moeten hebben:
 * Handmatige ervaring met kanaaloverschrijdende, gepersonaliseerde workflows en het verzenden van leveringen
 * Ervaring met het analyseren en controleren van logbestanden en fouten
 * Kennis van concepten en tactieken op het gebied van digitale marketing
-* Basisbegripsautomatisering, metriek en campagnemetactiek (mogelijkheden rond gegevensbeheer, cloudservices, goedkeuringen, enz.)
+* Basisbegripsautomatisering, metriek en campagnetactiek (mogelijkheden rond gegevensbeheer, cloudservices, goedkeuringen, enzovoort)
 * Een goed begrip van de fundamentele relationele databases en van de vraag in een campagne
 * Ervaring met elementaire HTML en personalisatie
 * Abonnementsservicebeheer (opt in/opt out)
@@ -54,15 +54,13 @@ U zou moeten hebben:
 
 **Details examen:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 32/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) 
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E329
-```
+* Niveau: Professioneel (0-12 maanden ervaring)
+* Voldoende score: 05-32-50
+* Tijd: 100 minuten
+* Aflevering: Online geproctoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Examen-id: AD0-E329
 
 **Zelfbeoordeling van gereedheid**
 
@@ -92,7 +90,7 @@ Sectie 2: Workflowbeheer en platformmogelijkheden (16%)
 Deel 3: Gegevensbewerkingen (20%)
 
 * Bepaal hoe u kolommen binnen een weergave kunt wijzigen om gegevens/uitvoer te testen
-* Beschrijf de doelstellingen van de unitie, de intersection, de uitsluiting, en de gespleten werkschema richtende activiteiten
+* Beschrijf de doelstellingen van de unitie, de intersection, de uitsluiting, en de spleet werkschema richtend activiteiten
 * Bepaal de aangewezen methode om gegevens te combineren, een aanvulling te produceren, te dedupliceren, en de invoergegevens
 * Op basis van een scenario bepalen welke regel voor gegevensverrijking moet worden gebruikt
 * Gezien een scenario, bepaal hoe te om een publiek te segmenteren en als lijst en cellen op te slaan
@@ -202,4 +200,4 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.

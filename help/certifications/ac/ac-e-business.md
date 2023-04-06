@@ -2,12 +2,12 @@
 title: Professionele certificering voor zakelijke gebruikers
 description: Leer hoe u een gecertificeerd Adobe Business Practice-expert in Adobe bent [!DNL Commerce].
 solution: Commerce
-role: Developer
+role: User
 badge: label="Exam AD0-E708" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '1577'
+source-wordcount: '1609'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ En, zou u moeten comfortabel zijn gebruikend de volgende technologieën:
 
 * Adobe [!DNL Commerce] - versie 2.4
 * Gereedschappen voor analyse en prestaties: Google Analytics, tagbeheer, SWAT, New Relic, Fastly, Google Lighthouder
-* Beveiligingsgereedschappen: PCI-compatibiliteit, ADA, GDPR, enz.
+* Beveiligingsgereedschappen: PCI-compatibiliteit, ADA, GDPR enzovoort
 * Cloud- of on-premise-architectuur
 
 >[!NOTE]
@@ -57,15 +57,13 @@ En, zou u moeten comfortabel zijn gebruikend de volgende technologieën:
 
 **Details examen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E708
-```
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 05-31-50
+* Tijd: 100 minuten
+* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Beschikbare talen: Engels
+* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Examen-id: AD0-E708
 
 **Zelfbeoordeling van gereedheid**
 
@@ -249,4 +247,4 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
