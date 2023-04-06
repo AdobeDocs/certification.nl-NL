@@ -1,0 +1,181 @@
+---
+title: Certificering ontwikkelaarsexpert
+description: Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager Sites] Expert.
+solution: Experience Manager Sites
+role: Developer
+badge: label="Exam AD0-E134" type="positive"
+mini-toc-levels: 1
+source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+workflow-type: tm+mt
+source-wordcount: '968'
+ht-degree: 3%
+
+---
+
+# Certificeringsreis voor Adobe [!DNL Experience Manager Sites] Ontwikkelaarsexpert
+
+Leer hoe u een gecertificeerde Adobe Experience Manager-expert kunt worden.
+
+## Minimale ervaring
+
+U zou moeten hebben:
+
+* Minimaal 1 à 3 jaar ervaring met het AEM Platform
+* De mogelijkheid om geavanceerde componentontwikkeling uit te voeren
+* Een diep inzicht in het ModelControlemechanisme van de Mening (MVC) kader
+* De kennis van kaders en bibliotheken in AEM
+* inzicht in de AEM ontwikkelingscyclus
+
+Bovendien bent u vertrouwd met de volgende technologieën en milieu&#39;s:
+
+* JVM
+* Lagere/preproductieomgevingen
+* Verschillende AEM hostingmogelijkheden
+* Inhoud/omgevingen tegelijk synchroniseren
+* Maven
+* Git
+* Gereedschappen voor ontwikkeling en verpakking
+* Opdrachtregelprogramma&#39;s
+
+>[!NOTE]
+>
+>Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+
+>[!BEGINTABS]
+
+>[!TAB Klaar]
+
+**Beoogd publiek:**
+
+* AEM ontwikkelaars
+* AEM Senior Developers
+* Ontwikkelaars van AEM
+
+**Details examen:**
+
+```
+Level: Expert (1-3 years' experience)
+Passing Score: 26/50
+Time: 100 mins
+Delivery: Online proctored (requires camera access) or test center proctored
+Available languages: English
+Cost: $225 (global) / $150 (India)
+Exam ID: AD0-E134
+```
+
+**Zelfbeoordeling van gereedheid**
+
+Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
+
+**Doelstellingen en toepassingsgebied van examen**
+
+Sectie 1: Configuraties (22%)
+
+* Identificeer de stappen om AEM te creëren en te beheren
+* Bepaal de correcte stappen om multi-huur te vormen
+* Verklaar hoe te om configuraties tot stand te brengen en te beheren OSGi
+* Op basis van een scenario bepaalt u de juiste methode voor het maken en beheren van aangepaste OAK-indexen
+* Bepaal de correcte stappen om integratie te vormen OTB SAML en LDAP
+
+Sectie 2: AEM ontwikkeling (44%)
+
+* Bepaal de correcte stappen om SPA structuur, malplaatjes, en componenten uit te voeren
+* Op basis van een ontwerp kunt u aangepaste componenten maken, zoals HTML, modellen en services
+* Bepaal de correcte methode om eenheidstests en kaartmokgegevens tot stand te brengen
+* Op basis van een scenario de juiste stappen bepalen om workflows te ontwikkelen
+* Op basis van een scenario de benadering voor integratie van derden bepalen
+* Bepaal de benadering om een headless of hybride implementatie uit te voeren
+
+Deel 3: Opbouwen en implementeren (14%)
+
+* Identificeer de stappen aan opstelling en onderhoud front-end en back-end gebiedsbeheer
+* Bepaal correct archetype wanneer het bouwen van projecten
+
+Sectie 4: Milieu-onderhoud (22%)
+
+* Op basis van een scenario de vereiste stappen bepalen voor het beheer van AEM omgevingen
+* Verklaar de opstellingsstappen rond versiebeheer
+* Aanbevelen en implementeren van oplossingen voor het synchroniseren van inhoud/configuraties in AEM omgevingen
+* De vereiste stappen bepalen voor het plannen en implementeren van AEM upgrades en de migratie/taken van de opslagplaats
+
+>[!TAB Vooraf ingesteld]
+
+U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+
+Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+
+**Sectie 1: Configuratie**
+
+* [Inleiding tot Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"}
+* [Overzicht van verzending](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en){target="_blank"}
+* [AEM Assets - video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=en){target="_blank"}
+* [Handleiding voor assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=en){target="_blank"}
+* [AEM 6.5 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en){target="_blank"}
+* [AEM 6.5 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
+
+**Sectie 2: AEM**
+
+* [AEM 6.5 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
+* [Aan de slag met AEM Sites - WKND-zelfstudie](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=en){target="_blank"}
+* [AEM 6.5 Gebruikersgids voor authoring](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
+* [AEM 6.5 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
+
+**Deel 3: Samenstellen en implementeren**
+
+* [Introductie van kerncomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en){target="_blank"}
+* [AEM 6.5 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
+* [AEM 6.5 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
+* [Adobe [!DNL Experience Manager as a Cloud Service] Video&#39;s en Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=en){target="_blank"}
+* [AEM 6.5 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en){target="_blank"}
+
+**Sectie 4: Omgevingsonderhoud**
+
+* [[!DNL Experience Manager as a Cloud Service] documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
+* [Video&#39;s en zelfstudies voor AEM stichting](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=en){target="_blank"}
+* [Implementeren en onderhouden](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/deploying/deploy.html?lang=en){target="_blank"}
+* [AEM 6.5 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
+* [AEM 6.5 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en){target="_blank"}
+
+>[!TAB Gecertificeerd ophalen]
+
+>[!IMPORTANT]
+>
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+
+**Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
+
+**Een praktijktest uitvoeren**
+
+We raden u aan de test voor vrije praktijk uit te voeren voordat u begint. U zult onbeperkte toegang tot alle beschikbare praktijktests voor Adobe-vlakke examens hebben.
+
+Onze praktijktests worden allemaal ontwikkeld op basis van dezelfde blauwdruk als de live examens. De praktijktest zal u helpen de onderwerpen begrijpen die in het levende examen worden behandeld.
+
+Houd er rekening mee dat het slagen van een praktijktest niet garandeert dat u voor het certificeringsexamen slaagt.
+
+Ga naar de [Prep Portal voor Adobe-certificatieexamen](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} nu een praktijktest uitvoeren .
+
+**Neem het certificatieexamen**
+
+Adobe gebruikt twee verkopers om geproctored examens, PSI en Onderzoek te beheren.
+
+* **PSI** biedt testcentrum en Japanse examenopties (indien beschikbaar) aan
+* **[!DNL Examity]** biedt een externe online optie aan
+
+Om uw examen te plannen, opnieuw te plannen of te annuleren, eenvoudig op de verkoper van keus te klikken, en de instructies te volgen die op het scherm worden verstrekt. Zo eenvoudig is het!
+
+### Examen: AD0-E134
+
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E134 newtab=true"}[!BADGE examen]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134 newtab=true"}
+
+U kunt voor uw certificatieexamen door bon of creditcard betalen. Ga naar: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
+
+U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, wordt deze toegepast bij afhandeling.
+
+>[!ENDTABS]
+
+**Vragen**
+
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+
+Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.

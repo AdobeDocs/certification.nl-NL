@@ -1,0 +1,196 @@
+---
+title: Certificering ontwikkelaarsexpert
+description: Leer hoe u een gecertificeerde Adobe van Adobe Developer-experts kunt worden [!DNL Campaign Standard].
+solution: Campaign Standard
+role: Developer
+badge: label="Examen AD0-E306" type="positief"
+mini-toc-levels: 1
+source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+workflow-type: tm+mt
+source-wordcount: '1272'
+ht-degree: 10%
+
+---
+
+# Certificeringsreis voor Adobe [!DNL Campaign Standard] Ontwikkelaarsexpert
+
+Leer hoe u een gecertificeerde Adobe Developer-expert kunt worden.
+
+## Minimale ervaring
+
+U zou moeten hebben:
+
+* Ten minste twee jaar [!DNL Campaign] software-ervaring
+* Ten minste twee jaar relevante ervaring met multikanaalscampagnes voor digitale marketing en webontwikkeling (bv. REST API)
+* De capaciteit om taken in Adobe Campaign met inbegrip van malplaatjeontwikkeling, technische werkschema&#39;s, schemaontwikkeling, en integratie uit te voeren, en de instantie te kunnen controleren gebruikend controlepaneel
+* Ervaring met werken in een omgeving voor kanaallevering (e-mail, direct mail, mobiel en sociaal)
+* Kennis van de marketingcampagne zoals multi-touch, levenscyclus en reactivering
+* Een begrip van marketing metriek zoals ROI, klikthrough tarieven, en omzetting.
+* Ervaring met het beheren van een platform voor marketingautomatisering
+* Basiskennis van CSS, HTML en JavaScript, e-mails
+* Basiskennis van relationele gegevensbanken en gegevensmodellering
+* Een goed begrip van technische werkschema&#39;s en vormden hen
+* Ervaring met het uitbreiden van een tabel of schema voor ontvangers en gegevensbeheer
+* Gemaakte typologieregels, workflows, levering en campagnemalplaatjes
+* Gevormde rollen en rechten
+* Ervaring met de beheerconsole en integratie met andere Adobe-toepassingen
+* Bewustmaking van Adobe I/O en Adobe I/O Runtime
+* Ervaring met transactioneel overseinen, en berichtlevering op multi-kanalen
+* Ervaring met beheerde pakketten
+
+>[!NOTE]
+>
+>Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+
+>[!BEGINTABS]
+
+>[!TAB Klaar]
+
+**Beoogd publiek:**
+
+* Beheerder van marketingautomatisering
+* Adobe Experience Cloud developer
+* E-mailmarketinganalist
+* Toepassingsontwikkelaar
+* Campagneontwikkelaar
+* Martech-ontwikkelaar
+
+**Details examen:**
+
+```
+Level: Expert (1-3 years experience)
+Passing Score: 29/50
+Time: 100 mins
+Delivery: Online proctored (requires camera access) or test center proctored
+Available languages: English
+Cost: $225 (global) / $150 (India)
+Exam ID: AD0-E306
+```
+
+**Zelfbeoordeling van gereedheid**
+
+Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
+
+**Doelstellingen en toepassingsgebied van examen**
+
+Sectie 1: Gegevensmodellering en -beheer (26%)
+
+* Gezien een scenario, transformeer een cliëntvereiste in een douanemiddel
+* Bepaal hoe u scherm- en filterdefinities kunt configureren
+* Op basis van een scenario bepaalt u de juiste strategie voor het definiëren van sleutels, indexen en koppelingen
+* Bepaal de correcte methode om middelupdates te publiceren
+* Problemen met gegevensmodellering oplossen
+* Bepaal de correcte benadering om technische werkschema&#39;s te bouwen
+
+Sectie 2: Campagnebeheer (50%)
+
+* Workflowfouten oplossen
+* Bepaal de correcte benadering om campagnes te bouwen
+* De juiste aanpak bepalen voor het werken met soorten publiek en profielen
+* Filterregels toepassen en maken via typologieën
+* Bepaal de correcte benadering om malplaatjes tot stand te brengen en te beheren
+* Bepaal de correcte benadering om landingspagina&#39;s te vormen
+* Bepaal de correcte benadering om met de diensten en abonnementen te werken
+* Gezien een scenario, bevestig leveringsmechanismen
+* Bepaal de juiste aanpak voor het samenstellen van e-mails met behulp van creatieve ontwerper
+* Bepaal de correcte benadering om douanerapporten tot stand te brengen
+
+Deel 3: Toediening (24%)
+
+* Bepaal de correcte benadering om gebruikersveiligheidsgroepen en organisatorische eenheden tot stand te brengen
+* Bepaal de correcte benadering om pakketten te beheren en op te stellen
+* Bepaal de correcte benadering om externe rekeningen te vormen
+* Bepaal de correcte benadering om opties te vormen
+* Bepaal de correcte benadering om merken tot stand te brengen
+* Bepaal de correcte benadering om kanaalconfiguraties te ontwikkelen
+
+>[!TAB Vooraf ingesteld]
+
+U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+
+**Sectie 1: Gegevensmodellering en -beheer**
+
+* [Een aangepaste bron maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html?lang=en){target="_blank"}
+* [De bron maken of uitbreiden](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html?lang=en){target="_blank"}
+* [Het vormen van een het schermdefinitie voor een douanemiddel](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html?lang=en){target="_blank"}
+* [De schermdefinitie configureren](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html?lang=en){target="_blank"}
+* [De filterdefinitie configureren](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-filter-definition.html?lang=en){target="_blank"}
+* [Aangepaste bronnen koppelen](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html?lang=en){target="_blank"}
+* [De gegevensstructuur van de bron configureren](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html?lang=en#defining-links-with-other-resources){target="_blank"}
+* [Goedkeuringsprocessen](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
+* [De databasestructuur bijwerken](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html?lang=en){target="_blank"}
+* [Technische workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=nl){target="_blank"}
+
+**Sectie 2: Campagnebeheer**
+
+* [Bronnen beheren](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
+* [Best practices voor workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=en){target="_blank"}
+* [Programma’s en campagnes](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=en){target="_blank"}
+* [Aan de slag met profielen en doelgroepen](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html?lang=en){target="_blank"}
+* [Informatie over typologieën en typologieregels](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html?lang=en){target="_blank"}
+* [Filterregels](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html?lang=en){target="_blank"}
+* [Sjablonen voor marketingactiviteiten](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html?lang=en){target="_blank"}
+* [Een landingspagina configureren](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html?lang=en){target="_blank"}
+* [Lidmaatschapsservices](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html?lang=en){target="_blank"}
+* [Belangrijkste stappen voor verzending van een bericht](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html?lang=en){target="_blank"}
+* [Bijhouden en bewaken](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html?lang=en){target="_blank"}
+* [Leveringsoverzicht](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html?lang=en){target="_blank"}
+* [Email Designer in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=en){target="_blank"}
+* [Aan de slag met dynamische rapporten](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en){target="_blank"}
+
+**Deel 3: Beheer**
+
+* [Groepen en gebruikers beheren](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html?lang=en){target="_blank"}
+* [Organisatorische eenheden](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html?lang=en){target="_blank"}
+* [Pakketten beheren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html?lang=en){target="_blank"}
+* [Aangepaste resources exporteren en importeren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html?lang=en){target="_blank"}
+* [Externe accounts](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html?lang=en){target="_blank"}
+* [Uitvoeringsopties beheren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/managing-execution-options.html?lang=nl){target="_blank"}
+* [Workflowuitvoering controleren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html?lang=nl){target="_blank"}
+* [Merkpositionering](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html?lang=en){target="_blank"}
+* [Informatie over kanaalconfiguratie](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html?lang=en){target="_blank"}
+* [Aan de slag met communicatiekanalen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html?lang=en){target="_blank"}
+
+>[!TAB Gecertificeerd ophalen]
+
+>[!IMPORTANT]
+>
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+
+
+**Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
+
+**Een praktijktest uitvoeren**
+
+We raden u aan de test voor vrije praktijk uit te voeren voordat u begint. U zult onbeperkte toegang tot alle beschikbare praktijktests voor Adobe-vlakke examens hebben.
+
+Onze praktijktests worden allemaal ontwikkeld op basis van dezelfde blauwdruk als de live examens. De praktijktest zal u helpen de onderwerpen begrijpen die in het levende examen worden behandeld.
+
+Houd er rekening mee dat het slagen van een praktijktest niet garandeert dat u voor het certificeringsexamen slaagt.
+
+Ga naar de [Prep Portal voor Adobe-certificatieexamen](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} nu een praktijktest uitvoeren .
+
+**Neem het certificatieexamen**
+
+Adobe gebruikt twee verkopers om geproctored examens, PSI en Onderzoek te beheren.
+
+* PSI biedt testcentrum en Japanse examenopties (voor zover beschikbaar) aan
+* De examens biedt een verre online optie aan
+
+Om uw examen te plannen, opnieuw te plannen of te annuleren, eenvoudig op de verkoper van keus te klikken, en de instructies te volgen die op het scherm worden verstrekt. Zo eenvoudig is het!
+
+### Examen: AD0-E306
+
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E306 newtab=true"}[!BADGE examen]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E306 newtab=true"}
+
+U kunt voor uw certificatieexamen door bon of creditcard betalen. Ga naar: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
+
+U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, wordt deze toegepast bij afhandeling.
+
+>[!ENDTABS]
+
+**Vragen**
+
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+
+Aanvullende vragen? Stuur een e-mail `certif@adobe.com`.
