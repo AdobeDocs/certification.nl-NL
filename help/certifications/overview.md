@@ -2,7 +2,7 @@
 title: Startpagina voor certificering
 description: Meer informatie over [!DNL Experience Cloud] Certificering bij Adobe. Kom te weten wat certificeren voor u kan doen.
 mini-toc-levels: 1
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: aa71bfc0c0a4a8831fd2a8d49e1b3c1d4616f19c
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
@@ -35,5 +35,3 @@ Een Adobe ophalen [!DNL Experience Cloud] certificering kan om verschillende red
 Ons certificeringsprogramma is ontworpen voor professionals op diverse gebieden, waaronder ontwikkelaars, praktijkmensen en architecten. Met vele verschillende certificeringspaden waaruit u kunt kiezen, kunt u uw kennis en expertise binnen de Adobe tonen [!DNL Experience Cloud] en druk zowel klanten als werkgevers onder druk.
 
 Dus waarom wachten? Ga de eerste stap in de richting van ontsluiting van uw professionele potentieel en [verken vandaag onze certificeringspaden](https://experienceleague.adobe.com/docs/certification/certification/getting-started.html?lang=en){target="_blank"}!
-
-
