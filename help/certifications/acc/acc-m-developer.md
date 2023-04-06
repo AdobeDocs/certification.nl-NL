@@ -5,9 +5,9 @@ solution: Campaign Classic
 role: Architect
 badge: label="Exam AD0-E328" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1090'
+source-wordcount: '1119'
 ht-degree: 8%
 
 ---
@@ -34,7 +34,7 @@ U zou moeten hebben:
 * De capaciteit om producteigenschappen en mogelijkheden te beschrijven en aan te tonen
 * De mogelijkheid om productmogelijkheden toe te wijzen aan gevallen met veel gebruik
 * Ervaring die het pre-verkoopteam steunt
-* De mogelijkheid om decside coaching aan te bieden (bijv. best practices voor producten, meetgegevens voor rapportage enz.)
+* De mogelijkheid om decside coaching aan te bieden (best practices voor producten, meetgegevens voor rapportage, enzovoort)
 * Ervaring die de verschillen tussen plaatsingsmodellen beschrijft
 
 >[!NOTE]
@@ -54,15 +54,13 @@ U zou moeten hebben:
 
 **Details examen:**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 30/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E328
-```
+* Niveau: Master (3-5 jaar ervaring)
+* Voldoende score: 05-30-50
+* Tijd: 100 minuten
+* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Beschikbare talen: Engels
+* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Examen-id: AD0-E328
 
 **Zelfbeoordeling van gereedheid**
 

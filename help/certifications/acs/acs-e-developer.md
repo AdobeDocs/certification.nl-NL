@@ -5,9 +5,9 @@ solution: Campaign Standard
 role: Developer
 badge: label="Examen AD0-E306" type="positief"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1272'
+source-wordcount: '1301'
 ht-degree: 10%
 
 ---
@@ -21,7 +21,7 @@ Leer hoe u een gecertificeerde Adobe Developer-expert kunt worden.
 U zou moeten hebben:
 
 * Ten minste twee jaar [!DNL Campaign] software-ervaring
-* Ten minste twee jaar relevante ervaring met multikanaalscampagnes voor digitale marketing en webontwikkeling (bv. REST API)
+* Ten minste twee jaar relevante ervaring met multikanaalscampagnes voor digitale marketing en webontwikkeling (zoals REST API)
 * De capaciteit om taken in Adobe Campaign met inbegrip van malplaatjeontwikkeling, technische werkschema&#39;s, schemaontwikkeling, en integratie uit te voeren, en de instantie te kunnen controleren gebruikend controlepaneel
 * Ervaring met werken in een omgeving voor kanaallevering (e-mail, direct mail, mobiel en sociaal)
 * Kennis van de marketingcampagne zoals multi-touch, levenscyclus en reactivering
@@ -57,15 +57,13 @@ U zou moeten hebben:
 
 **Details examen:**
 
-```
-Level: Expert (1-3 years experience)
-Passing Score: 29/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E306
-```
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 05-29-50
+* Tijd: 100 minuten
+* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Beschikbare talen: Engels
+* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Examen-id: AD0-E306
 
 **Zelfbeoordeling van gereedheid**
 

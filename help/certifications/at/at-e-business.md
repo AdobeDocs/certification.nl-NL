@@ -5,9 +5,9 @@ solution: Target
 role: Developer
 badge: label="Exam AD0-E406" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1393'
+source-wordcount: '1420'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ U zou moeten hebben:
 * De kennis van statistische concepten en gegevensanalyse zoals deze van toepassing is op optimalisering
 * Een diepgaande kennis van de driestappenworkflow (ervaringen, doelgerichtheid, doelstellingen en instellingen, inclusief alle rapporteringsbronnen)
 * De mogelijkheid om activiteitenrapporteringresultaten om te zetten in activeerbare inzichten en suggesties
-* inzicht in de impact van veranderende technologieën op Target (bv. ITP, GDPR/CCPA, SPA)
+* inzicht in de impact van veranderende technologieën op Target (ITP, GDPR/CCPA, SPA);
 * Begrip hoe de Activiteiten van de Aanbeveling als oplossing kunnen worden gebruikt
 
 Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
@@ -81,15 +81,13 @@ Omgevingen:
 
 **Details examen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 46/68
-Time: 136 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E406
-```
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 06-46-68
+* Tijd: 136 min
+* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Beschikbare talen: Engels
+* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Examen-id: AD0-E406
 
 **Doelstellingen en toepassingsgebied van examen**
 

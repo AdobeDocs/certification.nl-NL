@@ -5,9 +5,9 @@ solution: Advertising
 role: Developer
 badge: label="Exam AD0-E502" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ U zou moeten hebben:
 
 Kennis van de volgende gereedschappen en technologieën:
 
-* Software voor tests en foutopsporing (bv. VAST INSPECTOR, Chrome-ontwikkelaars)
-* Analysemiddelen (bv. Adobe Analytics, Google Analytics)
-* Tagingssoftware van derden (bijvoorbeeld Sizmek, Google-tagmanager)
-* Media kwaliteitsinstrumenten van derden (bijvoorbeeld IAS, MOAT)
+* Software voor tests en foutopsporing (VAST INSPECTOR, Chrome-ontwikkelaarsgereedschappen)
+* Analysegereedschappen (Adobe Analytics, Google Analytics)
+* Tagingssoftware van derden (Sizmek, Google-tagmanager)
+* Hulpprogramma&#39;s voor mediakwaliteit van derden (IAS, MOAT)
 * Belangrijkste browsers
 * Advertentievakelen, SSPs, en DMPs
 
@@ -50,15 +50,13 @@ Kennis van de volgende gereedschappen en technologieën:
 
 **Details examen:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 44/69
-Time: 138 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E502
-```
+* Niveau: Professioneel (0-12 maanden ervaring)
+* Voldoende score: 06-44-69
+* Tijd: 138 min
+* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Beschikbare talen: Engels
+* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Examen-id: AD0-E502
 
 **Doelstellingen en toepassingsgebied van examen**
 

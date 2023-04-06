@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1164'
+source-wordcount: '1188'
 ht-degree: 2%
 
 ---
@@ -26,8 +26,8 @@ U zou moeten hebben:
 * De capaciteit om bedrijfsvereisten in metriek of KPIs te vertalen
 * De capaciteit om rapporten te bouwen en te interpreteren
 * De mogelijkheid om resultaten mee te delen en een actiemethode voor te stellen op basis van een analyse van rapporten
-* Helpt klanten te begrijpen hoe ze de gewenste informatie kunnen ophalen/ophalen (zodat ze bijvoorbeeld hun bedrijfsvragen kunnen definiëren)
-* Begrijpen hoe de technologie werkt en de implementatie van een klant begrijpt (bijvoorbeeld waar de gegevens zich bevinden, hoe ze kunnen worden verzameld, hoe ze worden bijgehouden) vanuit een functioneel oogpunt
+* Helpte klanten begrijpen hoe ze de gewenste informatie kunnen ophalen/ophalen (zodat ze bijvoorbeeld hun bedrijfsvragen kunnen definiëren)
+* Begrijpen hoe de technologie werkt en de implementatie van een client begrijpt (bijvoorbeeld waar de gegevens zich bevinden, hoe ze kunnen worden verzameld, hoe ze worden bijgehouden) vanuit een functioneel oogpunt
 * Ten minste één jaar [!DNL Adobe Analytics] praktijkervaring
 * Basiskennis van de manier waarop digitale analyses gegevens filteren/structureren
 * Een bewustzijn van de integratie van [!DNL Adobe Analytics] met andere Adobe-oplossingen
@@ -67,15 +67,14 @@ U zou moeten hebben:
 
 **Details examen:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 31/50
-Time: 120 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E208
-```
+>* **Niveau:** Expert (1-3 jaar ervaring)
+>* **Voldoende score:** 05-31-50
+>* **Tijd:** 120 minuten
+>* **Aflevering:** Online geproctoreerd (vereist cameratoegang) of >testcentrum geproctoreerd
+>* **Beschikbare talen:** Engels
+>* **Kosten:** $ 225 (wereldwijd) / $ 150 (India)
+>* **Examen-id:** AD0-E208
+
 
 **Zelfbeoordeling van gereedheid**
 
@@ -112,16 +111,16 @@ Deel 3: Segmentering en berekende cijfers (22%)
 Sectie 4: Algemene kennis van gereedschappen en probleemoplossing (12%)
 
 * Rapporten analyseren en problemen met de gegevenskwaliteit identificeren
-* Verschillende typen dimensies en parameters definiëren die bestaan in [!DNL Adobe Analytics] (gebeurtenissen, props en gebeurtenissen)
+* Verschillende typen dimensies en parameters definiëren die bestaan in [!DNL Adobe Analytics] (eVars, props en evenementen)
 * Bepalen hoe gegevens in- en worden geplaatst [!DNL Adobe Analytics]
 * Informatie van marketing-URL&#39;s identificeren
 
 Sectie 5: Toediening (10%)
 
-* Pas het proces toe om de rapporten van het Kanaal van de Marketing met de verwerkingsregels van het Kanaal van de Marketing te vormen
+* Pas het proces toe om het te vormen [!UICONTROL Marketing Channel] rapporten met [!UICONTROL Marketing Channel] verwerkingsvoorschriften
 * Pas het proces toe om de Indeler van de Indeling en de Bouwer van de Regel te vormen
 * Pas het proces toe om een virtuele rapportreeks te vormen die op een bestaand segment wordt gebaseerd
-* De interface Data Feed Manager-beheer gebruiken
+* Gebruik de [!UICONTROL Data Feed] Gebruikersinterface beheerder
 * Begrip van gegevensbeheer
 
 >[!TAB Vooraf ingesteld]
