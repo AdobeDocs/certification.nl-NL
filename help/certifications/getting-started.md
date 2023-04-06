@@ -1,11 +1,11 @@
 ---
 title: Aan de slag met Adobe-certificeringen
-description: Aan de slag met [!DNL Experience Cloud] certificeringen. Leer meer over het programma en hoe u door onze sitepagina's kunt navigeren.
+description: Aan de slag met [!DNL Experience Cloud] certificeringen. Meer informatie over het programma en deze website.
 solution: Experience Cloud
 mini-toc-levels: 1
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: 529ac3568da1f1cc35c93022b87c8e765205b267
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Aan de slag {#getting-started}
 
-Adobe zijn ontworpen om de kennis en vaardigheden van professionals die werken met onze oplossingen voor digitale marketing te valideren.
-
-Aan de slag met technische certificeringen. Leer meer over het programma en hoe u door onze sitepagina&#39;s kunt navigeren.
+Adobe zijn ontworpen om de kennis en vaardigheden van professionals die werken met onze oplossingen voor digitale marketing te valideren. Gebruik de volgende tabbladen om te leren over het certificeringsprogramma.
 
 >[!BEGINTABS]
 
@@ -32,6 +30,7 @@ Leer het verschil tussen de types van examens u op uw certificatiereis zult ontm
 | Voorbeeldvragen | Voor sommige certificatieexamens, heeft Adobe nog geen volledige lengtetests. Voor deze voorbeelden wordt een representatieve set voorbeeldvragen gegeven. |
 | Readiness-vragenlijst | Een gereedheidsvragenlijst is een ander hulpmiddel waarmee u kunt beoordelen of u klaar bent om uw certificeringsexamen af te leggen. De gereedheidsvragenlijst omvat bevestigende verklaringen die op de examendoelstellingen-door &quot;ja&quot;of &quot;nee&quot;op elke verklaring te antwoorden worden gebaseerd, kunt u uw bereidheid met betrekking tot de belangrijkste inhoudsgebieden bepalen die op het examen worden behandeld. |
 
+{style="table-layout:auto"}
 
 >[!TAB Certificeringsniveaus]
 
@@ -42,14 +41,17 @@ Deze niveaus weerspiegelen een vooruitgang van vakkennis en kennis, waarbij de c
 | ![Professionele badge](/help/certifications/assets/professional-badge-Xsmall.png) | **Professionele certificeringen** Controleren of een kandidaat over digitale marketingoplossingen beschikt die als basis dienen. Het certificeringsexamen heeft betrekking op de basisbeginselen en -functies van Adobe [!DNL Experience Cloud]. |
 | --------- | ------- |
 
+{style="table-layout:auto"}
 
 | ![Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png) | **Expertcertificeringen** zijn bedoeld voor professionals die over meer inzicht beschikken in digitale marketingoplossingen met Adobe. Het certificatieexamen behandelt complexere concepten en functionaliteiten van Adobe [!DNL Experience Cloud], inclusief implementatie en probleemoplossing. |
 | ------- | ------- |
 
+{style="table-layout:auto"}
 
 | ![Master badge](/help/certifications/assets/master-badge-Xsmall.png) | **Master certificeringen** zijn bedoeld voor professionele gebruikers die over digitale marketingoplossingen beschikken en ervaring hebben opgedaan op meerdere gebieden van Adobe. [!DNL Experience Cloud]. Het certificatieexamen behandelt geavanceerde onderwerpen en scenario&#39;s, met inbegrip van complexe integraties, aanpassingen, en het oplossen van problemen. |
 | ------- | ------- |
 
+{style="table-layout:auto"}
 
 >[!TAB Functies]
 
@@ -58,11 +60,17 @@ De certificatieexamens van Adobe worden aangepast aan drie verschillende baanrol
 | ![Badge Business Practice](/help/certifications/assets/business_practitioner_blk_small.png) | **Bedrijfs Praktijken** verantwoordelijk zijn voor het ontwerpen, uitvoeren en beheren van marketingcampagnes met behulp van Adobe [!DNL Experience Cloud] oplossingen. Zij moeten een fundamenteel inzicht hebben in Adobe digitale marketingoplossingen en ervaring hebben met marketing en reclame. De certificatie van de BedrijfsPraktijk bevestigt hun capaciteit om Adobe digitale marketing oplossingen effectief te gebruiken om bedrijfsdoelstellingen te bereiken. |
 | ------- | ------- |
 
+{style="table-layout:auto"}
+
 | ![Developer Badge](/help/certifications/assets/developer_blk_small.png) | **Ontwikkelaars** verantwoordelijk zijn voor de uitvoering en integratie van Adobe [!DNL Experience Cloud] oplossingen in de technologiestapel van een organisatie. Zij zouden ervaring in softwareontwikkeling en vaardigheid in Webtechnologieën, zoals HTML, CSS, JavaScript, en RESTful APIs moeten hebben. De ontwikkelaarscertificering valideert om hun digitale marketingoplossingen effectief te implementeren en aan te passen aan de zakelijke vereisten. |
 | ------- | ------- |
 
+{style="table-layout:auto"}
+
 | ![Badge Architect](/help/certifications/assets/architect_blk_small.png) | **Architecten** zijn verantwoordelijk voor het ontwerpen en implementeren van oplossingen op bedrijfsniveau met behulp van Adobe [!DNL Experience Cloud] oplossingen. Zij zouden uitgebreide kennis van Adobe digitale marketing oplossingen en ervaring in softwarearchitectuur, integratie, en aanpassing moeten hebben. De Architect certificeert hun capaciteit om complexe oplossingen te ontwerpen en uit te voeren gebruikend Adobe digitale marketing oplossingen. |
 | ------- | ------- |
+
+{style="table-layout:auto"}
 
 >[!TAB Certificeringsreis]
 
@@ -73,6 +81,8 @@ De gids van de Reizen van de Certificatie is een uitvoerig hulpmiddel dat wordt 
 | **Klaar** | Bedoeld om een overzicht van het examen, met inbegrip van informatie over het voorgenomen publiek, examendetails, bereidheid zelfbeoordeling, examendoelstellingen, en werkingsgebied te geven. Deze sectie helpt u het examen begrijpen en wat u kunt verwachten wanneer het nemen van het. De zelfbeoordeling van gereedheid is vooral handig, omdat u hiermee uw huidige kennisniveau kunt bepalen en kunt aangeven op welke gebieden u uw studie moet richten. |
 | **Vooraf ingesteld ophalen** | Hier vindt u training en bronnen die u helpen bij het voorbereiden van het examen. Deze sectie bevat informatie over en koppelingen naar studiemateriaal en trainingscursussen. |
 | **Gecertificeerd ophalen** | Biedt waardevolle informatie over hoe u zich kunt registreren voor het certificeringsexamen, waaronder informatie over het registratieproces en de beschikbare betalingsmethoden. Bovendien verstrekt deze sectie ook een duidelijk overzicht van het examenproces. Kijk naar deze sectie voor nuttige middelen, zoals een verbinding aan het Portaal van de Prep van de Certificatie van Adobe voor examens die praktijktests aanbieden, evenals verbindingen aan register voor certificatieexamens. |
+
+{style="table-layout:auto"}
 
 >[!ENDTABS]
 
