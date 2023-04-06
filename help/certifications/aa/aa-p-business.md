@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E212" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 29b489ffc67674c52a978277ed1fb22bcb557a24
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '874'
 ht-degree: 3%
 
 ---
@@ -23,7 +23,7 @@ U dient minimaal 3 maanden ervaring te hebben met [!DNL Adobe Analytics] en de v
 * Een marketingachtergrond of komt uit een marketingrol, maar kan uit verschillende functies voortkomen.
 * Basiskennis van meetgegevens en dimensies voor digitale analyse.
 * De capaciteit om Analytics te gebruiken om rapporten te bouwen en bedrijfsvragen te beantwoorden, en de resultaten mee te delen.
-* inzicht in de basisconcepten van digitale analyses, bijvoorbeeld segmentatie, rapportopbouw, standaard metrische definities.
+* Een begrip van fundamentele digitale analytische concepten zoals segmentatie, rapportbouw, standaard metrische definities.
 
 >[!NOTE]
 >
@@ -48,15 +48,13 @@ U dient minimaal 3 maanden ervaring te hebben met [!DNL Adobe Analytics] en de v
 
 **Details examen:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E212
-```
+* Niveau: Professioneel (0-12 maanden ervaring)
+* Voldoende score: 05-31-50
+* Tijd: 100 minuten
+* Aflevering: Online geproctoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Examen-id: AD0-E212
 
 **Zelfbeoordeling van gereedheid**
 
