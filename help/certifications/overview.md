@@ -1,10 +1,11 @@
 ---
 title: Startpagina voor certificering
 description: Meer informatie over [!DNL Experience Cloud] Certificering bij Adobe. Kom te weten wat certificeren voor u kan doen.
+role: User,Developer,Data Architect
 mini-toc-levels: 1
-source-git-commit: 2dee616ff2304a6a92ba3edeae5e11da637bb235
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,7 @@ Een Adobe ophalen [!DNL Experience Cloud] certificering kan om verschillende red
 * **Validatie van uw vaardigheden:** Adobe certificatie toont aan potentiële klanten of werkgevers aan dat u de noodzakelijke vaardigheden en kennis hebt om te gebruiken [!DNL Experience Cloud] producten.
 * **Loopbaanontwikkeling:** Met een Adobe-certificering kunt u opkomen in een drukke arbeidsmarkt en uw kansen om in uw huidige baan te worden ingehuurd of bevorderd vergroten.
 * **Verhoog het potentieel voor verdienen:** Gecertificeerde personen verdienen vaak meer dan hun niet-gecertificeerde tegenhangers, omdat hun geloofsbrieven hun vaardigheden en kennis valideren.
-* **Toegang tot exclusieve bronnen:** Wanneer u Adobe gecertificeerd wordt, krijgt u toegang tot exclusieve bronnen, zoals trainingsmateriaal, bètasoftware-releases en supportforums die u kunnen helpen up-to-date te blijven met de nieuwste softwareontwikkelingen en trends in de branche.
+* **Toegang tot exclusieve bronnen:** Wanneer u Adobe wordt verklaard, krijgt u toegang tot exclusieve middelen. Deze bronnen omvatten trainingsmateriaal, bètasoftware-releases en ondersteuningsforums die u kunnen helpen up-to-date te blijven met de nieuwste softwareontwikkelingen en trends in de branche.
 * **Tests met vrije praktijk:** Adobe biedt gratis praktijkexamens aan die u kunnen helpen voor uw certificatieexamen voorbereidingen treffen en ervoor zorgen dat u volledig bereid bent om de test te nemen.
 * **Certificeringsverlengingen:** De certificatie van Adobe is twee jaar geldig, en u kunt uw certificatie vernieuwen door of een on-demand, niet-geproctoraliseerd examen te nemen of een reeks ononderbroken het leren activiteiten te voltooien.
 

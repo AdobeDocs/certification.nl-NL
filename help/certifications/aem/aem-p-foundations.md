@@ -2,10 +2,11 @@
 title: Technische stichtingen, professionele certificering
 description: Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager] Professional.
 solution: Experience Manager
-role: Developer
+product: Experience Manager
+role: User
 badge: label="Examen AD0-E132 type="positief"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '693'
 ht-degree: 2%
