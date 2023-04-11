@@ -6,10 +6,10 @@ product: Experience Manager
 role: User
 badge: label="Exam AD0-E126" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+source-git-commit: cab58fef51e04bacba47e0f9c809a7a9f011c71b
 workflow-type: tm+mt
-source-wordcount: '939'
-ht-degree: 5%
+source-wordcount: '979'
+ht-degree: 4%
 
 ---
 
@@ -72,10 +72,14 @@ Sectie 2: Architectuur (22%)
 * Identificeer waar te om rollen en toestemmingen te bepalen
 * Op basis van een scenario kunt u de beschikbare caching-methoden definiëren
 
-Deel 3: Instellen en implementeren (13%)
+Deel 3: Bedrijfsanalyse (43%)
 
-* Tips en trucs voor het AEM van inhoudscomponenten identificeren
-* Op basis van een scenario de juiste implementatie van een functie identificeren
+* Gezien een scenario, identificeer standaardmodules van AEM die klanten bedrijfsproblemen richten
+* Concepten van inhoudsbeheer voor AEM modules identificeren
+* Identificeer typische projectbelanghebbenden
+* Identificeer realistische samenwerkingsscenario&#39;s tussen betrokken teams
+* Op basis van een scenario een correcte benadering beschrijven om bedrijfsdoelstellingen te bereiken terwijl binnen budget en/of bereik blijft
+* Identificeer manieren om bedrijfsdoelstellingen met het ontwikkelingsteam te verbinden
 
 Sectie 4: Instellen en implementeren (13%)
 
