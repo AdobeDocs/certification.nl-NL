@@ -5,9 +5,10 @@ solution: Real-time Customer Data Platform
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: e54d11bb-d563-4779-ad42-b749be64611a
+source-git-commit: 854ad532b0e4da1c021c1bb9b31099534f231673
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -50,7 +51,7 @@ U kunt uw certificatie nu vernieuwen door voortdurend te leren of door op verzoe
 * [Adobe [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/acc/acc-renew.html?lang=en){target="_blank"}
 * [Adobe [!DNL Campaign Standard]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/acs/acs-renew.html?lang=en){target="_blank"}
 * [Adobe [!DNL Marketo Engage]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ame/ame-renew.html?lang=en){target="_blank"}
-* _Adobe [!DNL Workfront] - Binnenkort beschikbaar_
+* _Adobe [!DNL Workfront] Fusion Developer - Binnenkort verkrijgbaar_
 
 ### Vragen
 
