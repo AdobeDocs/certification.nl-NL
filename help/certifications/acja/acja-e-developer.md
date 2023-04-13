@@ -4,24 +4,41 @@ description: Leer hoe u een gecertificeerde Adobe van een expert kunt worden in 
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-badge: label="Exam AD0-EXXX" type="positive"
+badge: label="Exam AD0-E604" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
+source-git-commit: 57cdc5c07bef404b368f51fb6ffd03735ed5008c
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
 # Certificeringsreis voor Adobe [!DNL Customer Journey Analytics] Expert
 
-Leer hoe u een gecertificeerde Adobe kunt worden
+Leer hoe u een gecertificeerde Adobe Analytics Customer Journey Developer kunt worden.
 
 ## Minimale ervaring
 
-U zou moeten hebben:
+U moet 12 tot 24 maanden ervaring hebben in Adobe Customer Journey Analytics en de volgende taken kunnen uitvoeren:
+
+* XDM-schema (klassen) lezen en begrijpen
+* Toon een vertrouwdheid met de platforminterface aan
+* Valideer gegevens (vraagdienst), die uw gegevens in een dataset zien
+* De vereiste beheerdersmachtigingen voor verschillende toegangsniveaus begrijpen
+* Een QA-script lezen en begrijpen
+* Een QC-script definiëren om aan AEP-engineer uit te leveren
+* Verbindingen met primaire identiteiten (persoon-id) configureren
+* Verbindingen met veelvoudige datasets vormen
+* Een gegevensweergave configureren (configuratie metrisch / dimensie)
+* CJA configureren
+* Gegevens transformeren binnen de afmetingen en metriek
+* De grondbeginselen van de werkruimte analyseren (visualisaties, attributie-instellingen, filters, berekende metriek)
+* Werken met gegevensbeheer in CJA (DULE)
+* Samenstellen op verschillende kanaalwaarden of op personen gebaseerde filters
+* Sandboxen onderscheiden/begrijpen in AEP
+* Publiceren van publiek begrijpen (delen)
 
 >[!NOTE]
 >
@@ -33,29 +50,49 @@ U zou moeten hebben:
 
 **Beoogd publiek:**
 
+* Technisch architect
+* Technisch manager
+* Data Analyst
+* Gegevensarchitect/engineer
+* Architect van oplossing
+* Enterprise Architect
+* Implementatiedeskundige
+* Marketing Technology Lead
 
 **Details examen:**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score:
-* Tijd:
+* Voldoende score: 05-33-50
+* Tijd: 100 minuten
 * Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
 * Beschikbare talen: Engels
 * Kosten: $ 225 (wereldwijd) / $ 150 (India)
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
+* Examen-id: AD0-E604
 
 **Doelstellingen en toepassingsgebied van examen**
 
-Sectie 1:
+Sectie 1: Verbindingen (22%)
 
-Sectie 2:
+* CJA-verbindingen ontwerpen met de juiste instellingen
+* CJA-verbindingen maken van XDM-gegevenssets die beschikbaar zijn in AEP per sandbox
 
-Deel 3:
+Sectie 2: Gegevens (30%)
 
-Sectie 4:
+* Gegevensweergaven configureren voor rapportage en analyse
+* Componenten in gegevensweergaven wijzigen
+
+Deel 3: Validatie en probleemoplossing van gegevens (34%)
+
+* Controleren of de gegevens correct en volledig worden ingevuld
+* Verbindingen en gegevensweergaven oplossen
+* Componenten maken of problemen oplossen
+* Gebruik van licenties controleren
+
+Sectie 4: Rapportage en activering (14%)
+
+* Analysis Workspace gebruiken om klantritten over meerdere kanalen met de juiste visualisaties aan te tonen
+* De leden van een CJA-filter naar een RTCDP-publiek verzenden
+* Filters ontwerpen en maken over gegevenssets
 
 >[!TAB Vooraf ingesteld]
 
@@ -63,21 +100,7 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
-**Sectie 1:**
-
-* [ADD-bron](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"}
-
-**Sectie 2:**
-
-* [ADD-bron](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"}
-
-**Deel 3:**
-
-* [ADD-bron](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"}
-
-**Sectie 4:**
-
-* [ADD-bron](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"}
+_Binnenkort verkrijgbaar!_
 
 >[!TAB Gecertificeerd ophalen]
 
@@ -88,16 +111,6 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
-**Een praktijktest uitvoeren**
-
-We raden u aan de test voor vrije praktijk uit te voeren voordat u begint. U zult onbeperkte toegang tot alle beschikbare praktijktests voor Adobe-vlakke examens hebben.
-
-Onze praktijktests worden allemaal ontwikkeld op basis van dezelfde blauwdruk als de live examens. De praktijktest zal u helpen de onderwerpen begrijpen die in het levende examen worden behandeld.
-
-Houd er rekening mee dat het slagen van een praktijktest niet garandeert dat u voor het certificeringsexamen slaagt.
-
-Ga naar de [Prep Portal voor Adobe-certificatieexamen](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} nu een praktijktest uitvoeren .
-
 **Neem het certificatieexamen**
 
 Adobe gebruikt twee verkopers om geproctored examens, PSI en Onderzoek te beheren.
@@ -107,9 +120,9 @@ Adobe gebruikt twee verkopers om geproctored examens, PSI en Onderzoek te behere
 
 Om uw examen te plannen, opnieuw te plannen of te annuleren, eenvoudig op de verkoper van keus te klikken, en de instructies te volgen die op het scherm worden verstrekt. Zo eenvoudig is het!
 
-### Examen: AD0-EXXX
+### Examen: AD0-E604
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E134 newtab=true"}[!BADGE examen]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E604 newtab=true"}[!BADGE examen]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E604 newtab=true"}
 
 U kunt voor uw certificatieexamen door bon of creditcard betalen. Ga naar: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
