@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 6beb8e647b0638540548038d9ce60cdb3398aa20
+source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '670'
 ht-degree: 0%
 
 ---
@@ -39,8 +39,8 @@ We zijn blij om aan te kondigen dat u nu uw certificering kunt vernieuwen via ee
 
 **Details examen:**
 
-* Voldoende score:
-* Tijd: min
+* Voldoende score: 03-25-34
+* Tijd: 66 minuten
 * Kosten: VRIJ/niet-afgewikkeld
 * Aflevering: Op aanvraag
 * Beschikbare talen: Engels
@@ -49,13 +49,51 @@ We zijn blij om aan te kondigen dat u nu uw certificering kunt vernieuwen via ee
 
 **Toepassingsgebied en doelstellingen**
 
-TOEVOEGEN
+Sectie 1: Basissysteembeheer en -installatie (26%)
+
+* Als u een Fusion-scenario hebt waarbij een functie in een andere functie moet worden genest, selecteert u de correct gevormde expressie.
+* Op basis van een Fusion-scenario dat tijdzonemanipulatie vereist, maakt u onderscheid tussen de gebruiker, de zichtbare organisatie en de plaats waar de tijdzone moet worden overschreven.
+* Selecteer bij Fusion-scenario de expressie van het deelvenster Toewijzing en/of de module(s) die de invoergegevens op de juiste manier zou omzetten in uitvoergegevens.
+* Identificeer de correcte manier(n) om het Hulpmiddel van Fusion te gebruiken om fouten in uitvoering problemen op te lossen of vraag en reacties te bepalen die aan derdesystemen worden gemaakt.
+
+Sectie 2: Scenario-ontwerp en -architectuur (47%)
+
+* Kies op basis van een lijst met stappen de juiste reeks om JSON te parseren en om te zetten in bundels.
+* In een Fusion-scenario kunt u een kans aanwijzen om het ontwerp te vereenvoudigen en/of te optimaliseren voor onderhoud.
+* Gezien een situatie, identificeer een kans om gegevensstroom door een scenario te verminderen.
+* Op basis van een voorbeeld van het aantal bundels dat op een zoekmodule en een volgende aggregator wordt weergegeven, kunt u de wijzigingen in het aantal verwerkte en weergegeven bewerkingen door de bundelcontrole toelichten.
+* Selecteer op basis van een voorbeeld van fout 403:Verboden de oorsprong van het foutbericht correct en oorzaak
+* Identificeer het aangewezen gebruik van Verwijzingen en Verzamelingen op Workfront Onderzoek en Lezen modules.
+
+Deel 3: Testen en foutafhandeling (15%)
+
+* Gezien een scenario van de Fusie, identificeer correct de oplossing om een onbetrouwbare dienst te verhinderen of te behandelen.
+* Als er een Fusion-scenario is met ontbrekende vereiste gegevens, selecteert u manieren om de ongeldige gegevens af te handelen.
+
+Sectie 4: Werken met API&#39;s (12%)
+
+* Op basis van een systeem van derden dat geen specifieke app heeft, identificeert u de HTTP-toepassing en selecteert u de gewenste module.
+* Het verschil tussen CRUD-bewerkingen en andere algemene mogelijkheden van REST API&#39;s vaststellen.
 
 ## Vooraf ingesteld
 
 U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+
+**Sectie 1: Beheer en installatie van het kernsysteem**
+
+TOEVOEGEN
+
+**Sectie 2: Scenario-ontwerp en -architectuur**
+
+TOEVOEGEN
+
+**Deel 3: Testen en foutafhandeling**
+
+TOEVOEGEN
+
+**Sectie 4: Werken met API&#39;s**
 
 TOEVOEGEN
 
@@ -67,7 +105,7 @@ Als u uw examen wilt vernieuwen, klikt u op de Workfront Fusion Developer-vernie
 
 >[!NOTE]
 >
->Dit examen is vrij, open boek, en niet-geproctored. U kunt het examen tot drie keer nemen. Als u na drie pogingen geen 75% krijgt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+>Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 +++
 
