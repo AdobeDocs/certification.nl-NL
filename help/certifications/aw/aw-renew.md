@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
+source-git-commit: ec82b4d83d7965901150f73c53eb069289900c52
 workflow-type: tm+mt
-source-wordcount: '670'
+source-wordcount: '787'
 ht-degree: 0%
 
 ---
@@ -83,19 +83,21 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Beheer en installatie van het kernsysteem**
 
-TOEVOEGEN
+* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Functies in Adobe Workfront Fusion, Organisaties in Adobe Workfront Fusion, Modules in Adobe Workfront Fusion, Scenarios in Adobe Workfront Fusion
 
 **Sectie 2: Scenario-ontwerp en -architectuur**
 
-TOEVOEGEN
+* [Workfront Fusion-scenario optimaliseren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html?lang=en){target="_blank"} - Zelfstudie
+* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Modules in Adobe Workfront Fusion
 
 **Deel 3: Testen en foutafhandeling**
 
-TOEVOEGEN
+* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Scenario Settings Panel in Adobe Workfront Fusion, Errors in Adobe Workfront Fusion, Functies in Adobe Workfront Fusion
 
 **Sectie 4: Werken met API&#39;s**
 
-TOEVOEGEN
+* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - HTTP-modules, verbindingen in Adobe Workfront Fusion, modules in Adobe Workfront Fusion
+* [Adobe Workfront API](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html?lang=en){target="_blank"}
 
 ## Uw certificering verlengen
 
