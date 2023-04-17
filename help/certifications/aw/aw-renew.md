@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: ec82b4d83d7965901150f73c53eb069289900c52
+source-git-commit: 3f19d949a22b9eb8247dfa79ffc2e56c76a707f2
 workflow-type: tm+mt
-source-wordcount: '787'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -101,7 +101,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 ## Uw certificering verlengen
 
-Als u uw examen wilt vernieuwen, klikt u op de Workfront Fusion Developer-vernieuwing - AD5-830-koppeling hieronder_. Dit leidt u aan het systeem van het Beheer van de Verantwoordelijkheid van de Adobe om waar u kunt klikken **[!UICONTROL renew your certification]** aan de rechterkant van het scherm en zoek vervolgens naar [!DNL Adobe Campaign] om de verbinding aan het vernieuwingsexamen te zien.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de koppeling Workfront Fusion Developer — AD5-830 hieronder om uw examen te vernieuwen.
 
 * [Verlenging Workfront Fusion Developer - AD5-830](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E830){target="_blank"}
 

@@ -7,10 +7,10 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
+source-git-commit: 3f19d949a22b9eb8247dfa79ffc2e56c76a707f2
 workflow-type: tm+mt
-source-wordcount: '1488'
-ht-degree: 10%
+source-wordcount: '1460'
+ht-degree: 11%
 
 ---
 
@@ -108,7 +108,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 ## Uw certificering verlengen
 
-Om uw examen te vernieuwen klik _[!DNL Campaign Standard]Verlenging van de bedrijfspraktijk - link AD5-822 hieronder_. Dit leidt u aan het systeem van het Beheer van de Verantwoordelijkheid van de Adobe om waar u kunt klikken **[!UICONTROL renew your certification]** aan de rechterkant van het scherm en zoek vervolgens naar [!DNL Adobe Campaign] om de verbinding aan het vernieuwingsexamen te zien.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"} eerst. Dan, om uw examen te vernieuwen klik [!DNL Campaign Standard] Verlenging van de Business Practitioner - link AD5-822 hieronder.
 
 * [[!DNL Campaign Standard] Verlenging van de beroepsbeoefenaar - AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
 
@@ -222,7 +222,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 ## Uw certificering verlengen
 
-Om uw examen te vernieuwen klik op &quot;[!DNL Campaign Standard] Verlenging ontwikkelaar - AD5-821&quot; link hieronder. Dit zal u aan het systeem van het Beheer van de Verantwoordelijkheid van de Adobe omleiden waar u &quot;vernieuwt uw certificatie&quot;lusje op de rechterkant van het scherm > dan onderzoek naar Adobe Campaign zult klikken om de verbinding aan het hervernieuwingsexamen te zien.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"} eerst. Dan, om uw examen te vernieuwen klik op &quot;[!DNL Campaign Standard] Verlenging ontwikkelaar - AD5-821&quot; link hieronder.
 
 * [[!DNL Campaign Standard] Hernieuwde ontwikkeling van ontwikkelaars - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 
