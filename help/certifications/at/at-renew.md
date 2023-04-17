@@ -6,9 +6,10 @@ product: Target
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
+source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '506'
 ht-degree: 1%
 
 ---
@@ -54,7 +55,7 @@ In deze gevallen kunt u een klantenverwijzing verstrekken die bevestigt u aan mi
 
 **Zodra uw klantenverwijzing is herzien zult u door het Team van de Referentie van de Adobe op de hoogte worden gesteld.**
 
-De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden niet afgehandeld. Als u meerdere certificeringen op Adobe Experience Manager Expert- en Master niveau hebt, hoeft u alleen de onderstaande vereisten in te vullen en worden alle AEM certificeringen vernieuwd.
+De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden niet afgehandeld. Als u meerdere certificeringen op Adobe Target Expert- en Master niveau hebt, hoeft u alleen de onderstaande vereisten in te vullen. Alle Adobe Target-certificeringen op dit niveau worden vernieuwd.
 
 [Referentieformulier van klant voor [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
@@ -70,7 +71,7 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 
 >[!NOTE]
 >
->U kunt herhalen tot u met succes drie activiteiten hebt voltooid of het formulier van de klantenverwijzing voltooit.
+>U kunt herhalen tot u met succes drie activiteiten hebt voltooid of twee activiteiten plus, de vorm van de klantenverwijzing voltooit.
 
 >[!ENDTABS]
 

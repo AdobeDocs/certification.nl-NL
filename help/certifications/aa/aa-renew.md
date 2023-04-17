@@ -6,9 +6,10 @@ product: Analytics
 role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: c230a7b1-db10-497c-975a-920eb09acb29
+source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '547'
 ht-degree: 2%
 
 ---
@@ -55,7 +56,7 @@ In deze gevallen kunt u een klantenverwijzing verstrekken die bevestigt u aan mi
 
 **Zodra uw klantenverwijzing is herzien zult u door het Team van de Referentie van de Adobe op de hoogte worden gesteld.**
 
-De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden niet afgehandeld. Als u meerdere certificeringen op Adobe Experience Manager Expert- en Master niveau hebt, hoeft u alleen de onderstaande vereisten in te vullen en worden alle AEM certificeringen vernieuwd.
+De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden niet afgehandeld. Als u meerdere certificeringen op Adobe Analytics Expert- en Master niveau hebt, hoeft u alleen de onderstaande vereisten in te vullen. Alle Adobe Analytics-certificeringen op dit niveau worden vernieuwd.
 
 [Referentieformulier voor de klant voor Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
 
@@ -72,7 +73,7 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 
 >[!NOTE]
 >
->U kunt herhalen tot u met succes drie activiteiten hebt voltooid of het formulier van de klantenverwijzing voltooit.
+>U kunt herhalen tot u met succes drie activiteiten hebt voltooid of twee activiteiten, plus de vorm van de klantenverwijzing voltooit.
 
 >[!ENDTABS]
 

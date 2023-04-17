@@ -6,9 +6,10 @@ product: Magento
 role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
+source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '880'
 ht-degree: 1%
 
 ---
@@ -27,9 +28,45 @@ We zijn blij om aan te kondigen dat u nu uw certificering kunt vernieuwen via ee
 
 >[!TAB Professional]
 
+U moet momenteel zijn gecertificeerd (niet verlopen) in:
+
+* Adobe [!DNL Commerce] Professional
+* Adobe [!DNL Commerce] Developer Professional
+* Adobe [!DNL Commerce] Front End Developer Professional
+
+## Instructies voor het vernieuwen van uw Adobe [!DNL Commerce] certificatie
+
+Selecteren **drie activiteiten** om de cursusbeoordelingen te voltooien en door te geven die aan elke beoordeling zijn gekoppeld.
+
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 2**: Studeer de cursussen in Experience League
+* **Stap 3**: Elke cursusbeoordeling voltooien en doorstaan met ten minste 80%
+
+U kunt ook twee cursussen bestuderen, twee cursusbeoordelingen doorgeven en een referentieformulier indienen waarmee uw betrokkenheid bij een project in totaal 100 uur in de afgelopen 12 maanden wordt gevalideerd.
+
+Voor bepaalde Adobe Experience Cloud-certificeringen accepteert het Adobe Credential Program **klantverwijzingen** die uw vervolg van uw werk als Adobe gecertificeerd individueel leiden, beheren en/of deelnemen aan een Adobe Experience Cloud-implementatieproject valideren.
+
+In deze gevallen kunt u een klantenverwijzing verstrekken die bevestigt u aan minstens 100 uren van aangetoonde projectovereenkomst tijdens uw certificatievernieuwing 2 jaar interval hebt deelgenomen.
+
+**Zodra uw klantenverwijzing is herzien zult u door het Team van de Referentie van de Adobe op de hoogte worden gesteld.**
+
+De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden niet afgehandeld. Als u meerdere certificeringen op Adobe Commerce Professional-niveau hebt, hoeft u alleen de onderstaande vereisten in te vullen. Alle Adobe Commerce-certificeringen op dit niveau worden vernieuwd.
+
+[Referentieformulier voor klant voor Adobe [!DNL Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA711){target="_blank"}
+
+### Cursussen en cursusbeoordelingen:
+
+| Cursus | Cursusbeoordeling |
+| ------- | ------- |
+| [Adobe [!DNL Commerce] E-Commerce-trends](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html?lang=en){target="_blank"} | [ADR-EA714](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA714){target="_blank"} |
+| [Adobe [!DNL Commerce] Personalisatie](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA715](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA715){target="_blank"} |
+| [Adobe [!DNL Commerce] AI-automatisering](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA716](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA716){target="_blank"} |
+| [[!DNL Commerce]: Integratie van gegevens in Experience Platform en verder](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA720](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA720){target="_blank"} |
+| [[!DNL Commerce]: Composable Commerce on Adobe [!DNL Commerce]](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA721](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA721){target="_blank"} |
+
 >[!NOTE]
 >
->Professionele vernieuwing komt binnenkort.
+>U kunt herhalen tot u met succes drie activiteiten hebt voltooid of twee activiteiten, plus de vorm van de klantenverwijzing voltooit.
 
 >[!TAB Expert en Master]
 
@@ -56,7 +93,7 @@ In deze gevallen kunt u een klantenverwijzing verstrekken die bevestigt u aan mi
 
 **Zodra uw klantenverwijzing is herzien zult u door het Team van de Referentie van de Adobe op de hoogte worden gesteld.**
 
-De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden niet afgehandeld. Als u meerdere certificeringen op Adobe Experience Manager Expert- en Master niveau hebt, hoeft u alleen de onderstaande vereisten in te vullen en worden alle AEM certificeringen vernieuwd.
+De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden niet afgehandeld. Als u meerdere certificeringen op Adobe Commerce Expert- en Master niveau hebt, hoeft u alleen de onderstaande vereisten in te vullen. Uw Adobe Commerce-certificeringen op dit niveau worden vernieuwd.
 
 [Referentieformulier voor klant voor Adobe [!DNL Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA700){target="_blank"}
 
@@ -72,7 +109,7 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 
 >[!NOTE]
 >
->U kunt herhalen tot u met succes drie activiteiten hebt voltooid of het formulier van de klantenverwijzing voltooit.
+>U kunt herhalen tot u met succes drie activiteiten hebt voltooid of twee activiteiten, plus de vorm van de klantenverwijzing voltooit.
 
 >[!ENDTABS]
 
@@ -81,4 +118,3 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
-
