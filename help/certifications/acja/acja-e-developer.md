@@ -7,9 +7,9 @@ product: Customer Journey Analytics
 badge: label="Exam AD0-E604" type="positive"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: 85174b3682805f711d3929ef6d8dfd0558598427
+source-git-commit: bf6dae64ce1334611f7a40d14733dba7504fae20
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '728'
 ht-degree: 0%
 
 ---
@@ -99,7 +99,28 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
-_Binnenkort verkrijgbaar!_
+**Sectie 1: Verbindingen**
+
+* [Overzicht van verbindingen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html?lang=en){target="_blank"}
+* [Verbinding maken](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en){target="_blank"}
+
+**Sectie 2: Gegevens**
+
+* [Overzicht van gegevensweergaven](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=en){target="_blank"}
+* [Componentinstellingen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html?lang=en){target="_blank"}
+
+**Deel 3: Gegevensvalidatie en probleemoplossing**
+
+* [Overzicht van gegevensweergaven](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=en){target="_blank"}
+* [Een gegevensweergave maken of bewerken](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en){target="_blank"}
+* [Componentinstellingen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html?lang=en){target="_blank"}
+* [Standaardcomponentverwijzing](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=en){target="_blank"}
+
+**Sectie 4: Rapportage en activering**
+
+* [Overzicht van visualisaties](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html?lang=en){target="_blank"}
+* [Overzicht van Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html?lang=en){target="_blank"}
+* [Overzicht van gegevensweergaven](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=en){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
