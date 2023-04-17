@@ -6,9 +6,10 @@ product: Audience Manager
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1116'
 ht-degree: 0%
 
 ---
@@ -103,9 +104,14 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **De certificering opnieuw starten**
 
-Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de koppeling Adobe Audience Manager Business Practitioner - AD5-E826 hieronder om uw certificering te vernieuwen.
 
-[!BADGE Neem het Adobe Audience Manager Business Practitioner Expert Vernieuwingsexamen AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
+[!BADGE Neem het Adobe Audience Manager Business Practitioner Expert-vernieuwingsexamen AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
+
+>[!NOTE]
+>
+>Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+
 
 >[!TAB Master]
 
@@ -177,11 +183,16 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [AAM: Geavanceerde functies](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
 * [ Training en bronnen starten](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
-### De certificering opnieuw starten
+### Uw certificering verlengen
 
-Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de Master vernieuwing van de Adobe Audience Manager Architect - AD5-E825-koppeling hieronder om uw certificering te vernieuwen.
 
-[!BADGE Neem het master vernieuwingsexamen AD5-E825 voor de Adobe Audience Manager Architect]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+[!BADGE Neem het Master vernieuwingsexamen AD5-E825 voor de Adobe Audience Manager Architect]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+
+>[!NOTE]
+>
+>Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+
 
 >[!ENDTABS]
 
