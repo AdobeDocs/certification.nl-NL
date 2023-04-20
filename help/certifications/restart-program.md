@@ -6,7 +6,8 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
+source-git-commit: f1aa8e1e15924f2f79b555fbc2fbcfcd74860827
 workflow-type: tm+mt
 source-wordcount: '5355'
 ht-degree: 5%
@@ -15,7 +16,7 @@ ht-degree: 5%
 
 # Start de certificeringsreis opnieuw door van verlopen naar gecertificeerd te gaan
 
-Dit beperkte tijdprogramma, aangeboden **van 17 april 2023 tot en met 20 oktober 2023**, biedt u de kans om uw vaardigheden bij te werken en in een snel veranderende digitale omgeving voor de curve te blijven.
+Dit beperkte tijdprogramma, aangeboden **van 24 april 2023 tot en met 20 oktober 2023**, biedt u de kans om uw vaardigheden bij te werken en in een snel veranderende digitale omgeving voor de curve te blijven.
 
 Personen van wie de certificeringen in 2020 tot en met 23 april 2023 zijn verlopen, komen in aanmerking voor deze **vrij** programma.
 
