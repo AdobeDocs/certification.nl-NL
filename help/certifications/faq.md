@@ -4,9 +4,10 @@ description: U krijgt antwoorden op vragen over het Adobe-certificeringsprogramm
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
+source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
 workflow-type: tm+mt
-source-wordcount: '1889'
+source-wordcount: '2665'
 ht-degree: 0%
 
 ---
@@ -244,6 +245,169 @@ Nee, u hoeft alleen de vereisten voor de oplossing te voltooien. Uw certificatie
 +++Moet ik de cursussen herzien, of kan ik eenvoudig beginnen beoordelingen te nemen?
 
 De beoordelingen zijn gebaseerd op de cursussen in Experience League en de beoordeling ervan zal kandidaten voorbereiden om ze met succes te behalen. De belangrijkste voorwaarde voor verlenging is echter dat de beoordelingen worden goedgekeurd.
+
++++
+
+>[!TAB Programma opnieuw starten]
+
+**Programmaoverzicht**
+
++++Wat is het Programma van het Begin van de Certificatie van de Adobe?
+
+Het programma voor het opnieuw starten van Adobe-certificatie is een eenmalig initiatief dat individuen in staat stelt hun verlopen Adobe-certificeringen opnieuw te halen door gratis online korte examens of beoordelingen door te geven.
+
++++
+
++++Hoe lang zal het Programma van het Begin lopen?
+
+Het programma heeft een looptijd van zes maanden, van 24 april tot 20 oktober 2023.
+
++++
+
++++Zal Adobe dit type programma in de toekomst opnieuw aanbieden?
+
+Op dit moment zijn we niet van plan dit opnieuw aan te bieden. Dit is slechts een eenmalige aanbieding.
+
++++
+
++++Welke certificatieniveaus zijn inbegrepen in het Programma van het Begin?
+
+Alleen certificeringen op het niveau Expert en Master worden opgenomen in het programma Start. Certificeringen op het niveau van het hoger onderwijs hebben vanaf juni 2023 een vernieuwingspad.
+
++++
+
+**Subsidiabiliteit programma**
+
++++Who komt in aanmerking voor het Programma van het Begin van de Certificatie van de Adobe?
+
+Personen van wie de certificeringen van 2020 tot en met 23 april 2023 zijn verlopen, komen in aanmerking voor het Start-programma, op voorwaarde dat de gewenste certificering in het programma is opgenomen (zie de onderstaande lijst voor kwalificatievoorbeelden).
+
++++
+
++++ Waarom worden niet alle certificatieexamens vrijgegeven over de jaren inbegrepen in het programma van het Begin?\
+Examen die vóór 2019 zijn uitgebracht, zijn uitgesloten van het programma Start.
+
++++
+
++++Waarom is 23 april 2023, de afsluitdatum voor de subsidiabiliteit van het programma Start?
+
+Omdat het individuen toestaat die niet aan de VRIJE certificatiehernieuwing konden deelnemen (die op 23 januari 2023 van start ging) voldoende tijd om hun certificatie te vernieuwen.
+
++++
+
++++Welke certificatie maakt deel uit van het Programma van het Begin van de Certificatie van de Adobe?
+
+Alle actieve Adobe-certificeringen, met uitzondering van die welke met pensioen zijn gegaan, maken deel uit van het programma.
+
++++
+
++++Kan u een lijst van in aanmerking komende examens door toepassing tonen?
+
+**Adobe Experience Manager**
+
+| Examen-id | Naam van examen |
+| ------- | ------- |
+| AD0-E121 | [!DNL Adobe Experience Manager Sites] Expert aan de praktijk |
+| AD0-E102 | [!DNL Adobe Experience Manager Sites] Expert aan de praktijk |
+| AD0-E103 | [!DNL Adobe Experience Manager Sites] Ontwikkelaarsexpert |
+| AD0-E116 | [!DNL Adobe Experience Manager Sites] Ontwikkelaarsexpert |
+| AD0-E106 | [!DNL Adobe Experience Manager] Technicus-expert Dev/OPS |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] Architect Master |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] Architect Master |
+
+**[!DNL Adobe Analytics]**
+
+| Examen-id | Naam van examen |
+| ------- | ------- |
+| AD0-E201 | [!DNL Adobe Analytics] Ontwikkelaarsexpert |
+| AD0-E202 | [!DNL Adobe Analytics] Expert aan de praktijk |
+| AD0-E200 | [!DNL Adobe Analytics] Architect Master |
+| AD0-E207 | [!DNL Adobe Analytics] Architect Master |
+
+**Adobe Audience Manager**
+
+| Examen-id | Naam van examen |
+| ------- | ------- |
+| AD0-E454 | [!DNL Adobe Audience Manager] Architect Master |
+| AD0-E452 | [!DNL Adobe Audience Manager] Architect Master |
+| AD0-E453 | [!DNL Adobe Audience Manager] Expert aan de praktijk |
+
+**Adobe Campaign Classic**
+
+| Examen-id | Naam van examen |
+| ------- | ------- |
+| AD0-E300 | Adobe [!DNL Campaign Classic] Expert aan de praktijk van sites |
+| AD0-E314 | Adobe [!DNL Campaign Classic] Expert aan de praktijk van sites |
+| AD0-E318 | Adobe [!DNL Campaign Classic] Architect Master |
+| AD0-E303 | Adobe [!DNL Campaign Classic] Architect Master |
+| AD0-E312 | Adobe [!DNL Campaign Classic] Ontwikkelaarsexpert |
+| AD0-E308 | Adobe [!DNL Campaign Classic] Ontwikkelaarsexpert |
+
+**Adobe Campaign Standard**
+
+| Examen-id | Naam van examen |
+| ------- | ------- |
+| AD0-E307 | Adobe [!DNL Campaign Standard] Expert aan de praktijk |
+| AD0-E302 | Adobe [!DNL Campaign Standard] Expert aan de praktijk |
+| AD0-E306 | Adobe [!DNL Campaign Standard] Ontwikkelaarsexpert |
+| AD0-E301 | Adobe [!DNL Campaign Standard] Ontwikkelaarsexpert |
+
+**Adobe[!DNL Marketo Engage]**
+
+| Examen-id | Naam van examen |
+| ------- | ------- |
+| AD0-E552 | Adobe [!DNL Marketo Engage] Business Practitioner (voorheen MCE) |
+
+**Adobe Target**
+
+| Examen-id | Naam van examen |
+| ------- | ------- |
+| AD0-E401 | [!DNL Adobe Target] Expert aan de praktijk |
+| AD0-E402 | [!DNL Adobe Target] Architect Master |
+
++++
+
++++Mijn Certificatie verloopt tussen 24 en 20 oktober 2023, terwijl dit programma beschikbaar is., kan ik het programma van het Begin voor mijn certificatie na het verlopen van het programma nastreven?
+
+Nee. Alle kandidaten met actieve certificeringen vanaf de startdatum en daarna hebben de mogelijkheid om door te gaan met het continue leervernieuwingstraject dat we in januari 2023 hebben aangekondigd.
+
+Het programma Start is alleen bedoeld voor certificeringen die vóór 24 april 2023 zijn verlopen, om certificatie aan te bieden aan kandidaten die niet konden deelnemen aan het programma voor permanente educatie.
+
++++
+
+**[!DNL Marketo Engage]Oplossingsarchitect (MCSA) en Adobe Commerce**
+
++++I is verlopen [!DNL Marketo] Certified Solution Architect (MCSA). Mag ik dat via dit programma opnieuw invoeren?
+
+Kandidaten met een verlopen [!DNL Marketo] Certified Solution Architect-certificering kan het Marketo Business Practice-pad voor herstarten volgen voor gedeeltelijke vereiste in de richting van de nieuwe [!DNL Marketo Engage] Certificering architect.
+
+Eindvoorwaarde is dat de nieuwe [!DNL Marketo Engage] Architect-examen. Voor alle MCSA verlopen certificaathouders, lopen wij een 50% kortingsbevordering tot 31 Dec, 2023, gelieve certificatiesteun voor details te contacteren.
+
++++
+
++++Waarom zijn Adobe [!DNL Commerce] Certificeringen die geen deel uitmaken van het Adobe Certification Restart Program?
+
+Er zijn geen verlopen certificaathouders voor momenteel aangeboden Adobe [!DNL Commerce] Certificeringen vanaf 23 april 2023. Daarom alle actieve Adobe [!DNL Commerce] Gecertificeerde kandidaten hebben de mogelijkheid om te vernieuwen door voortdurend leren [vernieuwingspad voor certificering](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}.
+
++++
+
+**Profiel van Adobe Credential Manager**
+
++++Waarom zie ik _Deelname_ onder de geschiedenissectie van mijn Profiel in de Manager van de Adobe Referentie?
+
+Hiermee wordt aangegeven dat u in aanmerking komt voor het programma Adobe-certificatie opnieuw starten. Kandidaten aan wie deze deelname is toegekend, kunnen in elke toepassing de vereisten voltooien om de verlopen certificering opnieuw te starten.
+
++++
+
++++I hebben de vereisten voltooid en zien de resultaten niet in mijn profielgeschiedenis, wanneer zal ik het Certificaat krijgen?
+
+De certificering wordt binnen 72 uur na voltooiing van de eisen toegekend. Het is belangrijk erop te wijzen dat dit programma alleen certificaten zal toekennen aan in aanmerking komende kandidaten.
+
++++
+
++++Wat zou ik moeten doen als mijn certificatie nog als verlopen toont zelfs na het voltooien van de herstartvereisten?
+
+Helaas kan een certificaat niet worden verlengd als het eenmaal is verlopen. In dergelijke gevallen wordt een nieuwe certificering afgegeven in plaats van de oude.
 
 +++
 
