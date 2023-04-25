@@ -2,7 +2,8 @@
 title: Overzicht van Workfront-certificering
 description: Overzicht van certificeringsopties voor Adobe Workfront
 solution: Workfront
-source-git-commit: 8e1eb997b2b5187f62c72a443f9d6a848f8c7708
+exl-id: 0bd627c8-6ba2-49bb-b0e7-477d61b6ce3e
+source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
@@ -23,4 +24,3 @@ ht-degree: 0%
 * [AEM verbeterde aansluiting](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
 Ga naar [Uw certificering verlengen](/help/certifications/renew.md) pagina om te zien of is een vernieuwingsoptie beschikbaar voor dit product.
-
