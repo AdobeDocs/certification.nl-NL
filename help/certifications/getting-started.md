@@ -4,9 +4,9 @@ description: Aan de slag met [!DNL Experience Cloud] certificeringen. Meer infor
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
+source-git-commit: 341ad8d663af57e1461494d7b612fc54df2d9037
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '943'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Adobe [!DNL Experience Cloud] biedt drie verschillende certificeringsniveaus: Pr
 Deze niveaus weerspiegelen een vooruitgang van vakkennis en kennis, waarbij de certificering op instapniveau de certificering op instapniveau is, waarbij de deskundige het middelste niveau is en het hoogste niveau van certificering Master is.
 
 | ![Professionele badge](/help/certifications/assets/professional-badge-Xsmall.png) | **Professionele certificeringen** Controleren of een kandidaat over digitale marketingoplossingen beschikt die als basis dienen. Het certificeringsexamen heeft betrekking op de basisbeginselen en -functies van Adobe [!DNL Experience Cloud]. |
-| --------- | ------- |
+| ------- | ------- |
 
 {style="table-layout:auto"}
 
