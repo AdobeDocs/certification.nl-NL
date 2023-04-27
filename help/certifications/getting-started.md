@@ -4,9 +4,9 @@ description: Aan de slag met [!DNL Experience Cloud] certificeringen. Meer infor
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 341ad8d663af57e1461494d7b612fc54df2d9037
+source-git-commit: 6d77e4b81d05f41d398c657cce1116f73e8a7e1f
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -38,18 +38,11 @@ Adobe [!DNL Experience Cloud] biedt drie verschillende certificeringsniveaus: Pr
 
 Deze niveaus weerspiegelen een vooruitgang van vakkennis en kennis, waarbij de certificering op instapniveau de certificering op instapniveau is, waarbij de deskundige het middelste niveau is en het hoogste niveau van certificering Master is.
 
+| Badge | Beschrijving |
+| ------- | ------- |
 | ![Professionele badge](/help/certifications/assets/professional-badge-Xsmall.png) | **Professionele certificeringen** Controleren of een kandidaat over digitale marketingoplossingen beschikt die als basis dienen. Het certificeringsexamen heeft betrekking op de basisbeginselen en -functies van Adobe [!DNL Experience Cloud]. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png) | **Expertcertificeringen** zijn bedoeld voor professionals die over meer inzicht beschikken in digitale marketingoplossingen met Adobe. Het certificatieexamen behandelt complexere concepten en functionaliteiten van Adobe [!DNL Experience Cloud], inclusief implementatie en probleemoplossing. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Master badge](/help/certifications/assets/master-badge-Xsmall.png) | **Master certificeringen** zijn bedoeld voor professionele gebruikers die over digitale marketingoplossingen beschikken en ervaring hebben opgedaan op meerdere gebieden van Adobe. [!DNL Experience Cloud]. Het certificatieexamen behandelt geavanceerde onderwerpen en scenario&#39;s, met inbegrip van complexe integraties, aanpassingen, en het oplossen van problemen. |
-| ------- | ------- |
 
 {style="table-layout:auto"}
 
@@ -57,18 +50,11 @@ Deze niveaus weerspiegelen een vooruitgang van vakkennis en kennis, waarbij de c
 
 De certificatieexamens van Adobe worden aangepast aan drie verschillende baanrollen. Lees de informatie hieronder om de juiste certificering voor uw carrièrepad te vinden.
 
+| Logo | Beschrijving |
+| ------- | ------- |
 | ![Badge Business Practice](/help/certifications/assets/business_practitioner_blk_small.png) | **Bedrijfs Praktijken** verantwoordelijk zijn voor het ontwerpen, uitvoeren en beheren van marketingcampagnes met behulp van Adobe [!DNL Experience Cloud] oplossingen. Zij moeten een fundamenteel inzicht hebben in Adobe digitale marketingoplossingen en ervaring hebben met marketing en reclame. De certificatie van de BedrijfsPraktijk bevestigt hun capaciteit om Adobe digitale marketing oplossingen effectief te gebruiken om bedrijfsdoelstellingen te bereiken. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Developer Badge](/help/certifications/assets/developer_blk_small.png) | **Ontwikkelaars** verantwoordelijk zijn voor de uitvoering en integratie van Adobe [!DNL Experience Cloud] oplossingen in de technologiestapel van een organisatie. Zij zouden ervaring in softwareontwikkeling en vaardigheid in Webtechnologieën, zoals HTML, CSS, JavaScript, en RESTful APIs moeten hebben. De ontwikkelaarscertificering valideert om hun digitale marketingoplossingen effectief te implementeren en aan te passen aan de zakelijke vereisten. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Badge Architect](/help/certifications/assets/architect_blk_small.png) | **Architecten** zijn verantwoordelijk voor het ontwerpen en implementeren van oplossingen op bedrijfsniveau met behulp van Adobe [!DNL Experience Cloud] oplossingen. Zij zouden uitgebreide kennis van Adobe digitale marketing oplossingen en ervaring in softwarearchitectuur, integratie, en aanpassing moeten hebben. De Architect certificeert hun capaciteit om complexe oplossingen te ontwerpen en uit te voeren gebruikend Adobe digitale marketing oplossingen. |
-| ------- | ------- |
 
 {style="table-layout:auto"}
 
