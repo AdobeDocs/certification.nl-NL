@@ -3,7 +3,8 @@ title: Gecertificeerd worden op Adobe
 description: Leer hoe je gecertificeerd kunt worden bij Adobe. Zoek alle bronnen die u nodig hebt voor, tijdens en nadat u gecertificeerd bent.
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
+source-git-commit: 976a9a4ac83ba996c18b07c5d14602bfcc96be49
 workflow-type: tm+mt
 source-wordcount: '1464'
 ht-degree: 1%
@@ -88,9 +89,9 @@ Het team van de Adobe Credentials partners met verkopers helpen de initiatieven 
 | Naam leverancier | Beschrijving | Ondersteuningspagina/e-mail |
 | ------- | ------- | ------- |
 | Credly | Badge Management System | [Ondersteuning](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
-| examen | Leverancier testen (alleen online verwerking) | support@examity.com of 855-Examity (855-392-6489) |
-| PSI | Leverancier testen voor Verwerkte examens op een locatie of in het Japans | adobe.psisupport@psionline.com |
-| Xvoucher - Adobe Certification Voucher Center | Vouchercentrum voor de aanschaf van individuele vouchers of vouchers in bulk | support@xvoucher.com of [Online Help](https://help.xvoucher.com/hc/en-us){target="_blank"} |
+| examen | Leverancier testen (alleen online verwerking) | [E-mail](mailto:support@examity.com){target="_blank"} of 855-examen (855-392-6489) |
+| PSI | Leverancier testen voor Verwerkte examens op een locatie of in het Japans | [E-mail](mailto:adobe.psisupport@psionline.com){target="_blank"} |
+| Xvoucher - Adobe Certification Voucher Center | Vouchercentrum voor de aanschaf van individuele vouchers of vouchers in bulk | [E-mail](mailto:support@xvoucher.com){target="_blank"} of [Online Help](https://help.xvoucher.com/hc/en-us) |
 
 Andere bronnen van leveranciers:
 
