@@ -6,18 +6,22 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: e10f50a8e8a62d88d6c3ed5175a6d155760dc37c
+source-git-commit: bc3c4c4ebf3b3c34bbf21409040856a8b0dd1135
 workflow-type: tm+mt
-source-wordcount: '3197'
+source-wordcount: '3215'
 ht-degree: 0%
 
 ---
 
 # De Adobe verlengen [!DNL Workfront] certificatie
 
-Wanneer u een certificatieexamen overgaat, is uw certificatie geldig voor twee jaar.
+Uw Adobe-certificering is twee jaar geldig. Als u dit merk van twee jaar nadert, is het tijd om uw certificatie te vernieuwen om het actief te houden.
 
-We zijn blij om aan te kondigen dat u nu uw certificering kunt vernieuwen via een nieuwe, gratis indeling. Het impliceert het gebruiken van cursussen en zelfstudies van het Experience League op bestelling-voltooit eenvoudig drie activiteiten om uw certificatie tegen geen kosten te vernieuwen. U moet vernieuwen alvorens uw certificatie verloopt, of u zult het volledige examen moeten nemen om opnieuw verklaard te worden.
+Selecteer eerst het juiste niveau op het onderstaande tabblad (Professional, Expert of Master). Controleer vervolgens zorgvuldig wat u moet doen om uw certificering te vernieuwen.
+
+Zorg ervoor dat u voldoende tijd hebt om alle vereisten te voltooien voordat uw certificering verloopt.
+
+Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certificatieexamen opnieuw zult moeten nemen, dat NIET kosteloos is.
 
 >[!IMPORTANT]
 >
