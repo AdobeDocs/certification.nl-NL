@@ -6,18 +6,22 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
+source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
 workflow-type: tm+mt
-source-wordcount: '608'
+source-wordcount: '626'
 ht-degree: 1%
 
 ---
 
 # De Adobe verlengen [!DNL Experience Manager] certificatie
 
-Wanneer u een certificatieexamen overgaat, is uw certificatie geldig voor twee jaar.
+Uw Adobe-certificering is twee jaar geldig. Als u dit merk van twee jaar nadert, is het tijd om uw certificatie te vernieuwen om het actief te houden.
 
-We zijn blij om aan te kondigen dat u nu uw certificering kunt vernieuwen via een nieuwe, gratis indeling. Het impliceert het gebruiken van cursussen en zelfstudies van het Experience League op bestelling-voltooit eenvoudig drie activiteiten om uw certificatie tegen geen kosten te vernieuwen. U moet vernieuwen alvorens uw certificatie verloopt, of u zult het volledige examen moeten nemen om opnieuw verklaard te worden.
+Selecteer eerst het juiste niveau op het onderstaande tabblad (Professional, Expert of Master). Controleer vervolgens zorgvuldig wat u moet doen om uw certificering te vernieuwen.
+
+Zorg ervoor dat u voldoende tijd hebt om alle vereisten te voltooien voordat uw certificering verloopt.
+
+Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certificatieexamen opnieuw zult moeten nemen, dat NIET kosteloos is.
 
 >[!IMPORTANT]
 >
