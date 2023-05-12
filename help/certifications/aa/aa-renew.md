@@ -7,9 +7,9 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
+source-git-commit: ec92189f7230790a6fe79f72b06838703d85b94f
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '569'
 ht-degree: 1%
 
 ---
@@ -64,7 +64,7 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 
 [Referentieformulier voor de klant voor Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
 
-### Cursussen en cursusbeoordelingen:
+### Cursussen en cursusbeoordelingen voor deskundige en master:
 
 | Cursus | Cursusbeoordeling |
 | ------- | ------- |

@@ -7,9 +7,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
+source-git-commit: ec92189f7230790a6fe79f72b06838703d85b94f
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '528'
 ht-degree: 1%
 
 ---
@@ -63,7 +63,7 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 
 [Referentieformulier van klant voor [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
-### Cursussen en cursusbeoordelingen:
+### Cursussen en cursusbeoordelingen voor deskundige en master:
 
 | Cursus | Cursusbeoordeling |
 | ------- | ------- |
