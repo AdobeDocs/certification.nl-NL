@@ -1,11 +1,11 @@
 ---
 user-guide-title: Certificering bij Adobe
 breadcrumb-title: Certificering bij Adobe
-user-guide-description: Meer informatie over [!DNL Experience Cloud] Certificering bij Adobe. Ontdek wat certificeren voor u kan doen.
+user-guide-description: Meer informatie over  [!DNL Experience Cloud] -certificering bij Adobe. Ontdek wat certificeren voor u kan doen.
 source-git-commit: 20ea813247ee551b425c98d93d0de8bd62ec10e6
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 27%
+ht-degree: 29%
 
 ---
 

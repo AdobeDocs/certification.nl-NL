@@ -1,6 +1,6 @@
 ---
 title: Aan de slag met Adobe-certificeringen
-description: Aan de slag met [!DNL Experience Cloud] certificeringen. Meer informatie over het programma en deze website.
+description: Ga aan de slag met  [!DNL Experience Cloud] -certificeringen. Meer informatie over het programma en deze website.
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
