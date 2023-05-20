@@ -1,19 +1,19 @@
 ---
 title: Startpagina voor certificering
-description: Meer informatie over [!DNL Experience Cloud] Certificering bij Adobe. Ontdek wat certificeren voor u kan doen.
+description: Meer informatie over  [!DNL Experience Cloud] -certificering bij Adobe. Ontdek wat certificeren voor u kan doen.
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
 source-git-commit: fcf0ba2b3b17c78978267b6613e3fa674db03633
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '399'
+ht-degree: 8%
 
 ---
 
 # Welkom bij Certificatie bij Adobe!
 
-Meer informatie over certificatie bij Adobe en over wat u kunt doen als u gecertificeerd bent.
+Meer informatie over certificering bij Adobe en over wat u kunt doen als u gecertificeerd bent.
 
 ![Banner](/help/certifications/assets/home_banner_smallwide.png)
 

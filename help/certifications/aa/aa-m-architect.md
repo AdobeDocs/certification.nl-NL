@@ -6,10 +6,11 @@ product: Analytics
 role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '963'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
