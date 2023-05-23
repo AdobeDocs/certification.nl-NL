@@ -7,10 +7,10 @@ role: Developer
 badge: label="Examen AD0-E306" type="positief"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
+source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
 workflow-type: tm+mt
-source-wordcount: '1301'
-ht-degree: 10%
+source-wordcount: '1369'
+ht-degree: 9%
 
 ---
 
@@ -178,6 +178,10 @@ Adobe gebruikt twee verkopers om geproctored examens, PSI en Onderzoek te behere
 * De examens biedt een verre online optie aan
 
 Om uw examen te plannen, opnieuw te plannen of te annuleren, eenvoudig op de verkoper van keus te klikken, en de instructies te volgen die op het scherm worden verstrekt. Zo eenvoudig is het!
+
+De naam van uw profiel in het Adobe Credential Management System moet exact overeenkomen met uw Regeringen-id. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.
+
+De annuleringen en het opnieuw plannen zijn mogelijk als in werking gesteld voorafgaand aan 48 uren vóór de geplande examenbenoeming. De kandidaten moeten deze benoeming zelf wijzigen.
 
 ### Examen: AD0-E306
 
