@@ -8,14 +8,14 @@ badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 06daf394510ac4b9c4d0fb0bc3de0676f1a76216
+source-git-commit: 8019f2ab918628ff90655faa9b7a673fe1ce0811
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: '894'
 ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe Doc Cloud Business Practice Professional
+# Certificeringsreis voor Adobe Document Cloud Business Practice Professional
 
 Leer hoe u een gecertificeerde Adobe Business Practitioner Professional kunt worden.
 
@@ -40,7 +40,6 @@ U zou moeten hebben:
 * Oplossingsconsultant
 * Zakelijke analist
 * Verkoop
-* Ontwikkelaar
 
 **Details examen:**
 
@@ -59,7 +58,7 @@ Sectie 1: Hoofdletterdetectie gebruiken (36%)
 * Kwalificerende vragen stellen om Document Cloud kansen te identificeren
 * Gevallen voor zakelijk gebruik op hoog niveau definiëren
 
-Sectie 2: Evaluatie bedrijfsproces (34)
+Sectie 2: Evaluatie bedrijfsproces (34%)
 
 * Belangrijkste gebieden van procesverbetering en oplossingsvermogen identificeren
 * Zakelijke doelen afstemmen op de mogelijkheden van het Document Cloud
