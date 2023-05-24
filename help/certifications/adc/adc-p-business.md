@@ -8,9 +8,9 @@ badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 8019f2ab918628ff90655faa9b7a673fe1ce0811
+source-git-commit: 354d65edf298c2b633f6b04a76bcf3ccaa796a1c
 workflow-type: tm+mt
-source-wordcount: '894'
+source-wordcount: '985'
 ht-degree: 0%
 
 ---
@@ -126,6 +126,16 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 >De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
+
+**Een praktijktest uitvoeren**
+
+We raden u aan de test voor vrije praktijk uit te voeren voordat u begint. U zult onbeperkte toegang tot alle beschikbare praktijktests voor Adobe-vlakke examens hebben.
+
+Onze praktijktests worden allemaal ontwikkeld op basis van dezelfde blauwdruk als de live examens. De praktijktest zal u helpen de onderwerpen begrijpen die in het levende examen worden behandeld.
+
+Houd er rekening mee dat het slagen van een praktijktest niet garandeert dat u voor het certificeringsexamen slaagt.
+
+Ga naar de [Prep Portal voor Adobe-certificatieexamen](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} nu een praktijktest uitvoeren .
 
 **Neem het certificatieexamen**
 
