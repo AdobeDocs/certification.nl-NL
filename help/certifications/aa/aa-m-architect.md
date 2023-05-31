@@ -7,10 +7,10 @@ role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: a5d9e5afe6f1a0efe67724c8de7ee2a6871b1035
+source-git-commit: 2aa4e37dd0afe520746892c2739c2a4f53342797
 workflow-type: tm+mt
-source-wordcount: '1031'
-ht-degree: 2%
+source-wordcount: '940'
+ht-degree: 3%
 
 ---
 
@@ -137,18 +137,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 >
 >De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
 
-
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
-
-**Een praktijktest uitvoeren**
-
-We raden u aan de test voor vrije praktijk uit te voeren voordat u begint. U zult onbeperkte toegang tot alle beschikbare praktijktests voor Adobe-vlakke examens hebben.
-
-Onze praktijktests worden allemaal ontwikkeld op basis van dezelfde blauwdruk als de live examens. De praktijktest zal u helpen de onderwerpen begrijpen die in het levende examen worden behandeld.
-
-Houd er rekening mee dat het slagen van een praktijktest niet garandeert dat u voor het certificeringsexamen slaagt.
-
-Ga naar de [Prep Portal voor Adobe-certificatieexamen](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} nu een praktijktest uitvoeren .
 
 **Neem het certificatieexamen**
 
