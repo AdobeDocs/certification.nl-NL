@@ -2,7 +2,7 @@
 user-guide-title: Certificering bij Adobe
 breadcrumb-title: Certificering bij Adobe
 user-guide-description: Meer informatie over  [!DNL Experience Cloud] -certificering bij Adobe. Ontdek wat certificeren voor u kan doen.
-source-git-commit: be0a8c6898d021744eb4a9e69225b4f83a42d3b2
+source-git-commit: 007fd9851149994e3ef7a46291731a5aa91adc81
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 28%
@@ -80,6 +80,11 @@ ht-degree: 28%
       + Master {#ac-master}
          + [Architect](/help/certifications/ac/ac-m-architect.md)
       + [Verlenging](/help/certifications/ac/ac-renew.md)
+   + Adobe [!DNL Document Cloud] {#adc}
+      + [Overzicht van Document Cloud](/help/certifications/adc/adc-overview.md)
+      + Professional {#adc-professional}
+         + [Business Practitioner](/help/certifications/adc/adc-p-business.md)
+      + [Verlenging](/help/certifications/adc/adc-renew.md)
    + Adobe [!DNL Experience Manager] {#aem}
       + [Overzicht van Experience Manager](/help/certifications/aem/aem-overview.md)
       + Professional {#aem-professional}
@@ -106,11 +111,6 @@ ht-degree: 28%
       + Master {#ame-master}
          + [Architect](/help/certifications/ame/ame-m-architect.md)
       + [Verlenging](/help/certifications/ame/ame-renew.md)
-   + Adobe [!DNL Document Cloud] {#adc}
-      + [Overzicht van Document Cloud](/help/certifications/adc/adc-overview.md)
-      + Professional {#adc-professional}
-         + [Business Practitioner](/help/certifications/adc/adc-p-business.md)
-      + [Verlenging](/help/certifications/adc/adc-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
       + [Real-Time CDP - Overzicht](/help/certifications/rtcdp/rtcdp-overview.md)
       + Professional {#rtcdp-professional}
