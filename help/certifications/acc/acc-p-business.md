@@ -7,10 +7,10 @@ role: User
 badge: label="Exam AD0-E329" type="positive"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1401'
-ht-degree: 5%
+source-wordcount: '1343'
+ht-degree: 7%
 
 ---
 
@@ -130,52 +130,52 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 **Sectie 1: Een campagne maken**
 
-* [Aan de slag met Adobe Campaign](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/get-started.html?lang=en){target="_blank"}
-* [Communicatiekanalen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html?lang=en){target="_blank"}
-* [Aan de slag met marketingcampagnes](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=en){target="_blank"}
-* [Aan de slag met personalisatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en){target="_blank"}
-* [Marketingcampagnes ontwerpen en uitvoeren](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html?lang=en){target="_blank"}
-* [Sjablonen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=en){target="_blank"}
+* [Aan de slag met Adobe Campaign](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/get-started.html){target="_blank"}
+* [Communicatiekanalen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
+* [Aan de slag met marketingcampagnes](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=nl){target="_blank"}
+* [Aan de slag met personalisatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=nl){target="_blank"}
+* [Marketingcampagnes ontwerpen en uitvoeren](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
+* [Sjablonen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html){target="_blank"}
 
 **Sectie 2: Workflowbeheer en platformmogelijkheden**
 
-* [Gerichte activiteiten in workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=en){target="_blank"}
-* [Stroombeheeractiviteiten in workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/about-flow-control-activities.html?lang=en){target="_blank"}
-* [Acties in workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html?lang=en){target="_blank"}
-* [Workfloweigenschappen](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html?lang=nl){target="_blank"}
-* [Aan de slag met workflows](https://experienceleague.adobe.com/docs/campaign/campaign-v8/data/workflows.html?lang=en){target="_blank"}
+* [Gerichte activiteiten in workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html){target="_blank"}
+* [Stroombeheeractiviteiten in workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/about-flow-control-activities.html){target="_blank"}
+* [Acties in workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html){target="_blank"}
+* [Workfloweigenschappen](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html){target="_blank"}
+* [Aan de slag met workflows](https://experienceleague.adobe.com/docs/campaign/campaign-v8/data/workflows.html){target="_blank"}
 
 **Deel 3: Gegevensbewerkingen**
 
-* [Adobe Campaign-werkruimte](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html?lang=en){target="_blank"}
-* [Aan de slag met workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=en){target="_blank"}
-* [Gerichte activiteiten in workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=en){target="_blank"}
-* [Aan de slag met profielen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/about-profiles.html?lang=en){target="_blank"}
-* [Aan de slag met marketingcampagnes](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=en){target="_blank"}
-* [Werken met bronnen en bestemmingen](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html?lang=nl){target="_blank"}
+* [Adobe Campaign-werkruimte](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html){target="_blank"}
+* [Aan de slag met workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html){target="_blank"}
+* [Gerichte activiteiten in workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html){target="_blank"}
+* [Aan de slag met profielen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/about-profiles.html){target="_blank"}
+* [Aan de slag met marketingcampagnes](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=nl){target="_blank"}
+* [Werken met bronnen en bestemmingen](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
 
 **Sectie 4: Leveringsconfiguratie**
 
-* [E-mailverzendingen maken en ontwerpen](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/create-and-design-email-deliveries.html?lang=en){target="_blank"}
-* [Communicatiekanalen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html?lang=en){target="_blank"}
-* [Seedadressen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html?lang=en){target="_blank"}
-* [Aan de slag met bericht bijhouden](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html?lang=en){target="_blank"}
-* [Aan de slag met personalisatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en){target="_blank"}
-* [Marketingcampagnes ontwerpen en uitvoeren](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html?lang=en){target="_blank"}
+* [E-mailverzendingen maken en ontwerpen](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/create-and-design-email-deliveries.html){target="_blank"}
+* [Communicatiekanalen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
+* [Seedadressen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html){target="_blank"}
+* [Aan de slag met bericht bijhouden](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html){target="_blank"}
+* [Aan de slag met personalisatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=nl){target="_blank"}
+* [Marketingcampagnes ontwerpen en uitvoeren](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
 
 **Sectie 5: Beheer en rapportage**
 
-* [Rapporten over leveringen](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html?lang=en){target="_blank"}
-* [Aan de slag met rapportages](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=en){target="_blank"}
-* [Aan de slag met verzendingscontrole](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=en){target="_blank"}
-* [Aan de slag met een beschrijvende analyse](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html?lang=en){target="_blank"}
-* [Aan de slag met machtigingen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html?lang=en){target="_blank"}
+* [Rapporten over leveringen](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
+* [Aan de slag met rapportages](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
+* [Aan de slag met verzendingscontrole](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=nl){target="_blank"}
+* [Aan de slag met een beschrijvende analyse](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html){target="_blank"}
+* [Aan de slag met machtigingen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
@@ -204,6 +204,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

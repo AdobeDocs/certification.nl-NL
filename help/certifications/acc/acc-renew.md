@@ -7,10 +7,10 @@ role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: af895356-3e6b-424f-a637-a695b916aa47
-source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '930'
-ht-degree: 8%
+source-wordcount: '896'
+ht-degree: 6%
 
 ---
 
@@ -26,7 +26,7 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -46,7 +46,7 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 ## Hoe te om uw certificatie te vernieuwen:
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Herzie de examendoelstellingen en de middelen
 * **Stap 3**: Neem en ga het examen over
 
@@ -113,35 +113,35 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Installatie en systeemconfiguratie**
 
-* [Pakketten beheren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html?lang=en){target="_blank"}
-* [Werken met gegevenspakketten](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=en){target="_blank"}
-* [Een instantie implementeren](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html?lang=en)
-* [Integreren met Adobe [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html?lang=en){target="_blank"}
+* [Pakketten beheren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
+* [Werken met gegevenspakketten](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
+* [Een instantie implementeren](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html)
+* [Integreren met Adobe [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html){target="_blank"}
 
 **Sectie 2: Aanpassing**
 
-* [JavaScript-scripts en -sjablonen](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html?lang=en){target="_blank"}
+* [JavaScript-scripts en -sjablonen](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
 * [Best practices voor het gegevensmodel](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html?lang=nl){target="_blank"}
-* [Operatoren maken en beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html?lang=en){target="_blank"}
-* [Toegang tot mappen beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html?lang=en){target="_blank"}
+* [Operatoren maken en beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
+* [Toegang tot mappen beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html){target="_blank"}
 
 **Deel 3: Gegevensarchitectuur**
 
-* [Overgang van [!DNL Campaign Classic] v7 naar campagne v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=en){target="_blank"}
-* [Werken met bronnen en bestemmingen](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html?lang=nl){target="_blank"}
-* [Specifieke API&#39;s voor campagnes van FFDA](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html?lang=en){target="_blank"}
-* [Informatie over Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html?lang=en){target="_blank"}
+* [Overgang van [!DNL Campaign Classic] v7 naar campagne v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=nl){target="_blank"}
+* [Werken met bronnen en bestemmingen](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
+* [Specifieke API&#39;s voor campagnes van FFDA](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html){target="_blank"}
+* [Informatie over Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html){target="_blank"}
 
 **Sectie 4: Campagne, workflow, levering en rapportage**
 
-* [Best practices voor workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=nl){target="_blank"}
-* [Het goedkeuringsproces instellen en beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=en){target="_blank"}
-* [Verrijking](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=en){target="_blank"}
-* [Best practices voor importeren en exporteren](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=nl){target="_blank"}
+* [Best practices voor workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
+* [Het goedkeuringsproces instellen en beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html){target="_blank"}
+* [Verrijking](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html){target="_blank"}
+* [Best practices voor importeren en exporteren](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
 
 ### Uw certificering verlengen
 
-Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de koppeling Campaign Classic vernieuwen - AD5-823 om uw certificering te vernieuwen.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de koppeling Campaign Classic vernieuwen - AD5-823 om uw certificering te vernieuwen.
 
 [Neem de Adobe [!DNL Campaign Classic] Verlenging voor Business Practitioner, Developer and Architect examen nu - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
 
@@ -153,6 +153,6 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

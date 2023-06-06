@@ -7,10 +7,10 @@ role: User
 badge: label="Exam AD0-E327" type="positive"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1182'
-ht-degree: 7%
+source-wordcount: '1128'
+ht-degree: 10%
 
 ---
 
@@ -114,55 +114,55 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Campagnebeheer**
 
-* [[!DNL Campaign Classic] v7-documentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=en){target="_blank"}
-* [Aan de slag met marketingcampagnes](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=en){target="_blank"}
-* [Seedadressen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html?lang=en)
-* [Aan de slag met marketingcampagnes](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=en)
+* [[!DNL Campaign Classic] v7-documentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=nl){target="_blank"}
+* [Aan de slag met marketingcampagnes](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=nl){target="_blank"}
+* [Seedadressen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html)
+* [Aan de slag met marketingcampagnes](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=nl)
 * [Adobe [!DNL Campaign Classic] V7-zelfstudies](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=nl)
-* [Een aangepaste tabel voor ontvangers gebruiken](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html?lang=en){target="_blank"}
+* [Een aangepaste tabel voor ontvangers gebruiken](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
 
 **Sectie 2: Workflowbeheer**
 
-* [Aan de slag met A/B-tests](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/a-b-testing/get-started-a-b-testing.html?lang=en){target="_blank"}
-* [Aan de slag met bericht bijhouden](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html?lang=en){target="_blank"}
-* [Aan de slag met workflows](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/about-workflows.html?lang=en){target="_blank"}
-* [Gerichte activiteiten in workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=en){target="_blank"}
-* [Query](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html?lang=en){target="_blank"}
+* [Aan de slag met A/B-tests](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/a-b-testing/get-started-a-b-testing.html){target="_blank"}
+* [Aan de slag met bericht bijhouden](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html){target="_blank"}
+* [Aan de slag met workflows](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/about-workflows.html){target="_blank"}
+* [Gerichte activiteiten in workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html){target="_blank"}
+* [Query](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html){target="_blank"}
 
 **Deel 3: Gegevensbeheer**
 
-* [Gegevensschema’s](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/data-schemas.html?lang=en){target="_blank"}
-* [Acties in workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html?lang=en){target="_blank"}
-* [Aan de slag met processen en data management](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/get-started-workflows.html?lang=en){target="_blank"}
-* [Een formulier identificeren](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/input-forms/identifying-a-form.html?lang=en){target="_blank"}
-* [Contentmanagement](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/about-content-management.html?lang=en){target="_blank"}
+* [Gegevensschema’s](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/data-schemas.html){target="_blank"}
+* [Acties in workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html){target="_blank"}
+* [Aan de slag met processen en data management](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/get-started-workflows.html){target="_blank"}
+* [Een formulier identificeren](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/input-forms/identifying-a-form.html){target="_blank"}
+* [Contentmanagement](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/about-content-management.html){target="_blank"}
 
 
 **Sectie 4: Leveringsbeheer**
 
-* [Campaign-integraties](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/get-started-campaign-integrations.html?lang=en){target="_blank"}
-* [Levering](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/delivery.html?lang=en){target="_blank"}
-* [Aan de slag met marketingcampagnes](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=en){target="_blank"}
-* [Aanmaakstappen voor leveringen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-about-delivery-creation-steps.html?lang=en){target="_blank"}
-* [Aan de slag met verzendingscontrole](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=en){target="_blank"}
+* [Campaign-integraties](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/get-started-campaign-integrations.html){target="_blank"}
+* [Levering](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/delivery.html){target="_blank"}
+* [Aan de slag met marketingcampagnes](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=nl){target="_blank"}
+* [Aanmaakstappen voor leveringen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-about-delivery-creation-steps.html){target="_blank"}
+* [Aan de slag met verzendingscontrole](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=nl){target="_blank"}
 
 **Sectie 5: Rapportage**
 
-* [Rapporten over leveringen](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html?lang=en){target="_blank"}
-* [Aan de slag met rapportages](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=en){target="_blank"}
+* [Rapporten over leveringen](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
+* [Aan de slag met rapportages](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
 
 **Sectie 6: Beheer**
 
-* [Configuratiebeginsel](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/configuration-principle.html?lang=en){target="_blank"}
-* [Aan de slag met machtigingen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html?lang=en){target="_blank"}
-* [SFTP-beheer](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/about-sftp-management.html?lang=en){target="_blank"}
+* [Configuratiebeginsel](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/configuration-principle.html){target="_blank"}
+* [Aan de slag met machtigingen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
+* [SFTP-beheer](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/about-sftp-management.html){target="_blank"}
 
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
@@ -202,6 +202,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

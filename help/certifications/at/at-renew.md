@@ -7,9 +7,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: ec92189f7230790a6fe79f72b06838703d85b94f
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '528'
+source-wordcount: '524'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!IMPORTANT]
 >
->De volgende koppelingen voor cursusbeoordeling functioneren **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende koppelingen voor cursusbeoordeling functioneren **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -47,7 +47,7 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 Selecteren **drie activiteiten** om de cursusbeoordelingen te voltooien en door te geven die aan elke beoordeling zijn gekoppeld.
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Studeer de cursussen in Experience League
 * **Stap 3**: Elke cursusbeoordeling voltooien en doorstaan met ten minste 80%
 
@@ -67,7 +67,7 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 
 | Cursus | Cursusbeoordeling |
 | ------- | ------- |
-| [[!DNL Adobe Target] Overzicht van beslissingen op het apparaat](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html?lang=en){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA401){target="_blank"} |
+| [[!DNL Adobe Target] Overzicht van beslissingen op het apparaat](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA401){target="_blank"} |
 | [[!DNL Adobe Target] Innovaties in cursus Personalisatie](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA402){target="_blank"} |
 | [Implementatie- en persoonlijke cursus voor mobiele toepassingen](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA403){target="_blank"} |
 | [Mobiele instructies en IoT-introductie voor ontwikkelaarscursus](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA404){target="_blank"} |
@@ -81,6 +81,6 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

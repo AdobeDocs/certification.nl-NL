@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E125" type="positive"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1107'
+source-wordcount: '1079'
 ht-degree: 1%
 
 ---
@@ -126,38 +126,38 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Oprichting en beheer van Forms**
 
-* [Adobe Experience Manager 6.4 Handleiding voor formulieren](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html?lang=en){target="_blank"}
-* [AEM Forms-gegevensintegratie](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html?lang=en){target="_blank"}
-* [Inleiding tot het publiceren van formulieren](https://experienceleague.adobe.com/docs/experience-manager-64/forms/publish-process-aem-forms/introduction-publishing-forms.html?lang=en#aem-forms-portal-components-overview){target="_blank"}
-* [Client-Side bibliotheken gebruiken](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html?lang=en#locating-a-client-library-folder-and-using-the-proxy-client-libraries-servlet){target="_blank"}
+* [Adobe Experience Manager 6.4 Handleiding voor formulieren](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
+* [AEM Forms-gegevensintegratie](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html){target="_blank"}
+* [Inleiding tot het publiceren van formulieren](https://experienceleague.adobe.com/docs/experience-manager-64/forms/publish-process-aem-forms/introduction-publishing-forms.html#aem-forms-portal-components-overview){target="_blank"}
+* [Client-Side bibliotheken gebruiken](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html#locating-a-client-library-folder-and-using-the-proxy-client-libraries-servlet){target="_blank"}
 
 **Sectie 2: Processen en workflow**
 
-* [AEM Forms-Tutorials en -video&#39;s](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=en){target="_blank"}
-* [Aangepaste opslag voor concepten en verzendingen](https://experienceleague.adobe.com/docs/experience-manager-64/forms/use-forms-portal/adding-custom-storage-provider-forms.html?lang=en){target="_blank"}
-* [Uitvoerservice](https://experienceleague.adobe.com/docs/experience-manager-65/forms/use-document-services/output-service.html?lang=en#generating-non-interactive-form-documents){target="_blank"}
+* [AEM Forms-Tutorials en -video&#39;s](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html){target="_blank"}
+* [Aangepaste opslag voor concepten en verzendingen](https://experienceleague.adobe.com/docs/experience-manager-64/forms/use-forms-portal/adding-custom-storage-provider-forms.html){target="_blank"}
+* [Uitvoerservice](https://experienceleague.adobe.com/docs/experience-manager-65/forms/use-document-services/output-service.html#generating-non-interactive-form-documents){target="_blank"}
 
 **Deel 3: Beheer en probleemoplossing**
 
-* [Fouten opsporen in AEM as a Cloud Service met behulp van logboeken](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html?lang=en#:~:text=aemerror%20is%20the%20Java%20error%20log%20%28found%20at,log%20levels%20for%20custom%20loggers%20per%20environment%20type%3A){target="_blank"}
-* [Logboekregistratie inschakelen voor HTML5 Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/html5-forms/enable-logs.html?lang=en){target="_blank"}
+* [Fouten opsporen in AEM as a Cloud Service met behulp van logboeken](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html#:~:text=aemerror%20is%20the%20Java%20error%20log%20%28found%20at,log%20levels%20for%20custom%20loggers%20per%20environment%20type%3A){target="_blank"}
+* [Logboekregistratie inschakelen voor HTML5 Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/html5-forms/enable-logs.html){target="_blank"}
 * [Opmerkingen bij de release van Adobe Experience Manager 6.5 Nieuwste Service Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html){target="_blank"}
-* [Dispatcher configureren](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/dispatcher-configuration.html?lang=en){target="_blank"}
+* [Dispatcher configureren](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/dispatcher-configuration.html){target="_blank"}
 
 **Sectie 4: API-eindpunten en -integratie**
 
-* [Adobe Experience Manager Forms integreren als Cloud Service met Acrobat Sign | Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html?lang=en){target="_blank"}
+* [Adobe Experience Manager Forms integreren als Cloud Service met Acrobat Sign | Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html){target="_blank"}
 
 **Sectie 5: Interactieve communicatie**
 
-* [Overzicht van communicatie tussen interactie](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html?lang=en){target="_blank"}
-* [Voorwaarden voor interactieve communicatie](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html?lang=en){target="_blank"}
+* [Overzicht van communicatie tussen interactie](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html){target="_blank"}
+* [Voorwaarden voor interactieve communicatie](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
@@ -197,6 +197,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

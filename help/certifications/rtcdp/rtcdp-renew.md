@@ -7,9 +7,9 @@ recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 4faaca20-9d03-48b2-b3d7-0f964c63000e
-source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -46,6 +46,6 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

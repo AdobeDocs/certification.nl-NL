@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-E408" type="positive"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1034'
+source-wordcount: '996'
 ht-degree: 1%
 
 ---
@@ -113,39 +113,39 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 **Sectie 1: Planning en strategie**
 
-* [[!DNL Adobe Target] Handleiding voor ondernemers](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* Documentatie voor [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target.html?lang=en){target="_blank"}
-* [Bezoekerprofielen](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html?lang=en){target="_blank"}
-* [[!DNL Adobe Target] welkomstkit](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html?lang=en){target="_blank"}
-* [Succeswaarden](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html?lang=en){target="_blank"}
-* [Categorieën voor soorten publiek](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Handleiding voor ondernemers](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
+* Documentatie voor [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target.html){target="_blank"}
+* [Bezoekerprofielen](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html){target="_blank"}
+* [[!DNL Adobe Target] welkomstkit](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
+* [Succeswaarden](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html){target="_blank"}
+* [Categorieën voor soorten publiek](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html){target="_blank"}
 
 **Sectie 2: Configureren, uitvoeren en beheren**
 
-* [Visual Experience Composer (VEC)](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html?lang=en){target="_blank"}
-* [[!DNL Adobe Target] welkomstkit](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html?lang=en){target="_blank"}
-* [A/B-testoverzicht](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=en){target="_blank"}
-* [Een belevenis maken die gericht is op activiteit](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html?lang=en){target="_blank"}
-* [Overzicht van multivariatie-test](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html?lang=en){target="_blank"}
-* [Aanbevelingen](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=en){target="_blank"}
-* [Soorten publiek maken](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=en){target="_blank"}
-* [Activiteit QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html?lang=en){target="_blank"}
+* [Visual Experience Composer (VEC)](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html){target="_blank"}
+* [[!DNL Adobe Target] welkomstkit](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
+* [A/B-testoverzicht](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
+* [Een belevenis maken die gericht is op activiteit](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html){target="_blank"}
+* [Overzicht van multivariatie-test](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
+* [Aanbevelingen](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
+* [Soorten publiek maken](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html){target="_blank"}
+* [Activiteit QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
 
 **Deel 3: Analyseren en rapporteren**
 
-* [Rapportinstellingen](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html?lang=en){target="_blank"}
-* [A/B-testoverzicht](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=en){target="_blank"}
+* [Rapportinstellingen](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
+* [A/B-testoverzicht](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
 
 **Sectie 4: Problemen oplossen**
 
-* [[!DNL Adobe Target] Handleiding voor ondernemers](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [Overzicht van Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Handleiding voor ondernemers](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
+* [Overzicht van Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
@@ -174,6 +174,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

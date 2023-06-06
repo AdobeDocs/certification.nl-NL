@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Exam AD0-E328" type="positive"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1187'
-ht-degree: 7%
+source-wordcount: '1139'
+ht-degree: 8%
 
 ---
 
@@ -113,49 +113,49 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Definitie van oplossing**
 
-* [Lidmaatschappen beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/subscriptions-and-referrals/managing-subscriptions.html?lang=en){target="_blank"}
-* [Ga aan de slag met de configuratie van de Campagneserver](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/additional-configurations/configuring-campaign-server.html?lang=en){target="_blank"}
-* [Aan de slag met verzendingscontrole](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=en){target="_blank"}
-* [Aanbevelingen voor hardwareaanpassing](https://experienceleague.adobe.com/docs/campaign-classic/using/technotes/hardware-sizing.html?lang=en){target="_blank"}
-* [Zelfstandige implementatie](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/standalone-deployment.html?lang=en){target="_blank"}
+* [Lidmaatschappen beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/subscriptions-and-referrals/managing-subscriptions.html){target="_blank"}
+* [Ga aan de slag met de configuratie van de Campagneserver](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/additional-configurations/configuring-campaign-server.html){target="_blank"}
+* [Aan de slag met verzendingscontrole](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=nl){target="_blank"}
+* [Aanbevelingen voor hardwareaanpassing](https://experienceleague.adobe.com/docs/campaign-classic/using/technotes/hardware-sizing.html){target="_blank"}
+* [Zelfstandige implementatie](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/standalone-deployment.html?lang=nl){target="_blank"}
 
 **Sectie 2: Gegevenslandschappen**
 
-* [Power Booster en Power Cluster](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/power-booster-and-power-cluster.html?lang=en){target="_blank"}
-* [PII-weergave beperken](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/restricting-pii-view.html?lang=en){target="_blank"}
-* [Best practices voor workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=nl){target="_blank"}
+* [Power Booster en Power Cluster](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/power-booster-and-power-cluster.html){target="_blank"}
+* [PII-weergave beperken](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/restricting-pii-view.html){target="_blank"}
+* [Best practices voor workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
 * [Best practices voor het gegevensmodel](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html?lang=nl){target="_blank"}
 * [Privacyverzoeken beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-requests/privacy-requests.html){target="_blank"}
 
 **Deel 3: Installatie en beheer**
 
-* [Aanbiedingsplaatsingen maken](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/managing-environments/creating-offer-spaces.html?lang=en){target="_blank"}
-* [CRM-connectoren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html?lang=en){target="_blank"}
-* [Aanbiedingen op een inbound-kanaal](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/case-study/offers-on-an-inbound-channel.html?lang=en){target="_blank"}
-* [Werken met gegevenspakketten](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=en){target="_blank"}
-* [Externe accounts](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html?lang=en){target="_blank"}
+* [Aanbiedingsplaatsingen maken](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/managing-environments/creating-offer-spaces.html){target="_blank"}
+* [CRM-connectoren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html){target="_blank"}
+* [Aanbiedingen op een inbound-kanaal](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/case-study/offers-on-an-inbound-channel.html){target="_blank"}
+* [Werken met gegevenspakketten](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
+* [Externe accounts](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html){target="_blank"}
 
 **Sectie 4: Projectleiding**
 
 * [Workflowuitvoering controleren](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=nl){target="_blank"}
 * [Identiteit instellen en Single Sign-On](https://helpx.adobe.com/uk/enterprise/using/set-up-identity.html){target="_blank"}
-* [Databasetoewijzing](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/database-mapping.html?lang=en){target="_blank"}
-* [Workflowheatmap](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html?lang=en){target="_blank"}
+* [Databasetoewijzing](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/database-mapping.html){target="_blank"}
+* [Workflowheatmap](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html){target="_blank"}
 
 **Sectie 5: Aanpassing**
 
-* [Werken met campagne- en Experience Cloud-triggers](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers.html?lang=en){target="_blank"}
-* [JavaScript-scripts en -sjablonen](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html?lang=en){target="_blank"}
-* [Beheer van big data op Snowflake](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/fda/big-data-segmentation-on-snowflake.html?lang=en){target="_blank"}
-* [CRM-connectoren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html?lang=en){target="_blank"}
-* [Interaction- en aanbiedingenbeheer](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/interaction-overview/interaction-and-offer-management.html?lang=en){target="_blank"}
-* [Werkwijze](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/operating-principle.html?lang=en){target="_blank"}
+* [Werken met campagne- en Experience Cloud-triggers](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers.html){target="_blank"}
+* [JavaScript-scripts en -sjablonen](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
+* [Beheer van big data op Snowflake](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/fda/big-data-segmentation-on-snowflake.html){target="_blank"}
+* [CRM-connectoren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html){target="_blank"}
+* [Interaction- en aanbiedingenbeheer](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/interaction-overview/interaction-and-offer-management.html){target="_blank"}
+* [Werkwijze](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/operating-principle.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
@@ -184,6 +184,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

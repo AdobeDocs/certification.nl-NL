@@ -7,10 +7,10 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1478'
-ht-degree: 10%
+source-wordcount: '1404'
+ht-degree: 11%
 
 ---
 
@@ -26,7 +26,7 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -46,7 +46,7 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 ## Instructies voor het vernieuwen van uw certificering:
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Herzie de examendoelstellingen en de middelen
 * **Stap 3**: Neem en ga het examen over
 
@@ -112,7 +112,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 ## Uw certificering verlengen
 
-Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"} eerst. Dan, om uw examen te vernieuwen klik [!DNL Campaign Standard] Verlenging van de Business Practitioner - link AD5-822 hieronder.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} eerst. Dan, om uw examen te vernieuwen klik [!DNL Campaign Standard] Verlenging van de Business Practitioner - link AD5-822 hieronder.
 
 * [[!DNL Campaign Standard] Verlenging van de beroepsbeoefenaar - AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
 
@@ -130,7 +130,7 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 ## Instructies voor het vernieuwen van uw certificering:
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Herzie de examendoelstellingen en de middelen
 * **Stap 3**: Neem en ga het examen over
 
@@ -183,50 +183,50 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Gegevensmodellering en -beheer**
 
-* [Een aangepaste bron maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html?lang=enn){target="_blank"}
-* [De bron maken of uitbreiden](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html?lang=en){target="_blank"}
-* [Het vormen van een het schermdefinitie voor een douanemiddel](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html?lang=en){target="_blank"}
-* [Schermdefinitie configureren](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html?lang=en){target="_blank"}
-* [Aangepaste bronnen koppelen](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html?lang=en){target="_blank"}
-* [De gegevensstructuur van de bron configureren](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html?lang=en#defining-links-with-other-resources){target="_blank"}
+* [Een aangepaste bron maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.htmln){target="_blank"}
+* [De bron maken of uitbreiden](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
+* [Het vormen van een het schermdefinitie voor een douanemiddel](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html){target="_blank"}
+* [Schermdefinitie configureren](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
+* [Aangepaste bronnen koppelen](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html){target="_blank"}
+* [De gegevensstructuur van de bron configureren](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html#defining-links-with-other-resources){target="_blank"}
 * [Goedkeuringsproces](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
-* [De databasestructuur bijwerken](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html?lang=en){target="_blank"}
+* [De databasestructuur bijwerken](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
 * [Technische workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=nl){target="_blank"}
 
 **Sectie 2: Campaign Management**
 
-* [Programma’s en campagnes](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=enn){target="_blank"}
-* [Best practices voor workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=en){target="_blank"}
-* [Programma’s en campagnes](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=en){target="_blank"}
-* [Aan de slag met profielen en doelgroepen](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html?lang=en){target="_blank"}
-* [Informatie over typologieën en typologieregels](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html?lang=en){target="_blank"}
-* [Filterregels](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html?lang=en){target="_blank"}
-* [Sjablonen voor marketingactiviteiten](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html?lang=en){target="_blank"}
-* [Een landingspagina configureren](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html?lang=en){target="_blank"}
-* [Lidmaatschapsservices](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html?lang=en){target="_blank"}
-* [Belangrijkste stappen voor verzending van een bericht](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html?lang=en){target="_blank"}
-* [Bijhouden en bewaken](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html?lang=en){target="_blank"}
-* [Leveringsoverzicht](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html?lang=en){target="_blank"}
-* [Email Designer in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=en#video){target="_blank"}
-* [Aan de slag met dynamische rapportage](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html?lang=en){target="_blank"}
+* [Programma’s en campagnes](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.htmln){target="_blank"}
+* [Best practices voor workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=nl){target="_blank"}
+* [Programma’s en campagnes](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=nl#getting-started){target="_blank"}
+* [Aan de slag met profielen en doelgroepen](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html){target="_blank"}
+* [Informatie over typologieën en typologieregels](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html){target="_blank"}
+* [Filterregels](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html){target="_blank"}
+* [Sjablonen voor marketingactiviteiten](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html){target="_blank"}
+* [Een landingspagina configureren](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html){target="_blank"}
+* [Lidmaatschapsservices](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
+* [Belangrijkste stappen voor verzending van een bericht](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
+* [Bijhouden en bewaken](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
+* [Leveringsoverzicht](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
+* [Email Designer in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
+* [Aan de slag met dynamische rapportage](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
 
 **Deel 3: Beheer**
 
-* [Groepen en gebruikers beheren](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html?lang=en){target="_blank"}
-* [Organisatorische eenheden](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html?lang=en){target="_blank"}
-* [Pakketten beheren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html?lang=en){target="_blank"}
-* [Aangepaste resources exporteren en importeren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html?lang=en){target="_blank"}
-* [Externe accounts](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html?lang=en){target="_blank"}
+* [Groepen en gebruikers beheren](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html){target="_blank"}
+* [Organisatorische eenheden](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html){target="_blank"}
+* [Pakketten beheren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
+* [Aangepaste resources exporteren en importeren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html){target="_blank"}
+* [Externe accounts](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html){target="_blank"}
 * [Uitvoeringsopties beheren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/managing-execution-options.html?lang=nl){target="_blank"}
-* [Workflowuitvoering controleren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html?lang=nl){target="_blank"}
-* [Merkpositionering](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html?lang=en){target="_blank"}
-* [Informatie over kanaalconfiguratie](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html?lang=en){target="_blank"}
-* [Aan de slag met communicatiekanalen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html?lang=en){target="_blank"}
+* [Workflowuitvoering controleren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html){target="_blank"}
+* [Merkpositionering](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html){target="_blank"}
+* [Informatie over kanaalconfiguratie](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
+* [Aan de slag met communicatiekanalen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html){target="_blank"}
 
 
 ## Uw certificering verlengen
 
-Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de knop [!DNL Campaign Standard] Verlenging van ontwikkelaar - koppeling AD5-821.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de knop [!DNL Campaign Standard] Verlenging van ontwikkelaar - koppeling AD5-821.
 
 * [[!DNL Campaign Standard] Hernieuwde ontwikkeling van ontwikkelaars - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 
@@ -242,4 +242,4 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 
 Heb je een vraag over Adobe-certificering? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.

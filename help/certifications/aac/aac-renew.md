@@ -7,9 +7,9 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8016ac6f-2a30-4a72-bc17-b2ca422c21e8
-source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ We zijn blij om aan te kondigen dat u nu uw certificering kunt vernieuwen via ee
 
 >[!IMPORTANT]
 >
->De volgende examinverbindingen zullen **alleen** functie na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende examinverbindingen zullen **alleen** functie na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -48,6 +48,6 @@ We zijn blij om aan te kondigen dat u nu uw certificering kunt vernieuwen via ee
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

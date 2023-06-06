@@ -7,10 +7,10 @@ recommendations: disable, exclude
 badge: label="Exam AD0-E600 & AD7-E601" type="positive"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '2089'
-ht-degree: 1%
+source-wordcount: '2033'
+ht-degree: 2%
 
 ---
 
@@ -117,25 +117,25 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 2: Gegevensinvoer**
 
-* [Gegevensopname](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en){target="_blank"}
+* [Gegevensopname](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html){target="_blank"}
 
 **Deel 3: Profielen verenigen**
 
-* [Identiteitsgrafieken en identiteitsgrafieken](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=en){target="_blank"}
-* [Identiteiten toewijzen](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html?lang=en){target="_blank"}
-* [Identiteitsgegevens labelen, opnemen en verifiëren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html?lang=en){target="_blank"}
+* [Identiteitsgrafieken en identiteitsgrafieken](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html){target="_blank"}
+* [Identiteiten toewijzen](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html){target="_blank"}
+* [Identiteitsgegevens labelen, opnemen en verifiëren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html){target="_blank"}
 * [Een dataset maken voor het exporteren van een publiekssegment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html){target="_blank"}
-* [Gemaakte segmenten maken met behulp van realtime klantprofiel](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html?lang=en){target="_blank"}
+* [Gemaakte segmenten maken met behulp van realtime klantprofiel](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html){target="_blank"}
 
 **Sectie 4: Activering**
 
-* [Overzicht van doelen](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en){target="_blank"}
+* [Overzicht van doelen](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=nl){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
@@ -218,19 +218,19 @@ Deel 3: Doelen (27%)
 
 **Sectie 1: Validatie**
 
-* [Overzicht van het realtime klantprofiel](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=en){target="_blank"}
-* [Profieldashboard](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html?lang=en){target="_blank"}
-* [Standaardhulplijnen voor realtime klantprofielgegevens](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=en)
-* [Klantprofiel in realtime inschakelen](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html?lang=en){target="_blank"}
-* [[!DNL Real-Time Customer Data Platform] Overzicht](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=en){target="_blank"}
+* [Overzicht van het realtime klantprofiel](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=nl){target="_blank"}
+* [Profieldashboard](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
+* [Standaardhulplijnen voor realtime klantprofielgegevens](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html)
+* [Klantprofiel in realtime inschakelen](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html){target="_blank"}
+* [[!DNL Real-Time Customer Data Platform] Overzicht](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=nl){target="_blank"}
 * [AEP Application Services: Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
-* [Aan de slag met Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html?lang=en){target="_blank"}
-* [[!DNL Real-Time Customer Data Platform] homepage en dashboards](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html?lang=en){target="_blank"}
-* [Dataflows voor doelen in de UI controleren](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html?lang=en){target="_blank"}
+* [Aan de slag met Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html){target="_blank"}
+* [[!DNL Real-Time Customer Data Platform] homepage en dashboards](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
+* [Dataflows voor doelen in de UI controleren](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html){target="_blank"}
 * [Segmenten maken en activeren in Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
-* [Privacyoverzicht](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html?lang=en){target="_blank"}
-* [Gegevensbeheer in real time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html?lang=en){target="_blank"}
-* [Gegevensbeheerkader toepassen](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html?lang=en){target="_blank"}
+* [Privacyoverzicht](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html){target="_blank"}
+* [Gegevensbeheer in real time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
+* [Gegevensbeheerkader toepassen](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html){target="_blank"}
 * [Aan de slag met gegevensbeheer](https://video.tv.adobe.com/v/333350/){target="_blank"}
 * [Overzicht van gegevensbeheer](https://video.tv.adobe.com/v/29708/){target="_blank"}
 * [Data Governance demo](https://video.tv.adobe.com/v/36653/){target="_blank"}
@@ -240,10 +240,10 @@ Deel 3: Doelen (27%)
 
 **Sectie 2: Segmentering**
 
-* [Segmenteringsservice in [!DNL Real-Time Customer Data Platform]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segmentation-overview.html?lang=en){target="_blank"}
-* [Handleiding voor de gebruikersinterface van Segment Builder](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html?lang=en){target="_blank"}
-* [Segmentering in real-time CDP B2B-editie](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/b2b.html?lang=en){target="_blank"}
-* [Segmenten maken](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html?lang=en){target="_blank"}
+* [Segmenteringsservice in [!DNL Real-Time Customer Data Platform]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segmentation-overview.html){target="_blank"}
+* [Handleiding voor de gebruikersinterface van Segment Builder](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html){target="_blank"}
+* [Segmentering in real-time CDP B2B-editie](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/b2b.html){target="_blank"}
+* [Segmenten maken](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html){target="_blank"}
 * [Overzicht van de builder van segmenten](https://video.tv.adobe.com/v/333301/){target="_blank"}
 * [Segment maken](https://video.tv.adobe.com/v/27254/){target="_blank"}
 * [Op inhoud gebaseerde segmenten maken](https://video.tv.adobe.com/v/333302/){target="_blank"}
@@ -259,15 +259,15 @@ Deel 3: Doelen (27%)
 
 **Deel 3: Doelen**
 
-* [Overzicht van bestemming](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en){target="_blank"}
-* [Doeltypen en -categorieën](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=en){target="_blank"}
-* [Werkruimte Doel](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html?lang=en){target="_blank"}
-* [Een nieuwe doelverbinding maken](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=en){target="_blank"}
+* [Overzicht van bestemming](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=nl){target="_blank"}
+* [Doeltypen en -categorieën](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html){target="_blank"}
+* [Werkruimte Doel](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html){target="_blank"}
+* [Een nieuwe doelverbinding maken](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html){target="_blank"}
 * [CDP in realtime: Doelen](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
 * [Overzicht van bestemming](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html){target="_blank"}
 * [Doel maken en gegevens activeren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html){target="_blank"}
-* [Overzicht van activering](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html?lang=en){target="_blank"}
-* [Overzicht van doelcatalogus](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html?lang=en){target="_blank"}
+* [Overzicht van activering](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html){target="_blank"}
+* [Overzicht van doelcatalogus](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html){target="_blank"}
 * [Profielen en segmenten naar een doel activeren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
 * [Google Customer Match integreren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/integrate-with-google-customer-match.html){target="_blank"}
 * [Azure Blob-bestemming configureren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html){target="_blank"}
@@ -280,7 +280,7 @@ Deel 3: Doelen (27%)
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
@@ -319,6 +319,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

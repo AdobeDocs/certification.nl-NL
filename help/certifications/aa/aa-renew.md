@@ -7,9 +7,9 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: ec92189f7230790a6fe79f72b06838703d85b94f
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '565'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!IMPORTANT]
 >
->De volgende koppelingen voor cursusbeoordeling functioneren **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende koppelingen voor cursusbeoordeling functioneren **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -48,7 +48,7 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 Selecteren **drie activiteiten** om de cursusbeoordelingen te voltooien en door te geven die aan elke beoordeling zijn gekoppeld.
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Studeer de cursussen in Experience League
 * **Stap 3**: Elke cursusbeoordeling voltooien en doorstaan met ten minste 80%
 
@@ -73,7 +73,7 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 | [Uw gegevens filteren met aangepaste segmentatie en datums - Les 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADR-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA203){target="_blank"} |
 | [Implementatie met instructies-analyse - les 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADR-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA204){target="_blank"} |
 | [ Interne site zoeken implementeren en meten - Les 3 en 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADR-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA205){target="_blank"} |
-| [Adobe Analytics API&#39;s](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html?lang=en){target="_blank"} | [ADR-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA206){target="_blank"} |
+| [Adobe Analytics API&#39;s](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADR-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA206){target="_blank"} |
 
 >[!NOTE]
 >
@@ -83,6 +83,6 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 
 ### Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

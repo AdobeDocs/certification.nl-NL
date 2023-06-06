@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: ec92189f7230790a6fe79f72b06838703d85b94f
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '884'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!IMPORTANT]
 >
->De volgende koppelingen voor cursusbeoordeling functioneren **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende koppelingen voor cursusbeoordeling functioneren **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -42,7 +42,7 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 Selecteren **drie activiteiten** om de cursusbeoordelingen te voltooien en door te geven die aan elke beoordeling zijn gekoppeld.
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Studeer de cursussen in Experience League
 * **Stap 3**: Elke cursusbeoordeling voltooien en doorstaan met ten minste 80%
 
@@ -62,9 +62,9 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 
 | Cursus | Cursusbeoordeling |
 | ------- | ------- |
-| [Adobe [!DNL Commerce] E-Commerce-trends](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html?lang=en){target="_blank"} | [ADR-EA714](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA714){target="_blank"} |
-| [Adobe [!DNL Commerce] Personalisatie](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html?lang=en){target="_blank"} | [ADR-EA715](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA715){target="_blank"} |
-| [Adobe [!DNL Commerce] AI-automatisering](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html?lang=en){target="_blank"} | [ADR-EA716](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA716){target="_blank"} |
+| [Adobe [!DNL Commerce] E-Commerce-trends](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA714](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA714){target="_blank"} |
+| [Adobe [!DNL Commerce] Personalisatie](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA715](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA715){target="_blank"} |
+| [Adobe [!DNL Commerce] AI-automatisering](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html){target="_blank"} | [ADR-EA716](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA716){target="_blank"} |
 | [[!DNL Commerce]: Integratie van gegevens in Experience Platform en verder](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA720](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA720){target="_blank"} |
 | [[!DNL Commerce]: Composable Commerce on Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA721](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA721){target="_blank"} |
 
@@ -85,7 +85,7 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 Selecteren **drie activiteiten** om de cursusbeoordelingen te voltooien en door te geven die aan elke beoordeling zijn gekoppeld.
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Studeer de cursussen in Experience League
 * **Stap 3**: Elke cursusbeoordeling voltooien en doorstaan met ten minste 80%
 
@@ -105,9 +105,9 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 
 | Cursus | Cursusbeoordeling |
 | ------- | ------- |
-| [Adobe [!DNL Commerce] E-Commerce-trends](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html?lang=en){target="_blank"} | [ADR-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA703){target="_blank"} |
-| [Adobe [!DNL Commerce] Personalisatie](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html?lang=en){target="_blank"} | [ADR-EA704](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA704){target="_blank"} |
-| [Adobe [!DNL Commerce] AI-automatisering](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html?lang=en){target="_blank"} | [ADR-EA705](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA705){target="_blank"} |
+| [Adobe [!DNL Commerce] E-Commerce-trends](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA703){target="_blank"} |
+| [Adobe [!DNL Commerce] Personalisatie](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA704](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA704){target="_blank"} |
+| [Adobe [!DNL Commerce] AI-automatisering](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html){target="_blank"} | [ADR-EA705](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA705){target="_blank"} |
 | [[!DNL Commerce]: Integratie van gegevens in Experience Platform en verder](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA709](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA709){target="_blank"} |
 | [[!DNL Commerce]: Composable Commerce on Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA710](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA710){target="_blank"} |
 
@@ -119,6 +119,6 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

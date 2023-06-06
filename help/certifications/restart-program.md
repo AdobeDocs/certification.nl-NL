@@ -6,10 +6,10 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '5355'
-ht-degree: 5%
+source-wordcount: '5191'
+ht-degree: 4%
 
 ---
 
@@ -43,7 +43,7 @@ Het Adobe Restart-programma is een initiatief dat personen met een verlopen peri
 
 Selecteren **drie activiteiten** om de cursusbeoordelingen te voltooien en door te geven die aan elke beoordeling zijn gekoppeld.
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Studeer de cursussen in Experience League
 * **Stap 3**: Elke cursusbeoordeling voltooien en doorstaan met ten minste 80%
 
@@ -64,14 +64,14 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 
 | Cursus | Cursusbeoordeling |
 | ------- | ------- |
-| [Verplaatsen naar Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html?lang=en){target="_blank"} | [ADS-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA101){target="_blank"} |
-| [Verplaatsen naar Adobe Experience Manager as a Cloud Service plannen](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html?lang=en){target="_blank"} | [ADS-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA102){target="_blank"} |
-| [Inleiding tot Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=en){target="_blank"} | [ADS-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA103){target="_blank"} |
-| [Beheer van inhoud zonder hoofd met GraphQL API&#39;s](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html?lang=en){target="_blank"} | [ADS-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA104){target="_blank"} |
-| [Ervaringen met Adobe Experience Manager en Adobe Target personaliseren](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html?lang=en){target="_blank"} | [ADS-EA105](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA105){target="_blank"} |
-| [Experience Manager Forms Cloud Service integreren met Salesforce](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html?lang=en){target="_blank"} | [ADS-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA106){target="_blank"} |
-| [Adobe Experience Manager Cloud Manager Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html?lang=en){target="_blank"} | [ADS-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA107){target="_blank"} |
-| [Adobe Experience Manager Sites for Architects](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html?lang=en){target="_blank"} | [ADS-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA108){target="_blank"} |
+| [Verplaatsen naar Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html){target="_blank"} | [ADS-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA101){target="_blank"} |
+| [Verplaatsen naar Adobe Experience Manager as a Cloud Service plannen](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html){target="_blank"} | [ADS-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA102){target="_blank"} |
+| [Inleiding tot Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"} | [ADS-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA103){target="_blank"} |
+| [Beheer van inhoud zonder hoofd met GraphQL API&#39;s](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html){target="_blank"} | [ADS-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA104){target="_blank"} |
+| [Ervaringen met Adobe Experience Manager en Adobe Target personaliseren](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html){target="_blank"} | [ADS-EA105](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA105){target="_blank"} |
+| [Experience Manager Forms Cloud Service integreren met Salesforce](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html){target="_blank"} | [ADS-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA106){target="_blank"} |
+| [Adobe Experience Manager Cloud Manager Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html){target="_blank"} | [ADS-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA107){target="_blank"} |
+| [Adobe Experience Manager Sites for Architects](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADS-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA108){target="_blank"} |
 
 >[!NOTE]
 >
@@ -83,7 +83,7 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 
 Selecteren **drie activiteiten** om de cursusbeoordelingen te voltooien en door te geven die aan elke beoordeling zijn gekoppeld.
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Studeer de cursussen in Experience League
 * **Stap 3**: Elke cursusbeoordeling voltooien en doorstaan met ten minste 80%
 
@@ -108,7 +108,7 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 | [Uw gegevens filteren met aangepaste segmentatie en datums - Les 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADS-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA203){target="_blank"} |
 | [Implementatie met instructies-analyse - les 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADS-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA204){target="_blank"} |
 | [ Interne site zoeken implementeren en meten - Les 3 en 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
-| [Adobe Analytics API&#39;s](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html?lang=en){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA206){target="_blank"} |
+| [Adobe Analytics API&#39;s](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA206){target="_blank"} |
 
 >[!NOTE]
 >
@@ -120,7 +120,7 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 
 Selecteren **drie activiteiten** om de cursusbeoordelingen te voltooien en door te geven die aan elke beoordeling zijn gekoppeld.
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Studeer de cursussen in Experience League
 * **Stap 3**: Elke cursusbeoordeling voltooien en doorstaan met ten minste 80%
 
@@ -140,7 +140,7 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 
 | Cursus | Cursusbeoordeling |
 | ------- | ------- |
-| [Adobe [!DNL Target] Overzicht van beslissingen op het apparaat](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html?lang=en){target="_blank"} | [ADS-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA401){target="_blank"} |
+| [Adobe [!DNL Target] Overzicht van beslissingen op het apparaat](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADS-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA401){target="_blank"} |
 | [Adobe [!DNL Target] Innovaties in cursus Personalisatie](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADS-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA402){target="_blank"} |
 | [Implementatie- en persoonlijke cursus voor mobiele toepassingen](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADS-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA403){target="_blank"} |
 | [Mobiele instructies en IoT-introductie voor ontwikkelaarscursus](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA404){target="_blank"} |
@@ -158,7 +158,7 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 
 **Instructies voor het opnieuw starten van uw certificering:**
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Herzie de examendoelstellingen en de middelen
 * **Stap 3**: Neem en ga het examen over
 
@@ -233,7 +233,7 @@ Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer n
 
 **Instructies voor het opnieuw starten van uw certificering:**
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Herzie de examendoelstellingen en de middelen
 * **Stap 3**: Neem en ga het examen over
 
@@ -292,30 +292,30 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Implementatieanalyse**
 
-* [[!DNL Audience Manager] Handleiding](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
-* [[!DNL Analytics] Integratie](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=en){target="_blank"}
-* [Adobe [!DNL Experience Cloud] Identiteitsservice](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] Handleiding](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [[!DNL Analytics] Integratie](https://experienceleague.adobe.com/docs/analytics/integration/home.html){target="_blank"}
+* [Adobe [!DNL Experience Cloud] Identiteitsservice](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 **Sectie 2: Oplossingsontwerp en Recommendations**
 
-* [Handleiding voor Audience Manager ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
-* [Zelfstudies voor Audience Managers](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [Handleiding voor Audience Manager ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [Zelfstudies voor Audience Managers](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
 **Deel 3: Segmentering en activering**
 
-* [[!DNL Audience Manager] Handleiding](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] Handleiding](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [[!DNL Audience Manager] Community](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community){target="_blank"}
-* [[!DNL Audience Manager] Tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] Tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
 **Sectie 4: Privacy en gegevensbeheer**
 
-* [[!DNL Audience Manager] Handleiding](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] Handleiding](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [[!DNL Audience Manager] REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
-* [[!DNL Analytics] Beheerdershandleiding](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Beheerdershandleiding](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 
 **Sectie 5: Prestaties en rapportage**
 
-* [Adobe [!DNL Experience Cloud] Identiteitsservice](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
+* [Adobe [!DNL Experience Cloud] Identiteitsservice](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 ### De certificering opnieuw starten
 
@@ -333,7 +333,7 @@ Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer n
 
 **Instructies voor het opnieuw starten van uw certificering:**
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Herzie de examendoelstellingen en de middelen
 * **Stap 3**: Neem en ga het examen over
 
@@ -383,49 +383,49 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Gegevensmodellering en -beheer**
 
-* [Een aangepaste bron maken (video)](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html?lang=en){target="_blank"}
-* [Een bron maken](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html?lang=en){target="_blank"}
-* [Schermdefinitie en filteren configureren (video)](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html?lang=en){target="_blank"}
-* [Een schermdefinitie configureren](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html?lang=en){target="_blank"}
-* [Filteren configureren](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html?lang=en){target="_blank"}
-* [Een aangepaste koppeling maken (video)](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html?lang=en){target="_blank"}
-* [De sleutels, indexen en koppelingen configureren](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html?lang=en#defining-links-with-other-resources){target="_blank"}
+* [Een aangepaste bron maken (video)](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
+* [Een bron maken](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
+* [Schermdefinitie en filteren configureren (video)](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html){target="_blank"}
+* [Een schermdefinitie configureren](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
+* [Filteren configureren](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
+* [Een aangepaste koppeling maken (video)](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html){target="_blank"}
+* [De sleutels, indexen en koppelingen configureren](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html#defining-links-with-other-resources){target="_blank"}
 * [Leerpad voor goedkeuringsproces (cursusmodule)](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
-* [Een bron bijwerken en publiceren](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html?lang=en){target="_blank"}
-* [Gegevensmodellering oplossen](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html?lang=en){target="_blank"}
+* [Een bron bijwerken en publiceren](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
+* [Gegevensmodellering oplossen](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
 * [Technische workflows maken](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=nl){target="_blank"}
 
 **Sectie 2: Campaign Management**
 
 * [Fouten oplossen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
-* [Best practices voor workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=en){target="_blank"}
-* [Een campagne maken](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=en){target="_blank"}
-* [Aan de slag met profielen en doelgroepen](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html?lang=en){target="_blank"}
-* [Informatie over typologieën en typologieregels](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html?lang=en){target="_blank"}
-* [Filterregels](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html?lang=en){target="_blank"}
-* [Sjablonen maken en beheren](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html?lang=en){target="_blank"}
-* [Een landingspagina configureren](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html?lang=en){target="_blank"}
-* [Lidmaatschapsservices](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html?lang=en){target="_blank"}
-* [Kanalen om een levering te verzenden](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html?lang=en){target="_blank"}
-* [Het volgen en controleren van een levering](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html?lang=en){target="_blank"}
-* [Leveringsoverzicht](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html?lang=en){target="_blank"}
-* [Detecteren van e-mailontwerper (video)](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=en#video){target="_blank"}
-* [Email Designer in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=en){target="_blank"}
-* [Uw rapporten aanpassen](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html?lang=en){target="_blank"}
-* [Aan de slag met dynamische rapporten](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en){target="_blank"}
+* [Best practices voor workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=nl){target="_blank"}
+* [Een campagne maken](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=nl#getting-started){target="_blank"}
+* [Aan de slag met profielen en doelgroepen](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html){target="_blank"}
+* [Informatie over typologieën en typologieregels](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html){target="_blank"}
+* [Filterregels](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html){target="_blank"}
+* [Sjablonen maken en beheren](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html){target="_blank"}
+* [Een landingspagina configureren](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html){target="_blank"}
+* [Lidmaatschapsservices](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
+* [Kanalen om een levering te verzenden](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
+* [Het volgen en controleren van een levering](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
+* [Leveringsoverzicht](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
+* [Detecteren van e-mailontwerper (video)](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
+* [Email Designer in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html){target="_blank"}
+* [Uw rapporten aanpassen](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
+* [Aan de slag met dynamische rapporten](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html){target="_blank"}
 
 **Deel 3: Beheer**
 
-* [Beveiligingsgroepen](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html?lang=en)
-* [Organisatorische eenheden](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html?lang=en)
-* [Pakketten beheren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html?lang=en)
-* [Aangepaste resources exporteren en importeren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html?lang=en)
-* [Externe accounts](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html?lang=en)
+* [Beveiligingsgroepen](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html)
+* [Organisatorische eenheden](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html)
+* [Pakketten beheren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html)
+* [Aangepaste resources exporteren en importeren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html)
+* [Externe accounts](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html)
 * [Uitvoeringsopties beheren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/managing-execution-options.html?lang=nl)
-* [Workflowuitvoering controleren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html?lang=nl)
-* [Een nieuw merk maken](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html?lang=en)
-* [Informatie over kanaalconfiguratie](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html?lang=en)
-* [Aan de slag met communicatiekanalen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html?lang=en)
+* [Workflowuitvoering controleren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html)
+* [Een nieuw merk maken](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html)
+* [Informatie over kanaalconfiguratie](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html)
+* [Aan de slag met communicatiekanalen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html)
 
 ### De certificering opnieuw starten
 
@@ -439,7 +439,7 @@ Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer n
 
 **Instructies voor het opnieuw starten van uw certificering:**
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Herzie de examendoelstellingen en de middelen
 * **Stap 3**: Neem en ga het examen over
 
@@ -512,7 +512,7 @@ Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer n
 
 **Instructies voor het opnieuw starten van uw certificering:**
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Herzie de examendoelstellingen en de middelen
 * **Stap 3**: Neem en ga het examen over
 
@@ -579,31 +579,31 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Installatie en systeemconfiguratie**
 
-* [Pakketten beheren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html?lang=en){target="_blank"}
-* [Werken met gegevenspakketten](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=en){target="_blank"}
-* [Een instantie implementeren](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html?lang=en)
-* [Integreren met Adobe Campaign Classic](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html?lang=en){target="_blank"}
+* [Pakketten beheren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
+* [Werken met gegevenspakketten](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
+* [Een instantie implementeren](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html)
+* [Integreren met Adobe Campaign Classic](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html){target="_blank"}
 
 **Sectie 2: Aanpassing**
 
-* [JavaScript-scripts en -sjablonen](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html?lang=en){target="_blank"}
+* [JavaScript-scripts en -sjablonen](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
 * [Best practices voor het gegevensmodel](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html?lang=nl){target="_blank"}
-* [Operatoren maken en beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html?lang=en){target="_blank"}
-* [Toegang tot mappen beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html?lang=en){target="_blank"}
+* [Operatoren maken en beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
+* [Toegang tot mappen beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html){target="_blank"}
 
 **Deel 3: Gegevensarchitectuur**
 
-* [ [!DNL Campaign Classic]  [!DNL Campaign] Overgang van v7 naar v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=en){target="_blank"}
-* [Werken met bronnen en bestemmingen](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html?lang=nl){target="_blank"}
-* [Specifieke API&#39;s voor campagnes van FFDA](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html?lang=en){target="_blank"}
-* [Informatie over Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html?lang=en){target="_blank"}
+* [ [!DNL Campaign Classic]  [!DNL Campaign] Overgang van v7 naar v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=nl){target="_blank"}
+* [Werken met bronnen en bestemmingen](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
+* [Specifieke API&#39;s voor campagnes van FFDA](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html){target="_blank"}
+* [Informatie over Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html){target="_blank"}
 
 **Sectie 4: Campagne, workflow, levering en rapportage**
 
-* [Best practices voor workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=nl){target="_blank"}
-* [Het goedkeuringsproces instellen en beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=en){target="_blank"}
-* [Verrijking](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=en){target="_blank"}
-* [Best practices voor importeren en exporteren](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=nl){target="_blank"}
+* [Best practices voor workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
+* [Het goedkeuringsproces instellen en beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html){target="_blank"}
+* [Verrijking](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html){target="_blank"}
+* [Best practices voor importeren en exporteren](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
 
 ### De certificering opnieuw starten
 
@@ -617,7 +617,7 @@ Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer n
 
 **Instructies voor het opnieuw starten van uw certificering:**
 
-* **Stap 1** - Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"} dan terug naar deze pagina
+* **Stap 1** - Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} dan terug naar deze pagina
 * **Stap 2** - De onderzoeksdoelstellingen en -middelen evalueren
 * **Stap 3** - Neem het examen in en laat het
 
@@ -697,33 +697,33 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Beheer en onderhoud**
 
-* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Veldbeheer, CRM-synchronisatie, Audittrail, Gebruikersbeheer, Werkruimten en partities, Slimme lijsten, Aangepast veld)
+* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Veldbeheer, CRM-synchronisatie, Audittrail, Gebruikersbeheer, Werkruimten en partities, Slimme lijsten, Aangepast veld)
 * [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Synchroon met Salesforce, CRM-integratie)
 
 **Sectie 2: Marketingactiviteiten/Campagnebeheer**
 
 * [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Willekeurige steekproef, Slimme Campagne met gegevenswaardebrand, Wacht Stappen, lid.webinar url, de Inspecteur van de Campagne, de Logica van de Filter, het Gebruiken van Tokens in E-mail, Loodverwezenlijking via Formulier Vullen, Middelen en Werkruimten, het Leiden Forms)
-* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Slimme lijsten, Slimme campagnes, Demand Generation Forms, Gebeurtenissen voor het genereren van vraag, E-mailmarketing, Programma&#39;s maken, Gebeurtenissen, Audittrail, Werken met programma&#39;s, Beheercodes, Drip Nurturing, Landing Pages, Tokens, Beheer Extra Integraties, Webhaak, de Gebieden van de Douane van het Lid van het Programma, Werkruimte en Personen)
+* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Slimme lijsten, Slimme campagnes, Demand Generation Forms, Gebeurtenissen voor het genereren van vraag, E-mailmarketing, Programma&#39;s maken, Gebeurtenissen, Audittrail, Werken met programma&#39;s, Beheercodes, Drip Nurturing, Landing Pages, Tokens, Beheer Extra Integraties, Webhaak, de Gebieden van de Douane van het Lid van het Programma, Werkruimte en Personen)
 
 **Deel 3: Beheer van leads**
 
 * [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Video over een levenscyclusprogramma voor leads samenstellen, abonnement op e-mail opzeggen)
-* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Slimme campagnes, [!DNL Marketo] Het Inzicht van de verkoop, het Interesten Momenten, het leiden Mensen in Slimme Lijsten, Systeem Beheerde Gebieden)
+* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Slimme campagnes, [!DNL Marketo] Het Inzicht van de verkoop, het Interesten Momenten, het leiden Mensen in Slimme Lijsten, Systeem Beheerde Gebieden)
 
 **Sectie 4: Gegevensbeheer**
 
 * [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Een Directory of Leads Bouncing E-mails-artikel bijhouden, How to Manage Your Marketo Database for Deliverability support-blog, [!DNL Marketo] Activiteiten Beleid inzake gegevensbewaring - onder het Hood-artikel)
-* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (E-mail marketing harde en Zachte Bounces, de Types van Rapport, Personalisatie, Dynamische Inhoud)
+* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (E-mail marketing harde en Zachte Bounces, de Types van Rapport, Personalisatie, Dynamische Inhoud)
 
 **Sectie 5: Rapportage**
 
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Het artikel Aanschaffen van aanbevolen procedures instellen)
-* [Experience League - productdocumentatie voor Marketo Engage](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Rapportage, Prestatie-inzichten, het Rapport van de Prestaties van het Programma, het Uitgeven rapporten, het Lidmaatschap van het Programma)
+* [Experience League - productdocumentatie voor Marketo Engage](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Rapportage, Prestatie-inzichten, het Rapport van de Prestaties van het Programma, het Uitgeven rapporten, het Lidmaatschap van het Programma)
 
 **Sectie 6: Aanbevolen procedures**
 
 * [De Definitieve gids voor het Scoren van de Lood](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
-* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Werken met programma&#39;s, E-mailmarketing, A/B testen)
+* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Werken met programma&#39;s, E-mailmarketing, A/B testen)
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Vraag uw kwaliteitscontroleproces in gedachten)
 
 ### De certificering opnieuw starten
@@ -736,6 +736,6 @@ Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer n
 
 ### Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

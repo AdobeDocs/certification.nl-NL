@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E331" type="positive"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1379'
+source-wordcount: '1321'
 ht-degree: 8%
 
 ---
@@ -136,57 +136,57 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 **Sectie 1: Systeemconfiguratie**
 
-* [Gegevensschema’s](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/data-schemas.html?lang=en){target="_blank"}
-* [Schema&#39;s uitbreiden of maken](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/about-schema-edition.html?lang=en#extending-or-creating-schemas){target="_blank"}
-* [Schemastructuur](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/schema-structure.html?lang=en){target="_blank"}
+* [Gegevensschema’s](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/data-schemas.html){target="_blank"}
+* [Schema&#39;s uitbreiden of maken](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/about-schema-edition.html#extending-or-creating-schemas){target="_blank"}
+* [Schemastructuur](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/schema-structure.html){target="_blank"}
 * [Lijst van [!DNL Campaign Classic] opties](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/appendices/configuring-campaign-options.html?lang=nl){target="_blank"}
 * [Externe accounts configureren](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/configuration/external-accounts.html%3Flang%3Dja){target="_blank"}
-* [Typologische regels](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=en#typology-rules){target="_blank"}
+* [Typologische regels](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html#typology-rules){target="_blank"}
 
 **Sectie 2: Aanpassing**
 
-* [Schema bewerken](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/edit-schema.html?lang=en){target="_blank"}
-* [Een schema uitbreiden](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/extending-a-schema.html?lang=en){target="_blank"}
+* [Schema bewerken](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/edit-schema.html){target="_blank"}
+* [Een schema uitbreiden](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/extending-a-schema.html){target="_blank"}
 * [Instantie aanpassen](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/customize.html%3Flang%3Den){target="_blank"}
-* [Gebruiksscenario: seedadressen selecteren op criteria](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/use-case--selecting-seed-addresses-on-criteria.html?lang=en){target="_blank"}
-* [Informatie over opt-in en opt-out in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/understanding-opt-in-and-opt-out-processes/about-opt-in-and-opt-out-in-campaign.html?lang=en){target="_blank"}
+* [Gebruiksscenario: seedadressen selecteren op criteria](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/use-case--selecting-seed-addresses-on-criteria.html){target="_blank"}
+* [Informatie over opt-in en opt-out in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/understanding-opt-in-and-opt-out-processes/about-opt-in-and-opt-out-in-campaign.html){target="_blank"}
 
 **Deel 3: Operationele beveiliging**
 
-* [Operatorgroepen maken en beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html?lang=en){target="_blank"}
-* [Opgegeven rechten gebruiken om machtigingen in te stellen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html?lang=en){target="_blank"}
-* [Operatorgroepen maken en beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html?lang=en){target="_blank"}
-* [Groepen en gebruikers beheren](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html?lang=en){target="_blank"}
+* [Operatorgroepen maken en beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html){target="_blank"}
+* [Opgegeven rechten gebruiken om machtigingen in te stellen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
+* [Operatorgroepen maken en beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html){target="_blank"}
+* [Groepen en gebruikers beheren](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html){target="_blank"}
 
 **Sectie 4: Technische werkstromen**
 
-* [Aan de slag met gegevens importeren en exporteren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=en){target="_blank"}
-* [Workflowdata gebruiken](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/how-to-use-workflow-data.html?lang=en){target="_blank"}
-* [Beschrijving van gegevensmodel campagne](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-description.html?lang=en){target="_blank"}
-* [Een workflow maken](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/building-a-workflow.html?lang=en){target="_blank"}
+* [Aan de slag met gegevens importeren en exporteren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html){target="_blank"}
+* [Workflowdata gebruiken](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/how-to-use-workflow-data.html){target="_blank"}
+* [Beschrijving van gegevensmodel campagne](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-description.html){target="_blank"}
+* [Een workflow maken](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/building-a-workflow.html){target="_blank"}
 * [Workflowuitvoering controleren](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=nl){target="_blank"}
-* [Het goedkeuringsproces instellen en beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=en){target="_blank"}
+* [Het goedkeuringsproces instellen en beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html){target="_blank"}
 
 **Sectie 5: Instantieonderhoud**
 
-* [Problemen met het bijhouden van logboeken](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/working-with-log-toc/tracking-logs-issues.html?lang=en){target="_blank"}
-* [Logboekprecisie](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/working-with-log-toc/log-precision.html?lang=en){target="_blank"}
-* [HeatMap van de Campagne Workflow](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html?lang=en){target="_blank"}
+* [Problemen met het bijhouden van logboeken](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/working-with-log-toc/tracking-logs-issues.html){target="_blank"}
+* [Logboekprecisie](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/working-with-log-toc/log-precision.html){target="_blank"}
+* [HeatMap van de Campagne Workflow](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html){target="_blank"}
 
 **Sectie 6: Campagneconfiguratie**
 
-* [Campagnesjablonen maken en configureren](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-templates.html?lang=en){target="_blank"}
-* [Het goedkeuringsproces instellen en beheren](https://experienceleague.adobe.com/docs/campaign/automation/campaign-orchestration/marketing-campaign-approval.html?lang=en){target="_blank"}
+* [Campagnesjablonen maken en configureren](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-templates.html){target="_blank"}
+* [Het goedkeuringsproces instellen en beheren](https://experienceleague.adobe.com/docs/campaign/automation/campaign-orchestration/marketing-campaign-approval.html){target="_blank"}
 * [Audit trail](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=nl){target="_blank"}
-* [Sjablonen gebruiken](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/delivery-bestpractices/use-templates.html?lang=en){target="_blank"}
-* [Aan de slag met workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=en){target="_blank"}
-* [Workflowuitvoering](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/common-general-issues-toc/workflow-execution.html?lang=en){target="_blank"}
+* [Sjablonen gebruiken](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/delivery-bestpractices/use-templates.html){target="_blank"}
+* [Aan de slag met workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html){target="_blank"}
+* [Workflowuitvoering](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/common-general-issues-toc/workflow-execution.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
@@ -216,6 +216,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

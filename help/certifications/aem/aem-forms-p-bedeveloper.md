@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E127" type="positive"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '980'
-ht-degree: 3%
+source-wordcount: '952'
+ht-degree: 4%
 
 ---
 
@@ -118,36 +118,36 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 **Sectie 1: Oprichting en beheer van Forms**
 
-* [Adobe Experience Manager 6.5 Handleiding voor formulieren](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
-* [AEM Forms-gegevensintegratie](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html?lang=en#data-integration-overview){target="_blank"}
-* [Zelfstudies en video&#39;s voor AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=en){target="_blank"}
-* [AEM 6.5 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
+* [Adobe Experience Manager 6.5 Handleiding voor formulieren](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
+* [AEM Forms-gegevensintegratie](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html#data-integration-overview){target="_blank"}
+* [Zelfstudies en video&#39;s voor AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html){target="_blank"}
+* [AEM 6.5 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
 
 **Sectie 2: Processen en workflows**
 
-* [Adobe Experience Manager 6.5 Handleiding voor formulieren](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
-* [Adobe Experience Manager 6.4 Handleiding voor formulieren](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html?lang=en){target="_blank"}
+* [Adobe Experience Manager 6.5 Handleiding voor formulieren](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
+* [Adobe Experience Manager 6.4 Handleiding voor formulieren](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
 * [Eindpunten beheren](https://help.adobe.com/en_US/AEMForms/6.1/AdminHelp/WS92d06802c76abadb-5145d5d12905ce07e7-7ff6.2.html#WS92d06802c76abadb1c01fa7512905cdf2c9-7fd9.2){target="_blank"}
 
 **Deel 3: Beheer en probleemoplossing**
 
 * [Installatieproblemen met logbestanden oplossen | Creative Cloud](https://helpx.adobe.com/creative-cloud/kb/troubleshoot-install-logs-cc.html){target="_blank"}
-* [AEM 6.4 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
-* [Opmerkingen bij de release Adobe Experience Manager 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/home.html?lang=en){target="_blank"}
-* [Adobe Experience Manager 6.5 Handleiding voor formulieren](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
-* [Overzicht van verzending](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en){target="_blank"}
-* [AEM 6.5 Gebruikersgids voor authoring](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
+* [AEM 6.4 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
+* [Opmerkingen bij de release Adobe Experience Manager 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/home.html){target="_blank"}
+* [Adobe Experience Manager 6.5 Handleiding voor formulieren](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
+* [Overzicht van verzending](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
+* [AEM 6.5 Gebruikersgids voor authoring](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 
 **Sectie 4: API-eindpunten en -integratie**
 
-* [as a Cloud Service documentatie Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
-* [Adobe Experience Manager 6.4 Handleiding voor formulieren](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html?lang=en){target="_blank"}
+* [as a Cloud Service documentatie Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [Adobe Experience Manager 6.4 Handleiding voor formulieren](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
@@ -176,6 +176,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

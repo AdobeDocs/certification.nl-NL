@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E124" type="positive"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1192'
+source-wordcount: '1156'
 ht-degree: 1%
 
 ---
@@ -117,45 +117,45 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Adobe Experience Manager configureren**
 
-* [Basisconfiguratieconcepten](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html?lang=en){target="_blank"}
-* [AEM](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html?lang=en){target="_blank"}
-* [OSGi configureren in AEM](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html?lang=en){target="_blank"}
+* [Basisconfiguratieconcepten](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html){target="_blank"}
+* [AEM](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html){target="_blank"}
+* [OSGi configureren in AEM](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html){target="_blank"}
 
 **Sectie 2: Werken met Cloud Manager en Cloud Manager API**
 
-* [Omgevingen beheren](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=en){target="_blank"}
-* [Aan de slag met de migratiereis om as a Cloud Service te AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html?lang=en){target="_blank"}
-* [Overzicht van Adobe I/O-integratie](https://experienceleague.adobe.com/docs/places/using/web-service-api/adobe-i-o-integration.html?lang=en){target="_blank"}
+* [Omgevingen beheren](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html){target="_blank"}
+* [Aan de slag met de migratiereis om as a Cloud Service te AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
+* [Overzicht van Adobe I/O-integratie](https://experienceleague.adobe.com/docs/places/using/web-service-api/adobe-i-o-integration.html){target="_blank"}
 
 **Deel 3: De infrastructuur voor webproxy configureren**
 
-* [Dispatcher Configurations](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/getting-started/dispatcher-configurations.html?lang=en){target="_blank"}
-* [Caching prestaties](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/troubleshooting-aem-forms-cloud-service/troubleshooting-caching-performance.html?lang=en){target="_blank"}
+* [Dispatcher Configurations](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/getting-started/dispatcher-configurations.html){target="_blank"}
+* [Caching prestaties](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/troubleshooting-aem-forms-cloud-service/troubleshooting-caching-performance.html){target="_blank"}
 
 **Sectie 4: Samenstellen en implementeren**
 
-* [Codeimplementatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html?lang=en){target="_blank"}
-* [Productiepijpleidingen configureren](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html?lang=en){target="_blank"}
-* [Werken met pakketten](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html?lang=en){target="_blank"}
-* [AEM-projectstructuur](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=en){target="_blank"}
+* [Codeimplementatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html){target="_blank"}
+* [Productiepijpleidingen configureren](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html){target="_blank"}
+* [Werken met pakketten](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html){target="_blank"}
+* [AEM-projectstructuur](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html){target="_blank"}
 
 **Sectie 5: Monitor en rapport over metrische kwaliteit**
 
 * [Controle en onderhoud van uw AEM](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/monitoring-and-maintaining.html#using-rlog-jar-to-find-requests-with-long-duration-times){target="_blank"}
-* [Dag van de hol: Meerdere exemplaren van dezelfde test toevoegen](https://experienceleague.adobe.com/docs/experience-manager-65/developing/testing/tough-day.html?lang=en#adding-multiple-instances-of-the-same-test){target="_blank"}
-* [Inleiding tot de architectuur van AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/core-concepts/architecture.html?lang=en){target="_blank"}
-* [Automatisch schalen](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=en#autoscaling){target="_blank"}
+* [Dag van de hol: Meerdere exemplaren van dezelfde test toevoegen](https://experienceleague.adobe.com/docs/experience-manager-65/developing/testing/tough-day.html#adding-multiple-instances-of-the-same-test){target="_blank"}
+* [Inleiding tot de architectuur van AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/core-concepts/architecture.html){target="_blank"}
+* [Automatisch schalen](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html#autoscaling){target="_blank"}
 
 **Sectie 6: De Admin Console bedienen**
 
-* [IMS-ondersteuning voor AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html?lang=en#accessing-cloud-manager){target="_blank"}
-* [Adobe IMS-gebruikersgroepen en -AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html?lang=en){target="_blank"}
+* [IMS-ondersteuning voor AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html#accessing-cloud-manager){target="_blank"}
+* [Adobe IMS-gebruikersgroepen en -AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
@@ -195,6 +195,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

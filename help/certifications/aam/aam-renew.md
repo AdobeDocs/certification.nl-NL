@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1134'
+source-wordcount: '1132'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -44,7 +44,7 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 ## Instructies voor het vernieuwen van uw certificering:
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Herzie de examendoelstellingen en de middelen
 * **Stap 3**: Neem en ga het examen over
 
@@ -108,7 +108,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **De certificering opnieuw starten**
 
-Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de koppeling Adobe Audience Manager Business Practitioner - AD5-E826 hieronder om uw certificering te vernieuwen.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de koppeling Adobe Audience Manager Business Practitioner - AD5-E826 hieronder om uw certificering te vernieuwen.
 
 [!BADGE Neem het Adobe Audience Manager Business Practitioner Expert-vernieuwingsexamen AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
 
@@ -189,7 +189,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 ### Uw certificering verlengen
 
-Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de Master vernieuwing van de Adobe Audience Manager Architect - AD5-E825-koppeling hieronder om uw certificering te vernieuwen.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de Master vernieuwing van de Adobe Audience Manager Architect - AD5-E825-koppeling hieronder om uw certificering te vernieuwen.
 
 [!BADGE Neem het Master vernieuwingsexamen AD5-E825 voor de Adobe Audience Manager Architect]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
 
@@ -202,6 +202,6 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 
 ### Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

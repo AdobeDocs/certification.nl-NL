@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-E501" type="positive"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1055'
+source-wordcount: '1023'
 ht-degree: 0%
 
 ---
@@ -113,44 +113,44 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Portfolio en optimalisaties**
 
-* [Inleiding tot Adobe [!DNL Analytics] voor Adobe [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html?lang=en){target="_blank"}
-* [Overzicht van [!DNL Analytics] for [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html?lang=en){target="_blank"}
+* [Inleiding tot Adobe [!DNL Analytics] voor Adobe [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html){target="_blank"}
+* [Overzicht van [!DNL Analytics] for [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html){target="_blank"}
 * [Optimalisatie van prestaties](https://business.adobe.com/in/products/advertising/performance-optimization.html){target="_blank"}
 * [KPI&#39;s begrijpen in Verbeterde analyse](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
-* [Een restrictie toevoegen aan een slim lijstfilter](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.html?lang=en){target="_blank"}
-* [Optimalisatiedoelstellingen en hoe deze te gebruiken](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/optimization/optimization-goals.html?lang=en){target="_blank"}
+* [Een restrictie toevoegen aan een slim lijstfilter](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.html){target="_blank"}
+* [Optimalisatiedoelstellingen en hoe deze te gebruiken](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/optimization/optimization-goals.html){target="_blank"}
 
 **Sectie 2: Rapporten, inzichten en gereedschappen**
 
-* [[!DNL Analytics] Handleiding Tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
-* [Aan de slag met [!DNL Reports & Analytics]](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Handleiding Tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [Aan de slag met [!DNL Reports & Analytics]](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
 * [[!DNL Campaign] Rapportage](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
-* [Maken [!DNL Analytics] Profielen voor Adobe [!DNL Advertising] Activering en rapportage](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html?lang=en){target="_blank"}
-* [Rapport over [!DNL Advertising] gegevens in Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html?lang=en){target="_blank"}
-* [Tijdverwerking rapporteren](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-report-time-processing.html?lang=en){target="_blank"}
-* [Adobe [!DNL Analytics] dashboards Scorecard Builder](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html?lang=en){target="_blank"}
+* [Maken [!DNL Analytics] Profielen voor Adobe [!DNL Advertising] Activering en rapportage](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html){target="_blank"}
+* [Rapport over [!DNL Advertising] gegevens in Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html){target="_blank"}
+* [Tijdverwerking rapporteren](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-report-time-processing.html){target="_blank"}
+* [Adobe [!DNL Analytics] dashboards Scorecard Builder](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html){target="_blank"}
 
 **Deel 3: Campagne**
 
-* [Aan de slag met [!DNL Campaign] Beheer](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html?lang=en){target="_blank"}
+* [Aan de slag met [!DNL Campaign] Beheer](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 * [Controleren wat werkt](https://business.adobe.com/in/products/campaign/campaign-management.html){target="_blank"}
 * [Markeer uw zoekmarketing](https://www.adobe.com/content/dam/www/us/en/avstg/search-marketing-management/pdfs/Adobe_Advertising_Cloud_Search_Marketing_Tips_and_Tricks_Sheet.pdf){target="_blank"}
 * [Bekijk de volledige reis van de klant op één enkel scherm](https://business.adobe.com/in/products/campaign/adobe-campaign.html){target="_blank"}
-* [Slimme campagnes in batch en trigger](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html?lang=en){target="_blank"}
+* [Slimme campagnes in batch en trigger](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
 
 **Sectie 4: Meting**
 
-* [Maken [!DNL Analytics] Aangepaste waarden met Adobe [!DNL Advertising] Gegevens](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html?lang=en){target="_blank"}
+* [Maken [!DNL Analytics] Aangepaste waarden met Adobe [!DNL Advertising] Gegevens](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html){target="_blank"}
 * [Rasters, hulplijnen en metingen in PDF](https://helpx.adobe.com/in/acrobat/using/grids-guides-measurements-pdfs.html){target="_blank"}
 * [Attributie en meting](https://business.adobe.com/in/products/advertising/attribution-measurement.html){target="_blank"}
-* [Marketo Measure Help Documentation](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html?lang=en){target="_blank"}
-* [Conversievariabelen (eVars)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html?lang=en){target="_blank"}
+* [Marketo Measure Help Documentation](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html){target="_blank"}
+* [Conversievariabelen (eVars)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
@@ -179,6 +179,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

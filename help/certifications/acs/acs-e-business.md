@@ -7,10 +7,10 @@ role: User
 badge: label="Examen AD0-E307" type="positief"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1055'
-ht-degree: 5%
+source-wordcount: '1019'
+ht-degree: 6%
 
 ---
 
@@ -110,44 +110,44 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 **Sectie 1: Leveringsbeheer**
 
 * [Portfolio-beheer](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&amp;_LANG=en){target="_blank"}
-* [Informatie over kanaalconfiguratie](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html?lang=en){target="_blank"}
-* [Een verzending controleren](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/monitoring-messages/monitoring-a-delivery.html?lang=en){target="_blank"}
-* [Email Designer in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=en){target="_blank"}
+* [Informatie over kanaalconfiguratie](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
+* [Een verzending controleren](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/monitoring-messages/monitoring-a-delivery.html?lang=nl){target="_blank"}
+* [Email Designer in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html){target="_blank"}
 
 **Sectie 2: Campagnebeheer**
 
-* [Informatie over workflowuitvoering](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/about-workflow-execution.html?lang=en){target="_blank"}
-* [Aangepaste bronnen voor privacyverzoeken wijzigen](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/privacy/custom-resources-for-privacy-requests.html?lang=en){target="_blank"}
-* [Doelgroepen maken](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-audiences/creating-audiences.html?lang=en){target="_blank"}
+* [Informatie over workflowuitvoering](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/about-workflow-execution.html){target="_blank"}
+* [Aangepaste bronnen voor privacyverzoeken wijzigen](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/privacy/custom-resources-for-privacy-requests.html){target="_blank"}
+* [Doelgroepen maken](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-audiences/creating-audiences.html){target="_blank"}
 
 **Deel 3: Analyse van vereisten**
 
-* [Een workflow maken](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html?lang=en){target="_blank"}
-* [Gebruikersbeheer](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/users-management.html?lang=en){target="_blank"}
+* [Een workflow maken](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html){target="_blank"}
+* [Gebruikersbeheer](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/users-management.html){target="_blank"}
 
 **Sectie 4: Rapportage**
 
-* [Aan de slag met dynamische rapportage](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en){target="_blank"}
-* [Inleiding tot rapportage](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/reporting-with-adobe-campaign-introduction.html?lang=en){target="_blank"}
-* [Aangepast een rapport maken op basis van aangepaste profielkenmerken](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/custom-profile-attributes-dynamic-reports.html?lang=en){target="_blank"}
-* [Aan de slag met dynamische rapporten](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en){target="_blank"}
-* [Een rapport maken op basis van workflowsegmenten](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en){target="_blank"}
+* [Aan de slag met dynamische rapportage](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html){target="_blank"}
+* [Inleiding tot rapportage](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/reporting-with-adobe-campaign-introduction.html){target="_blank"}
+* [Aangepast een rapport maken op basis van aangepaste profielkenmerken](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/custom-profile-attributes-dynamic-reports.html){target="_blank"}
+* [Aan de slag met dynamische rapporten](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html){target="_blank"}
+* [Een rapport maken op basis van workflowsegmenten](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html){target="_blank"}
 
 **Sectie 5: Problemen oplossen**
 
-* [Best practices voor workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=en){target="_blank"}
-* [Problemen met API oplossen](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/troubleshooting.html?lang=en){target="_blank"}
+* [Best practices voor workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=nl){target="_blank"}
+* [Problemen met API oplossen](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/troubleshooting.html){target="_blank"}
 
 **Sectie 6: Gegevensbeheer en -beheer**
 
-* [ [!DNL Campaign Standard] Aan de slag met het datamodel](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html?lang=en){target="_blank"}
-* [Aan de slag met [!DNL Campaign Standard] administratie](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html?lang=en){target="_blank"}
+* [ [!DNL Campaign Standard] Aan de slag met het datamodel](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
+* [Aan de slag met [!DNL Campaign Standard] administratie](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
@@ -186,6 +186,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

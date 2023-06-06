@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Exam AD0-E454" type="positive"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '854'
-ht-degree: 1%
+source-wordcount: '832'
+ht-degree: 2%
 
 ---
 
@@ -110,36 +110,36 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Implementatieanalyse**
 
-* [[!DNL Audience Manager] Handleiding](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
-* [Analytics Integration](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=en){target="_blank"}
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] Handleiding](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [Analytics Integration](https://experienceleague.adobe.com/docs/analytics/integration/home.html){target="_blank"}
+* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 **Sectie 2: Oplossingsontwerp en Recommendations**
 
-* [[!DNL Audience Manager] Handleiding](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
-* [[!DNL Audience Manager] zelfstudies](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] Handleiding](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [[!DNL Audience Manager] zelfstudies](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
 **Deel 3: Segmentering en activering**
 
-* [[!DNL Audience Manager] Handleiding](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] Handleiding](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community){target="_blank"}
-* [[!DNL Audience Manager] zelfstudies](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] zelfstudies](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
 **Sectie 4: Privacy en gegevensbeheer**
 
-* [[!DNL Audience Manager] Handleiding](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] Handleiding](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [[!DNL Audience Manager] REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
-* [Handleiding Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
+* [Handleiding Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 
 **Sectie 5: Prestaties en rapportage**
 
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
+* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
@@ -165,6 +165,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

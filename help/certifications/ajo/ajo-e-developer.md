@@ -6,10 +6,10 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E603" type="positive"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '994'
-ht-degree: 2%
+source-wordcount: '976'
+ht-degree: 3%
 
 ---
 
@@ -111,7 +111,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Beheer en configuratie**
 
-* [Adobe [!DNL Journey Optimizer] Documentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * Toegangsbeheer
    * Berichten configureren
@@ -119,12 +119,12 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
    * Guardrails
    * Journeys
 
-* [Overzicht van sandboxen](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=en){target="_blank"}
+* [Overzicht van sandboxen](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=nl){target="_blank"}
 
 
 **Sectie 2: AEP Foundation**
 
-* [Adobe [!DNL Experience Platform] Documentatie](https://experienceleague.adobe.com/docs/experience-platform.html?lang=en){target="_blank"}
+* [Adobe [!DNL Experience Platform] Documentatie](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
    * XDM-hulplijn
    * Handleiding voor realtime klantprofiel
@@ -138,21 +138,21 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Inleiding tot Adobe [!DNL Experience Platform] cursus](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"}
 * [Aan de slag met Adobe [!DNL Experience Platform] voor de cursus van de Ingenieurs van Gegevens](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
 * [Gegevensinname voor cursus Data Engineers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"}
-* [Digital Experience-blauwdrukken](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en){target="_blank"}
+* [Digital Experience-blauwdrukken](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html){target="_blank"}
 
 **Deel 3: offer decisioning**
 
-* [Adobe [!DNL Journey Optimizer] Documentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * Beslissingsbeheer
 
-* [Adobe [!DNL Journey Optimizer] Video&#39;s en Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Video&#39;s en Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"}
 
    * Journeys maken
 
 **Sectie 4: Inhoud ontwerpen**
 
-* [Adobe [!DNL Journey Optimizer] Documentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * Ontwerpcontent
    * Journeys
@@ -162,7 +162,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 5: Journey Orchestration**
 
-* [Adobe [!DNL Journey Optimizer] Documentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * Journeys
    * Bijhouden en bewaken
@@ -173,7 +173,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
@@ -215,6 +215,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

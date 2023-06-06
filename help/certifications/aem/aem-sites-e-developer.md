@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E134" type="positive"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1064'
+source-wordcount: '1020'
 ht-degree: 3%
 
 ---
@@ -106,42 +106,42 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Configuratie**
 
-* [Inleiding tot Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"}
-* [Overzicht van verzending](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en){target="_blank"}
-* [AEM Assets - video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=en){target="_blank"}
-* [Handleiding voor assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=en){target="_blank"}
-* [AEM 6.5 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en){target="_blank"}
-* [AEM 6.5 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
+* [Inleiding tot Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html){target="_blank"}
+* [Overzicht van verzending](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
+* [AEM Assets - video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
+* [Handleiding voor assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
+* [AEM 6.5 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
+* [AEM 6.5 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 
 **Sectie 2: AEM**
 
-* [AEM 6.5 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
-* [Aan de slag met AEM Sites - WKND-zelfstudie](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=en){target="_blank"}
-* [AEM 6.5 Gebruikersgids voor authoring](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
-* [AEM 6.5 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
+* [AEM 6.5 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
+* [Aan de slag met AEM Sites - WKND-zelfstudie](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html){target="_blank"}
+* [AEM 6.5 Gebruikersgids voor authoring](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
+* [AEM 6.5 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 
 **Deel 3: Samenstellen en implementeren**
 
-* [Introductie van kerncomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en){target="_blank"}
-* [AEM 6.5 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
-* [AEM 6.5 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
-* [Adobe [!DNL Experience Manager as a Cloud Service] Video&#39;s en Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=en){target="_blank"}
-* [AEM 6.5 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en){target="_blank"}
+* [Introductie van kerncomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html){target="_blank"}
+* [AEM 6.5 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
+* [AEM 6.5 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
+* [Adobe [!DNL Experience Manager as a Cloud Service] Video&#39;s en Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html){target="_blank"}
+* [AEM 6.5 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
 
 **Sectie 4: Omgevingsonderhoud**
 
-* [[!DNL Experience Manager as a Cloud Service] documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
-* [Video&#39;s en zelfstudies voor AEM stichting](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=en){target="_blank"}
-* [Implementeren en onderhouden](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/deploying/deploy.html?lang=en){target="_blank"}
-* [AEM 6.5 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
-* [AEM 6.5 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [Video&#39;s en zelfstudies voor AEM stichting](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
+* [Implementeren en onderhouden](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/deploying/deploy.html){target="_blank"}
+* [AEM 6.5 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
+* [AEM 6.5 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
@@ -180,6 +180,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

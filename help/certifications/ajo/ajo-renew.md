@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 hidefromtoc: true
 exl-id: 393255d0-dff1-4a49-93cd-e767b9b14fc5
-source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ We zijn blij om aan te kondigen dat u nu uw certificering kunt vernieuwen via ee
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!NOTE]
 >De verlenging van experts komt binnenkort.
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

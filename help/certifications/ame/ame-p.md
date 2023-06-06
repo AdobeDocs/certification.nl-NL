@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-E555" type="positive"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1166'
+source-wordcount: '1162'
 ht-degree: 0%
 
 ---
@@ -149,7 +149,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 **Deel 3: Doelgroepen definiëren en aanwijzen**
 
 * [Slimme campagnes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html){target="_blank"}
-* [Beste praktijken voor Slimme Lijsten](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.html?lang=en){target="_blank"}
+* [Beste praktijken voor Slimme Lijsten](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.html){target="_blank"}
 * [Een segmentatie maken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
 * [Dynamische inhoud](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.html){target="_blank"}
 
@@ -164,7 +164,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
@@ -193,6 +193,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

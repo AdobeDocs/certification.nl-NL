@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1298'
-ht-degree: 1%
+source-wordcount: '1257'
+ht-degree: 3%
 
 ---
 
@@ -119,34 +119,34 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 **Sectie 1: Analyses in het ecosysteem van Adobe Experience Cloud**
 
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
-* [Veelgestelde vragen ](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html?lang=en){target="_blank"}
-* [AEM 6.5 Gebruikersgids voor authoring](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
-* [Overzicht](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=en){target="_blank"}
-* [Overzicht van codes](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en){target="_blank"}
-* [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
+* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
+* [Veelgestelde vragen ](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
+* [AEM 6.5 Gebruikersgids voor authoring](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
+* [Overzicht](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
+* [Overzicht van codes](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=nl){target="_blank"}
+* [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
 
 **Sectie 2: Analysestrategie en -ontwerp op basis van een referentie voor het ontwerp van een oplossing**
 
-* [Zelfstudies voor analyse](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"}
-* [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [Handleiding Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
+* [Zelfstudies voor analyse](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
+* [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
+* [Handleiding Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 
 **Deel 3: Implementatie en configuratie van analysemogelijkheden**
 
-* [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [Overzicht van codes](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en){target="_blank"}
-* [Handleiding Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
-* [Handleiding Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
-* [Developers Live: Gegevenslaag Adobe-client: Gegevens van bezoekers bijhouden](https://experienceleague.adobe.com/docs/adobe-developers-live-events/assets/adobe-client-data-layer.pdf?lang=en){target="_blank"}
+* [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
+* [Overzicht van codes](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=nl){target="_blank"}
+* [Handleiding Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [Handleiding Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
+* [Developers Live: Gegevenslaag Adobe-client: Gegevens van bezoekers bijhouden](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2021/feb2021/adobe-client-data-layer.html){target="_blank"}
 * [Snelle uiteinde - Gegevens doorgeven in opstartregels](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
 
 **Sectie 4: Labelbeheersystemen**
 
-* [Overzicht van codes](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en){target="_blank"}
+* [Overzicht van codes](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=nl){target="_blank"}
 * [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [Overzicht](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=en){target="_blank"}
-* [Zelfstudies voor analyse](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [Overzicht](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
+* [Zelfstudies voor analyse](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
 
 **Sectie 5: Mobiele services en API**
 
@@ -154,19 +154,19 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [[!DNL Adobe Analytics] API&#39;s](https://adobedocs.github.io/analytics-2.0-apis/#/){target="_blank"}
 * [Welkom bij de beheergids voor ondernemingen en teams](https://helpx.adobe.com/nl/enterprise/admin-guide.html){target="_blank"}
 * [Aan de slag met de API voor Analytics](https://developer.adobe.com/analytics-apis/docs/2.0/guides/){target="_blank"}
-* [Handleiding Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
+* [Handleiding Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 
 **Sectie 6: Testen, valideren en problemen oplossen**
 
 * [JavaScript-foutverwijzing](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors){target="_blank"}
-* [Technische notities voor Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=en){target="_blank"}
-* [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
+* [Technische notities voor Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/home.html){target="_blank"}
+* [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
@@ -196,6 +196,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

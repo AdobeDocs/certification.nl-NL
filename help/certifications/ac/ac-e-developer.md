@@ -6,9 +6,9 @@ role: Developer
 badge: label="Exam AD0-E716" type="positive"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '2099'
+source-wordcount: '2067'
 ht-degree: 0%
 
 ---
@@ -156,30 +156,30 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Adobe [!DNL Commerce] architectuur en aanpassingstechnieken**
 
-* [[!DNL Commerce] voor ontwikkelaars - Overzicht](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-1-overview.html?lang=en#video-content){target="_blank"}
-* [[!DNL Commerce] voor ontwikkelaars - Workflow voor ontwikkeling](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-2-workflow.html?lang=en){target="_blank"}
-* [[!DNL Commerce] voor ontwikkelaars - Codebasis](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html?lang=en){target="_blank"}
-* [[!DNL Commerce] voor ontwikkelaars - oefeningen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-6-practice.html?lang=en){target="_blank"}
-* [Magento 2 Grondbeginselen van ontwikkeling](https://learning.adobe.com/catalog/adobe_commerce/cours000000000096867.html){target="_blank"}
+* [[!DNL Commerce] voor ontwikkelaars - Overzicht](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-1-overview.html#video-content){target="_blank"}
+* [[!DNL Commerce] voor ontwikkelaars - Workflow voor ontwikkeling](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-2-workflow.html){target="_blank"}
+* [[!DNL Commerce] voor ontwikkelaars - Codebasis](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html){target="_blank"}
+* [[!DNL Commerce] voor ontwikkelaars - oefeningen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-6-practice.html){target="_blank"}
+* [Magento 2 Grondbeginselen van ontwikkeling](https://learning.adobe.com/catalog/adobe_commerce/cours000000000099263.html){target="_blank"}
 * [Adobe [!DNL Commerce] Wolk: Magento Commerce - Back-end ontwikkelaar](https://learning.adobe.com/learning-path/adobe_commerce/curra000000000006251.html){target="_blank"}
 * [Adobe [!DNL Commerce] 2.4 Handleiding voor ontwikkelaars](https://devdocs.magento.com/){target="_blank"}
 * [Gedeeltelijk in cache plaatsen](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/partial-caching.html){target="_blank"}
 * [Pagina in cache plaatsen](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/page-caching.html){target="_blank"}
 * [Extensiekenmerken toevoegen aan entiteiten](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/extension_attributes/adding-attributes.html){target="_blank"}
 * [Categorieën - ontwerpinstellingen](https://docs.magento.com/user-guide/catalog/categories-custom-design.html){target="_blank"}
-* [Een module maken](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html?lang=en){target="_blank"}
+* [Een module maken](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html){target="_blank"}
 * [Componentontwikkeling](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/module-development.html){target="_blank"}
-* [[!DNL Commerce] voor ontwikkelaars - grondbeginselen van ontwikkeling](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-1-dev-basics.html?lang=en){target="_blank"}
-* [[!DNL Commerce] voor ontwikkelaars - Na installatie](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-3-post-install.html?lang=en){target="_blank"}
-* [[!DNL Commerce] voor ontwikkelaars - het Verpletteren](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-3-routing.html?lang=en){target="_blank"}
+* [[!DNL Commerce] voor ontwikkelaars - grondbeginselen van ontwikkeling](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-1-dev-basics.html){target="_blank"}
+* [[!DNL Commerce] voor ontwikkelaars - Na installatie](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-3-post-install.html){target="_blank"}
+* [[!DNL Commerce] voor ontwikkelaars - het Verpletteren](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-3-routing.html){target="_blank"}
 * [Een nieuwe pagina maken](https://devdocs.magento.com/videos/fundamentals/create-a-new-page/){target="_blank"}
 * [Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
 * [Wat is Page Builder](https://devdocs.magento.com/page-builder/docs/){target="_blank"}
 * [Meerdere websites of winkels instellen](https://devdocs.magento.com/cloud/project/project-multi-sites.html){target="_blank"}
 * [Meerdere websites of winkels](https://devdocs.magento.com/guides/v2.4/config-guide/multi-site/ms_over.html){target="_blank"}
-* [Voorbeeld van injectie van afhankelijkheid](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/dependency-injection.html?lang=en){target="_blank"}
+* [Voorbeeld van injectie van afhankelijkheid](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/dependency-injection.html){target="_blank"}
 * [System.xml reference](https://devdocs.magento.com/guides/v2.4/config-guide/prod/config-reference-systemxml.html){target="_blank"}
-* [[!DNL Commerce] voor ontwikkelaars - Installatie](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-2-install.html?lang=en){target="_blank"}
+* [[!DNL Commerce] voor ontwikkelaars - Installatie](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-2-install.html){target="_blank"}
 * [Patches toepassen](https://devdocs.magento.com/cloud/project/project-patch.html){target="_blank"}
 * [CLI-opdrachten toevoegen](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cli-cmds/cli-add.html){target="_blank"}
 * [Integratie testen](https://devdocs.magento.com/guides/v2.4/test/integration/integration_test_execution.html){target="_blank"}
@@ -193,12 +193,12 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 2: Werken met databases en EAV**
 
-* [Een productkenmerk maken](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html?lang=en){target="_blank"}
+* [Een productkenmerk maken](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html){target="_blank"}
 * [EAV- en extensiekenmerken](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/attributes.html){target="_blank"}
 * [Hoe te om een nieuw productattribuut toe te voegen](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/){target="_blank"}
 * [Een aangepast tekstveldkenmerk toevoegen](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/text-field.html){target="_blank"}
-* [[!DNL Commerce] voor ontwikkelaars - Declaratief schema](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-2-declarative-schema.html?lang=en){target="_blank"}
-* [Een nieuwe tabel toevoegen aan een database](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/new-db-table.html?lang=en){target="_blank"}
+* [[!DNL Commerce] voor ontwikkelaars - Declaratief schema](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-2-declarative-schema.html){target="_blank"}
+* [Een nieuwe tabel toevoegen aan een database](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/new-db-table.html){target="_blank"}
 * [Declarative Schema](https://developer.adobe.com/commerce/php/development/components/declarative-schema/){target="_blank"}
 * [Gegevensoverdracht](https://docs.magento.com/user-guide/system/data-transfer.html){target="_blank"}
 * [Aangepaste importentiteit](https://devdocs.magento.com/guides/v2.4/ext-best-practices/tutorials/custom-import-entity.html){target="_blank"}
@@ -207,7 +207,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Deel 3: Ontwikkelen met beheerder**
 
-* [[!DNL Commerce] voor ontwikkelaars - Een beheerpagina maken](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-4-admin-page.html?lang=en){target="_blank"}
+* [[!DNL Commerce] voor ontwikkelaars - Een beheerpagina maken](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-4-admin-page.html){target="_blank"}
 * [Een beheerderraster toevoegen](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/admin-grid.html){target="_blank"}
 * [component List (raster)](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-listing-grid.html){target="_blank"}
 * [Formuliercomponent](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-form.html){target="_blank"}
@@ -251,7 +251,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 * [Workflow voor Pro-projecten](https://devdocs.magento.com/cloud/architecture/pro-develop-deploy-workflow.html){target="_blank"}
 * [Cloud CLI](https://devdocs.magento.com/cloud/reference/cli-ref-topic.html){target="_blank"}
-* [[!DNL Commerce] over Cloud-infrastructuur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
+* [[!DNL Commerce] over Cloud-infrastructuur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html){target="_blank"}
 * [ECE-gereedschapspakket](https://devdocs.magento.com/cloud/reference/ece-tools-reference.html){target="_blank"}
 
 
@@ -273,7 +273,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
@@ -312,6 +312,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

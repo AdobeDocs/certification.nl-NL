@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1256'
+source-wordcount: '1224'
 ht-degree: 2%
 
 ---
@@ -132,40 +132,40 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Bedrijfsanalyse**
 
-* [Welke [!DNL Adobe Analytics] te gebruiken?](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html?lang=en){target="_blank"}
+* [Welke [!DNL Adobe Analytics] te gebruiken?](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html){target="_blank"}
 * Documentatie voor [[!DNL Adobe Analytics] ](https://helpx.adobe.com/nl/support/analytics.html){target="_blank"}
-* [Over dataverzameling](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=en){target="_blank"}
-* [Overzicht van gegevensinvoer voor analyse](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=en){target="_blank"}
+* [Over dataverzameling](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html){target="_blank"}
+* [Overzicht van gegevensinvoer voor analyse](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html){target="_blank"}
 
 **Sectie 2: Rapportage en dashboarding voor projecten**
 
-* [Aan de slag met rapporten en analyses](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=en){target="_blank"}
-* [[!DNL Adobe Analytics] dashboards - Overzicht](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=en){target="_blank"}
-* [Overzicht van projecten](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=en){target="_blank"}
-* [Overzicht van visualisaties](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=en){target="_blank"}
-* [Overzicht van intelligente waarschuwingen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=en){target="_blank"}
+* [Aan de slag met rapporten en analyses](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
+* [[!DNL Adobe Analytics] dashboards - Overzicht](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html){target="_blank"}
+* [Overzicht van projecten](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html){target="_blank"}
+* [Overzicht van visualisaties](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
+* [Overzicht van intelligente waarschuwingen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html){target="_blank"}
 
 **Deel 3: Segmentering en berekende metrische waarde**
 
-* [Analytics-segmentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html?lang=en){target="_blank"}
-* [Berekende en Geavanceerde berekende (Afgeleide) Metriek](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html?lang=en){target="_blank"}
+* [Analytics-segmentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html){target="_blank"}
+* [Berekende en Geavanceerde berekende (Afgeleide) Metriek](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html){target="_blank"}
 
 **Sectie 4: Algemene kennis van gereedschappen en probleemoplossing**
 
-* [Handleiding Analytics-tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
-* [Analysis Workspace - Overzicht](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=en){target="_blank"}
+* [Handleiding Analytics-tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [Analysis Workspace - Overzicht](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html){target="_blank"}
 
 **Sectie 5: Beheer**
 
-* [Handleiding Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
-* [Veelgestelde vragen](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html?lang=en){target="_blank"}
-* [Workflow van de Builder voor classificatieregels](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html?lang=en){target="_blank"}
+* [Handleiding Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
+* [Veelgestelde vragen](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
+* [Workflow van de Builder voor classificatieregels](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
@@ -205,6 +205,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

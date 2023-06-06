@@ -6,9 +6,9 @@ role: Developer
 badge: label="Exam AD0-E906" type="positive"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1010'
 ht-degree: 0%
 
 ---
@@ -107,40 +107,40 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 * [Overzicht van aangepaste formulieren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
 * [Documentintegratie configureren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-document-integrations.html){target="_blank"}
-* [Werken met multimedia en gelijktijdige ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/deployment/multitenancy-concurrent-article-understand.html?lang=en){target="_blank"}
+* [Werken met multimedia en gelijktijdige ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/deployment/multitenancy-concurrent-article-understand.html){target="_blank"}
 * [Berekende gegevens toevoegen aan een aangepast formulier met de oudere formulierbuilder](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-calculated-data-to-custom-form.html){target="_blank"}
 * [De Adobe [!DNL Workfront] Statussite](https://experienceleague.adobe.com/docs/workfront/using/basics/tips-tricks-for-basics/understand-the-status-site.html){target="_blank"}
-* [Geavanceerde probleemoplossing met de Dev Tool](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.html?lang=en){target="_blank"}
+* [Geavanceerde probleemoplossing met de Dev Tool](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.html){target="_blank"}
 
 **Sectie 2: Configuratie**
 
-* [Beste praktijken - Onboarding en adoptie](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html?lang=en){target="_blank"}
-* [Een individueel gebruikersprofiel maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html?lang=en){target="_blank"}
-* [Adobe [!DNL Experience Manager Assets] integratie met Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html?lang=en){target="_blank"}
+* [Beste praktijken - Onboarding en adoptie](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
+* [Een individueel gebruikersprofiel maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
+* [Adobe [!DNL Experience Manager Assets] integratie met Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
 * [Metagegevens en trefwoorden: metagegevensinstelling](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/metadata-and-keywords/metadata-setup.html%3Flang%3Dzh-Hant){target="_blank"}
-* [Installeren [!DNL Workfront] for [!DNL Experience Manager] verbeterde aansluiting](https://experienceleague.adobe.com/docs/experience-manager-64/assets/integrations/workfront-connector-install.html?lang=en){target="_blank"}
+* [Installeren [!DNL Workfront] for [!DNL Experience Manager] verbeterde aansluiting](https://experienceleague.adobe.com/docs/experience-manager-64/assets/integrations/workfront-connector-install.html){target="_blank"}
 
 **Deel 3: Zakelijke praktijken**
 
-* [Een [!DNL Workfront] DAM-strategie](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html?lang=en){target="_blank"}
+* [Een [!DNL Workfront] DAM-strategie](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html){target="_blank"}
 * [Een goedkeuringsproces voor werkitems maken](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
-* [Geautomatiseerd workflowoverzicht](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html?lang=en){target="_blank"}
-* [Een bewijs controleren en goedkeuren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html?lang=en){target="_blank"}
-* [Voortgang van project bijhouden](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html?lang=en){target="_blank"}
-* [Doelstellingen voor uw Adobe definiëren [!DNL Workfront] uitvoering](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en){target="_blank"}
+* [Geautomatiseerd workflowoverzicht](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html){target="_blank"}
+* [Een bewijs controleren en goedkeuren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html){target="_blank"}
+* [Voortgang van project bijhouden](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
+* [Doelstellingen voor uw Adobe definiëren [!DNL Workfront] uitvoering](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
 
 **Sectie 4: Installatie en configuratie van de connector**
 
-* [Installeren [!DNL Workfront] for [!DNL Experience Manager] verbeterde aansluiting](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html?lang=en){target="_blank"}
+* [Installeren [!DNL Workfront] for [!DNL Experience Manager] verbeterde aansluiting](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html){target="_blank"}
 * [[!DNL Workfront] verbeterde verbindingsgrondbeginselen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html%3Flang%3Den){target="_blank"}
-* [Configureren [!DNL Workfront] for [!DNL Experience Manager] verbeterde aansluiting](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html?lang=en){target="_blank"}
-* [Adobe [!DNL Experience Manager Assets] integratie met Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html?lang=en){target="_blank"}
+* [Configureren [!DNL Workfront] for [!DNL Experience Manager] verbeterde aansluiting](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html){target="_blank"}
+* [Adobe [!DNL Experience Manager Assets] integratie met Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
@@ -169,6 +169,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

@@ -7,10 +7,10 @@ recommendations: disable, exclude
 badge: label="Exam AD0-E602" type="positive"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1000'
-ht-degree: 1%
+source-wordcount: '964'
+ht-degree: 2%
 
 ---
 
@@ -107,38 +107,38 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 **Sectie 1: Segmenten en activering**
 
-* [Overzicht van segmentatieservice](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=en){target="_blank"}
-* [Opeenvolgende segmenten maken](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-sequential-segments.html?lang=en){target="_blank"}
-* [Evalueer en open segmentresultaten](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html?lang=en){target="_blank"}
-* [Handleiding voor segmentatieservice](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/overview.html?lang=en#scheduled-segmentation){target="_blank"}
-* [Overzicht van doelen](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en){target="_blank"}
-* [Doeltypen en -categorieën](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=en){target="_blank"}
-* [De publieksgegevens van de activering aan het stromen profiel de uitvoerbestemmingen](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html?lang=en){target="_blank"}
-* [Een nieuwe doelverbinding maken](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=en){target="_blank"}
+* [Overzicht van segmentatieservice](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html){target="_blank"}
+* [Opeenvolgende segmenten maken](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-sequential-segments.html){target="_blank"}
+* [Evalueer en open segmentresultaten](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html){target="_blank"}
+* [Handleiding voor segmentatieservice](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/overview.html#scheduled-segmentation){target="_blank"}
+* [Overzicht van doelen](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=nl){target="_blank"}
+* [Doeltypen en -categorieën](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html){target="_blank"}
+* [De publieksgegevens van de activering aan het stromen profiel de uitvoerbestemmingen](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html){target="_blank"}
+* [Een nieuwe doelverbinding maken](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html){target="_blank"}
 
 **Sectie 2: Identiteit en gegevensbeheer**
 
 * [Overzicht naamruimte identiteit](https://experienceleague.adobe.com/docs/experience-platform/identity/namespaces.html?lang=nl){target="_blank"}
-* [Overzicht van gegevensbeheer](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=en){target="_blank"}
+* [Overzicht van gegevensbeheer](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html){target="_blank"}
 
 **Deel 3: Bedrijfsanalyse**
 
-* [Overzicht van gegevensinname](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en){target="_blank"}
-* [Gegevensstromen bewaken in Adobe [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html?lang=en){target="_blank"}
-* [Privacy Service- en Experience Cloud-toepassingen](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html?lang=en){target="_blank"}
-* [Overzicht van beleidshandhaving](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html?lang=en){target="_blank"}
+* [Overzicht van gegevensinname](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html){target="_blank"}
+* [Gegevensstromen bewaken in Adobe [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html){target="_blank"}
+* [Privacy Service- en Experience Cloud-toepassingen](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html){target="_blank"}
+* [Overzicht van beleidshandhaving](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html){target="_blank"}
 
 **Sectie 4: Schema&#39;s en profielen**
 
 * [XDM System, overzicht](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=nl){target="_blank"}
-* [Overzicht van het realtime klantprofiel](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html?lang=en){target="_blank"}
-* [UI-hulplijn verenigingsschema](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html?lang=en){target="_blank"}
+* [Overzicht van het realtime klantprofiel](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html){target="_blank"}
+* [UI-hulplijn verenigingsschema](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
@@ -177,6 +177,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

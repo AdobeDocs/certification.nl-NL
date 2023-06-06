@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '880'
-ht-degree: 1%
+source-wordcount: '846'
+ht-degree: 2%
 
 ---
 
@@ -97,40 +97,40 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 **Sectie 1: Configuraties**
 
-* [AEM 6.4 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
-* [AEM 6.4 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en){target="_blank"}
-* [Overzicht van verzending](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en){target="_blank"}
+* [AEM 6.4 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
+* [AEM 6.4 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
+* [Overzicht van verzending](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
 
 **Sectie 2: AEM**
 
-* [AEM 6.4 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
-* [AEM 6.5 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en){target="_blank"}
-* [AEM 6.5 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
-* [Introductie van kerncomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en){target="_blank"}
-* [Basisbeginselen van componenten](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html?lang=en){target="_blank"}
+* [AEM 6.4 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
+* [AEM 6.5 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
+* [AEM 6.5 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
+* [Introductie van kerncomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html){target="_blank"}
+* [Basisbeginselen van componenten](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html){target="_blank"}
 
 **Deel 3: Samenstellen en implementeren**
 
-* [Introductie van kerncomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en){target="_blank"}
+* [Introductie van kerncomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html){target="_blank"}
 * [Aan de slag met [!DNL AEM Sites] - WKND-zelfstudie](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html){target="_blank"}
 
 
 **Sectie 4: Omgevingsonderhoud**
 
-* [AEM 6.4 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en){target="_blank"}
-* [AEM 6.4 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
-* [Operations-dashboard](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en%20(Automated%20Maintenance%20Tasks)){target="_blank"}
+* [AEM 6.4 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
+* [AEM 6.4 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
+* [Operations-dashboard](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html%20(Automated%20Maintenance%20Tasks)){target="_blank"}
 * [Opmerkingen bij de release voor Adobe [!DNL Experience Manager] 6,5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] -overzicht](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
-* [Introductie van kerncomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en)
-* [[!DNL AEM as Cloud Service] video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=en){target="_blank"}
-* [Adobe [!DNL Experience Manager] Updates en routekaart vrijgeven](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=en){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] -overzicht](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [Introductie van kerncomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html)
+* [[!DNL AEM as Cloud Service] video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html){target="_blank"}
+* [Adobe [!DNL Experience Manager] Updates en routekaart vrijgeven](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
@@ -160,6 +160,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

@@ -4,9 +4,9 @@ description: Leer hoe je gecertificeerd kunt worden bij Adobe. Zoek alle bronnen
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 976a9a4ac83ba996c18b07c5d14602bfcc96be49
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1464'
+source-wordcount: '1462'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ Adobe gebruikt twee verkopers om geproctored examens te beheren: [!DNL PSI] en [
 
 **Voer de volgende stappen uit om u te registreren voor uw certificeringsexamen:**
 
-* **Stap 1:** Aanmelden bij de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+* **Stap 1:** Aanmelden bij de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 * **Stap 2:** Ga terug naar deze site en klik op Technische certificeringen.
 * **Stap 3:** Kies uw Adobe oplossing, certificatieniveau en rol
 * **Stap 4:** Voer de stappen uit die in het kader van de **Gecertificeerd ophalen** sectie.
@@ -50,7 +50,7 @@ De annuleringen en het opnieuw plannen zijn mogelijk als in werking gesteld voor
 
 Geen van de leveranciers van de Steun van Adobe of van het examen kan herplannings en annuleringsverzoeken verwerken. Voor annuleringen onder de 48 uur geldt naast de examenkosten een herplanningsvergoeding.
 
-Zodra u een examen voltooit, ontvangt u een voorlopige pas of ontbreekt. De laatste score kan tot 72 uur duren om te vullen. U vindt het resultaat en de score op het tabblad Historie in het dialoogvenster [Adobe Credential Manager](http://www.certmetrics.com/adobe){target="_blank"}.
+Zodra u een examen voltooit, ontvangt u een voorlopige pas of ontbreekt. De laatste score kan tot 72 uur duren om te vullen. U vindt het resultaat en de score op het tabblad Historie in het dialoogvenster [Adobe Credential Manager](https://www.certmetrics.com/adobe){target="_blank"}.
 
 Als u er niet in slaagt om een Adobe certificatieexamen op uw eerste poging over te gaan, moet u minstens 24 uur wachten alvorens het examen opnieuw te nemen. Het nalaten om een examen op de tweede of om het even welke verdere poging over te gaan vereist een wachtperiode van 14 kalenderdagen alvorens het examen opnieuw te nemen. Elke poging zal een afzonderlijke examenprijs aantrekken.
 
@@ -212,6 +212,6 @@ Uw badge is een tastbaar bewijs van uw ervaring met Adobe Experience Cloud-produ
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

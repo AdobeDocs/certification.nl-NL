@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-E212" type="positive"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '916'
 ht-degree: 3%
 
 ---
@@ -109,33 +109,33 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 **Sectie 1: Bedrijfsanalyse**
 
-* [Handleiding Analytics-tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
-* [Handleiding voor Analytics-componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
-* [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [Help bij Data Workbench](https://experienceleague.adobe.com/docs/data-workbench/using/home.html?lang=en){target="_blank"}
+* [Handleiding Analytics-tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [Handleiding voor Analytics-componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
+* [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
+* [Help bij Data Workbench](https://experienceleague.adobe.com/docs/data-workbench/using/home.html){target="_blank"}
 
 **Sectie 2: Rapportage en dashboarding voor projecten**
 
-* [Handleiding Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
-* [Handleiding Analytics-tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
-* [Overzicht van visualisatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=en#quick-viz){target="_blank"}
-* [Handleiding voor Analytics-componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
-* [Handleiding voor Customer Journey Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=en){target="_blank"}
+* [Handleiding Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
+* [Handleiding Analytics-tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [Overzicht van visualisatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html#quick-viz){target="_blank"}
+* [Handleiding voor Analytics-componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
+* [Handleiding voor Customer Journey Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}
 
 **Deel 3: Segmentering en berekende meetwaarden**
 
-* [Handleiding voor Analytics-componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
+* [Handleiding voor Analytics-componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
 
 **Sectie 4: Algemene kennis van gereedschappen en probleemoplossing**
 
-* [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [Handleiding voor Analytics-componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
+* [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
+* [Handleiding voor Analytics-componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
@@ -165,6 +165,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

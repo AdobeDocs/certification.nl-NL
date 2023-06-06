@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E132 type="positief"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '761'
+source-wordcount: '731'
 ht-degree: 1%
 
 ---
@@ -107,35 +107,35 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 **Sectie 1: Inhoud maken**
 
 
-* [AEM 6.4 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en){target="_blank"}
-* [AEM 6.5 Gebruikersgids voor authoring](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
-* [Handleiding voor assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=en){target="_blank"}
+* [AEM 6.4 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
+* [AEM 6.5 Gebruikersgids voor authoring](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [Handleiding voor assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
 
 **Sectie 2: Implementatie**
 
-* [Componenten AEM: de basisbeginselen](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html?lang=en){target="_blank"}
-* [Tutorials voor headless in AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=en){target="_blank"}
-* [Paginasjablonen maken](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html?lang=en#creating-and-managing-templates){target="_blank"}
-* [Client-Side bibliotheken gebruiken](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html?lang=en){target="_blank"}
+* [Componenten AEM: de basisbeginselen](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html){target="_blank"}
+* [Tutorials voor headless in AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html){target="_blank"}
+* [Paginasjablonen maken](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html#creating-and-managing-templates){target="_blank"}
+* [Client-Side bibliotheken gebruiken](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html){target="_blank"}
 
 **Deel 3: Instellen en implementeren**
 
-* [Webconsole](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html?lang=en){target="_blank"}
-* [AEM-projectstructuur](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=en#embedding-3rd-party-packages){target="_blank"}
-* [Pakketbeheer](https://experienceleague.adobe.com/docs/experience-manager-65/administering/contentmanagement/package-manager.html?lang=en#what-are-packages){target="_blank"}
+* [Webconsole](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
+* [AEM-projectstructuur](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html#embedding-3rd-party-packages){target="_blank"}
+* [Pakketbeheer](https://experienceleague.adobe.com/docs/experience-manager-65/administering/contentmanagement/package-manager.html#what-are-packages){target="_blank"}
 
 **Sectie 4: Onderhoud en gebruikersbeheer**
 
-* [Gebruikers, groepen en gebruikersrollen beheren](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html?lang=en#add-a-user){target="_blank"}
-* [Gebruikersbeheer en beveiliging](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=en){target="_blank"}
-* [OSGi-configuratie-instellingen](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html?lang=en){target="_blank"}
+* [Gebruikers, groepen en gebruikersrollen beheren](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html#add-a-user){target="_blank"}
+* [Gebruikersbeheer en beveiliging](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html){target="_blank"}
+* [OSGi-configuratie-instellingen](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
@@ -164,6 +164,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

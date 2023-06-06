@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: bc3c4c4ebf3b3c34bbf21409040856a8b0dd1135
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1074'
+source-wordcount: '1060'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -44,7 +44,7 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 ## Instructies voor het vernieuwen van uw certificering:
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Herzie de examendoelstellingen en de middelen
 * **Stap 3**: Neem en ga het examen over
 
@@ -124,38 +124,38 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Beheer en onderhoud**
 
-* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Veldbeheer, CRM-synchronisatie, Audittrail, Gebruikersbeheer, Werkruimten en partities, Slimme lijsten, Aangepast veld)
+* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Veldbeheer, CRM-synchronisatie, Audittrail, Gebruikersbeheer, Werkruimten en partities, Slimme lijsten, Aangepast veld)
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Synchroon met Salesforce, CRM-integratie)
 
 **Sectie 2: Marketingactiviteiten/Campagnebeheer**
 
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Willekeurige steekproef, Slimme Campagne met gegevenswaardebrand, Wacht Stappen, lid.webinar url, de Inspecteur van de Campagne, de Logica van de Filter, het Gebruiken van Tokens in E-mail, Loodverwezenlijking via Formulier Vullen, Middelen en Werkruimten, het Leiden Forms)
-* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Slimme lijsten, Slimme campagnes, Demand Generation Forms, Gebeurtenissen voor het genereren van vraag, E-mailmarketing, Programma&#39;s maken, Gebeurtenissen, Audittrail, Werken met programma&#39;s, Beheercodes, Drip Nurturing, Landing Pages, Tokens, Beheer Extra Integraties, Webhaak, de Gebieden van de Douane van het Lid van het Programma, Werkruimte en Personen)
+* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Slimme lijsten, Slimme campagnes, Demand Generation Forms, Gebeurtenissen voor het genereren van vraag, E-mailmarketing, Programma&#39;s maken, Gebeurtenissen, Audittrail, Werken met programma&#39;s, Beheercodes, Drip Nurturing, Landing Pages, Tokens, Beheer Extra Integraties, Webhaak, de Gebieden van de Douane van het Lid van het Programma, Werkruimte en Personen)
 
 **Deel 3: Beheer van leads**
 
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Video over een levenscyclusprogramma voor leads samenstellen, abonnement op e-mail opzeggen)
-* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Slimme campagnes, Marketo Sales Insight, Interessant Moments, Managing People in Smart List, System Managed Fields)
+* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Slimme campagnes, Marketo Sales Insight, Interessant Moments, Managing People in Smart List, System Managed Fields)
 
 **Sectie 4: Gegevensbeheer**
 
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Een Directory of Leads Bouncing E-mails-artikel bijhouden, Uw Marketo-database beheren voor de ondersteuningsblog voor leveringsmogelijkheden, Beleid voor gegevensbewaring voor Marketo-activiteiten - onder het Hood-artikel)
-* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (E-mail marketing harde en Zachte Bounces, de Types van Rapport, Personalisatie, Dynamische Inhoud)
+* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (E-mail marketing harde en Zachte Bounces, de Types van Rapport, Personalisatie, Dynamische Inhoud)
 
 **Sectie 5: Rapportage**
 
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Het artikel Aanschaffen van aanbevolen procedures instellen)
-* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Rapportage, Prestatie-inzichten, het Rapport van de Prestaties van het Programma, het Uitgeven rapporten, het Lidmaatschap van het Programma)
+* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Rapportage, Prestatie-inzichten, het Rapport van de Prestaties van het Programma, het Uitgeven rapporten, het Lidmaatschap van het Programma)
 
 **Sectie 6: Aanbevolen procedures**
 
 * [De Definitieve gids voor het Scoren van de Lood](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
-* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Werken met programma&#39;s, E-mailmarketing, A/B testen)
+* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Werken met programma&#39;s, E-mailmarketing, A/B testen)
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Vraag uw kwaliteitscontroleproces in gedachten)
 
 ### Uw certificering verlengen
 
-Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"} eerst. Als u uw certificering vervolgens wilt vernieuwen, klikt u hieronder op de koppeling Expert-vernieuwing voor Marketo Engage Business Practitioner.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} eerst. Als u uw certificering vervolgens wilt vernieuwen, klikt u hieronder op de koppeling Expert-vernieuwing voor Marketo Engage Business Practitioner.
 
 [!BADGE Neem de Adobe [!DNL Marketo Engage] Business Practitioner Expert-uitbreidingsexamen AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
 
@@ -168,6 +168,6 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 
 ### Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

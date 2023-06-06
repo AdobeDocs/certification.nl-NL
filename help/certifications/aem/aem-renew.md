@@ -6,9 +6,9 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '630'
+source-wordcount: '612'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!IMPORTANT]
 >
->De volgende koppelingen voor cursusbeoordeling functioneren **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende koppelingen voor cursusbeoordeling functioneren **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -50,7 +50,7 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 Selecteren **drie activiteiten** om de cursusbeoordelingen te voltooien en door te geven die aan elke beoordeling zijn gekoppeld.
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Studeer de cursussen in Experience League
 * **Stap 3**: Elke cursusbeoordeling voltooien en doorstaan met ten minste 80%
 
@@ -71,14 +71,14 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 
 | Cursus | Cursusbeoordeling |
 | ------- | ------- |
-| [Verplaatsen naar Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html?lang=en){target="_blank"} | [ADR-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA101){target="_blank"} |
-| [Verplaatsen naar Adobe plannen [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html?lang=en){target="_blank"} | [ADR-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA102){target="_blank"} |
-| [Inleiding tot Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=en){target="_blank"} | [ADR-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA103){target="_blank"} |
-| [Beheer van inhoud zonder hoofd met GraphQL API&#39;s](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html?lang=en){target="_blank"} | [ADR-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA104){target="_blank"} |
-| [Ervaringen met Adobe personaliseren [!DNL Experience Manager] en [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html?lang=en){target="_blank"} | [ADR-EA105](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA105){target="_blank"} |
-| [ [!DNL Experience Manager Forms Cloud Service] Integreren met [!DNL Salesforce]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html?lang=en){target="_blank"} | [ADR-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA106){target="_blank"} |
-| [Adobe [!DNL Experience Manager Cloud Manager] Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html?lang=en){target="_blank"} | [ADR-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA107){target="_blank"} |
-| [Adobe [!DNL Experience Manager Sites] voor architecten](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html?lang=en){target="_blank"} | [ADR-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA108){target="_blank"} |
+| [Verplaatsen naar Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html){target="_blank"} | [ADR-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA101){target="_blank"} |
+| [Verplaatsen naar Adobe plannen [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html){target="_blank"} | [ADR-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA102){target="_blank"} |
+| [Inleiding tot Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"} | [ADR-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA103){target="_blank"} |
+| [Beheer van inhoud zonder hoofd met GraphQL API&#39;s](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html){target="_blank"} | [ADR-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA104){target="_blank"} |
+| [Ervaringen met Adobe personaliseren [!DNL Experience Manager] en [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html){target="_blank"} | [ADR-EA105](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA105){target="_blank"} |
+| [ [!DNL Experience Manager Forms Cloud Service] Integreren met [!DNL Salesforce]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html){target="_blank"} | [ADR-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA106){target="_blank"} |
+| [Adobe [!DNL Experience Manager Cloud Manager] Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html){target="_blank"} | [ADR-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA107){target="_blank"} |
+| [Adobe [!DNL Experience Manager Sites] voor architecten](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADR-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA108){target="_blank"} |
 
 >[!NOTE]
 >
@@ -88,6 +88,6 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

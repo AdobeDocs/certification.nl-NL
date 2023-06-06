@@ -7,9 +7,9 @@ role: User,Developer
 badge: label="Exam AD0-E457" type="positive"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1275'
+source-wordcount: '1223'
 ht-degree: 5%
 
 ---
@@ -118,49 +118,49 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Segmentaanmaak en -syndicatie**
 
-* [Gegevens van de tweede en derde partij rapporteren gebruikt in Audience Marketplace op segmentniveau](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html?lang=en){target="_blank"}
-* [Gebruik filters en aanbevelingen om gegevens van derden te kiezen in Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html?lang=en){target="_blank"}
-* [Inzicht in segmentering](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/personalization/segmentation-overview.html?lang=en){target="_blank"}
-* [Segmenten: doel, samenstelling en regels](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=en){target="_blank"}
-* [Segmentatie en filteren](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=en){target="_blank"}
-* [Startpagina Bestemmingen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-home.html?lang=en){target="_blank"}
+* [Gegevens van de tweede en derde partij rapporteren gebruikt in Audience Marketplace op segmentniveau](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html){target="_blank"}
+* [Gebruik filters en aanbevelingen om gegevens van derden te kiezen in Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html){target="_blank"}
+* [Inzicht in segmentering](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/personalization/segmentation-overview.html){target="_blank"}
+* [Segmenten: doel, samenstelling en regels](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html){target="_blank"}
+* [Segmentatie en filteren](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html){target="_blank"}
+* [Startpagina Bestemmingen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-home.html){target="_blank"}
 
 **Sectie 2: Trait creation**
 
-* [Trait Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=en){target="_blank"}
-* [Referenties voor eigenschap- en segmentkwalificaties](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html?lang=en){target="_blank"}
-* [Signalen, eigenschappen en segmenten](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=en){target="_blank"}
-* [Eigenschapregels beheren](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/manage-trait-rules.html?lang=en){target="_blank"}
-* [Op regels gebaseerde of onboarded eigenschappen maken](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html?lang=en){target="_blank"}
+* [Trait Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html){target="_blank"}
+* [Referenties voor eigenschap- en segmentkwalificaties](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html){target="_blank"}
+* [Signalen, eigenschappen en segmenten](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html){target="_blank"}
+* [Eigenschapregels beheren](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/manage-trait-rules.html){target="_blank"}
+* [Op regels gebaseerde of onboarded eigenschappen maken](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html){target="_blank"}
 
 **Deel 3: Rapportage en metingen**
 
-* [Segmenttrendrapport](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-segment-trends.html?lang=en){target="_blank"}
-* [Monitoren en rapporteren over het gebruik van activiteiten](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.html?lang=en){target="_blank"}
-* [Trendrapporten](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/trend-reports.html?lang=en)
-* [Audience Optimization-rapporten gebruiken om de mediaprestaties te begrijpen](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html?lang=en){target="_blank"}
-* [Doelgroepoptimalisatie voor uitgevers](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/aor-publishers.html?lang=en){target="_blank"}
+* [Segmenttrendrapport](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-segment-trends.html){target="_blank"}
+* [Monitoren en rapporteren over het gebruik van activiteiten](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.html){target="_blank"}
+* [Trendrapporten](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/trend-reports.html)
+* [Audience Optimization-rapporten gebruiken om de mediaprestaties te begrijpen](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
+* [Doelgroepoptimalisatie voor uitgevers](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/aor-publishers.html){target="_blank"}
 
 **Sectie 4: Problemen oplossen en beheer**
 
-* [Experience Platform segment delen met [!DNL Audience Manager] en andere Experience Cloud-oplossingen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=en){target="_blank"}
-* [Stappen voor het invoeren van op een bestand gebaseerde gegevens](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/integrating-offline-data/steps-for-ingesting-file-based-data.html?lang=en){target="_blank"}
-* [Naam- en contentvereisten voor id-synchronisatiebestanden](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-file-based.html?lang=en){target="_blank"}
-* [Gegevensactivering maken en beheren in [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/courses/using/audiencemanager-u-1-2020-4.html?lang=en){target="_blank"}
+* [Experience Platform segment delen met [!DNL Audience Manager] en andere Experience Cloud-oplossingen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html){target="_blank"}
+* [Stappen voor het invoeren van op een bestand gebaseerde gegevens](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/integrating-offline-data/steps-for-ingesting-file-based-data.html){target="_blank"}
+* [Naam- en contentvereisten voor id-synchronisatiebestanden](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-file-based.html){target="_blank"}
+* [Gegevensactivering maken en beheren in [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/courses/using/audiencemanager-u-1-2020-4.html){target="_blank"}
 
 **Sectie 5: Taxonomie**
 
-* [Signalen, eigenschappen en segmenten](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=en){target="_blank"}
-* [Gebruiksbeperkingen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/usage-limits.html?lang=en){target="_blank"}
-* [Een taxonomie maken](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=en){target="_blank"}
-* [Eigenschappen classificeren met een gemeenschappelijke taxonomie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html?lang=en){target="_blank"}
-* [Mapeigenschappen: Info](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html?lang=en){target="_blank"}
+* [Signalen, eigenschappen en segmenten](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html){target="_blank"}
+* [Gebruiksbeperkingen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/usage-limits.html){target="_blank"}
+* [Een taxonomie maken](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html){target="_blank"}
+* [Eigenschappen classificeren met een gemeenschappelijke taxonomie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html){target="_blank"}
+* [Mapeigenschappen: Info](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
@@ -199,6 +199,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: bc3c4c4ebf3b3c34bbf21409040856a8b0dd1135
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '3215'
+source-wordcount: '3068'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -35,7 +35,7 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 ## Instructies voor het vernieuwen van uw certificering:
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Herzie de examendoelstellingen en de middelen
 * **Stap 3**: Neem en ga het examen over
 
@@ -87,25 +87,25 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Beheer en installatie van het kernsysteem**
 
-* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Functies in Adobe Workfront Fusion, Organisaties in Adobe Workfront Fusion, Modules in Adobe Workfront Fusion, Scenarios in Adobe Workfront Fusion
+* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Functies in Adobe Workfront Fusion, Organisaties in Adobe Workfront Fusion, Modules in Adobe Workfront Fusion, Scenarios in Adobe Workfront Fusion
 
 **Sectie 2: Scenario-ontwerp en -architectuur**
 
-* [Workfront Fusion-scenario optimaliseren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html?lang=en){target="_blank"} - Zelfstudie
-* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Modules in Adobe Workfront Fusion
+* [Workfront Fusion-scenario optimaliseren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html){target="_blank"} - Zelfstudie
+* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Modules in Adobe Workfront Fusion
 
 **Deel 3: Testen en foutafhandeling**
 
-* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Scenario Settings Panel in Adobe Workfront Fusion, Errors in Adobe Workfront Fusion, Functies in Adobe Workfront Fusion
+* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Scenario Settings Panel in Adobe Workfront Fusion, Errors in Adobe Workfront Fusion, Functies in Adobe Workfront Fusion
 
 **Sectie 4: Werken met API&#39;s**
 
-* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - HTTP-modules, verbindingen in Adobe Workfront Fusion, modules in Adobe Workfront Fusion
-* [Adobe Workfront API](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html?lang=en){target="_blank"}
+* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - HTTP-modules, verbindingen in Adobe Workfront Fusion, modules in Adobe Workfront Fusion
+* [Adobe Workfront API](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html){target="_blank"}
 
 ## Uw certificering verlengen
 
-Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de koppeling Workfront Fusion Developer — AD5-830 hieronder om uw certificering te vernieuwen.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de koppeling Workfront Fusion Developer — AD5-830 hieronder om uw certificering te vernieuwen.
 
 * [Verlenging Workfront Fusion Developer - AD5-830](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E830){target="_blank"}
 
@@ -119,7 +119,7 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 
 ## Instructies voor het vernieuwen van uw certificering:
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Herzie de examendoelstellingen en de middelen
 * **Stap 3**: Neem en ga het examen over
 
@@ -171,53 +171,53 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Inname en planning**
 
-* [Inzicht in aanvraagwachtrijen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html?lang=en){target="_blank"}
-* [Goedkeuring van de werkzaamheden](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approving-work.html?lang=en){target="_blank"}
-* [Een project delen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=en){target="_blank"}
-* [Projectsjablonen bewerken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/edit-templates.html?lang=en){target="_blank"}
-* [Taken toewijzen vanuit het projectplan](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html?lang=en){target="_blank"}
-* [Overzicht van taken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/tasks-overview.html?lang=en){target="_blank"}
-* [Overzicht van het type duur: Berekend werk](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/)
-* [Objecten in Adobe Workfront begrijpen](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/understand-objects.html?lang=en){target="_blank"}
-* [Uitgaven converteren naar andere werkitems](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html?lang=en){target="_blank"}
-* [Een project delen in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/grant-request-object-permissions/share-a-project.html?lang=en){target="_blank"}
-* [Bronbeheerders aanwijzen voor een project of sjabloon](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/designate-resource-managers-for-projects-and-templates.html?lang=en){target="_blank"}
-* [Dashboards maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en){target="_blank"}
+* [Inzicht in aanvraagwachtrijen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
+* [Goedkeuring van de werkzaamheden](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approving-work.html){target="_blank"}
+* [Een project delen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html){target="_blank"}
+* [Projectsjablonen bewerken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/edit-templates.html){target="_blank"}
+* [Taken toewijzen vanuit het projectplan](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html){target="_blank"}
+* [Overzicht van taken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/tasks-overview.html){target="_blank"}
+* [Overzicht van het type duur: Berekend werk](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/tasks-overview.html){target="_blank"}
+* [Objecten in Adobe Workfront begrijpen](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/understand-objects.html){target="_blank"}
+* [Uitgaven converteren naar andere werkitems](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html){target="_blank"}
+* [Een project delen in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/grant-request-object-permissions/share-a-project.html){target="_blank"}
+* [Bronbeheerders aanwijzen voor een project of sjabloon](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/designate-resource-managers-for-projects-and-templates.html){target="_blank"}
+* [Dashboards maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html){target="_blank"}
 
 **Sectie 2: Uitvoeren**
 
-* [Overzicht van goedkeuringsproces](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approval-process-in-workfront.html?lang=en){target="_blank"}
-* [Een goedkeuringsproces voor werkitems maken](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html?lang=en){target="_blank"}
-* [Een uitgave converteren naar een taak in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-task.html?lang=en){target="_blank"}
-* [Problemen maken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/manage-issues/create-issues.html?lang=en){target="_blank"}
-* [Niet-gepland werk afhandelen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work.html?lang=en){target="_blank"}
-* [Een eenvoudig rapport maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-simple-report.html?lang=en){target="_blank"}
-* [Overzicht van datum vastleggen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/update-work-on-a-project/overview-of-commit-dates.html?lang=en){target="_blank"}
-* [Taakbeperkingen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html?lang=en){target="_blank"}
-* [Groepen versus teams in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams.html?lang=en){target="_blank"}
-* [Projecten bewerken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html?lang=en){target="_blank"}
-* [Een bestandsteam maken](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html?lang=en){target="_blank"}
-* [De iteratiepagina gebruiken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/scrum/using-the-iteration-page.html?lang=en){target="_blank"}
-* [Projectcommunicatie begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.html?lang=en){target="_blank"}
-* [Plan een automatische levering van rapporten](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/set-up-automatic-report-delivery.html?lang=en){target="_blank"}
-* [Overzicht van het type Projectvoorwaarde en Voorwaarde](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/project-condition-and-condition-type.html?lang=en){target="_blank"}
-* [Datatypen en voortgangsstatus begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/understand-task-dates-and-progress-status.html?lang=en){target="_blank"}
+* [Overzicht van goedkeuringsproces](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approval-process-in-workfront.html){target="_blank"}
+* [Een goedkeuringsproces voor werkitems maken](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
+* [Een uitgave converteren naar een taak in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-task.html){target="_blank"}
+* [Problemen maken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/manage-issues/create-issues.html){target="_blank"}
+* [Niet-gepland werk afhandelen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work.html){target="_blank"}
+* [Een eenvoudig rapport maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-simple-report.html){target="_blank"}
+* [Overzicht van datum vastleggen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/update-work-on-a-project/overview-of-commit-dates.html){target="_blank"}
+* [Taakbeperkingen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html){target="_blank"}
+* [Groepen versus teams in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams.html){target="_blank"}
+* [Projecten bewerken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html){target="_blank"}
+* [Een bestandsteam maken](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
+* [De iteratiepagina gebruiken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/scrum/using-the-iteration-page.html){target="_blank"}
+* [Projectcommunicatie begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.html){target="_blank"}
+* [Plan een automatische levering van rapporten](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/set-up-automatic-report-delivery.html){target="_blank"}
+* [Overzicht van het type Projectvoorwaarde en Voorwaarde](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/project-condition-and-condition-type.html){target="_blank"}
+* [Datatypen en voortgangsstatus begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/understand-task-dates-and-progress-status.html){target="_blank"}
 * [Het werk van uw team beheren met behulp van dashboards](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/manage-your-team-s-work-using-dashboards/ba-p/518250){target="_blank"}
-* [Ingebouwde Adobe Workfront-rapporten gebruiken](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/built-in-reports/use-workfront-built-in-reports.html?lang=en){target="_blank"}
+* [Ingebouwde Adobe Workfront-rapporten gebruiken](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/built-in-reports/use-workfront-built-in-reports.html){target="_blank"}
 
 
 **Deel 3: Sluiten**
 
-* [De status van een project wijzigen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/change-project-status.html?lang=en){target="_blank"}
-* [Systeemprojectstatussen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html?lang=en){target="_blank"}
-* [De milestone-weergave gebruiken](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html?lang=en){target="_blank"}
-* [Overzicht van de financiële vakgebieden Bedrijfscase](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/business-case-finances.html?lang=en){target="_blank"}
-* [Projectfinanciën opgenomen in de basislijnen van projecten](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/project-finances-included-in-project-baselines.html?lang=en#financial-information-included-in-baseline-reports){target="_blank"}
-* [Voortgang van het werk bijhouden met projectmetriek](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.html?lang=en){target="_blank"}
+* [De status van een project wijzigen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/change-project-status.html){target="_blank"}
+* [Systeemprojectstatussen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html){target="_blank"}
+* [De milestone-weergave gebruiken](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html){target="_blank"}
+* [Overzicht van de financiële vakgebieden Bedrijfscase](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/business-case-finances.html){target="_blank"}
+* [Projectfinanciën opgenomen in de basislijnen van projecten](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/project-finances-included-in-project-baselines.html#financial-information-included-in-baseline-reports){target="_blank"}
+* [Voortgang van het werk bijhouden met projectmetriek](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.html){target="_blank"}
 
 ## Uw certificering verlengen
 
-Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"} eerst. Als u uw certificering vervolgens wilt vernieuwen, klikt u hieronder op de koppeling Workfront Project Manager Professional-vernieuwing - AD5-833.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} eerst. Als u uw certificering vervolgens wilt vernieuwen, klikt u hieronder op de koppeling Workfront Project Manager Professional-vernieuwing - AD5-833.
 
 * [Workfront Project Manager Professional-verlenging - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E833){target="_blank"}
 
@@ -233,7 +233,7 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 
 ## Instructies voor het vernieuwen van uw certificering:
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Herzie de examendoelstellingen en de middelen
 * **Stap 3**: Neem en ga het examen over
 
@@ -293,61 +293,61 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Beheer en installatie van het kernsysteem**
 
-* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - (Beheer en installatie, Groepen beheren, flexibel)
-* [De projectsjablonen van een groep maken en wijzigen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-templates.html?lang=en){target="_blank"}
-* [Groepsspecifieke goedkeuringsprocedures begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.html?lang=en){target="_blank"}
-* [Hoe groepen statussen overerven](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/how-groups-inherit-statuses.html?lang=en){target="_blank"}
-* [De teams van een groep maken en wijzigen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-teams.html?lang=en){target="_blank"}
+* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Beheer en installatie, Groepen beheren, flexibel)
+* [De projectsjablonen van een groep maken en wijzigen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-templates.html){target="_blank"}
+* [Groepsspecifieke goedkeuringsprocedures begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.html){target="_blank"}
+* [Hoe groepen statussen overerven](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/how-groups-inherit-statuses.html){target="_blank"}
+* [De teams van een groep maken en wijzigen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-teams.html){target="_blank"}
 * [Licentie voor benoemde gebruikers | Implementatiehandleiding](https://helpx.adobe.com/enterprise/using/deployment-planning.html){target="_blank"}
-* [Afvalfunctie van kaart configureren](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-planning-boards/configure-card-falloff.html?lang=en){target="_blank"}
-* [Gekoppelde kaarten op borden gebruiken](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/connected-cards.html?lang=en){target="_blank"}
-* [Leden toevoegen aan of verwijderen uit een board](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html?lang=en){target="_blank"}
+* [Afvalfunctie van kaart configureren](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-planning-boards/configure-card-falloff.html){target="_blank"}
+* [Gekoppelde kaarten op borden gebruiken](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/connected-cards.html){target="_blank"}
+* [Leden toevoegen aan of verwijderen uit een board](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html){target="_blank"}
 
 **Sectie 2: Inname, Aangepaste Forms en Projectbeheer**
 
-* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - (Beheer en Instellen, Aangepaste Forms, Rapporten, Rapportonderdelen)
-* [Een sectie-einde toevoegen aan een aangepast formulier met de oudere formulierbuilder](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/add-a-section-break-to-a-custom-form.html?lang=en){target="_blank"}
-* [Variabelen van jokerfilter](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=en){target="_blank"}
+* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Beheer en Instellen, Aangepaste Forms, Rapporten, Rapportonderdelen)
+* [Een sectie-einde toevoegen aan een aangepast formulier met de oudere formulierbuilder](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/add-a-section-break-to-a-custom-form.html){target="_blank"}
+* [Variabelen van jokerfilter](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html){target="_blank"}
 
 **Deel 3: Strategische functionaliteit (Portfolio- en programmabeheer, beheer van hulpbronnen)**
 
-* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - (De werklastbalans, Bronplanning in Adobe Workfront, Taken toewijzen)
-* [Werk in bulk toewijzen met Werklastverdeling](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
-* [De middelen van de begroting in de Planner van het Middel gebruikend de meningen van het Project en van de Rol](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/budget-resources-project-role-views-resource-planner.html?lang=en){target="_blank"}
-* [Gegevens in de werklastbalans filteren](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=en){target="_blank"}
-* [Werk in bulk toewijzen met Werklastverdeling](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
-* [Overzicht van slimme toewijzingen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/assign-tasks/smart-assignments.html?lang=en){target="_blank"}
+* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (De werklastbalans, Bronplanning in Adobe Workfront, Taken toewijzen)
+* [Werk in bulk toewijzen met Werklastverdeling](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
+* [De middelen van de begroting in de Planner van het Middel gebruikend de meningen van het Project en van de Rol](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/budget-resources-project-role-views-resource-planner.html){target="_blank"}
+* [Gegevens in de werklastbalans filteren](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html){target="_blank"}
+* [Werk in bulk toewijzen met Werklastverdeling](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
+* [Overzicht van slimme toewijzingen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/assign-tasks/smart-assignments.html){target="_blank"}
 
 **Sectie 4: Documentbeheer en proefdrukken**
 
-* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - (Het werk van het overzicht en keurt goed, vormt proef, vormt integratie)
-* [Overzicht van machtigingsprofiel proefdrukken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html?lang=en){target="_blank"}
-* [Overzicht van proefrollen](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles.html?lang=en){target="_blank"}
-* [De proefdruktoegang van een gebruiker configureren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/configure-proofing/configure-a-users-proofing-access.html?lang=en){target="_blank"}
-* [De integratie met Experience Manager Assets Essentials configureren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/setup-asset-essentials.html?lang=en){target="_blank"}
-* [De as a Cloud Service integratie met Experience Manager Assets configureren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-aacs-integration.html?lang=en){target="_blank"}
+* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Het werk van het overzicht en keurt goed, vormt proef, vormt integratie)
+* [Overzicht van machtigingsprofiel proefdrukken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
+* [Overzicht van proefrollen](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles.html){target="_blank"}
+* [De proefdruktoegang van een gebruiker configureren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/configure-proofing/configure-a-users-proofing-access.html){target="_blank"}
+* [De integratie met Experience Manager Assets Essentials configureren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/setup-asset-essentials.html){target="_blank"}
+* [De as a Cloud Service integratie met Experience Manager Assets configureren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-aacs-integration.html){target="_blank"}
 
 **Sectie 5: Rapportage**
 
-* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - (Het werk van het overzicht en keurt goed, vormt proef, vormt integratie)
-* [Een projectsjabloon maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html?lang=en){target="_blank"}
-* [Een afbeeldings- of andere middelenwidget toevoegen of bewerken in een aangepast formulier met de verouderde formulierbuilder](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-widget-or-edit-its-properties-in-a-custom-form.html?lang=en){target="_blank"}
-* [Een rapport in een diagram weergeven op basis van een aangepast veld met meerdere selecties](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/chart-report-by-multi-select-custom-field.html?lang=en){target="_blank"}
-* [Overzicht van blauwdrukken](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview.html?lang=en){target="_blank"}
+* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Het werk van het overzicht en keurt goed, vormt proef, vormt integratie)
+* [Een projectsjabloon maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
+* [Een afbeeldings- of andere middelenwidget toevoegen of bewerken in een aangepast formulier met de verouderde formulierbuilder](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-widget-or-edit-its-properties-in-a-custom-form.html){target="_blank"}
+* [Een rapport in een diagram weergeven op basis van een aangepast veld met meerdere selecties](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/chart-report-by-multi-select-custom-field.html){target="_blank"}
+* [Overzicht van blauwdrukken](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview.html){target="_blank"}
 
 **Sectie 6: Methodologie / Beste praktijken / Gevallen van het Gebruik**
 
-* [as a Cloud Service documentatie Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"} - (Integratie met Adobe Workfront)
-* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} (Elementen rapporteren, Projectfinanciën, gebruik van bronnen, gebruik van flexibele planningtools in raden van bestuur, configureren van proefdrukfunctionaliteit)
+* [as a Cloud Service documentatie Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"} - (Integratie met Adobe Workfront)
+* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} (Elementen rapporteren, Projectfinanciën, gebruik van bronnen, gebruik van flexibele planningtools in raden van bestuur, configureren van proefdrukfunctionaliteit)
 * [Essentiële webinar voor systeembeheer: Wat is Workfront Governance?](https://experienceleaguecommunities.adobe.com/t5/workfront-questions/system-admin-essentials-webinar-what-is-workfront-governance-mar/m-p/480721#M13550){target="_blank"}
-* [Metagegevenstoewijzing tussen Adobe Workfront en Experience Manager Assets configureren](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/configure-asset-metadata-mapping.html?lang=en){target="_blank"}
+* [Metagegevenstoewijzing tussen Adobe Workfront en Experience Manager Assets configureren](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/configure-asset-metadata-mapping.html){target="_blank"}
 * [Metagegevens](https://www.adobe.com/digitalimag/pdfs/about_metadata.pdf){target="_blank"}
-* [De milestone-weergave gebruiken](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html?lang=en){target="_blank"}
-* [Trackkosten](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html?lang=en){target="_blank"}
+* [De milestone-weergave gebruiken](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html){target="_blank"}
+* [Trackkosten](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
 
 ## Uw certificering verlengen
 
-Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"} eerst. Als u uw certificering vervolgens wilt vernieuwen, klikt u hieronder op de koppeling Workfront Core Developer-vernieuwing - AD5-829.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} eerst. Als u uw certificering vervolgens wilt vernieuwen, klikt u hieronder op de koppeling Workfront Core Developer-vernieuwing - AD5-829.
 
 * [Verlenging Workfront Core Developer Expert - AD5-829](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E829){target="_blank"}
 
@@ -361,6 +361,6 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

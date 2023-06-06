@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-E121" type="positive"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1328'
 ht-degree: 1%
 
 ---
@@ -113,28 +113,28 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1: Onderwijs**
 
-* [AEM 6.5 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
-* [Meer informatie over AEM 6.5-mogelijkheden](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"}
-* [AEM [!DNL Sites] video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
-* [Lanceringen](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=en){target="_blank"}
-* [Eerste stappen voor auteurs](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html?lang=en){target="_blank"}
-* [Best practices voor het bewerken van content](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/content-editing-best-practices.html?lang=en){target="_blank"}
-* [Pagina&#39;s maken en ordenen](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html?lang=en){target="_blank"}
-* [Concept van ontwerpen en publiceren](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/author.html?lang=en){target="_blank"}
+* [AEM 6.5 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
+* [Meer informatie over AEM 6.5-mogelijkheden](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
+* [AEM [!DNL Sites] video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
+* [Lanceringen](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html){target="_blank"}
+* [Eerste stappen voor auteurs](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html){target="_blank"}
+* [Best practices voor het bewerken van content](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/content-editing-best-practices.html){target="_blank"}
+* [Pagina&#39;s maken en ordenen](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html){target="_blank"}
+* [Concept van ontwerpen en publiceren](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/author.html){target="_blank"}
 
 **Sectie 2: Architectuur**
 
 * [Een inleiding tot Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"}
-* [Meer informatie over AEM 6.5-mogelijkheden](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"}
-* [Adobe [!DNL Experience Manager] documentatie](https://experienceleague.adobe.com/docs/experience-manager.html?lang=en){target="_blank"}
-* [Integreren met services van derden](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/third-party-services.html?lang=en)
-* [Oplossingsintegratie](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/integration.html?lang=en){target="_blank"}
-* [[!DNL Experience Cloud] Overzicht van integratie](https://experienceleague.adobe.com/docs/core-services/interface/administration/marketing-cloud-integrations.html?lang=en){target="_blank"}
-* [Gebruikersrollen en machtigingen beheren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html?lang=en){target="_blank"}
-* [Rollen en machtigingen](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/c-mob-roles-and-permissions.html?lang=en){target="_blank"}
+* [Meer informatie over AEM 6.5-mogelijkheden](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
+* [Adobe [!DNL Experience Manager] documentatie](https://experienceleague.adobe.com/docs/experience-manager.html){target="_blank"}
+* [Integreren met services van derden](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/third-party-services.html)
+* [Oplossingsintegratie](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/integration.html){target="_blank"}
+* [[!DNL Experience Cloud] Overzicht van integratie](https://experienceleague.adobe.com/docs/core-services/interface/administration/marketing-cloud-integrations.html){target="_blank"}
+* [Gebruikersrollen en machtigingen beheren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html){target="_blank"}
+* [Rollen en machtigingen](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/c-mob-roles-and-permissions.html){target="_blank"}
 * [Gebruikers, rollen en machtigingen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/users-roles-permissions.html){target="_blank"}
-* [Gebruikers, groepen en gebruikersrollen beheren](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html?lang=en){target="_blank"}
-* [Beveiligde inhoud in cache plaatsen](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/permissions-cache.html?lang=en){target="_blank"}
+* [Gebruikers, groepen en gebruikersrollen beheren](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html){target="_blank"}
+* [Beveiligde inhoud in cache plaatsen](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/permissions-cache.html){target="_blank"}
 * [Hoofdstuk 1 - Dispatcher-concepten, -patronen en -antipatronen](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-1.html){target="_blank"}
 * [Hoofdstuk 2 - Infrastructuur](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-2.html){target="_blank"}
 * [Hoofdstuk 3 - Geavanceerde onderwerpen in cache plaatsen](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-3.html){target="_blank"}
@@ -142,36 +142,36 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 **Deel 3: Bedrijfsanalyse**
 
 * [Ontwikkel globale websites in AEM](https://learning.adobe.com/catalog/adobe_experiencemanager/cours000000000087076.html){target="_blank"}
-* [AEM kernbegrippen](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=en){target="_blank"}
-* [Overzicht van onderdelen](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html?lang=en){target="_blank"}
-* [Inhoudsarchitectuur](https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/content-architecture.html?lang=en){target="_blank"}
-* [Projecten beheren - Checklist voor aanbevolen procedures](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html?lang=en){target="_blank"}
-* [Overwegingen als projecten worden behandeld](https://experienceleague.adobe.com/docs/experience-manager-screens/using/strategic-brief/pre-sales-considerations.html?lang=en){target="_blank"}
+* [AEM kernbegrippen](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html){target="_blank"}
+* [Overzicht van onderdelen](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html){target="_blank"}
+* [Inhoudsarchitectuur](https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/content-architecture.html){target="_blank"}
+* [Projecten beheren - Checklist voor aanbevolen procedures](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html){target="_blank"}
+* [Overwegingen als projecten worden behandeld](https://experienceleague.adobe.com/docs/experience-manager-screens/using/strategic-brief/pre-sales-considerations.html){target="_blank"}
 * [Bezorgings- en planningsaanpak](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/planning/delivery.html){target="_blank"}
-* [Prototypen van gebruikerservaring](https://experienceleague.adobe.com/docs/experience-manager-screens/using/design-brief/prototypes.html?lang=en){target="_blank"}
-* [Juridische contracten beheren](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/legal.html?lang=en){target="_blank"}
-* [Rollen en projectfasen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/intro-to-platform/roles-and-project-phases.html?lang=en){target="_blank"}
-* [Aanbevolen werkwijzen voor Adobe Experience Manager- en Creative Cloud-integratie](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html?lang=en){target="_blank"}
-* [Projecten beheren - Checklist voor aanbevolen procedures](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html?lang=en){target="_blank"}
-* [Bronnen](https://experienceleague.adobe.com/docs/commerce-operations/operational-playbook/people/resources.html?lang=en){target="_blank"}
-* [Checklist - Verdere referentie](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices-further-reference.html?lang=en){target="_blank"}
+* [Prototypen van gebruikerservaring](https://experienceleague.adobe.com/docs/experience-manager-screens/using/design-brief/prototypes.html){target="_blank"}
+* [Juridische contracten beheren](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/legal.html){target="_blank"}
+* [Rollen en projectfasen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/intro-to-platform/roles-and-project-phases.html){target="_blank"}
+* [Aanbevolen werkwijzen voor Adobe Experience Manager- en Creative Cloud-integratie](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html){target="_blank"}
+* [Projecten beheren - Checklist voor aanbevolen procedures](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html){target="_blank"}
+* [Bronnen](https://experienceleague.adobe.com/docs/commerce-operations/operational-playbook/people/resources.html){target="_blank"}
+* [Checklist - Verdere referentie](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices-further-reference.html){target="_blank"}
 
 
 **Sectie 4: Instellen en implementeren**
 
-* [AEM 6.4 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
-* [AEM ontwikkeling - Richtsnoeren en beste praktijken](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=en){target="_blank"}
-* [Overzicht van componenten](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html?lang=en){target="_blank"}
-* [Componentrichtlijnen](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/guidelines.html?lang=en){target="_blank"}
-* [Onderdelen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/components.html?lang=en){target="_blank"}
-* [Localisatiefuncties van de kerncomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html?lang=en){target="_blank"}
-* [Zoekfunctie](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html?lang=en){target="_blank"}
+* [AEM 6.4 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
+* [AEM ontwikkeling - Richtsnoeren en beste praktijken](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html){target="_blank"}
+* [Overzicht van componenten](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html){target="_blank"}
+* [Componentrichtlijnen](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/guidelines.html){target="_blank"}
+* [Onderdelen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/components.html){target="_blank"}
+* [Localisatiefuncties van de kerncomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html){target="_blank"}
+* [Zoekfunctie](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
@@ -210,6 +210,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.

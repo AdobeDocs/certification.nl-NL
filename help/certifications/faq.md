@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '2665'
+source-wordcount: '2655'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ Individuele prestaties: Certificering is een referentie die de vaardigheid en be
 
 Certificeringen vereisen betrokkenheid, zijn juridisch verdedigbaar en valideren vanuit Adobe van uw expertise. U kunt uw certificering ook uitvoeren op uw sociale profielen door uw badge te downloaden van [!DNL Credly].
 
-Meer informatie over het beheren van je badges in [!DNL Credly], go [HIER](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+Meer informatie over het beheren van je badges in [!DNL Credly], go [HIER](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -43,7 +43,7 @@ Certificeringen zijn op rollen gebaseerd, wat betekent dat er meerdere examens b
 Soms zijn er veelvoudige versies van een examen. De nieuwste versie is het beste.
 
 * Als een examen met pensioen gaat, zult u een nota op de certificerings reis pagina zien. Dit betekent dat deze examenversie spoedig zal worden verwijderd omdat een nieuwe versie van het examen beschikbaar is. Wij moedigen kandidaten aan om de meest recente versie aan te nemen, maar u kunt de gepensioneerde versie nemen als u zich meer bereid voelt om het aan te nemen. Hoe dan ook, uw certificatie zal twee jaar duren.
-* Als uw huidige certificering bijna verlopen is, moet u deze vernieuwen. De opties voor verlenging hebben minder vragen en zijn GRATIS. Deze opties betreffen de meest recente toepassingsmogelijkheden. Als uw certificatie verloopt, zult u de recentste versie van het certificatieexamen moeten nemen, die u zou betalen voor. [Meer informatie over vernieuwingsopties](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+* Als uw huidige certificering bijna verlopen is, moet u deze vernieuwen. De opties voor verlenging hebben minder vragen en zijn GRATIS. Deze opties betreffen de meest recente toepassingsmogelijkheden. Als uw certificatie verloopt, zult u de recentste versie van het certificatieexamen moeten nemen, die u zou betalen voor. [Meer informatie over vernieuwingsopties](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -154,7 +154,7 @@ Af en toe gaan we met pensioen voor een examen voor een rol. In dat geval duurt 
 
 Uw certificering verloopt en wordt weergegeven als verlopen in [!DNL Credly] en een van uw sociale profielen. Ook, als uw certificatie verloopt, dan kunt u niet het kortere vernieuwingsexamen nemen of vernieuwen via het ononderbroken leren.
 
-Meer informatie over het beheren van je badges in [!DNL Credly], go [HIER](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+Meer informatie over het beheren van je badges in [!DNL Credly], go [HIER](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -162,7 +162,7 @@ Meer informatie over het beheren van je badges in [!DNL Credly], go [HIER](https
 
 U kunt uw certificering gratis verlengen. Dit voorziet u van een rendabele manier om uw certificatie te handhaven, en uw oplossingsvaardigheden bijgewerkt te houden.
 
-Ga voor meer informatie over het vernieuwen van uw certificering naar [hier](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+Ga voor meer informatie over het vernieuwen van uw certificering naar [hier](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -387,7 +387,7 @@ Eindvoorwaarde is dat de nieuwe [!DNL Marketo Engage] Architect-examen. Voor all
 
 +++Waarom zijn Adobe [!DNL Commerce] Certificeringen die geen deel uitmaken van het Adobe Certification Restart Program?
 
-Er zijn geen verlopen certificaathouders voor momenteel aangeboden Adobe [!DNL Commerce] Certificeringen vanaf 23 april 2023. Daarom alle actieve Adobe [!DNL Commerce] Gecertificeerde kandidaten hebben de mogelijkheid om te vernieuwen door voortdurend leren [vernieuwingspad voor certificering](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}.
+Er zijn geen verlopen certificaathouders voor momenteel aangeboden Adobe [!DNL Commerce] Certificeringen vanaf 23 april 2023. Daarom alle actieve Adobe [!DNL Commerce] Gecertificeerde kandidaten hebben de mogelijkheid om te vernieuwen door voortdurend leren [vernieuwingspad voor certificering](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-renew.html){target="_blank"}.
 
 +++
 

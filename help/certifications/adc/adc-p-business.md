@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 13671a4dceee486a2abba6ab3ab8f2fa781f5c86
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '963'
 ht-degree: 0%
 
 ---
@@ -96,7 +96,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Adobe PDF Embed-API](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
 * [PDF- en e-handtekeningtools voor uw bedrijf. Acrobat heeft het.](https://www.adobe.com/acrobat/business.html){target="_blank"}
 * [Adobe Acrobat-gebruikershandleiding](https://helpx.adobe.com/acrobat/user-guide.html){target="_blank"}
-* [Overzicht van integraties - Nieuwe functies](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html?lang=en#what%E2%80%99s-new){target="_blank"}
+* [Overzicht van integraties - Nieuwe functies](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html#what%E2%80%99s-new){target="_blank"}
 * [Veilige, flexibele online handtekeningen](https://www.adobe.com/sign/online-signature.html){target="_blank"}
 
 **Deel 3: Document Cloud (DC)-mogelijkheden definiëren**
@@ -122,7 +122,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
@@ -163,7 +163,7 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
 

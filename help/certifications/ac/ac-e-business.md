@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-E708" type="positive"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1675'
+source-wordcount: '1649'
 ht-degree: 0%
 
 ---
@@ -133,12 +133,12 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 **Sectie 1: Basisfuncties/algemene configuratie**
 
 * [[!DNL Commerce] handelsdocumentatie](https://docs.magento.com/user-guide/getting-started.html){target="_blank"}
-* [Producttypen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-1-product-types-options.html?lang=en){target="_blank"}
-* [Klantenbeheer](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-2-customer-management.html?lang=en){target="_blank"}
+* [Producttypen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-1-product-types-options.html){target="_blank"}
+* [Klantenbeheer](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-2-customer-management.html){target="_blank"}
 * [Een product maken](https://docs.magento.com/user-guide/catalog/product-types.html){target="_blank"}
-* [Admin-menu&#39;s](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-1-menus.html?lang=en){target="_blank"}
-* [Gegevensrasters](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-2-data-grids.html?lang=en){target="_blank"}
-* [Opslaginstellingen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-7-business-settings.html?lang=en){target="_blank"}
+* [Admin-menu&#39;s](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-1-menus.html){target="_blank"}
+* [Gegevensrasters](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-2-data-grids.html){target="_blank"}
+* [Opslaginstellingen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-7-business-settings.html){target="_blank"}
 * [Inleiding tot winkels en aankopen](https://docs.magento.com/user-guide/stores/stores.html){target="_blank"}
 * [Inleiding tot beheersystemen: Operationeel beheer](https://docs.magento.com/user-guide/operations.html){target="_blank"}
 * [Invoer- en uitvoerproducten](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-7-import-export-products.html){target="_blank"}
@@ -158,14 +158,14 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 **Sectie 2: Merchandising**
 
 * [Aanbiedingen](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [Productcategorieën](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/2-1-categories.html?lang=en){target="_blank"}
+* [Productcategorieën](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/2-1-categories.html){target="_blank"}
 * [Positie categorie](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-2-arrange-product-categories.html){target="_blank"}
 * [Productinstellingen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-2-product-settings.html){target="_blank"}
 * [Attributen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-3-product-attributes.html){target="_blank"}
 * [Kenmerksets](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-4-product-attribute-sets.html){target="_blank"}
 * [Eenvoudige producten](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-5-create-simple-product.html){target="_blank"}
-* [Configureerbare kenmerken](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-6-configurable-attributes.html?lang=en){target="_blank"}
-* [Gelaagde navigatie](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-1-layered-navigation.html?lang=en){target="_blank"}
+* [Configureerbare kenmerken](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-6-configurable-attributes.html){target="_blank"}
+* [Gelaagde navigatie](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-1-layered-navigation.html){target="_blank"}
 * [Inleiding tot catalogusbeheer](https://docs.magento.com/user-guide/catalog.html){target="_blank"}
 * [Geavanceerde prijzen](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
 
@@ -191,8 +191,8 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 5: Systeemarchitectuur**
 
-* [Handel voor zakelijke gebruikers - Sites, winkels en weergaven](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-3-apps-scopes-sites-stores.html?lang=en){target="_blank"}
-* [Handel voor zakelijke gebruikers - Winkelweergaven en cacheverwerking](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-4-store-views-cache.html?lang=en){target="_blank"}
+* [Handel voor zakelijke gebruikers - Sites, winkels en weergaven](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-3-apps-scopes-sites-stores.html){target="_blank"}
+* [Handel voor zakelijke gebruikers - Winkelweergaven en cacheverwerking](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-4-store-views-cache.html){target="_blank"}
 * [Handel voor zakelijke gebruikers - Winefront](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-1-storefront-experience.html){target="_blank"}
 * [Winkeldetails](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
 * [Menu Rapporten](https://docs.magento.com/user-guide/reports.html){target="_blank"}
@@ -200,8 +200,8 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 6: Naleving/beveiliging**
 
-* [Gebruikers en rollen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-5-users-roles.html?lang=en){target="_blank"}
-* [Rolbereik en machtigingen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-6-role-scopes.html?lang=en){target="_blank"}
+* [Gebruikers en rollen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-5-users-roles.html){target="_blank"}
+* [Rolbereik en machtigingen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-6-role-scopes.html){target="_blank"}
 * [Toestemmingen](https://docs.magento.com/user-guide/system/permissions.html){target="_blank"}
 * [Privacybeleid van winkel](https://docs.magento.com/user-guide/stores/privacy-policy.html){target="_blank"}
 * [Beveiliging en naleving](https://docs.magento.com/user-guide/payment-services/security.html){target="_blank"}
@@ -212,7 +212,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](http://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
@@ -251,6 +251,6 @@ U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, 
 
 **Vragen**
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
