@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Exam AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
 workflow-type: tm+mt
 source-wordcount: '1246'
 ht-degree: 4%
@@ -169,7 +169,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [[!DNL Adobe Target] Handleiding voor ondernemers](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [Opgelost: [!DNL Adobe Target] iframe](https://experienceleaguecommunities.adobe.com/t5/adobe-target-questions/adobe-target-iframe/m-p/327224){target="_blank"}
 * [Zelfstudie Adobe Experience Cloud implementeren in mobiele apps](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html){target="_blank"}
-* [Referentie voor doel-API](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target/target-api-reference#getthirdpartyid){target="_blank"}
+* [Referentie voor doel-API](https://developer.adobe.com/client-sdks/documentation/adobe-target/api-reference/#getthirdpartyid){target="_blank"}
 
 **Sectie 5: Hefboomwerking [!DNL Adobe Target] aanbevelingen**
 
@@ -181,7 +181,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Toevoegen [!DNL Adobe Target] met tags](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html){target="_blank"}
 * [Klant-id&#39;s en verificatiestatussen](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html){target="_blank"}
 * [Leren hoe te gebruiken [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html){target="_blank"}
-* [Referentie voor doel-API](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target/target-api-reference#getthirdpartyid){target="_blank"}
+* [Referentie voor doel-API](https://developer.adobe.com/client-sdks/documentation/adobe-target/api-reference/#getthirdpartyid){target="_blank"}
 * [[!DNL Adobe Target] Overzicht van extensies](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target/overview.html){target="_blank"}
 * [Inleiding tot apparaatbeslissingen](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning){target="_blank"}
 * [Wanneer moet u op het apparaat versus randbesluitvorming gebruiken](https://adobetarget-sdks.gitbook.io/docs/best-practices/when-to-use-server-side-vs-on-device-decisioning){target="_blank"}

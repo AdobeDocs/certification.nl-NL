@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Exam AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
 workflow-type: tm+mt
-source-wordcount: '1570'
-ht-degree: 7%
+source-wordcount: '1568'
+ht-degree: 6%
 
 ---
 
@@ -131,7 +131,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Adobe [!DNL Experience Manager] 6.5 Communautaire gids](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
 * [AEM Sites - video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 * [AEM 6.5 Gebruikershandleiding voor beheren](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
-* [Introductie van AEM als cloudservice](http://www.jetteroheller.com/introducing-aem-as-a-cloud-service/){target="_blank"}
+* [Introductie van AEM als cloudservice](https://www.jetteroheller.com/introducing-aem-as-a-cloud-service/){target="_blank"}
 * [Inleiding tot Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
 * [Video&#39;s en zelfstudies voor AEM stichting](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
 * [Inleiding tot HTTP/2](https://developers.google.com/web/fundamentals/performance/http2){target="_blank"}
@@ -146,7 +146,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Conferentiegesprek: Configuratie met behoud van context](https://adapt.to/2016/en/schedule/sling-context-aware-configuration.html){target="_blank"}
 * [AEM Sites - video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 * [Pagina-eigenschappen weergeven/verbergen op basis van sjabloon in AEM 6.4](https://blogs.perficient.com/2019/01/03/how-to-show-hide-page-properties-based-on-page-template-in-aem-6-4/){target="_blank"}
-* [Aangepaste rendervoorwaarden AEM graniet](http://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
+* [Aangepaste rendervoorwaarden AEM graniet](https://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
 * [XSS voorkomen in React Applications](https://dev.to/spukas/preventing-xss-in-react-applications-5f5j){target="_blank"}
 * [AEM 6.5 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 * [AEM 6.4 Handleiding voor mobiele gebruikers](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
@@ -174,7 +174,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Identiteitstypen in Adobe Admin Console](https://helpx.adobe.com/ca/enterprise/using/identity.html){target="_blank"}
 * [Overzicht van verzending](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
 * [AEM Sites-video&#39;s en-tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
-* [Inleiding tot Cloud Manager](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html){target="_blank"}
+* [Inleiding tot Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
 * [Adobe Target Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [AEM 6.5 Gebruikersgids voor authoring](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [Handleiding voor assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
