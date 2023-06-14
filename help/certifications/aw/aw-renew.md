@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 55f2a24ee7ecc3a79b82c85402818e0a219d3d03
 workflow-type: tm+mt
-source-wordcount: '3068'
+source-wordcount: '3755'
 ht-degree: 0%
 
 ---
@@ -220,6 +220,111 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} eerst. Als u uw certificering vervolgens wilt vernieuwen, klikt u hieronder op de koppeling Workfront Project Manager Professional-vernieuwing - AD5-833.
 
 * [Workfront Project Manager Professional-verlenging - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E833){target="_blank"}
+
+>[!NOTE]
+>
+>Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+
++++
+
++++Workfront Core Developer Professional
+
+## Instructies voor het vernieuwen van uw certificering:
+
+* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 2**: Herzie de examendoelstellingen en de middelen
+* **Stap 3**: Neem en ga het examen over
+
+### Klaar
+
+**Details examen:**
+
+* Voldoende score: 03-25-35
+* Tijd: 70 minuten
+* Kosten: VRIJ/niet-afgewikkeld
+* Aflevering: Op aanvraag
+* Beschikbare talen: Engels
+* Vereiste: huidige (niet verlopen) Adobe Workfront Core Developer Professional-certificering
+* Examen-id: AD5-E835
+
+**Toepassingsgebied en doelstellingen**
+
+Sectie 1: Strategie en opname (20%)
+
+* Portfolio en programma&#39;s gebruiken
+* Aanvraagwachtrijen gebruiken
+* Aangepaste Forms gebruiken
+
+Sectie 2: Begroting en planning (11%)
+
+* De hulpmiddelen van de Planning van het Middel gebruiken
+
+Deel 3: Gebruikerservaring (26%)
+
+* De beste werkwijzen illustreren voor gebruikersbeheer bij het creëren van de juiste gebruikerservaring
+* Op basis van een scenario de juiste instelling toepassen voor het delen en toegangsrechten in het hele systeem
+* Beschrijf wat een blauwdruk is en herken wanneer het moet worden gebruikt
+* Toon hoe te om timesheets tot stand te brengen en te gebruiken
+* Beschrijf het doel en de waarde van schakelaars, stop-ins, en toe:voegen-ons
+
+Sectie 4: Metriek en rapportage (14%)
+
+* Beschrijf basisconcepten voor het bouwen, verzenden, en het aanpassen van rapporten
+* Uitleggen hoe u dashboards kunt maken en aanpassen
+
+Sectie 5: Uitvoering (29%)
+
+* Demonstreer hoe te opstellings goedkeuring en proefdrukken werkschema&#39;s
+* Het doel van het maken van een uitgave voor een project herkennen
+* Toon hoe te om groep-vlakke projectstatussen aan te passen
+* De kenmerken identificeren die nodig zijn om Agile in Workfront in te schakelen
+* De manieren identificeren waarop u tijd kunt betreden in Workfront
+
+## Vooraf ingesteld
+
+U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+
+Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+
+**Sectie 1: Strategie en opname**
+
+* [Overzicht van Portfolio optimaliseren](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html?lang=en){target="_blank"}
+* [Aanvraagwachtrijen maken en beheren](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-manage-request-queues.html?lang=en){target="_blank"}
+* [Toegang tot aanvraagwachtrijen bieden](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/provide-access-to-request-queues.html?lang=en){target="_blank"}
+* [Overzicht van aangepaste formulieren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
+
+**Sectie 2: Begroting en planning**
+
+* [De werklastbalans zoeken](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer.html?lang=en){target="_blank"}
+* [Werk in bulk toewijzen met Werklastverdeling](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
+* [Toewijzingen van gebruikers beheren in Workload Balancer](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/manage-user-allocations-workload-balancer.html?lang=en){target="_blank"}
+
+**Deel 3: Gebruikerservaring**
+
+* [Wanneer en hoe gebruikers te deactiveren of te schrappen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html?lang=en){target="_blank"}
+* [Projectsjablonen delen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/share-project-template.html?lang=en){target="_blank"}
+* [Handelingen die moeten worden uitgevoerd na de installatie van een blauwdruk](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/best-next-actions-after-install.html?lang=en){target="_blank"}
+* [Een timesheet voor eenmalig gebruik maken](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/create-tmshts.html?lang=en){target="_blank"}
+
+**Sectie 4: Metriek en rapportage**
+
+* [Adobe Workfront-integratie](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/workfront-integrations-1.html?lang=en){target="_blank"}
+* [Adobe Workfront-plug-ins gebruiken voor Creative Cloud](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=en){target="_blank"}
+* [Rapporten verzenden en delen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html?lang=en){target="_blank"}
+* [Dashboards maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en){target="_blank"}
+
+**Sectie 5: Uitvoering**
+
+* [Een uitgave converteren naar een project in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-project.html?lang=en){target="_blank"}
+* [Een board maken of bewerken](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en){target="_blank"}
+* [Leden toevoegen aan of verwijderen uit een board](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html?lang=en){target="_blank"}
+* [De lay-out Timesheet begrijpen](https://experienceleague.adobe.com/docs/workfront/using/timesheets/details/timesheet-layout.html?lang=en){target="_blank"}
+
+## Uw certificering verlengen
+
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} eerst. Als u uw certificering vervolgens wilt vernieuwen, klikt u op de koppeling Workfront Core Developer Professional — AD5-835 hieronder.
+
+* [Workfront Core Developer Professional-verlenging - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
 
 >[!NOTE]
 >
