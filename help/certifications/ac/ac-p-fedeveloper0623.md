@@ -1,15 +1,14 @@
 ---
-title: Front-end Professional-certificering voor ontwikkelaars
+title: Nieuwe certificering voor front-end Developer Professional
 description: Leer hoe u een gecertificeerde Adobe Developer professional voor Adobe kunt worden [!DNL Commerce] .
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Exam AD0-E719" type="positive"
+badge: label="Exam AD0-E721" type="positive"
 mini-toc-levels: 1
-exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: ee0b33e8a1cef382fb28926b2b0a69395fe6cc2c
+source-git-commit: 71d01a071a98d82ef8abcd4518b4596ca6834466
 workflow-type: tm+mt
-source-wordcount: '1198'
+source-wordcount: '1144'
 ht-degree: 0%
 
 ---
@@ -20,15 +19,15 @@ Leer hoe u een gecertificeerde Adobe Developer Professional kunt worden.
 
 >[!NOTE]
 >
->Dit examen Adobe Commerce Front End Developer Professional (AD0-E719) is bijgewerkt. Als u al bent begonnen met studeren of deze versie wilt gebruiken, moet u deze voor 18 augustus 2023 voltooien. Als u nog maar aan de slag gaat, raden we u aan de [nieuwste versie van dit examen](ac-p-fedeveloper0623.md).
+>Dit is het nieuwste Adobe Commerce Front End Developer Professional-examen. Als u al bent begonnen met studeren of de [oudere versie](ac-p-fedeveloper.md) u hebt tot 18 augustus 2023 de tijd om het te voltooien.
 
 ## Minimale ervaring
 
-U moet 0-12 maanden praktijkervaring met Adobe hebben [!DNL Commerce] De ontwikkeling aan de voorzijde en de capaciteit om met technische oplossingen te werken om individuele componenten te leveren.
+U zou 0 tot 12 maanden praktijkervaring met de ontwikkeling van Adobe Commerce Front-end en de capaciteit moeten hebben om met technische oplossingen te werken om individuele componenten te leveren.
 
 Bovendien, zou u kennis van de volgende technologieën moeten tonen:
 
-* Sterk begrip van Adobe [!DNL Commerce] versie 2.4.3
+* Uitstekende kennis van Adobe Commerce versie 2.4.6
 * Basiskennis van de front-end structuur en lay-out
 * Ervaring en begrip van HTML, CSS (en preprocessoren), LESS, JavaScript en UI-componenten, jQuery, onderstrepingsteken, Require.JS, Knockout, ook PHP-sjablonen, DB-kennis en inhoudsbeheer
 * Kennis van het platform, CMS-blokken, widgets, CMS-pagina&#39;s, categoriepagina&#39;s, productpagina&#39;s, winkelwagentjes en uitchecken en het dashboardgebied van de account
@@ -45,6 +44,7 @@ Bovendien, zou u kennis van de volgende technologieën moeten tonen:
 * Basisbegrip van XML
 * Basiskennis van SEO, optimalisatie en prestatietechnieken die buiten de box vallen
 * Basiskennis van canonieke koppelingen en het samenvoegen van JavaScript en CSS
+* Basiskennis van Adobe Commerce-cloudinfrastructuur
 
 >[!BEGINTABS]
 
@@ -52,7 +52,7 @@ Bovendien, zou u kennis van de volgende technologieën moeten tonen:
 
 **Beoogd publiek:**
 
-* Ontwikkelaar
+* Ontwikkelaars
 * Front-end ontwikkelaars
 * Volledige stapelontwikkelaars
 * PWA-ontwikkelaars
@@ -60,12 +60,12 @@ Bovendien, zou u kennis van de volgende technologieën moeten tonen:
 **Details examen:**
 
 * Niveau: Professioneel (0-12 maanden ervaring)
-* Voldoende score: 05-31-50
+* Voldoende score: 05-33-50
 * Tijd: 100 minuten
 * Aflevering: Online geproctoreerd (cameratoegang vereist)
 * Beschikbare talen: Engels
 * Kosten: $ 125 (wereldwijd) / $ 95 (India)
-* Examen-id: AD0-E719
+* Examen-id: AD0-E721
 
 **Doelstellingen en toepassingsgebied van examen**
 
@@ -75,7 +75,7 @@ Sectie 1: Themabeheer (Themahiërarchie, beeldconfiguratie, vertalingen) (14%)
 * Toon vermogen aan om nieuwe thema&#39;s tot stand te brengen of bestaande thema&#39;s uit te breiden
 * Toon capaciteit aan om douanevertaaluitdrukkingen toe te voegen
 
-Sectie 2: Layout XML en sjablonen (28%)
+Sectie 2: Layout XML en sjablonen (30%)
 
 * Toon de capaciteit aan om met basislay-outXML instructies te werken
 * Toon de capaciteit aan om bestaande paginalay-outs te gebruiken
@@ -83,7 +83,7 @@ Sectie 2: Layout XML en sjablonen (28%)
 * Toon capaciteit aan om malplaatjes tot stand te brengen en aan te passen
 * Beschrijf malplaatjeveiligheid (het ontsnappen aan output)
 
-Deel 3: Stijlen (24%)
+Deel 3: Stijlen (22%)
 
 * Beschrijf het doel van styles-m.less, styles-l.less, print.less
 * Beschrijf het verschil tussen specifieke gedeeltelijke dossiers (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less)
@@ -92,25 +92,28 @@ Deel 3: Stijlen (24%)
 * Verklaar de hiërarchie van stijlen (lib, modules, thema&#39;s)
 * Klant- en servercompilatie uitleggen
 
-Sectie 4: JavaScript (16%)
+Sectie 4: JavaScript (18%)
 
-* Toon het basisgebruik van inhoudsbeheer aan
-* Beschrijf stappen om een thema op een specifiek werkingsgebied (website, opslag, store-view) toe te passen/te plannen
-* Beschrijf stappen om ontwerpveranderingen op categorieën, producten, en pagina&#39;s toe te passen CMS gebruikend admin configuratie
+* Toon de capaciteit aan om componenten te initialiseren en te roepen JavaScript
+* Het gebruik van RequireJS aantonen
+* Beschrijf het gebruik van mengsels
+* Beschrijf hoe te om een vertaling in JS toe te voegen
+* Beschrijf het gebruik van Knockout JS
+* Beschrijf het gebruik van jQuery-widgets
+
+Sectie 5: Admin-configuratie en PageBuilder (6%)
+
+* Toon de capaciteit aan om de Inhoud van de Bouwer van de Pagina en van CMS aan te passen&quot;
+* Een thema toepassen/plannen op een specifiek bereik (website, winkel, winkel-weergave)
+* Ontwerpwijzigingen toepassen op categorieën, producten en CMS-pagina&#39;s met behulp van beheerconfiguratie
 * Beschrijf stappen om transactie-e-mails aan te passen
 
-Sectie 5: Beheerdersconfiguratie en doorbladermodule (12%)
-
-* Toon het basisgebruik van inhoudsbeheer aan
-* Beschrijf stappen om een thema op een specifiek werkingsgebied (website, opslag, store-view) toe te passen/te plannen
-* Beschrijf stappen om ontwerpveranderingen op categorieën, producten en CMS pagina&#39;s toe te passen gebruikend admin configuratie
-* Beschrijf stappen om transactie-e-mails aan te passen
-
-Sectie 6: Gereedschappen (CLI en Grunt) (6%)
+Sectie 6: Gereedschappen (CLI en Grunt) (8%)
 
 * Beschrijf het gebruik van basisbak/magento bevelen
 * Beschrijf het gebruik van Composer-opdrachten (installeren, bijwerken, vereisen, verwijderen)
 * Verschil het aangewezen gebruiksgeval voor plaatsingswijzen
+* Beschrijf extra hulpmiddelen die de wolk verstrekt (snel, downloadend gegevensbestand, plaatsing van inhoud)
 
 >[!TAB Vooraf ingesteld]
 
@@ -118,58 +121,44 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
-**Voorbeeldvragen**
-
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmelding nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
-
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e719-adobe-commerce-front-end-developer-professional-copy-cmkmys){target="_blank"}
-
 **Sectie 1: Themabeheer (Themahiërarchie, afbeeldingsconfiguratie, vertalingen)**
 
 * [Thema&#39;s](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [Opdrachtregelgereedschap](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
+* [Indelingen](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
+* [Lokalisatie](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/localization.html){target="_blank"}
 * [Vertalingen](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
 
 **Sectie 2: Layout XML en sjablonen**
 
-* [Lay-out](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
-* [Thema&#39;s](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [Sjablonen](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
-* [Inleiding](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html){target="_blank"}
+* [Algemene aanpassingstaken](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
+* [Componentontwikkeling](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
+* [Beveiliging](https://developer.adobe.com/commerce/php/development/security/){target="_blank"}
 
 **Deel 3: Stijlen**
 
-* [Variabelen](https://lesscss.org/features/#features-overview-feature){target="_blank"}
-* [Responsief webontwerp](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/responsive-web-design/rwd_overview.html){target="_blank"}
-* [Cascading Style Sheets (CSS)](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-overview.html){target="_blank"}
-* [QuickStart](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-guide/css_quick_guide_overview.html){target="_blank"}
-* [Frontend Developer Guide](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/bk-frontend-dev-guide.html){target="_blank"}
-* [Thema&#39;s](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [Wat is Page Builder?](https://devdocs.magento.com/page-builder/docs/){target="_blank"}
+* [Codeerstandaarden](https://developer.adobe.com/commerce/php/coding-standards/){target="_blank"}
+* [{less}](https://lesscss.org/){target="_blank"}
+* [LESS-coderingsnorm](https://developer.adobe.com/commerce/php/coding-standards/less/){target="_blank"}
+* [Themastijlen aanpassen](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
 
 **Sectie 4: JavaScript**
 
-* [JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/javascript/js_overview.html){target="_blank"}
-* [Vertalingen](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
-* [Inleiding tot UI-componenten](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/bk-ui_comps.html){target="_blank"}
-* [Inleiding tot JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/bk-javascript-dev-guide.html){target="_blank"}
-* [jQuery-widgets](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/widgets/jquery-widgets-about.html){target="_blank"}
+* [Inleiding tot JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
+* [Concepten van UI-componenten](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/){target="_blank"}
+* [Observables (KnockOutJS)](https://knockoutjs.com/documentation/observables.html){target="_blank"}
 
-**Sectie 5: Beheerdersconfiguratie en pagebuilder**
+**Sectie 5: Configuratie van Admin en PageBuilder**
 
-* [Referentiehandleiding voor configuratie](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
-* [Inleiding tot Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
-* [Analyse deel 1: Eenvoudige pagina](https://docs.magento.com/user-guide/cms/page-builder-learn.html){target="_blank"}
-* [Thema&#39;s](https://docs.magento.com/user-guide/design/themes.html){target="_blank"}
-* [Overzicht van rubrieken](https://docs.magento.com/user-guide/catalog/categories.html){target="_blank"}
-* [Ontwerp](https://docs.magento.com/user-guide/design/design-theme.html){target="_blank"}
-* [Sjablonen](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
+* [Pagina&#39;s](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/pages/pages.html){target="_blank"}
+* [Wat is Page Builder?](https://developer.adobe.com/commerce/frontend-core/page-builder/){target="_blank"}
+* [JavaScript-pakketten](https://developer.adobe.com/commerce/frontend-core/guide/themes/js-bundling/){target="_blank"}
+* [Google reCAPTCHA](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
 
 **Sectie 6: Gereedschappen (CLI en Grunt)**
 
-* [Configuratie van opdrachtregel](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
-* [Overzicht van opslagopties en configuratiebeheer](https://devdocs.magento.com/cloud/configure/configuration-overview.html){target="_blank"}
-* [Overzicht van initialisatie en bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
+* [Configuratiegids](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
+* [Variabelen samenstellen](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
+* [Handel in Cloud-infrastructuur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
@@ -179,6 +168,16 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
+
+**Een praktijktest uitvoeren**
+
+We raden u aan de test voor vrije praktijk uit te voeren voordat u begint. U zult onbeperkte toegang tot alle beschikbare praktijktests voor Adobe-vlakke examens hebben.
+
+Onze praktijktests worden allemaal ontwikkeld op basis van dezelfde blauwdruk als de live examens. De praktijktest zal u helpen de onderwerpen begrijpen die in het levende examen worden behandeld.
+
+Houd er rekening mee dat het slagen van een praktijktest niet garandeert dat u voor het certificeringsexamen slaagt.
+
+Ga naar de [Prep Portal voor Adobe-certificatieexamen](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} nu een praktijktest uitvoeren .
 
 **Neem het certificatieexamen**
 
@@ -193,9 +192,9 @@ De naam van uw profiel in het Adobe Credential Management System moet exact over
 
 De annuleringen en het opnieuw plannen zijn mogelijk als in werking gesteld voorafgaand aan 48 uren vóór de geplande examenbenoeming. De kandidaten moeten deze benoeming zelf wijzigen.
 
-### Examen: AD0-E719
+### Examen: AD0-E721
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E719 newtab=true"}[!BADGE examen]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E719 newtab=true"}
+[!BADGE examen]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E721 newtab=true"}
 
 U kunt voor uw certificatieexamen door bon of creditcard betalen. Ga naar: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
