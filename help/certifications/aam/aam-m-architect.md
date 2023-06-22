@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exam AD0-E454" type="positive"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '832'
+source-wordcount: '733'
 ht-degree: 2%
 
 ---
@@ -142,28 +142,36 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 >De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
-**Neem het certificatieexamen**
+## Over het examen
 
-Adobe gebruikt twee verkopers om geproctored examens, PSI en Onderzoek te beheren.
+{{about-certification-exam}}
 
-* **PSI** biedt testcentrum en Japanse examenopties (indien beschikbaar) aan
-* **[!DNL Examity]** biedt een externe online optie aan
+## Neem het examen (AD0-E454)
 
-Om uw examen te plannen, opnieuw te plannen, of te annuleren, een verkoper te selecteren en de instructies te volgen die op het scherm worden verstrekt. Zo eenvoudig is het!
+### Beschikbare opties
 
-### Examen: AD0-E454
+**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E454 newtab=true"}[!BADGE examen]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-U kunt voor uw certificatieexamen door bon of creditcard betalen. Ga naar: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
+<span class="spectrum-Button-label has-no-wrap">
+   Examen
+</span>
+</a>
 
-U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, wordt deze toegepast bij afhandeling.
+**[!DNL Examity]** ( *online* )
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Examen
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Vragen**
+## Vragen
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

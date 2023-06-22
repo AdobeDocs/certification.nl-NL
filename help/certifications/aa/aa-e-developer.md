@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E209" type="positive"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '1148'
+source-wordcount: '1063'
 ht-degree: 2%
 
 ---
@@ -29,7 +29,7 @@ U moet bekend zijn met de volgende gereedschappen en omgevingen:
 Tools:
 
 * Adobe Experience Platform Launch (Adobe starten)
-* Foutopsporingsgereedschappen die relevant zijn voor [!DNL Adobe Analytics] (De monitor van het pakket zoals Foutopsporing van Adobe, browser ontwikkelaarshulpmiddelen, Karel)
+* Foutopsporingsgereedschappen die relevant zijn voor [!DNL Adobe Analytics] (De monitor van het pakket zoals Adobe Debugger, browser ontwikkelaarshulpmiddelen, Karel)
 * [!DNL Adobe Analytics] Rapportinstellingen voor beheerconsole
 * Basiskennis van werkruimten
 * Gereedschappen voor webontwikkeling, code-editor en mobiele foutopsporingsprogramma&#39;s
@@ -162,21 +162,18 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 >[!IMPORTANT]
 >
 >De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
+## Een praktijktest uitvoeren
 
-**Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
+{{practice-test}}
 
-**Een praktijktest uitvoeren**
+## Over het examen
 
-We raden u aan de test voor vrije praktijk uit te voeren voordat u begint. U zult onbeperkte toegang tot alle beschikbare praktijktests voor Adobe-vlakke examens hebben.
+{{about-certification-exam}}
 
-Onze praktijktests worden allemaal ontwikkeld op basis van dezelfde blauwdruk als de live examens. De praktijktest zal u helpen de onderwerpen begrijpen die in het levende examen worden behandeld.
-
-Houd er rekening mee dat het slagen van een praktijktest niet garandeert dat u voor het certificeringsexamen slaagt.
-
-Ga naar de [Prep Portal voor Adobe-certificatieexamen](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} nu een praktijktest uitvoeren .
-
-**Neem het certificatieexamen**
+## Neem het examen
 
 Adobe gebruikt twee verkopers om geproctored examens, PSI en Onderzoek te beheren.
 
@@ -189,17 +186,31 @@ De naam van uw profiel in het Adobe Credential Management System moet exact over
 
 De annuleringen en het opnieuw plannen zijn mogelijk als in werking gesteld voorafgaand aan 48 uren vóór de geplande examenbenoeming. De kandidaten moeten deze benoeming zelf wijzigen.
 
-### Examen: AD0-E209
+## Neem het examen (AD0-E209)
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E209 newtab=true"}[!BADGE examen]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209 newtab=true"}
+### Beschikbare opties
 
-U kunt voor uw certificatieexamen door bon of creditcard betalen. Ga naar: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
+**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
 
-U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, wordt deze toegepast bij afhandeling.
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E209" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Examen
+</span>
+</a>
+
+**[!DNL Examity]** ( *online* )
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Examen
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Vragen**
+## Vragen
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

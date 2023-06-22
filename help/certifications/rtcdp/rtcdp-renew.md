@@ -7,7 +7,7 @@ recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 4faaca20-9d03-48b2-b3d7-0f964c63000e
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!ENDTABS]
 
-**Vragen**
+## Vragen
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

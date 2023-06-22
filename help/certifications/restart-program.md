@@ -6,18 +6,20 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: d5652cf017236ac3220a4cff520bd6e7d22a57d6
 workflow-type: tm+mt
-source-wordcount: '5189'
+source-wordcount: '5163'
 ht-degree: 4%
 
 ---
 
 # Start de certificeringsreis opnieuw door van verlopen naar gecertificeerd te gaan
 
-Dit beperkte tijdprogramma, aangeboden **van 24 april 2023 tot en met 20 oktober 2023**, biedt u de kans om uw vaardigheden bij te werken en in een snel veranderende digitale omgeving voor de curve te blijven.
-
-Personen van wie de certificeringen in 2020 tot en met 23 april 2023 zijn verlopen, komen in aanmerking voor deze **vrij** programma.
+>[!AVAILABILITY]
+>
+> Dit programma voor beperkte tijd, aangeboden vanuit **24 april 2023 tot en met 20 oktober 2023**.  Het programma biedt een mogelijkheid om uw vaardigheden bij te werken en in een snel veranderende digitale omgeving voor de curve te blijven.
+>
+> ** SUBSIDIABILITEIT : Personen van wie de certificeringen in 2020 tot en met 23 april 2023 zijn verlopen, komen in aanmerking voor deze **vrij** programma.
 
 ## Inleiding
 
@@ -107,7 +109,7 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 | [Adobe Analytics-gegevens exporteren en democratiseren - Les 5 en 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADS-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA202){target="_blank"} |
 | [Uw gegevens filteren met aangepaste segmentatie en datums - Les 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADS-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA203){target="_blank"} |
 | [Implementatie met instructies-analyse - les 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADS-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA204){target="_blank"} |
-| [ Interne site zoeken implementeren en meten - Les 3 en 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
+| [Interne site zoeken implementeren en meten - Les 3 en 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
 | [Adobe Analytics API&#39;s](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA206){target="_blank"} |
 
 >[!NOTE]
@@ -210,12 +212,9 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 
 U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+Hier zijn voorgestelde middelen,
 
-[!BADGE Voorbeeldvragen]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
-
-**Bronnen:**
-
+* [Voorbeeld van examen](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] Productdocumentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Adobe-ondersteuning - [!DNL Experience Cloud] Soorten publiek](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
 * [[!DNL Experience Cloud] Meer informatie en ondersteuning](https://helpx.adobe.com/nl/support/experience-cloud.html){target="_blank"}
@@ -223,9 +222,14 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **De certificering opnieuw starten**
 
-Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+Het Adobe Audience Manager Business Practitioner-expert herstart examen ADS-E826 is gratis, open boek en niet-geproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
-[!BADGE Neem het het opnieuw opstarten examen ADS-E826 van de deskundige van de Praktijk van Adobe Audience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E826 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E82" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Neem het examen
+</span>
+</a>
 
 +++
 
@@ -319,9 +323,14 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 ### De certificering opnieuw starten
 
-Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+Het master ADS-E825-examen voor opnieuw opstarten van de Adobe Audience Manager Architect is gratis, open boek en niet-geproctoriseerd. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
-[!BADGE Neem het master het nieuwe begin examen ADS-E825 van de Architect van Adobe Audience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Neem het examen
+</span>
+</a>
 
 +++
 
@@ -429,9 +438,14 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 ### De certificering opnieuw starten
 
-Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+De Adobe [!DNL Campaign Standard] Het examen ADS-821 voor opnieuw opstarten door ontwikkelaar-expert is gratis, open boek en niet-geproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
-[!BADGE Neem de Adobe [!DNL Campaign Standard] Het examen van het opnieuw beginnen van de onderzoeker ADS-821]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821 newtab=true&quot;}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Neem het examen
+</span>
+</a>
 
 +++
 
@@ -502,9 +516,14 @@ Sectie 4: Beheer, toezicht en rapportage
 
 ### De certificering opnieuw starten
 
-Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+De Adobe [!DNL Campaign Standard] Het examen ADS-822 van het het nieuwe begin van de Expert van de BedrijfsPraktijk is vrij, open boek, en niet-geproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
-[!BADGE Neem de Adobe [!DNL Campaign Standard] Business Practitioner Expert start examen ADS-822]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822 newtab=true&quot;}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Neem het examen
+</span>
+</a>
 
 +++
 
@@ -607,9 +626,14 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 ### De certificering opnieuw starten
 
-Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+Het Adobe Campaign Classic-examen voor opnieuw opstarten ADS-823 is gratis, open boek en niet-afgewerkt. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
-[!BADGE Het Adobe Campaign Classic-examen voor opnieuw opstarten ADS-823 afleggen]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Neem het examen
+</span>
+</a>
 
 +++
 
@@ -728,13 +752,18 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 ### De certificering opnieuw starten
 
-Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+Het Adobe Marketo Engage Business Practitioner-expert herstart examen ADS-E824is gratis, open boek en niet-geproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
-[!BADGE Neem het het opnieuw opstarten examen ADS-E824 van de deskundige van de Praktijk van Adobe Marketo Engage]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E824 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E824" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Neem het examen
+</span>
+</a>
 
 >[!ENDTABS]
 
-### Vragen
+## Vragen
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
