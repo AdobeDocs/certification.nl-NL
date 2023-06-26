@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Exam AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: 623fd77e77f955d57d779b2f0b746ddb5ef01b5b
+source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
 workflow-type: tm+mt
 source-wordcount: '1149'
 ht-degree: 4%
@@ -20,7 +20,7 @@ Leer hoe u een gecertificeerde Adobe architect Master kunt maken.
 
 >[!NOTE]
 >
->Dit examen, Master Architect van Adobe Target (AD0-E407), is bijgewerkt. Als u al bent begonnen met studeren of deze versie wilt gebruiken, moet u deze voor 18 augustus 2023 voltooien. Als u nog maar aan de slag gaat, raden we u aan de [nieuwste versie van dit examen](at-m-architect0623.md).
+>Dit examen, Master Architect van Adobe Target (AD0-E407), is bijgewerkt. Als u al bent begonnen met studeren of deze versie wilt gebruiken, moet u deze voor 8 september 2023 voltooien. Als u nog maar aan de slag gaat, raden we u aan de [nieuwste versie van dit examen](at-m-architect0623.md).
 
 ## Minimale ervaring
 

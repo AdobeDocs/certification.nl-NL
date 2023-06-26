@@ -6,7 +6,7 @@ product: Target
 role: Data Architect
 badge: label="Exam AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6b2ef2c4dd6164461f18d3837c82f0bbd9f3dab2
+source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
 workflow-type: tm+mt
 source-wordcount: '1182'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Leer hoe u een gecertificeerde Adobe architect Master kunt maken.
 
 >[!NOTE]
 >
->Dit is het nieuwste Master examen van Adobe Target Architect. Als u al bent begonnen met studeren of de [oudere versie](at-m-architect.md) u hebt tot 25 augustus 2023 de tijd om het te voltooien.
+>Dit is het nieuwste Master examen van Adobe Target Architect. Als u al bent begonnen met studeren of de [oudere versie](at-m-architect.md) u hebt tot 8 september 2023 de tijd om het te voltooien.
 
 ## Minimale ervaring
 
