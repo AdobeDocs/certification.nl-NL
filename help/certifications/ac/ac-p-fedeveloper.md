@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E719" type="positive"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: fc1f5860d3e49fd8e3ecb15d24b2242086ca581c
 workflow-type: tm+mt
-source-wordcount: '1079'
+source-wordcount: '1076'
 ht-degree: 0%
 
 ---
@@ -94,10 +94,12 @@ Deel 3: Stijlen (24%)
 
 Sectie 4: JavaScript (16%)
 
-* Toon het basisgebruik van inhoudsbeheer aan
-* Beschrijf stappen om een thema op een specifiek werkingsgebied (website, opslag, store-view) toe te passen/te plannen
-* Beschrijf stappen om ontwerpveranderingen op categorieën, producten, en pagina&#39;s toe te passen CMS gebruikend admin configuratie
-* Beschrijf stappen om transactie-e-mails aan te passen
+* Toon de capaciteit aan om componenten te initialiseren en te roepen JavaScript
+* Het gebruik van RequireJS aantonen
+* Beschrijf het gebruik van mengsels
+* Beschrijf hoe te om een vertaling in JS toe te voegen
+* Beschrijf het gebruik van Knockout JS
+* Beschrijf het gebruik van jQuery-widgets
 
 Sectie 5: Beheerdersconfiguratie en doorbladermodule (12%)
 
