@@ -6,9 +6,9 @@ product: Target
 role: Data Architect
 badge: label="Exam AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
+source-git-commit: 5f155e7b81ec0e39f632416546a46d9ca7da5426
 workflow-type: tm+mt
-source-wordcount: '1182'
+source-wordcount: '1112'
 ht-degree: 0%
 
 ---
@@ -128,12 +128,6 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
-**Voorbeeldvragen**
-
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmelding nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
-
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
-
 **Sectie 1**
 
 * [Doelactiviteitstypen](https://experienceleague.adobe.com/docs/target/using/activities/target-activities-guide.html){target="_blank"}
@@ -208,7 +202,7 @@ De annuleringen en het opnieuw plannen zijn mogelijk als in werking gesteld voor
 
 ### Examen: AD0-E409
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E409 newtab=true"}[!BADGE examen]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
+[!BADGE examen]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
 
 U kunt voor uw certificatieexamen door bon of creditcard betalen. Ga naar: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
