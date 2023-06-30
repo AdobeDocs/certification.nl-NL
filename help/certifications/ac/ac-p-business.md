@@ -7,7 +7,7 @@ role: User
 badge: label="Exam AD0-E712" type="positive"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '956'
 ht-degree: 0%
@@ -177,6 +177,8 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 ## Neem het examen (AD0-E712)
 
 ### Beschikbare opties
+
+{#PSI-note}
 
 **PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
 

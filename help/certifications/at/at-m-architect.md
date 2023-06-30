@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Exam AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1149'
 ht-degree: 4%
@@ -212,6 +212,8 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 ## Neem het examen (AD0-E407)
 
 ### Beschikbare opties
+
+{#PSI-note}
 
 **PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
 

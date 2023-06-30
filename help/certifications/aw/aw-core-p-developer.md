@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exam AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1034'
 ht-degree: 0%
@@ -177,6 +177,8 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 ## Neem het examen (AD0-E905)
 
 ### Beschikbare opties
+
+{#PSI-note}
 
 **PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
 

@@ -8,10 +8,10 @@ recommendations: disable, exclude
 badge: label="Exam AD0-E600 & AD7-E601" type="positive"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1732'
+ht-degree: 3%
 
 ---
 
@@ -290,6 +290,8 @@ Deel 3: Doelen (27%)
 ## Neem het examen (AD0-E601)
 
 ### Beschikbare opties
+
+{#PSI-note}
 
 **PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
 

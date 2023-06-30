@@ -7,7 +7,7 @@ role: Developer
 badge: label="Examen AD0-E330" type="positief"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1140'
 ht-degree: 9%
@@ -192,6 +192,8 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 ## Neem het examen (AD0-E330)
 
 ### Beschikbare opties
+
+{#PSI-note}
 
 **PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
 
