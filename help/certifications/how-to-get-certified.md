@@ -4,7 +4,7 @@ description: Leer hoe je gecertificeerd kunt worden bij Adobe. Zoek alle bronnen
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
 workflow-type: tm+mt
 source-wordcount: '1462'
 ht-degree: 1%
@@ -20,6 +20,8 @@ Leer hoe je gecertificeerd kunt worden bij Adobe. Zoek alle bronnen die u nodig 
 >[!TAB Registratie]
 
 Adobe gebruikt twee verkopers om geproctored examens te beheren: [!DNL PSI] en [!DNL Examity].
+
+{{PSI-note}}
 
 * **[!DNL PSI]:** biedt testcentrum en Japanse examenopties (indien beschikbaar) aan
 * **[!DNL Examity]:** biedt een externe online optie aan
@@ -85,6 +87,8 @@ Opmerking: Bulkkortingen kunnen niet worden gecombineerd met andere aanbiedingen
 >[!TAB Verkopers van certificaten]
 
 Het team van de Adobe Credentials partners met verkopers helpen de initiatieven en de doelstellingen van het programma steunen.  Hier zijn de verkopers en hun contactinformatie:
+
+{{PSI-note}}
 
 | Naam leverancier | Beschrijving | Ondersteuningspagina/e-mail |
 | ------- | ------- | ------- |

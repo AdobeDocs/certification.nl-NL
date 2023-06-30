@@ -5,7 +5,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
 workflow-type: tm+mt
 source-wordcount: '2655'
 ht-degree: 1%
@@ -116,6 +116,8 @@ Omdat we ervoor moeten zorgen dat onze Adobe gecertificeerde individuen up-to-da
 +++
 
 +++Zijn de examens beschikbaar in andere talen dan het Engels?
+
+{{PSI-note}}
 
 Er zijn enkele voorbeelden beschikbaar in het Japans via PSI (een van onze leveranciers). Als het examen in Japans beschikbaar is zal het in de examendetails voor dat examen worden genoteerd. De examendetails worden gevonden op het lusje van &quot;krijgen klaar&quot;van de certificeringshavens pagina&#39;s.
 
