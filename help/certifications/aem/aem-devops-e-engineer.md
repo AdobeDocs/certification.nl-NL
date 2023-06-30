@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E124" type="positive"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '950'
 ht-degree: 1%
@@ -171,7 +171,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 ### Beschikbare opties
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
 

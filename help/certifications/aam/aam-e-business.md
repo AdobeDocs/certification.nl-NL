@@ -7,7 +7,7 @@ role: User,Developer
 badge: label="Exam AD0-E457" type="positive"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '965'
 ht-degree: 6%
@@ -174,7 +174,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 ### Beschikbare opties
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
 
