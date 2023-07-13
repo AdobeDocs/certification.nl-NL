@@ -1,5 +1,5 @@
 ---
-source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
+source-git-commit: 6c78640fc33f8e0d0aa7057265844b810a403d13
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -34,4 +34,4 @@ Betaal voor uw certificatieexamen of door bon of creditcard. Ga naar: [Adobe Cer
 
 >[!IMPORTANT]
 >
->Begin 1 Augustus 2023, zal het examen plannen niet meer beschikbaar met PSI zijn. Als u al een examen met PSI hebt gepland, moet u het vóór 1 Augustus 2023 nemen. Als u een examen met PSI na 1 Augustus 2023 hebt gepland, gelieve uw onderzoek te herschikken om vóór die datum te vinden. Als u niet in staat of niet bereid bent om uw examen vóór 1 Augustus 2023 te nemen, gelieve e-mail <certif@adobe.edu> zodat wij u kunnen steunen die uw examen aan Onderzoek overbrengt. Dit geldt ook voor Japans-taalexamens.
+>Begin 1 Augustus 2023, zal het examen plannen niet meer beschikbaar met PSI zijn. Als u al een examen met PSI hebt gepland, moet u het vóór 1 Augustus 2023 nemen. Als u een examen met PSI na 1 Augustus 2023 hebt gepland, gelieve uw onderzoek te herschikken om vóór die datum te vinden. Als u niet in staat of niet bereid bent om uw examen vóór 1 Augustus 2023 te nemen, gelieve e-mail <certif@adobe.com> zodat wij u kunnen steunen die uw examen aan Onderzoek overbrengt. Dit geldt ook voor Japans-taalexamens.
