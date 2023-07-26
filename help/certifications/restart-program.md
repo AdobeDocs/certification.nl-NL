@@ -6,10 +6,10 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: 116ab244444823c3290f5e054e44fb9c6816cbc0
+source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
 workflow-type: tm+mt
-source-wordcount: '5199'
-ht-degree: 5%
+source-wordcount: '5347'
+ht-degree: 4%
 
 ---
 
@@ -120,13 +120,19 @@ Uw certificering is alleen geldig als u voldoet aan **alles** van de volgende cr
 * **Stap 2**: Studeer de cursussen in Experience League
 * **Stap 3**: Kies een van de onderstaande opties.
 
-**Optie 1:** Selecteren **drie activiteiten** om de cursusbeoordelingen te voltooien en te slagen die aan elk op een score van 80% of hoger worden geassocieerd. Cursusbeoordelingen zijn gratis, op aanvraag en niet-geproctoriseerd. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
+  **Optie A:**
 
-**Optie 2:** Selecteren **twee activiteiten** om de cursusbeoordelingen te voltooien en te slagen die aan elk op een score van 80% of hoger worden geassocieerd. Cursusbeoordelingen zijn gratis, op aanvraag en niet-geproctoriseerd. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd. Dan, **een klantverwijzingsformulier indienen** valideren van uw betrokkenheid bij een project in totaal ten minste 100 uur in de afgelopen 12 maanden.
+  Selecteren **drie cursussen** om elke beoordeling van een cursus met een score van 80% of hoger te voltooien en te voltooien. Cursusbeoordelingen zijn gratis, op aanvraag, niet-afgehandeld en open boek. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
 
-[Referentieformulier voor de klant voor Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+  **Optie B:**
 
-U zal door het Team van de Referentie van de Adobe op de hoogte worden gebracht wanneer uw klantenverwijzing is herzien.
+  Eerst selecteert u **twee cursussen** om elke beoordeling van een cursus met een score van 80% of hoger te voltooien en te voltooien. Cursusbeoordelingen zijn gratis, op aanvraag, niet-afgehandeld en open boek. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
+
+  Tweede, **een klantverwijzingsformulier indienen** valideren van uw ononderbroken werk als een door Adobe gecertificeerd individu dat leiding geeft aan, een Adobe Experience Cloud-implementatieproject beheert en/of eraan deelneemt. Dit formulier bevestigt dat u in de afgelopen 12 maanden ten minste 100 uur hebt deelgenomen aan de aantoonbare projectbetrokkenheid.
+
+  [Referentieformulier voor de klant voor Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+
+  U zal door het Team van de Referentie van de Adobe op de hoogte worden gebracht wanneer uw klantenverwijzing is herzien. Als uw verwijzing niet wordt geaccepteerd, kunt u het opnieuw verzenden totdat u succes hebt, zolang het duurt voordat uw certificering verloopt.
 
 ### Cursussen en cursusbeoordelingen voor experts en Master:
 
@@ -149,13 +155,19 @@ U zal door het Team van de Referentie van de Adobe op de hoogte worden gebracht 
 * **Stap 2**: Studeer de cursussen in Experience League
 * **Stap 3**: Kies een van de onderstaande opties.
 
-**Optie 1:** Selecteren **drie activiteiten** om de cursusbeoordelingen te voltooien en te slagen die aan elk op een score van 80% of hoger worden geassocieerd. Cursusbeoordelingen zijn gratis, op aanvraag en niet-geproctoriseerd. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
+  **Optie A:**
 
-**Optie 2:** Selecteren **twee activiteiten** om de cursusbeoordelingen te voltooien en te slagen die aan elk op een score van 80% of hoger worden geassocieerd. Cursusbeoordelingen zijn gratis, op aanvraag en niet-geproctoriseerd. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd. Dan, **een klantverwijzingsformulier indienen** valideren van uw betrokkenheid bij een project in totaal ten minste 100 uur in de afgelopen 12 maanden.
+  Selecteren **drie cursussen** om elke beoordeling van een cursus met een score van 80% of hoger te voltooien en te voltooien. Cursusbeoordelingen zijn gratis, op aanvraag, niet-afgehandeld en open boek. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
 
-[Referentieformulier voor de klant voor Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+  **Optie B:**
 
-U zal door het Team van de Referentie van de Adobe op de hoogte worden gebracht wanneer uw klantenverwijzing is herzien.
+  Eerst selecteert u **twee cursussen** om elke beoordeling van een cursus met een score van 80% of hoger te voltooien en te voltooien. Cursusbeoordelingen zijn gratis, op aanvraag, niet-afgehandeld en open boek. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
+
+  Tweede, **een klantverwijzingsformulier indienen** valideren van uw ononderbroken werk als een door Adobe gecertificeerd individu dat leiding geeft aan, een Adobe Experience Cloud-implementatieproject beheert en/of eraan deelneemt. Dit formulier bevestigt dat u in de afgelopen 12 maanden ten minste 100 uur hebt deelgenomen aan de aantoonbare projectbetrokkenheid.
+
+  [Referentieformulier voor de klant voor Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
+
+  U zal door het Team van de Referentie van de Adobe op de hoogte worden gebracht wanneer uw klantenverwijzing is herzien. Als uw verwijzing niet wordt geaccepteerd, kunt u het opnieuw verzenden totdat u succes hebt, zolang het duurt voordat uw certificering verloopt.
 
 ### Cursussen en cursusbeoordelingen voor experts en Master:
 
@@ -176,13 +188,19 @@ U zal door het Team van de Referentie van de Adobe op de hoogte worden gebracht 
 * **Stap 2**: Studeer de cursussen in Experience League
 * **Stap 3**: Kies een van de onderstaande opties.
 
-**Optie 1:** Selecteren **drie activiteiten** om de cursusbeoordelingen te voltooien en te slagen die aan elk op een score van 80% of hoger worden geassocieerd. Cursusbeoordelingen zijn gratis, op aanvraag en niet-geproctoriseerd. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
+  **Optie A:**
 
-**Optie 2:** Selecteren **twee activiteiten** om de cursusbeoordelingen te voltooien en te slagen die aan elk op een score van 80% of hoger worden geassocieerd. Cursusbeoordelingen zijn gratis, op aanvraag en niet-geproctoriseerd. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd. Dan, **een klantverwijzingsformulier indienen** valideren van uw betrokkenheid bij een project in totaal ten minste 100 uur in de afgelopen 12 maanden.
+  Selecteren **drie cursussen** om elke beoordeling van een cursus met een score van 80% of hoger te voltooien en te voltooien. Cursusbeoordelingen zijn gratis, op aanvraag, niet-afgehandeld en open boek. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
 
-[Referentieformulier voor de klant voor Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100)
+  **Optie B:**
 
-U zal door het Team van de Referentie van de Adobe op de hoogte worden gebracht wanneer uw klantenverwijzing is herzien.
+  Eerst selecteert u **twee cursussen** om elke beoordeling van een cursus met een score van 80% of hoger te voltooien en te voltooien. Cursusbeoordelingen zijn gratis, op aanvraag, niet-afgehandeld en open boek. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
+
+  Tweede, **een klantverwijzingsformulier indienen** valideren van uw ononderbroken werk als een door Adobe gecertificeerd individu dat leiding geeft aan, een Adobe Experience Cloud-implementatieproject beheert en/of eraan deelneemt. Dit formulier bevestigt dat u in de afgelopen 12 maanden ten minste 100 uur hebt deelgenomen aan de aantoonbare projectbetrokkenheid.
+
+  [Referentieformulier voor de klant voor Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400)
+
+  U zal door het Team van de Referentie van de Adobe op de hoogte worden gebracht wanneer uw klantenverwijzing is herzien. Als uw verwijzing niet wordt geaccepteerd, kunt u het opnieuw verzenden totdat u succes hebt, zolang het duurt voordat uw certificering verloopt.
 
 ### Cursussen en cursusbeoordelingen voor experts en Master:
 
