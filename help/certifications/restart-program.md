@@ -6,7 +6,7 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
+source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
 workflow-type: tm+mt
 source-wordcount: '5347'
 ht-degree: 4%
@@ -27,7 +27,7 @@ Certificering is een waardevolle bron voor mensen die concurrerend willen blijve
 
 Personen met een verlopen certificering die in aanmerking komen voor dit programma, moeten een e-mail hebben ontvangen van het Adobe-certificatieprogramma met het onderwerp &quot;Opnieuw Adobe gecertificeerd voor gratis.&quot;
 
-Als u niet zeker weet of u in aanmerking komt, gelieve te controleren [hier](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart).
+Als u niet zeker weet of u in aanmerking komt, gelieve te controleren [hier](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}.
 
 Uw certificering is alleen geldig als u voldoet aan **alles** van de volgende criteria:
 
@@ -198,7 +198,7 @@ Uw certificering is alleen geldig als u voldoet aan **alles** van de volgende cr
 
   Tweede, **een klantverwijzingsformulier indienen** valideren van uw ononderbroken werk als een door Adobe gecertificeerd individu dat leiding geeft aan, een Adobe Experience Cloud-implementatieproject beheert en/of eraan deelneemt. Dit formulier bevestigt dat u in de afgelopen 12 maanden ten minste 100 uur hebt deelgenomen aan de aantoonbare projectbetrokkenheid.
 
-  [Referentieformulier voor de klant voor Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400)
+  [Referentieformulier voor de klant voor Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
   U zal door het Team van de Referentie van de Adobe op de hoogte worden gebracht wanneer uw klantenverwijzing is herzien. Als uw verwijzing niet wordt geaccepteerd, kunt u het opnieuw verzenden totdat u succes hebt, zolang het duurt voordat uw certificering verloopt.
 
@@ -272,7 +272,7 @@ Uw certificering is alleen geldig als u voldoet aan **alles** van de volgende cr
 
 U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
 
-Hier zijn voorgestelde middelen,
+Hier volgen enkele suggesties voor bronnen:
 
 * [Voorbeeld van examen](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] Productdocumentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
