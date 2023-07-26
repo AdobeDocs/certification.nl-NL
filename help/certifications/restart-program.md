@@ -1,41 +1,114 @@
 ---
-title: Adobe Certificatie opnieuw starten, programma
+title: Adobe-certificaatstartprogramma
 description: Ga van verlopen naar gecertificeerd met Adobe-certificaten. Kom te weten als u voor dit beperkte tijdprogramma verkiest.
 role: Developer
 solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: d5652cf017236ac3220a4cff520bd6e7d22a57d6
+source-git-commit: 116ab244444823c3290f5e054e44fb9c6816cbc0
 workflow-type: tm+mt
-source-wordcount: '5163'
-ht-degree: 4%
+source-wordcount: '5199'
+ht-degree: 5%
 
 ---
 
 # Start de certificeringsreis opnieuw door van verlopen naar gecertificeerd te gaan
 
->[!AVAILABILITY]
+Met het Adobe-herstartprogramma kunnen personen met een verlopen subsidiabiliteit [!DNL Experience Cloud] certificeringen om kosteloos opnieuw te certificeren door middel van niet-aangeworven, beoordelingen op aanvraag of examens.
+
+Certificering is een waardevolle bron voor mensen die concurrerend willen blijven en dit programma biedt de mogelijkheid om bij te werken [!DNL Experience Cloud] in een snel veranderend digitaal landschap op de voorgrond blijven staan.
+
+>[!IMPORTANT]
 >
-> Dit programma voor beperkte tijd, aangeboden vanuit **24 april 2023 tot en met 20 oktober 2023**.  Het programma biedt een mogelijkheid om uw vaardigheden bij te werken en in een snel veranderende digitale omgeving voor de curve te blijven.
->
-> ** SUBSIDIABILITEIT : Personen van wie de certificeringen in 2020 tot en met 23 april 2023 zijn verlopen, komen in aanmerking voor deze **vrij** programma.
+>**Dit programma voor beperkte tijd wordt alleen aangeboden vanaf 24 april 2023 tot 20 oktober 2023.**
 
-## Inleiding
+## Subsidiabiliteit
 
-Het Adobe Restart-programma is een initiatief dat personen met een verlopen periode toestaat [!DNL Experience Cloud] kosteloze certificeringen om opnieuw te certificeren. Als u eerder een Adobe Experience Cloud-certificering hebt die sindsdien is verlopen, kunt u in aanmerking komen om uw certificering opnieuw te starten via GRATIS en niet-geproctoriseerde testindelingen. Dit programma is een waardevolle hulpbron voor mensen die hun kennis en vaardigheden van de Adobe Experience Cloud willen verbeteren en concurrerend willen blijven.
+Personen met een verlopen certificering die in aanmerking komen voor dit programma, moeten een e-mail hebben ontvangen van het Adobe-certificatieprogramma met het onderwerp &quot;Opnieuw Adobe gecertificeerd voor gratis.&quot;
 
-### Stappen om uw verlopen certificering opnieuw te starten{#exams}
+Als u niet zeker weet of u in aanmerking komt, gelieve te controleren [hier](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart).
 
->[!NOTE]
->
->Als u een e-mail van het Programma van de Referentie van Adobe met een onderwerp &quot;Adobe opnieuw voor Gratis wordt verklaard,&quot;hebt ontvangen kunt u aan stap 2 overslaan.
+Uw certificering is alleen geldig als u voldoet aan **alles** van de volgende criteria:
 
-* Stap 1: Bepaal of uw verlopen certificering in aanmerking komt voor het programma Start door te controleren [hier](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}. Als het in aanmerking komt, gaat u verder met stap 2.
-* Stap 2: Controleer de vereisten voor het opnieuw opstarten van uw toepassing.
-* Stap 3: Voer de stappen uit om de cursusbeoordelingen/examens te voltooien **vóór 20 oktober 2023,** termijn van de geboden opties.
+* Het moet zijn verstreken tussen 1 januari 2020 en 23 april 2023.
+* Het moet op deskundigenniveau of Master niveau zijn.
+* Het moet een huidig examen beschikbaar hebben. (Als de certificering geen actief examen meer heeft, komt deze niet in aanmerking voor het programma Start.)
+* Het moet voorkomen op de onderstaande lijst van in aanmerking komende certificeringen:
 
-### Met Adobe-certificering worden paden opnieuw gestart per toepassing
++++In aanmerking komende certificeringen weergeven
+
+**Adobe Experience Manager**
+
+| Examen-id | Naam van examen |
+| ------- | ------- |
+| AD0-E121 | [!DNL Adobe Experience Manager Sites] Expert aan de praktijk van bedrijven |
+| AD0-E102 | [!DNL Adobe Experience Manager Sites] Expert aan de praktijk van bedrijven |
+| AD0-E103 | [!DNL Adobe Experience Manager Sites] Ontwikkelaarsexpert |
+| AD0-E116 | [!DNL Adobe Experience Manager Sites] Ontwikkelaarsexpert |
+| AD0-E106 | [!DNL Adobe Experience Manager] Technicus-expert Dev/OPS |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] Architect Master |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] Architect Master |
+
+**[!DNL Adobe Analytics]**
+
+| Examen-id | Naam van examen |
+| ------- | ------- |
+| AD0-E201 | [!DNL Adobe Analytics] Ontwikkelaarsexpert |
+| AD0-E202 | [!DNL Adobe Analytics] Expert aan de praktijk van bedrijven |
+| AD0-E200 | [!DNL Adobe Analytics] Architect Master |
+| AD0-E207 | [!DNL Adobe Analytics] Architect Master |
+
+**Adobe Audience Manager**
+
+| Examen-id | Naam van examen |
+| ------- | ------- |
+| AD0-E454 | [!DNL Adobe Audience Manager] Architect Master |
+| AD0-E452 | [!DNL Adobe Audience Manager] Architect Master |
+| AD0-E453 | [!DNL Adobe Audience Manager] Expert aan de praktijk van bedrijven |
+
+**Adobe Campaign Classic**
+
+| Examen-id | Naam van examen |
+| ------- | ------- |
+| AD0-E300 | Adobe [!DNL Campaign Classic] Expert aan de praktijk van sites |
+| AD0-E314 | Adobe [!DNL Campaign Classic] Expert aan de praktijk van sites |
+| AD0-E318 | Adobe [!DNL Campaign Classic] Architect Master |
+| AD0-E303 | Adobe [!DNL Campaign Classic] Architect Master |
+| AD0-E312 | Adobe [!DNL Campaign Classic] Ontwikkelaarsexpert |
+| AD0-E308 | Adobe [!DNL Campaign Classic] Ontwikkelaarsexpert |
+
+**Adobe Campaign Standard**
+
+| Examen-id | Naam van examen |
+| ------- | ------- |
+| AD0-E307 | Adobe [!DNL Campaign Standard] Expert aan de praktijk van bedrijven |
+| AD0-E302 | Adobe [!DNL Campaign Standard] Expert aan de praktijk van bedrijven |
+| AD0-E306 | Adobe [!DNL Campaign Standard] Ontwikkelaarsexpert |
+| AD0-E301 | Adobe [!DNL Campaign Standard] Ontwikkelaarsexpert |
+
+**Adobe[!DNL Marketo Engage]**
+
+| Examen-id | Naam van examen |
+| ------- | ------- |
+| AD0-E552 | Adobe [!DNL Marketo Engage] Business Practitioner (voorheen MCE) |
+
+**Adobe Target**
+
+| Examen-id | Naam van examen |
+| ------- | ------- |
+| AD0-E401 | [!DNL Adobe Target] Expert aan de praktijk van bedrijven |
+| AD0-E402 | [!DNL Adobe Target] Architect Master |
+
++++
+
+## Stappen om uw verlopen certificering opnieuw te starten{#exams}
+
+* **Stap 1:** Zie de sectie Geschiktheid hierboven om te bepalen of uw certificering in aanmerking komt voor het programma Start. Ga in dat geval verder met stap 2.
+* **Stap 2:** Zoek de toepassing op de onderstaande tabbladen en bekijk de vereisten voor het opnieuw opstarten van het programma voor uw certificering.
+* **Stap 3:** Volg de instructies om de vereiste cursusbeoordelingen of examens van de geboden opties te voltooien **vóór de deadline van 20 oktober 2023**.
+
+## Met Adobe-certificering worden de programmapaden opnieuw gestart per toepassing
 
 >[!BEGINTABS]
 
@@ -43,30 +116,23 @@ Het Adobe Restart-programma is een initiatief dat personen met een verlopen peri
 
 ### Instructies voor het opnieuw starten van uw Adobe [!DNL Experience Manager] certificatie
 
-Selecteren **drie activiteiten** om de cursusbeoordelingen te voltooien en door te geven die aan elke beoordeling zijn gekoppeld.
-
 * **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Studeer de cursussen in Experience League
-* **Stap 3**: Elke cursusbeoordeling voltooien en doorstaan met ten minste 80%
+* **Stap 3**: Kies een van de onderstaande opties.
 
-U kunt ook twee cursussen bestuderen, twee cursusbeoordelingen doorgeven en een referentieformulier indienen waarmee uw betrokkenheid bij een project in totaal 100 uur in de afgelopen 12 maanden wordt gevalideerd.
+**Optie 1:** Selecteren **drie activiteiten** om de cursusbeoordelingen te voltooien en te slagen die aan elk op een score van 80% of hoger worden geassocieerd. Cursusbeoordelingen zijn gratis, op aanvraag en niet-geproctoriseerd. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
 
-Voor bepaalde Adobe [!DNL Experience Cloud] certificeringen, accepteert het Adobe Credential Program **klantverwijzingen** die uw vervolg van uw werk als Adobe verklaarde individuele leider, het leiden en/of het deelnemen aan een Adobe controleren [!DNL Experience Cloud] uitvoeringsproject.
-
-In deze gevallen kunt u een klantenverwijzing verstrekken die bevestigt u aan minstens 100 uren van aangetoond projectovereenkomst in de afgelopen 12 maanden hebt deelgenomen.
-
-**Zodra uw klantenverwijzing is herzien zult u door het Team van de Referentie van de Adobe op de hoogte worden gesteld.**
-
-
-De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden niet afgehandeld. Als u meerdere certificeringen op Adobe Experience Manager Expert- en Master niveau hebt, hoeft u alleen de onderstaande vereisten in te vullen en worden uw deskundige en master AEM vernieuwd.
+**Optie 2:** Selecteren **twee activiteiten** om de cursusbeoordelingen te voltooien en te slagen die aan elk op een score van 80% of hoger worden geassocieerd. Cursusbeoordelingen zijn gratis, op aanvraag en niet-geproctoriseerd. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd. Dan, **een klantverwijzingsformulier indienen** valideren van uw betrokkenheid bij een project in totaal ten minste 100 uur in de afgelopen 12 maanden.
 
 [Referentieformulier voor de klant voor Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
 
-### Cursussen en cursusbeoordelingen:
+U zal door het Team van de Referentie van de Adobe op de hoogte worden gebracht wanneer uw klantenverwijzing is herzien.
+
+### Cursussen en cursusbeoordelingen voor experts en Master:
 
 | Cursus | Cursusbeoordeling |
 | ------- | ------- |
-| [Verplaatsen naar Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html){target="_blank"} | [ADS-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA101){target="_blank"} |
+| [Naar Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html){target="_blank"} | [ADS-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA101){target="_blank"} |
 | [Verplaatsen naar Adobe Experience Manager as a Cloud Service plannen](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html){target="_blank"} | [ADS-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA102){target="_blank"} |
 | [Inleiding tot Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"} | [ADS-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA103){target="_blank"} |
 | [Beheer van inhoud zonder hoofd met GraphQL API&#39;s](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html){target="_blank"} | [ADS-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA104){target="_blank"} |
@@ -75,70 +141,50 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 | [Adobe Experience Manager Cloud Manager Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html){target="_blank"} | [ADS-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA107){target="_blank"} |
 | [Adobe Experience Manager Sites for Architects](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADS-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA108){target="_blank"} |
 
->[!NOTE]
->
->U kunt herhalen tot u met succes drie activiteiten hebt voltooid, of twee activiteiten en de vorm van de klantenverwijzing voltooit.
-
 >[!TAB Analytics]
 
 ### Instructies voor het opnieuw starten van de Adobe Analytics-certificering
 
-Selecteren **drie activiteiten** om de cursusbeoordelingen te voltooien en door te geven die aan elke beoordeling zijn gekoppeld.
-
 * **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Studeer de cursussen in Experience League
-* **Stap 3**: Elke cursusbeoordeling voltooien en doorstaan met ten minste 80%
+* **Stap 3**: Kies een van de onderstaande opties.
 
-U kunt ook twee cursussen bestuderen, twee cursusbeoordelingen doorgeven en een referentieformulier indienen waarmee uw betrokkenheid bij een project in totaal 100 uur in de afgelopen 12 maanden wordt gevalideerd.
+**Optie 1:** Selecteren **drie activiteiten** om de cursusbeoordelingen te voltooien en te slagen die aan elk op een score van 80% of hoger worden geassocieerd. Cursusbeoordelingen zijn gratis, op aanvraag en niet-geproctoriseerd. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
 
-Voor bepaalde Adobe [!DNL Experience Cloud] certificeringen, accepteert het Adobe Credential Program **klantverwijzingen** die uw vervolg van uw werk als Adobe verklaarde individuele leider, het leiden en/of het deelnemen aan een Adobe controleren [!DNL Experience Cloud] uitvoeringsproject.
+**Optie 2:** Selecteren **twee activiteiten** om de cursusbeoordelingen te voltooien en te slagen die aan elk op een score van 80% of hoger worden geassocieerd. Cursusbeoordelingen zijn gratis, op aanvraag en niet-geproctoriseerd. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd. Dan, **een klantverwijzingsformulier indienen** valideren van uw betrokkenheid bij een project in totaal ten minste 100 uur in de afgelopen 12 maanden.
 
-In deze gevallen kunt u een klantenverwijzing verstrekken die bevestigt u aan minstens 100 uren van aangetoond projectovereenkomst in de afgelopen 12 maanden hebt deelgenomen.
+[Referentieformulier voor de klant voor Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
 
-**Zodra uw klantenverwijzing is herzien zult u door het Team van de Referentie van de Adobe op de hoogte worden gesteld.**
+U zal door het Team van de Referentie van de Adobe op de hoogte worden gebracht wanneer uw klantenverwijzing is herzien.
 
-De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden niet afgehandeld. Als u meerdere Adobe Analytic Expert- en Master certificeringen op niveauniveau hebt, hoeft u alleen de onderstaande vereisten in te vullen en worden de certificeringen van uw expert en master Analytics vernieuwd.
-
-[Referentieformulier voor de klant voor Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA200){target="_blank"}
-
-### Cursussen en cursusbeoordelingen:
+### Cursussen en cursusbeoordelingen voor experts en Master:
 
 | Cursus | Cursusbeoordeling |
 | ------- | ------- |
 | [Adobe Analytics - waarde toewijzen aan Digital Touch-punten op de reis van de klant](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2){target="_blank"} | [ADS-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA201){target="_blank"} |
 | [Adobe Analytics-gegevens exporteren en democratiseren - Les 5 en 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADS-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA202){target="_blank"} |
 | [Uw gegevens filteren met aangepaste segmentatie en datums - Les 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADS-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA203){target="_blank"} |
-| [Implementatie met instructies-analyse - les 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADS-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA204){target="_blank"} |
+| [Implementatie met instructies voor analyse - les 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADS-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA204){target="_blank"} |
 | [Interne site zoeken implementeren en meten - Les 3 en 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
 | [Adobe Analytics API&#39;s](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA206){target="_blank"} |
-
->[!NOTE]
->
->U kunt herhalen tot u met succes drie activiteiten hebt voltooid, of twee activiteiten en de vorm van de klantenverwijzing voltooit.
 
 >[!TAB Target]
 
 ### Instructies voor het opnieuw starten van de Adobe Target-certificering
 
-Selecteren **drie activiteiten** om de cursusbeoordelingen te voltooien en door te geven die aan elke beoordeling zijn gekoppeld.
-
 * **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2**: Studeer de cursussen in Experience League
-* **Stap 3**: Elke cursusbeoordeling voltooien en doorstaan met ten minste 80%
+* **Stap 3**: Kies een van de onderstaande opties.
 
-U kunt ook twee cursussen bestuderen, twee cursusbeoordelingen doorgeven en een referentieformulier indienen waarmee uw betrokkenheid bij een project in totaal 100 uur in de afgelopen 12 maanden wordt gevalideerd.
+**Optie 1:** Selecteren **drie activiteiten** om de cursusbeoordelingen te voltooien en te slagen die aan elk op een score van 80% of hoger worden geassocieerd. Cursusbeoordelingen zijn gratis, op aanvraag en niet-geproctoriseerd. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
 
-Voor bepaalde Adobe [!DNL Experience Cloud] certificeringen, accepteert het Adobe Credential Program **klantverwijzingen** die uw vervolg van uw werk als Adobe verklaarde individuele leider, het leiden en/of het deelnemen aan een Adobe controleren [!DNL Experience Cloud] uitvoeringsproject.
+**Optie 2:** Selecteren **twee activiteiten** om de cursusbeoordelingen te voltooien en te slagen die aan elk op een score van 80% of hoger worden geassocieerd. Cursusbeoordelingen zijn gratis, op aanvraag en niet-geproctoriseerd. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd. Dan, **een klantverwijzingsformulier indienen** valideren van uw betrokkenheid bij een project in totaal ten minste 100 uur in de afgelopen 12 maanden.
 
-In deze gevallen kunt u een klantenverwijzing verstrekken die bevestigt u aan minstens 100 uren van aangetoond projectovereenkomst in de afgelopen 12 maanden hebt deelgenomen.
+[Referentieformulier voor de klant voor Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100)
 
-**Nadat uw klantenverwijzing is herzien, zult u door het Team van de Referentie van de Adobe op de hoogte worden gesteld.**
+U zal door het Team van de Referentie van de Adobe op de hoogte worden gebracht wanneer uw klantenverwijzing is herzien.
 
-De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden niet afgehandeld. Als u meerdere certificeringen op Adobe Target Expert- en Master niveau hebt, hoeft u alleen de onderstaande vereisten in te vullen en worden uw deskundige en master doelcertificeringen vernieuwd.
-
-[Referentieformulier voor de klant voor Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA400){target="_blank"}
-
-### Cursussen en cursusbeoordelingen:
+### Cursussen en cursusbeoordelingen voor experts en Master:
 
 | Cursus | Cursusbeoordeling |
 | ------- | ------- |
@@ -148,33 +194,29 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 | [Mobiele instructies en IoT-introductie voor ontwikkelaarscursus](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA404){target="_blank"} |
 | [Begeleide Starten van website voor ontwikkelaarscursus](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA405){target="_blank"} |
 
->[!NOTE]
->
->U kunt herhalen tot u met succes drie activiteiten hebt voltooid, of twee activiteiten en de vorm van de klantenverwijzing voltooit.
-
 >[!TAB Audience Manager]
 
 ### Selecteer het toepasselijke examen dat op rol wordt gebaseerd om uw certificatie van Adobe Audience Manager opnieuw te beginnen
 
-+++ADS-E826 Adobe Audience Manager **Zakelijke praktiserer** examen voor opnieuw opstarten van experts
++++ADS-E826 Adobe Audience Manager **Zakelijke praktiserer** Expert start examen opnieuw
 
 **Instructies voor het opnieuw starten van uw certificering:**
 
 * **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
-* **Stap 2**: Herzie de examendoelstellingen en de middelen
-* **Stap 3**: Neem en ga het examen over
+* **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
+* **Stap 3**: Neem het examen over en ga door
 
 ### Klaar
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 03-23-30
-* Tijd: 68 minuten
-* Aflevering: Op aanvraag/niet-afgehandeld
+* Voldoende score: 23/30
+* Tijd: 68 min
+* Levering: Op aanvraag/niet-afgehandeld
 * Beschikbare talen: Engels
 * Kosten: GRATIS
-* Examen-id: ADS-E826 - Adobe Audience Manager Business Practitioner-expert opnieuw starten
+* Examen-id: ADS-E826 - Adobe Audience Manager Business Practitioner Expert Restart
 
 
 **Doelstellingen en toepassingsgebied van examen**
@@ -190,7 +232,7 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 * Aanbevolen kenmerken voor een bepaalde publieksstrategie
 * Bepaal de correcte methode om op regel-gebaseerde en/of onboard eigenschappen tot stand te brengen en bij te werken
 
-**Deel 3: Rapportage en metingen (21%)**
+**Sectie 3: Rapportage en metingen (21%)**
 
 * Op basis van een scenario, analyseert u rapporten om de volgende stappen te ondernemen om aan de bedrijfsdoelstellingen te voldoen
 * Op basis van een scenario de optimalisatie voor het publiek analyseren
@@ -202,7 +244,7 @@ De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden n
 * Gezien een scenario, bepaal de correcte methode om QA tegen de synchronisatie van identiteitskaart uit te voeren
 * Bepaal de aangewezen methode om van de Audience Marketplace van de Adobe te navigeren en te activeren
 
-**Sectie 5: Taxonomie (11%)**
+**Afdeling 5: Taxonomie (11%)**
 
 * Bepaal de aangewezen structuur om eigenschappen en segmenten tot stand te brengen die een duidelijke en verenigbare nomenclatuur gebruiken
 * De juiste techniek bepalen om een georganiseerd platform te onderhouden met behulp van een duidelijke mapstructuur
@@ -222,7 +264,7 @@ Hier zijn voorgestelde middelen,
 
 **De certificering opnieuw starten**
 
-Het Adobe Audience Manager Business Practitioner-expert herstart examen ADS-E826 is gratis, open boek en niet-geproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+Het Adobe Audience Manager Business Practitioner Expert Restart-examen ADS-E826 is gratis, open boek en niet-geproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E82" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -233,25 +275,25 @@ Het Adobe Audience Manager Business Practitioner-expert herstart examen ADS-E826
 
 +++
 
-+++ADS-E825 Adobe Audience Manager **Architect** master nieuw begin examen
++++ADS-E825 Adobe Audience Manager **Architect** Master examen opnieuw starten
 
 **Instructies voor het opnieuw starten van uw certificering:**
 
 * **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
-* **Stap 2**: Herzie de examendoelstellingen en de middelen
-* **Stap 3**: Neem en ga het examen over
+* **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
+* **Stap 3**: Neem het examen over en ga door
 
 ### Klaar
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Master (3-5 jaar ervaring)
-* Voldoende score: 29-22-29
+* Voldoende score: 22/29
 * Tijd: 58 minuten
-* Aflevering: Op aanvraag/niet-afgehandeld
+* Levering: Op aanvraag/niet-afgehandeld
 * Beschikbare talen: Engels
 * Kosten: GRATIS
-* Examen-id: ADS-E825 - Master opnieuw opstarten vanaf Adobe Audience Manager Architect
+* Examen-id: ADS-E825 - Master opnieuw opstarten voor Adobe Audience Manager Architect
 
 **Toepassingsgebied en doelstellingen:**
 
@@ -270,10 +312,10 @@ Sectie 2: Oplossingsontwerp en Recommendations (17%)
 * Kenmerken en gedragsgegevens identificeren en deze toewijzen aan specifieke gevallen van zakelijk gebruik
 * Procedureconcepten toepassen op de ontwerpmappentaxonomie en naamgevingsconventie
 
-Deel 3: Segmentering en activering (31%)
+Sectie 3: Segmentering en activering (31%)
 
 * Pas procedureconcepten toe om bestemmingen in Audience Manager tot stand te brengen
-* Identificeer signalen om op regel-Gebaseerde, Onboard, en Algorithmic Traits tot stand te brengen
+* Identificeer signalen om op regel-Gebaseerde, Onboard, en Algorithmic Traits te creëren
 * Procedurele concepten toepassen om segmenten te maken met behulp van frequentie/recentie
 * Bepaal hoe u segmenten maakt met behulp van de samenvoegregels voor profielen
 * Procedurele concepten toepassen om een algoritmisch of voorspellend model te maken
@@ -305,25 +347,25 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Handleiding voor Audience Manager ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Zelfstudies voor Audience Managers](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
-**Deel 3: Segmentering en activering**
+**Sectie 3: Segmentering en activering**
 
 * [[!DNL Audience Manager] Handleiding](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [[!DNL Audience Manager] Community](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community){target="_blank"}
 * [[!DNL Audience Manager] Tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
-**Sectie 4: Privacy en gegevensbeheer**
+**Afdeling 4: Privacy en gegevensbeheer**
 
 * [[!DNL Audience Manager] Handleiding](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [[!DNL Audience Manager] REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
 * [[!DNL Analytics] Beheerdershandleiding](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 
-**Sectie 5: Prestaties en rapportage**
+**Afdeling 5: Prestaties en rapportage**
 
 * [Adobe [!DNL Experience Cloud] Identiteitsservice](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 ### De certificering opnieuw starten
 
-Het master ADS-E825-examen voor opnieuw opstarten van de Adobe Audience Manager Architect is gratis, open boek en niet-geproctoriseerd. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+Het Master Restart-examen ADS-E825 van de Architect van Adobe Audience Manager is vrij, open boek, en niet-geproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -338,47 +380,47 @@ Het master ADS-E825-examen voor opnieuw opstarten van de Adobe Audience Manager 
 
 ### Selecteer het toepasselijke examen dat op rol wordt gebaseerd om uw certificatie van Adobe Campaign opnieuw te beginnen
 
-+++ADS-E821 Adobe **Campaign Standard Developer** examen voor opnieuw opstarten van experts
++++ADS-E821 Adobe **Campaign Standard Developer** Expert start examen opnieuw
 
 **Instructies voor het opnieuw starten van uw certificering:**
 
 * **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
-* **Stap 2**: Herzie de examendoelstellingen en de middelen
-* **Stap 3**: Neem en ga het examen over
+* **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
+* **Stap 3**: Neem het examen over en ga door
 
 ### Klaar
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 03-23-30
+* Voldoende score: 23/30
 * Tijd: 60 minuten
-* Aflevering: Op aanvraag/niet-afgehandeld
+* Levering: Op aanvraag/niet-afgehandeld
 * Beschikbare talen: Engels
 * Kosten: GRATIS
-* Examen-id: ADS-E821 - Adobe Campaign Standard Developer Expert-herstart
+* Examen-id: ADS-E821 - Adobe Campaign Standard Developer Expert Restart
 
 **Toepassingsgebied en doelstellingen:**
 
-Sectie 1: Campagnebeheer
+Afdeling 1: Campagnebeheer
 
 * Hiërarchieën ordenen op basis van een bepaalde gebruikscase
 * Bepaal op basis van voorbeeldzakelijke vereisten waaraan OOTB-functies kunnen voldoen
 * Op basis van een scenario kunt u best practices toepassen om een campagne met meerdere of meerdere kanalen te ontwerpen
 * Kanalen identificeren (pushmelding, e-mail, SMS, direct mail, in-app) in Campaign Standard
 
-Sectie 2: Leveringsbeheer
+Afdeling 2: Leveringsbeheer
 
 * Gezien steekproefvereisten, ontwerp en vorm een levering
 * Beste werkwijzen toepassen in het leveringsontwerp
 
-Deel 3: Workflowontwerp en -uitvoering
+Sectie 3: Workflowontwerp en -uitvoering
 
 * Gegevens manipuleren voor gebruik in een campagne, gericht gebruik configureren, verrijken
-* Doelstellingen identificeren: gegevensverzameling, segmentering, publiek, lijsten, filteren
+* Doelstellingen identificeren: gegevensverzameling, segmentatie, publiek, lijsten, filteren
 * Vermeld op basis van een gebruiksgeval het gebruik van de belangrijkste marketinggerelateerde tabellen
 
-Sectie 4: Beheer, toezicht en rapportage
+Afdeling 4: Beheer, toezicht en rapportage
 
 * Logboeken van leveringsfouten interpreteren en workflowfouten identificeren en oplossen
 * Het succes van leveringen en campagnes bepalen en meten
@@ -401,10 +443,10 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [De sleutels, indexen en koppelingen configureren](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html#defining-links-with-other-resources){target="_blank"}
 * [Leerpad voor goedkeuringsproces (cursusmodule)](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
 * [Een bron bijwerken en publiceren](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
-* [Gegevensmodellering oplossen](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
+* [Problemen met gegevensmodellering oplossen](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
 * [Technische workflows maken](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=nl){target="_blank"}
 
-**Sectie 2: Campaign Management**
+**Deel 2: Campaign Management**
 
 * [Fouten oplossen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
 * [Best practices voor workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=nl){target="_blank"}
@@ -423,7 +465,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Uw rapporten aanpassen](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
 * [Aan de slag met dynamische rapporten](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html){target="_blank"}
 
-**Deel 3: Beheer**
+**Afdeling 3: Administratie**
 
 * [Beveiligingsgroepen](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html)
 * [Organisatorische eenheden](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html)
@@ -438,7 +480,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 ### De certificering opnieuw starten
 
-De Adobe [!DNL Campaign Standard] Het examen ADS-821 voor opnieuw opstarten door ontwikkelaar-expert is gratis, open boek en niet-geproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+De Adobe [!DNL Campaign Standard] Het examen ADS-821 van het Onderzoek van het Start van de Ontwikkelaar van de Expert is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -449,48 +491,48 @@ De Adobe [!DNL Campaign Standard] Het examen ADS-821 voor opnieuw opstarten door
 
 +++
 
-+++ADS-E822 Adobe **Campaign Standard Business Practitioner** examen voor opnieuw opstarten van experts
++++ADS-E822 Adobe **Campaign Standard Business Practitioner** Expert start examen opnieuw
 
 **Instructies voor het opnieuw starten van uw certificering:**
 
 * **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
-* **Stap 2**: Herzie de examendoelstellingen en de middelen
-* **Stap 3**: Neem en ga het examen over
+* **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
+* **Stap 3**: Neem het examen over en ga door
 
 ### Klaar
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 03-23-30
+* Voldoende score: 23/30
 * Tijd: 60 minuten
-* Aflevering: Op aanvraag/niet-afgehandeld
+* Levering: Op aanvraag/niet-afgehandeld
 * Beschikbare talen: Engels
 * Kosten: GRATIS
-* Examen-id: ADS-E822 - De deskundige van de Praktijk van de Campaign Standard opnieuw beginnen
+* Examen-id: ADS-E822 - Campaign Standard Business Practitioner Expert Restart
 
 **Toepassingsgebied en doelstellingen:**
 
-Sectie 1: Campagnebeheer
+Afdeling 1: Campagnebeheer
 
 * Hiërarchieën ordenen op basis van een bepaalde gebruikscase
 * Bepaal op basis van voorbeeldzakelijke vereisten waaraan OOTB-functies kunnen voldoen
 * Op basis van een scenario kunt u best practices toepassen om een campagne met meerdere of meerdere kanalen te ontwerpen
 * Kanalen identificeren (pushmelding, e-mail, SMS, direct mail, in-app) in Campaign Standard
 
-Sectie 2: Leveringsbeheer
+Afdeling 2: Leveringsbeheer
 
 * Gezien steekproefvereisten, ontwerp en vorm een levering
 * Beste werkwijzen toepassen in het leveringsontwerp
 * De nieuwste functies van e-mailDesigner toepassen
 
-Deel 3: Workflowontwerp en -uitvoering
+Sectie 3: Workflowontwerp en -uitvoering
 
 * Gegevens manipuleren voor gebruik in een campagne, gericht gebruik configureren, verrijken
-* Doelstellingen identificeren: gegevensverzameling, segmentering, publiek, lijsten, filteren
+* Doelstellingen identificeren: gegevensverzameling, segmentatie, publiek, lijsten, filteren
 * Vermeld op basis van een gebruiksgeval het gebruik van de belangrijkste marketinggerelateerde tabellen
 
-Sectie 4: Beheer, toezicht en rapportage
+Afdeling 4: Beheer, toezicht en rapportage
 
 * Logboeken van leveringsfouten interpreteren en workflowfouten identificeren en oplossen
 * Het succes van leveringen en campagnes bepalen en meten
@@ -498,25 +540,25 @@ Sectie 4: Beheer, toezicht en rapportage
 
 ### Vooraf ingesteld
 
-**Sectie 1: Campagnebeheer**
+**Afdeling 1: Campagnebeheer**
 
 * [Adobe [!DNL Campaign Standard] Documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl){target="_blank"} (werken met marketingactiviteiten, e-mailinhoud samenstellen, communicatiekanalen, leveringen, kanalen configureren)
 
-**Sectie 2: Leveringsbeheer**
+**Afdeling 2: Leveringsbeheer**
 
 * [Adobe [!DNL Campaign Standard] Documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl){target="_blank"} (e-mailinhoud samenstellen, berichten voorbereiden en testen, communicatiekanalen — e-mail, toepassingsinstellingen)
 
-**Deel 3: Workflowontwerp en -uitvoering**
+**Sectie 3: Workflowontwerp en -uitvoering**
 
 * [Adobe [!DNL Campaign Standard] Documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl){target="_blank"} (processen en gegevens beheren, publiek beheren, berichten plannen, een bron toevoegen of uitbreiden)
 
-**Sectie 4: Beheer, bewaking en rapportage**
+**Sectie 4: Beheer, toezicht en rapportage**
 
 * [Adobe [!DNL Campaign Standard] Documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl){target="_blank"} (uitvoeren van een workflow, testen en verzenden, rapporten, profielen en publiek aanpassen, gebruikers en beveiliging)
 
 ### De certificering opnieuw starten
 
-De Adobe [!DNL Campaign Standard] Het examen ADS-822 van het het nieuwe begin van de Expert van de BedrijfsPraktijk is vrij, open boek, en niet-geproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+De Adobe [!DNL Campaign Standard] Het examen ADS-822 van het het nieuwe begin van de Expert van de BedrijfsPraktijk is vrij, open boek, en niet-geproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -527,25 +569,25 @@ De Adobe [!DNL Campaign Standard] Het examen ADS-822 van het het nieuwe begin va
 
 +++
 
-+++ADS-E823 Adobe **Campaign Classic** Expert en/of master nieuw begin examen
++++ADS-E823 Adobe **Campaign Classic** Expert- en/of Master startexamen
 
 **Instructies voor het opnieuw starten van uw certificering:**
 
 * **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
-* **Stap 2**: Herzie de examendoelstellingen en de middelen
-* **Stap 3**: Neem en ga het examen over
+* **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
+* **Stap 3**: Neem het examen over en ga door
 
 ### Klaar
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Expert (1-3 jaar ervaring) en Master (3-5 jaar ervaring)
-* Voldoende score: 05-42-55
+* Voldoende score: 42/55
 * Tijd: 110 minuten
-* Aflevering: Op aanvraag/niet-afgehandeld
+* Levering: Op aanvraag/niet-afgehandeld
 * Beschikbare talen: Engels
 * Kosten: GRATIS
-* Examen-id: ADS-E823 - Adobe [!DNL Campaign Classic] deskundige en/of master opnieuw opstarten
+* Examen-id: ADS-E823 - Adobe [!DNL Campaign Classic] Expert en/of Master opnieuw opstarten
 
 **Toepassingsgebied en doelstellingen**
 
@@ -567,7 +609,7 @@ Sectie 2: Aanpassing (18%)
 * Beschrijf de vereisten en processen voor toegangsbeheer
 * Beschrijf het beheer van de mapstructuur
 
-Deel 3: Gegevensarchitectuur (22%)
+Sectie 3: Gegevensarchitectuur (22%)
 
 * De verschillen in gegevensopslag in v8 identificeren
 * De ingebouwde workflows identificeren waarmee lokale gegevens worden gesynchroniseerd met Snowflake
@@ -582,7 +624,7 @@ Sectie 4: Campagne, workflow, levering en rapportage (37%)
 * Op basis van een scenario workflowfouten analyseren
 * Op basis van een scenario, analyseert u de leveringsfouten rond de doeltoewijzing
 * Beschrijf workflowpraktijken die een negatief effect hebben op de prestaties
-* Op basis van een praktijkgeval raden we u aan het workflowontwerp als doel in te stellen
+* Op basis van een praktijkgeval raden we u aan het workflowontwerp te kiezen
 * Instellingen voor levering en goedkeuring toepassen
 * Op basis van een scenario bepalen welke rapporten geschikt zijn om te genereren
 * Selecteer bij een scenario de beste aanpak voor integratie met externe gegevensbronnen
@@ -610,7 +652,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Operatoren maken en beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
 * [Toegang tot mappen beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html){target="_blank"}
 
-**Deel 3: Gegevensarchitectuur**
+**Sectie 3: Gegevensarchitectuur**
 
 * [ [!DNL Campaign Classic]  [!DNL Campaign] Overgang van v7 naar v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=nl){target="_blank"}
 * [Werken met bronnen en bestemmingen](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
@@ -626,7 +668,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 ### De certificering opnieuw starten
 
-Het Adobe Campaign Classic-examen voor opnieuw opstarten ADS-823 is gratis, open boek en niet-afgewerkt. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+Het Adobe Campaign Classic Restart-examen ADS-823 is gratis, open boek en niet-geprocoreerd. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -642,27 +684,27 @@ Het Adobe Campaign Classic-examen voor opnieuw opstarten ADS-823 is gratis, open
 **Instructies voor het opnieuw starten van uw certificering:**
 
 * **Stap 1** - Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} dan terug naar deze pagina
-* **Stap 2** - De onderzoeksdoelstellingen en -middelen evalueren
+* **Stap 2** - De doelstellingen en middelen van het examen evalueren
 * **Stap 3** - Neem het examen in en laat het
 
 ### Klaar
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 04-30-40
+* Voldoende score: 30/40
 * Tijd: 80 minuten
-* Aflevering: Op aanvraag/niet-afgehandeld
+* Levering: Op aanvraag/niet-afgehandeld
 * Beschikbare talen: Engels
 * Kosten: GRATIS
-* Examen-id: ADS-E824 - Adobe Marketo Engage Business Practitioner-expert opnieuw starten
+* Examen-id: ADS-E824 - Adobe Marketo Engage Business Practitioner Expert Restart
 
 **Toepassingsgebied en doelstellingen:**
 
 Sectie 1: Beheer en onderhoud (12%)
 
 * Het toewijzingsproces bepalen tussen [!DNL Marketo] en CRM
-* Vaststellen wat er met een middel is gebeurd met behulp van het audittrail
+* Identificeer wat met activa gebeurde gebruikend het Spoor van de Controle
 * Verschillen tussen gebruikers en rollen herkennen
 * Op basis van een scenario de beste pasvorm bepalen voor het gebruik van werkruimte en partities
 * CRM-platforms identificeren met native [!DNL Marketo] synchronisatie
@@ -671,21 +713,21 @@ Sectie 1: Beheer en onderhoud (12%)
 Sectie 2: Marketingactiviteiten/Campagnebeheer (48%)
 
 * Toon een inzicht in Slimme Campagnes, logica, beperkingen, en stroomstappen aan
-* Definieer de volgende stap op basis van een scenario
+* Op basis van een scenario de volgende stap definiëren
 * Identificeer de worteloorzaak van een probleem
 * De relatie tussen programma&#39;s, kanalen, tags en de kosten van de periode interpreteren
-* Toon/pas de correcte configuratie op de Programma&#39;s van de Betrokkenheid aan toe
+* Toon/pas de correcte configuratie op de Programma&#39;s van de Betrokkenheid aan
 * Voorbeelden van gebruik voor verschillende typen tokens weergeven
 * Geef een overzicht van het nut van Webhooks in Marketo en hoe deze worden gebruikt
 * Identificeer en pas het passende gebruik van PMCF toe
 * Beschrijf de voordelen van Global Assets en hoe u deze kunt gebruiken
-* De mogelijkheden van formulieren aantonen
+* De mogelijkheden van formulieren demonstreren
 * Een teststrategie voor A/B uitvoeren en analyseren
 * Identificeer waar een programma of een middel met &quot;Gebruikt door&quot;van verwijzingen is voorzien
 * Communicatielimieten oplossen
-* Webprovider-informatie gebruiken in een gebeurtenisprogramma
+* Informatie over een webinar-provider gebruiken in een gebeurtenisprogramma
 
-Deel 3: Loodbeheer (10%)
+Sectie 3: Loodbeheer (10%)
 
 * Een overzicht geven van de belangrijkste beslissingspunten bij het definiëren van het levenscyclusmodel
 * Aanbevolen werkwijzen toepassen op leadscoring
@@ -705,7 +747,7 @@ Sectie 5: Rapportage (5%)
 * Op basis van het resultaat van een campagne bepalen hoe u een programma instelt voor de beste rapportage
 * In een scenario kan het passende overnameprogramma worden onderzocht en toegewezen
 
-Sectie 6: Aanbevolen procedures (15%)
+Sectie 6: Beste praktijken (15%)
 
 * Toon de relevantie van lood scoring in marketing en verkoopsamenwerking aan
 * De voordelen van de mapstructuur en naamgevingsconventies illustreren
@@ -719,40 +761,40 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
-**Sectie 1: Beheer en onderhoud**
+**Afdeling 1: Beheer en onderhoud**
 
-* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Veldbeheer, CRM-synchronisatie, Audittrail, Gebruikersbeheer, Werkruimten en partities, Slimme lijsten, Aangepast veld)
+* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Veldbeheer, CRM-synchronisatie, Audittrail, Gebruikersbeheer, Werkruimten en partities, Slimme lijsten, Aangepast veld)
 * [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Synchroon met Salesforce, CRM-integratie)
 
 **Sectie 2: Marketingactiviteiten/Campagnebeheer**
 
 * [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Willekeurige steekproef, Slimme Campagne met gegevenswaardebrand, Wacht Stappen, lid.webinar url, de Inspecteur van de Campagne, de Logica van de Filter, het Gebruiken van Tokens in E-mail, Loodverwezenlijking via Formulier Vullen, Middelen en Werkruimten, het Leiden Forms)
-* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Slimme lijsten, Slimme campagnes, Demand Generation Forms, Gebeurtenissen voor het genereren van vraag, E-mailmarketing, Programma&#39;s maken, Gebeurtenissen, Audittrail, Werken met programma&#39;s, Beheercodes, Drip Nurturing, Landing Pages, Tokens, Beheer Extra Integraties, Webhaak, de Gebieden van de Douane van het Lid van het Programma, Werkruimte en Personen)
+* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Slimme lijsten, Slimme campagnes, Demand Generation Forms, Gebeurtenissen voor het genereren van vraag, E-mailmarketing, Programma&#39;s maken, Gebeurtenissen, Audittrail, Werken met programma&#39;s, Beheercodes, Drip Nurturing, Landing Pages, Tokens, Beheer Extra Integraties, Webhaak, de Gebieden van de Douane van het Lid van het Programma, Werkruimte en Personen)
 
-**Deel 3: Beheer van leads**
+**Afdeling 3: Leadbeheer**
 
 * [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Video over een levenscyclusprogramma voor leads samenstellen, abonnement op e-mail opzeggen)
-* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Slimme campagnes, [!DNL Marketo] Het Inzicht van de verkoop, het Interesten Momenten, het leiden Mensen in Slimme Lijsten, Systeem Beheerde Gebieden)
+* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Slimme campagnes, [!DNL Marketo] Het Inzicht van de verkoop, het Interesten Momenten, het leiden Mensen in Slimme Lijsten, Systeem Beheerde Gebieden)
 
-**Sectie 4: Gegevensbeheer**
+**Deel 4: Gegevensbeheer**
 
 * [Adobe [!DNL Marketo] Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Een Directory of Leads Bouncing E-mails-artikel bijhouden, How to Manage Your Marketo Database for Deliverability support-blog, [!DNL Marketo] Activiteiten Beleid inzake gegevensbewaring - onder het Hood-artikel)
-* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (E-mail marketing harde en Zachte Bounces, de Types van Rapport, Personalisatie, Dynamische Inhoud)
+* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (E-mail marketing harde en Zachte Bounces, de Types van Rapport, Personalisatie, Dynamische Inhoud)
 
 **Sectie 5: Rapportage**
 
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Het artikel Aanschaffen van aanbevolen procedures instellen)
 * [Experience League - productdocumentatie voor Marketo Engage](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Rapportage, Prestatie-inzichten, het Rapport van de Prestaties van het Programma, het Uitgeven rapporten, het Lidmaatschap van het Programma)
 
-**Sectie 6: Aanbevolen procedures**
+**Deel 6: Beste praktijken**
 
 * [De Definitieve gids voor het Scoren van de Lood](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
-* [Experience League - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Werken met programma&#39;s, E-mailmarketing, A/B testen)
+* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Productdocumentatie](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Werken met programma&#39;s, E-mailmarketing, A/B testen)
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Vraag uw kwaliteitscontroleproces in gedachten)
 
 ### De certificering opnieuw starten
 
-Het Adobe Marketo Engage Business Practitioner-expert herstart examen ADS-E824is gratis, open boek en niet-geproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+Het Adobe Marketo Engage Business Practitioner-expert herstart examen ADS-E824is gratis, open boek en niet-geproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E824" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
