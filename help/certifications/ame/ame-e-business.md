@@ -4,17 +4,17 @@ description: Leer hoe u een gecertificeerde Adobe Business Practitioner-expert k
 solution: Marketo Engage
 product: Marketo
 role: User
-badge: label="Exam AD0-E559" type="positive"
+badge: label="Examen AD0-E559" type="positive"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 49dc037af5b72c804ae00af908b33ae20c75f5c3
 workflow-type: tm+mt
-source-wordcount: '1428'
+source-wordcount: '1425'
 ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Marketo Engage] Expert aan de praktijk
+# Certificeringsreis voor Adobe [!DNL Marketo Engage] Expert aan de praktijk van bedrijven
 
 Leer hoe u een gecertificeerde Adobe Business Practitioner-expert kunt worden.
 
@@ -24,7 +24,7 @@ U zou moeten hebben:
 
 * Ongeveer 18 maanden ervaring met [!DNL Marketo] eigenschappen en mogelijkheden nodig om marketing campagnes te creëren en de gegevens van het klantengedrag te gebruiken
 
-U moet een markering zijn met ervaring in:
+U moet een markeerteken zijn met ervaring in:
 
 * Opzetten, lanceren en analyseren van campagnes
 * Werken met onderliggende e-mailgedrag en technologieën, waaronder HTML, integratie, databases en CRM
@@ -57,21 +57,21 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 * Marketing Systems Manager
 * Demand Generation Manager
 * E-mailmarketingmanager
-* Belastingbeheer
+* Inkomstenbewerkingsmanager
 * Groeibewerkingsmanager
 * Martech architect
 * Marketing Technology Manager
 * Geïntegreerde campagnemanagers
 * Business system analyst
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 05-32-50
+* Voldoende score: 32/50
 * Tijd: 110 minuten
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Beschikbare talen: Engels en Japans
-* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E559
 
 **Zelfbeoordeling van gereedheid**
@@ -83,7 +83,7 @@ Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/laun
 Sectie 1: Beheer en onderhoud (12%)
 
 * Toewijzingsproces tussen Marketo en CRM bepalen
-* Vaststellen wat er met een middel is gebeurd met behulp van het audittrail
+* Identificeer wat met activa gebeurde gebruikend het Spoor van de Controle
 * Verschillen tussen gebruikers en rollen herkennen
 * Op basis van een scenario de beste pasvorm bepalen voor het gebruik van werkruimte en partities
 * CRM-platforms identificeren met native Marketo-synchronisatie
@@ -92,21 +92,21 @@ Sectie 1: Beheer en onderhoud (12%)
 Sectie 2: Marketingactiviteiten/Campaign Management (46%)
 
 * Toon een inzicht in Slimme Campagnes, logica, beperkingen en stroomstappen aan
-* Definieer de volgende stap op basis van een scenario
+* Op basis van een scenario de volgende stap definiëren
 * Identificeer de worteloorzaak van een probleem
 * Het verband tussen programma&#39;s, kanalen, markeringen en periode kosten interpreteren
-* Toon/pas de correcte configuratie op de Programma&#39;s van de Betrokkenheid aan toe
+* Toon/pas de correcte configuratie op de Programma&#39;s van de Betrokkenheid aan
 * Voorbeelden van gebruik voor verschillende typen tokens weergeven
 * Geef een overzicht van het nut van Webhooks in Marketo en hoe deze worden gebruikt
 * Identificeer en pas het passende gebruik van PMCF toe
 * Beschrijf de voordelen van Global Assets en hoe u deze kunt gebruiken
-* De mogelijkheden van formulieren aantonen
+* De mogelijkheden van formulieren demonstreren
 * Een teststrategie voor A/B uitvoeren en analyseren
 * Identificeer waar een programma of een middel met &quot;Gebruikt door&quot;van verwijzingen is voorzien
 * Communicatielimieten oplossen
-* Webprovider-informatie gebruiken in een gebeurtenisprogramma
+* Informatie over een webinar-provider gebruiken in een gebeurtenisprogramma
 
-Deel 3: Loodbeheer (12%)
+Sectie 3: Loodbeheer (12%)
 
 * Een overzicht geven van de belangrijkste beslissingspunten bij het definiëren van het levenscyclusmodel
 * Aanbevolen werkwijzen toepassen op leadscoring
@@ -140,10 +140,10 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
-**Sectie 1: Beheer en onderhoud**
+**Afdeling 1: Beheer en onderhoud**
 
-* [De [!DNL Salesforce] Synchroniseren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html){target="_blank"}
-* [[!DNL Marketo]: Beleid voor praktijkgerichte bedrijven](https://cpcontents.adobe.com/public/newlearner/newlearner_1fc76c7b.html#/course/1338335/overview?cert_id=undefined&amp;lp_id=undefined){target="_blank"}
+* [De [!DNL Salesforce] Sync](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html){target="_blank"}
+* [[!DNL Marketo]: Beleid voor zakelijke praktijkbeoefenaars](https://cpcontents.adobe.com/public/newlearner/newlearner_1fc76c7b.html#/course/1338335/overview?cert_id=undefined&amp;lp_id=undefined){target="_blank"}
 * [Een lijst met alle exportfuncties [!DNL Marketo] API-veldnamen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.html){target="_blank"}
 * [Verklarende woordenlijst Type aangepast veld](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary.html){target="_blank"}
 * [Taal, landinstelling en tijdzone selecteren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/select-your-language-locale-and-time-zone.html){target="_blank"}
@@ -151,11 +151,11 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Overzicht van audittrail](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html){target="_blank"}
 
 
-**Sectie 2: Marketing- en campagnebeheer**
+**Sectie 2: Marketingactiviteiten/campagnebeheer**
 
 * [Filters zoeken en toevoegen aan een slimme lijst](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.html){target="_blank"}
 * [Slimme campagnes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html){target="_blank"}
-* [Kies toevoegen in een stroomstap gebruiken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.html){target="_blank"}
+* [Keuze toevoegen in een stroomstap gebruiken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.html){target="_blank"}
 * [Werken met het lidmaatschap van het programma](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
 * [Een programmakanaal maken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html){target="_blank"}
 * [Overzicht van tokens](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.html){target="_blank"}
@@ -167,18 +167,18 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Webhaak maken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html){target="_blank"}
 
 
-**Deel 3: Beheer van leads**
+**Afdeling 3: Leadbeheer**
 
 * [De waarde van een verborgen formulierveld instellen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html){target="_blank"}
 * [Score wijzigen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html){target="_blank"}
 * [Waarschuwing verzenden](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.html){target="_blank"}
-* [De Types van Activiteit van de filter in het Activiteitenlogboek van een Persoon](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.html){target="_blank"}
+* [Typen filteractiviteiten in het activiteitenlog van een persoon](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.html){target="_blank"}
 * [Interessant moment](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.html){target="_blank"}
 * [Tokens activeren voor interessante momenten](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.html){target="_blank"}
-* [Inkoopmodellen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
+* [Indelingsmodellen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
 
 
-**Sectie 4: Gegevensbeheer**
+**Deel 4: Gegevensbeheer**
 
 * [Gegevenswaarde wijzigen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.html){target="_blank"}
 * [Waarden definiëren in een keuzerondje of geselecteerd veld in een formulier](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.html){target="_blank"}
@@ -195,10 +195,10 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Een programmaanalyse maken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.html){target="_blank"}
 * [Abonneren op een basisrapport](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html){target="_blank"}
 
-**Sectie 6: Aanbevolen procedures**
+**Deel 6: Beste praktijken**
 
-* [Beste praktijken: Uw programma&#39;s ordenen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html){target="_blank"}
-* [Een e-mailvoorbeeld verzenden](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.html){target="_blank"}
+* [Beste praktijken: Hoe te om Uw Programma&#39;s te organiseren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html){target="_blank"}
+* [Een voorbeeld-e-mail verzenden](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.html){target="_blank"}
 * [Een voorbeeld van een e-mailbericht weergeven met dynamische inhoud](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.html){target="_blank"}
 * [Score wijzigen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html){target="_blank"}
 * [De Definitieve gids voor het Scoren van de Lood](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}
@@ -228,19 +228,17 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
 
-*ENGELS*
 <a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Engels examen maken
 </span>
 </a>
 
-*JAPANS*
 <a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559-j" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Japans examen
 </span>
 </a>
 
