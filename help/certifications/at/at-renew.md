@@ -7,9 +7,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
+source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt alvorens u uw
 
 >[!TAB Expert en Master]
 
-## U moet momenteel zijn gecertificeerd (niet verlopen) in:
+## U moet ten minste een van de volgende opties hebben **actief** te vernieuwen certificaten:
 
 * [!DNL Adobe Target] Expert aan de praktijk van bedrijven
 * [!DNL Adobe Target] Architect Master
@@ -50,8 +50,7 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt alvorens u uw
 * **Stap 3:** Kies uit de onderstaande opties om de vernieuwing te voltooien.
 
   **Optie A:**
-
-  Selecteren **drie cursussen** om elke beoordeling van een cursus met een score van 80% of hoger te voltooien en te voltooien. Cursusbeoordelingen zijn gratis, op aanvraag, niet-afgehandeld en open boek. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
+Selecteren **drie cursussen** om elke beoordeling van een cursus met een score van 80% of hoger te voltooien en te voltooien. Cursusbeoordelingen zijn gratis, op aanvraag, niet-afgehandeld en open boek. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
 
   **Optie B:**
 Eerst selecteert u **twee cursussen** om elke beoordeling van een cursus met een score van 80% of hoger te voltooien en te voltooien. Cursusbeoordelingen zijn gratis, op aanvraag, niet-afgehandeld en open boek. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
@@ -64,7 +63,7 @@ Eerst selecteert u **twee cursussen** om elke beoordeling van een cursus met een
 
 >[!NOTE]
 >
->Als u meerdere [!DNL Adobe Target] Expert- en Master-level certificeringen, voldoen aan de vereisten voor vernieuwing voor slechts één certificering en de rest wordt automatisch vernieuwd.
+>Als u meerdere [!DNL Adobe Target] Professionele en Master certificeringen, voldoen aan de vereisten voor vernieuwing voor slechts één certificering en de rest wordt automatisch vernieuwd.
 
 ## Cursussen en cursusbeoordelingen voor experts en Master:
 

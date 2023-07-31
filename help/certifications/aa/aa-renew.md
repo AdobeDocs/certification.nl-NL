@@ -7,9 +7,9 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '582'
 ht-degree: 1%
 
 ---
@@ -38,46 +38,44 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!TAB Expert en Master]
 
-U moet momenteel zijn gecertificeerd (niet verlopen) in:
+## U moet ten minste een van de volgende opties hebben **actief** te vernieuwen certificaten:
 
 * Adobe Analytics Developer Expert
-* Adobe Analytics Business Practiter Expert
+* Adobe Analytics Business Practitioner Expert
 * Adobe Analytics Architect Master
 
 ## Instructies voor het vernieuwen van je Adobe Analytics-certificering
 
-Selecteren **drie activiteiten** om de cursusbeoordelingen te voltooien en door te geven die aan elke beoordeling zijn gekoppeld.
+* **Stap 1:** Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 2:** Studeer de cursussen in Experience League
+* **Stap 3:** Kies uit de onderstaande opties om de vernieuwing te voltooien.
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
-* **Stap 2**: Studeer de cursussen in Experience League
-* **Stap 3**: Elke cursusbeoordeling voltooien en doorstaan met ten minste 80%
+  **Optie A:**
+Selecteren **drie cursussen** om elke beoordeling van een cursus met een score van 80% of hoger te voltooien en te voltooien. Cursusbeoordelingen zijn gratis, op aanvraag, niet-afgehandeld en open boek. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
 
-U kunt ook twee cursussen bestuderen, twee cursusbeoordelingen doorgeven en een referentieformulier indienen waarmee uw betrokkenheid bij een project in totaal 100 uur in de afgelopen 12 maanden wordt gevalideerd.
+  **Optie B:**
+Eerst selecteert u **twee cursussen** om elke beoordeling van een cursus met een score van 80% of hoger te voltooien en te voltooien. Cursusbeoordelingen zijn gratis, op aanvraag, niet-afgehandeld en open boek. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
 
-Voor bepaalde Adobe Experience Cloud-certificeringen accepteert het Adobe Credential Program **klantverwijzingen** die uw vervolg van uw werk als Adobe gecertificeerd individueel leiden, beheren en/of deelnemen aan een Adobe Experience Cloud-implementatieproject valideren.
+  Tweede, **een klantverwijzingsformulier indienen** valideren van uw ononderbroken werk als een door Adobe gecertificeerd individu dat leiding geeft aan, een Adobe Experience Cloud-implementatieproject beheert en/of eraan deelneemt. In dit formulier wordt bevestigd dat u gedurende een periode van twee jaar voor certificaatvernieuwing hebt deelgenomen aan ten minste 100 uur aangetoonde projectbetrokkenheid.
 
-In deze gevallen kunt u een klantenverwijzing verstrekken die bevestigt u aan minstens 100 uren van aangetoonde projectovereenkomst tijdens uw certificatievernieuwing 2 jaar interval hebt deelgenomen.
+  [Referentieformulier voor de klant voor Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
 
-**Zodra uw klantenverwijzing is herzien zult u door het Team van de Referentie van de Adobe op de hoogte worden gesteld.**
+  U zal door het Team van de Referentie van de Adobe op de hoogte worden gebracht wanneer uw klantenverwijzing is herzien. Als uw verwijzing niet wordt geaccepteerd, kunt u het opnieuw verzenden totdat u succes hebt, zolang het duurt voordat uw certificering verloopt.
 
-De cursusbeoordelingen zijn gratis. Ze hoeven niet te worden gepland en worden niet afgehandeld. Als u meerdere certificeringen op Adobe Analytics Expert- en Master niveau hebt, hoeft u alleen de onderstaande vereisten in te vullen. Alle Adobe Analytics-certificeringen op dit niveau worden vernieuwd.
+>[!NOTE]
+>
+>Als u meerdere Adobe Analytics Expert- en Master certificeringen hebt, voldoet u aan de vereisten voor vernieuwing voor slechts één certificering. De rest wordt dan automatisch vernieuwd.
 
-[Referentieformulier voor de klant voor Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
+### Cursussen en cursusbeoordelingen voor experts en Master:
 
-### Cursussen en cursusbeoordelingen voor deskundige en master:
-
-| Cursus | Cursusbeoordeling |
+| Cursussen voor deskundigen en Master | Cursusbeoordeling |
 | ------- | ------- |
 | [Adobe Analytics - waarde toewijzen aan Digital Touch-punten op de reis van de klant](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2){target="_blank"} | [ADR-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA201){target="_blank"} |
 | [Adobe Analytics-gegevens exporteren en democratiseren - Les 5 en 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADR-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA202){target="_blank"} |
 | [Uw gegevens filteren met aangepaste segmentatie en datums - Les 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADR-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA203){target="_blank"} |
-| [Implementatie met instructies-analyse - les 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADR-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA204){target="_blank"} |
-| [ Interne site zoeken implementeren en meten - Les 3 en 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADR-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA205){target="_blank"} |
+| [Implementatie met instructies voor analyse - les 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADR-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA204){target="_blank"} |
+| [Interne site zoeken implementeren en meten - Les 3 en 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADR-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA205){target="_blank"} |
 | [Adobe Analytics API&#39;s](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADR-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA206){target="_blank"} |
-
->[!NOTE]
->
->U kunt herhalen tot u met succes drie activiteiten hebt voltooid of twee activiteiten, plus de vorm van de klantenverwijzing voltooit.
 
 >[!ENDTABS]
 
