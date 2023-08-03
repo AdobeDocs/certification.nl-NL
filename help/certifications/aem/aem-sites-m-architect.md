@@ -4,17 +4,28 @@ description: Leer hoe u een gecertificeerde architect Master kunt worden in Expe
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Data Architect
-badge: label="Exam AD0-E117" type="positive"
+badge: label="Examen AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 48d3e064145c10fce3493d9fe20e5435c2ab6f23
 workflow-type: tm+mt
-source-wordcount: '1449'
-ht-degree: 7%
+source-wordcount: '1514'
+ht-degree: 8%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Experience Manager Sites] Architect Master
+
+>[!NOTE]
+>
+>Dit examen (AD0-E117) ondergaat onderhoud en is tijdelijk niet beschikbaar. Onze oprechte excuses voor het ongemak. Klik op de onderstaande knop om u aan te melden dat u een melding wilt ontvangen wanneer deze weer beschikbaar is.
+
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Stuur me een melding
+</span>
+</a>
 
 Leer hoe u een gecertificeerde architect Master kunt worden.
 
@@ -47,7 +58,7 @@ Bovendien, zou u de capaciteit moeten hebben om de volgende taken uit te voeren:
 * Workflowmodellen ontwerpen voor bedrijfsprocessen
 * Strategieën vaststellen voor platformprestaties en penetratie-/beveiligingstests
 * Inhoud op meerdere kanalen hergebruiken
-* Account voor overwegingen die gericht zijn op de cloud, zoals: Automatisch schalen, replicatie, beheer van bedrijfsmiddelen, de implicaties en de verschillen tussen de services op locatie en beheerd, Cloud Manager, pakketbeheer
+* Account voor overwegingen die gericht zijn op de cloud, zoals: automatisch schalen, replicatie, beheer van bedrijfsmiddelen, de implicaties en verschillen tussen services op locatie en beheerde services, Cloud Manager, pakketbeheer
 
 >[!NOTE]
 >
@@ -60,19 +71,19 @@ Bovendien, zou u de capaciteit moeten hebben om de volgende taken uit te voeren:
 **Beoogd publiek:**
 
 * AEM architecten
-* Hoofdontwikkelaars
+* Leidingontwikkelaars
 * Technische architecten
 * Oplossingsarchitecten
 * Dev/OPS-instructeurs
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Master (3-5 jaar ervaring)
-* Voldoende score: 05-29-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Voldoende score: 29/50
+* Tijd: 100 min
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Beschikbare talen: Engels, Japans
-* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E117
 
 **Zelfbeoordeling van gereedheid**
@@ -101,7 +112,7 @@ Deel 3: Uitvoering (22%)
 * Op basis van een scenario ontwerpproblemen identificeren en oplossen die tijdens de implementatiefase aan het licht zijn gekomen
 * Op basis van een scenario wordt aanbevolen implementatiebenaderingen uit te voeren op basis van vereisten
 * Bepaal aangewezen methodes om aan prototypeoplossingen voor proefdrukken van concepten te gebruiken
-* Op basis van een scenario kunt u problemen tijdens de implementatie opsporen en oplossen
+* Op basis van een scenario kunt u tijdens de implementatie ondervonden problemen opsporen en oplossen
 
 Sectie 4: Onderhoud (16%)
 
@@ -117,7 +128,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Voorbeeldvragen**
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmelding nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
 
 [Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
 
@@ -127,7 +138,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Handleiding voor assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
 * [AEM 6.4 Handleiding voor mobiele gebruikers](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
 * [AEM Assets - video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=nl){target="_blank"}
 * [Adobe [!DNL Experience Manager] 6.5 Communautaire gids](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
 * [AEM Sites - video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 * [AEM 6.5 Gebruikershandleiding voor beheren](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
@@ -141,9 +152,9 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 **Sectie 2: Oplossingsontwerp**
 
 * [AEM Assets - video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
-* [SPA/SEO: Een app-hulplijn van één pagina voor de eerste Google-pagina](https://snipcart.com/spa-seo){target="_blank"}
-* [Contextbewuste configuratie afspelen](https://cqdump.wordpress.com/2018/04/24/sling-context-aware-configuration/){target="_blank"}
-* [Conferentiegesprek: Configuratie met behoud van context](https://adapt.to/2016/en/schedule/sling-context-aware-configuration.html){target="_blank"}
+* [SPA/SEO: Een app-gids voor één pagina voor de Google op de eerste pagina](https://snipcart.com/spa-seo){target="_blank"}
+* [Contextbewuste configuratie](https://cqdump.wordpress.com/2018/04/24/sling-context-aware-configuration/){target="_blank"}
+* [Conferentiegesprek: Contextbewuste configuratie verkopen](https://adapt.to/2016/en/schedule/sling-context-aware-configuration.html){target="_blank"}
 * [AEM Sites - video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 * [Pagina-eigenschappen weergeven/verbergen op basis van sjabloon in AEM 6.4](https://blogs.perficient.com/2019/01/03/how-to-show-hide-page-properties-based-on-page-template-in-aem-6-4/){target="_blank"}
 * [Aangepaste rendervoorwaarden AEM graniet](https://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
@@ -160,12 +171,12 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Overzicht van verzending](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
 * [Dispatcher Cache in AEM wissen](https://www.axamit.com/blog/adobe/dispatcher-4#:~:text=At%20the%20low%20level%20dispatcher,the%20root%20of%20htdocs%20directory.){target="_blank"}
 * [AEM Cloud Service Dispatcher Converter](https://github.com/adobe/aem-cloud-service-dispatcher-converter){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] Overzicht](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] Overzicht](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=nl){target="_blank"}
 * [Handleiding voor HTL](https://experienceleague.adobe.com/docs/experience-manager-htl/content/overview.html){target="_blank"}
 * [[!DNL AEM Sites as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/home.html){target="_blank"}
 * [AEM 6.4 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
 
-**Deel 3: Implementatie**
+**Deel 3: Uitvoering**
 
 * [AEM 6.5 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
 * [Documentatie voor Adobe Enterprise](https://experienceleague.adobe.com/docs/){target="_blank"}
@@ -180,7 +191,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Handleiding voor assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
 * [Video&#39;s en tutorials voor AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
 * [AEM 6.4 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
-* [Overzicht van Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [Overzicht van Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=nl){target="_blank"}
 
 
 **Sectie 4: Elementen**
@@ -188,9 +199,9 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [AEM 6.5 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 * [Toegewezen bestanden met TarMK-geheugen eken](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/oak-tarmk-memory-mapped-files/td-p/218220){target="_blank"}
 * [Overzicht van verzending](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
-* [Apache Sling: Toewijzingen voor resolutie van bronnen](https://sling.apache.org/documentation/the-sling-engine/mappings-for-resource-resolution.html){target="_blank"}
+* [Apache Sling: toewijzingen voor resourceresolutie](https://sling.apache.org/documentation/the-sling-engine/mappings-for-resource-resolution.html){target="_blank"}
 * [AEM zoeken versus Solr-zoeken](https://blog.3sharecorp.com/aem-search-vs.-solr-search){target="_blank"}
-* [TarMK: Feiten en figuren](https://adapt.to/content/dam/adaptto/production/presentations/2017/adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf/_jcr_content/renditions/original./adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf){target="_blank"}
+* [TarMK: feiten en figuren](https://adapt.to/content/dam/adaptto/production/presentations/2017/adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf/_jcr_content/renditions/original./adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf){target="_blank"}
 * [Inleiding tot Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html){target="_blank"}
 * [Wolkenbeheer: Aan de slag](https://developer.adobe.com/experience-cloud/cloud-manager/guides/getting-started/){target="_blank"}
 * [CQBufferedImageCache verbruikt heap tijdens het uploaden van middelen](https://helpx.adobe.com/experience-manager/kb/cqbufferedimagecache-consumes-heap-during-asset-uploads.html){target="_blank"}
@@ -216,23 +227,14 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 ### Beschikbare opties
 
-{{PSI-note}}
+>[!NOTE]
+>
+>Dit examen (AD0-E117) ondergaat onderhoud en is tijdelijk niet beschikbaar. Onze oprechte excuses voor het ongemak. Klik op de onderstaande knop om u aan te melden dat u een melding wilt ontvangen wanneer deze weer beschikbaar is.
 
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Stuur me een melding
 </span>
 </a>
 
