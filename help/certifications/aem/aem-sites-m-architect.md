@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Examen AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 5109b4c8de4928a46f0241cea86f858982d2236c
+source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
 workflow-type: tm+mt
-source-wordcount: '1498'
-ht-degree: 8%
+source-wordcount: '1722'
+ht-degree: 7%
 
 ---
 
@@ -19,6 +19,8 @@ ht-degree: 8%
 >[!NOTE]
 >
 >Dit examen (AD0-E117) ondergaat onderhoud en is tijdelijk niet beschikbaar. Onze oprechte excuses voor het ongemak. [Aanmelden voor kennisgeving](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wanneer deze weer beschikbaar is.
+>
+>**Vragen?** Zie onze [Veelgestelde vragen](#AEM-FAQ) onder aan deze pagina.
 
 Leer hoe u een gecertificeerde architect Master kunt worden.
 
@@ -211,7 +213,6 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 >
 >Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
-
 ## Over het examen
 
 {{about-certification-exam}}
@@ -223,6 +224,8 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 >[!NOTE]
 >
 >Dit examen (AD0-E117) ondergaat onderhoud en is tijdelijk niet beschikbaar. Onze oprechte excuses voor het ongemak. [Aanmelden voor kennisgeving](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wanneer deze weer beschikbaar is.
+>
+>**Vragen?** Zie onze [Veelgestelde vragen](#AEM-FAQ) onder aan deze pagina.
 
 >[!ENDTABS]
 
@@ -231,3 +234,23 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+
+## Veelgestelde vragen voor Master examen voor Adobe Experience Manager Sites Architect (AD0-E117) {#AEM-FAQ}
+
+Het certificatieexamen AD0-E117 ondergaat onderhoud en is tijdelijk niet beschikbaar. Onze oprechte excuses voor het ongemak. [Aanmelden voor kennisgeving](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wanneer deze weer beschikbaar is.
+
+**Wat gebeurt er als ik al mijn examen heb gepland?**
+
+Alle geplande AD0-E117 examens zijn geannuleerd. De kandidaten die worden beïnvloed zullen het examen opnieuw moeten plannen wanneer de nieuwe versie beschikbaar is.
+
+**Ik heb al voor het examen betaald. Zal ik een terugbetaling ontvangen?**
+
+* Als u voor uw examen met een creditcard via Onderzoek hebt betaald, zult u volledig worden terugbetaald.  
+* Als u met een bon hebt betaald, zal uw code terugstellen en u zult het op uw nieuwe examenbenoeming kunnen toepassen.  
+* Als uw voucher vervalt voordat u deze kunt gebruiken, geven we u een nieuwe voucher uit zodra u klaar bent om te plannen.
+
+**Ik moet mijn certificering vóór oktober vernieuwen. Zal dit gevolgen hebben voor mijn verlenging?**
+
+Nee. U kunt vernieuwen door voortdurend te leren. Volg de instructies en het proces die onder [Uw certificering verlengen](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
+
+
