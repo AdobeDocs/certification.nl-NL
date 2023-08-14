@@ -5,16 +5,16 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '2655'
+source-wordcount: '2643'
 ht-degree: 1%
 
 ---
 
-# Veelgestelde vragen over Adobe-certificering
+# Veelgestelde vragen over certificering van Adoben
 
-Raadpleeg de veelgestelde vragen (FAQ) hieronder voor meer informatie over het Adobe-certificeringsprogramma.
+Raadpleeg de veelgestelde vragen (FAQ) hieronder voor meer informatie over het Adobe Certification-programma.
 
 ![Banner](/help/certifications/assets/home_banner_narrow.png)
 
@@ -24,9 +24,9 @@ Raadpleeg de veelgestelde vragen (FAQ) hieronder voor meer informatie over het A
 
 +++Wat is certificatie en wat zijn de voordelen?
 
-Individuele prestaties: Certificering is een referentie die de vaardigheid en bekwaamheid van een individu in een Adobe-toepassing erkent. Een kandidaat die voor het certificeringsexamen slaagt, wordt een Adobe Certified Professional, Expert of Master.
+Individuele voordelen: certificering is een referentie die de vaardigheden en competentie van een individu in een Adobe-toepassing erkent. Een kandidaat die voor het certificeringsexamen slaagt, wordt een Adobe Certified Professional, Expert of Master.
 
-Certificeringen vereisen betrokkenheid, zijn juridisch verdedigbaar en valideren vanuit Adobe van uw expertise. U kunt uw certificering ook uitvoeren op uw sociale profielen door uw badge te downloaden van [!DNL Credly].
+Certificeringen vereisen betrokkenheid, zijn juridisch verdedigbaar en valideren vanuit de Adobe van uw expertise. U kunt uw certificering ook uitvoeren op uw sociale profielen door uw badge te downloaden van [!DNL Credly].
 
 Meer informatie over het beheren van je badges in [!DNL Credly], go [HIER](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
@@ -36,9 +36,9 @@ Meer informatie over het beheren van je badges in [!DNL Credly], go [HIER](https
 
 Certificeringen zijn op rollen gebaseerd, wat betekent dat er meerdere examens beschikbaar zijn. Controleer de pagina&#39;s van de certificeringstransport om te kiezen welk examen te nemen. U zult het examen door kiezen:
 
-* Toepassing: bijvoorbeeld: [!DNL Adobe Analytics] of [!DNL Marketo Engage]
+* Toepassing: bijvoorbeeld [!DNL Adobe Analytics] of [!DNL Marketo Engage]
 * Rol: bijvoorbeeld ontwikkelaar of huisarts
-* Niveau: bijvoorbeeld een beroepservaring van 0 tot 12 maanden; of 1-3 jaar deskundige
+* Niveau: bijvoorbeeld Professional, 0-12 maanden ervaring; of Expert 1-3 jaar
 
 Soms zijn er veelvoudige versies van een examen. De nieuwste versie is het beste.
 
@@ -49,15 +49,13 @@ Soms zijn er veelvoudige versies van een examen. De nieuwste versie is het beste
 
 +++Wat als ik technische kwesties tijdens mijn afgekondigd examen heb?
 
-PSI en [!DNL Examity] ondersteuning beschikbaar via chat, e-mail en telefoon. De steun van Adobe kan niet met technische kwesties helpen die tijdens het examen voorkomen.
+[!DNL Examity] heeft ondersteuning beschikbaar via chat, e-mail en telefoon. De steun van de Adobe kan niet met technische kwesties helpen die tijdens het examen voorkomen.
 
-[!DNL Examity] Ondersteuning - `adobepartnersupport@examity.com`
-
-PSI-ondersteuning - `psisupport@psionline.com`
+[!DNL Examity] Ondersteuning: `adobepartnersupport@examity.com`
 
 De snelste hulpbron is via hun chat. Alle testkandidaten moeten ervoor zorgen dat hun computer de juiste systeemvereisten heeft alvorens hun examen te nemen.
 
-Zie voor meer informatie: PSI, en [!DNL Examity] pagina&#39;s voor het beheren van examens en technische opstelling.
+Zie voor meer informatie de [!DNL Examity] pagina voor het beheren van examens en technische opstelling.
 
 +++
 
@@ -67,9 +65,9 @@ Voor vragen over examenregistratie, examenbetalingen, testlevering, testcentra, 
 
 +++
 
-+++Kan Adobe kandidaten met speciale vereisten tegemoet komen?
++++Kan de Adobe kandidaten met speciale vereisten tegemoet komen?
 
-Adobe kan aan bepaalde bijzondere vereisten voldoen. Neem contact op met `certif@adobe.com` met uw verzoek.
+Adobe kan aan bepaalde bijzondere eisen voldoen. Neem contact op met `certif@adobe.com` met uw verzoek.
 
 **Uw verzoek moet 2 weken vóór uw examenprogramma worden verzonden.**
 
@@ -77,33 +75,33 @@ Adobe kan aan bepaalde bijzondere vereisten voldoen. Neem contact op met `certif
 
 +++Wanneer kan ik opnieuw proberen het certificatieexamen als ik ontken?
 
-Om uw Adobe Certified-status te verkrijgen of te behouden, moet u slagen voor het meest recente certificeringsexamen door het opnieuw in te voeren. U wordt aangeraden voldoende tijd in te ruimen voor eventuele nieuwe taken voordat de certificering verloopt.
+Om uw Adobe Verklaarde status te verkrijgen of te behouden, zult u het meest recente certificatieexamen moeten overgaan door het opnieuw te nemen. U wordt aangeraden voldoende tijd in te ruimen voor eventuele nieuwe taken voordat de certificering verloopt.
 
-Voor kandidaten die bij hun eerste poging het examen van de Adobe certificatie ontbreken, moeten zij minstens 24 uur wachten alvorens het opnieuw te proberen. Als zij op de tweede of om het even welke verdere poging ontbreken, wordt een wachttijd van 14 kalenderdagen vereist alvorens zij het examen kunnen hernemen. Elke poging brengt een afzonderlijk examenkosten in rekening.
+Voor kandidaten die bij hun eerste poging het certificatieexamen van de Adobe nalaten, moeten zij minstens 24 uur wachten alvorens het opnieuw te proberen. Als zij op de tweede of om het even welke verdere poging ontbreken, wordt een wachttijd van 14 kalenderdagen vereist alvorens zij het examen kunnen hernemen. Elke poging brengt een afzonderlijk examenkosten in rekening.
 
 +++
 
 +++Hoe kan ik een kopie van mijn score-rapport krijgen?
 
-* Stap 1: Aanmelden bij de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Meld u aan met uw id of e-mailadres en wachtwoord.
-* Stap 2: Klik op Transcripties.
+* Stap 1: Log in bij de [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Meld u aan met uw id of e-mailadres en wachtwoord.
+* Stap 2: klik op Transcripties.
 * Stap 3: De rol door uw transcripthistorie en selecteert het rapport u zou willen bekijken. Het rapport kan naar u worden gemaild of op het scherm worden weergegeven.
 
 +++
 
 +++Hoe volg ik mijn certificeringsstatus?
 
-U kunt uw certificeringsstatus volgen door naar [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe/){target="_blank"} onder het tabblad certificaties.
+U kunt uw certificeringsstatus volgen door naar [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"} onder het tabblad certificaties.
 
 +++
 
-+++Wat krijg ik nadat ik het certificatieexamen heb goedgekeurd?
++++Wat krijg ik nadat ik het certificatieexamen heb overgegaan?
 
 Nadat u uw onderzoek voltooit, zullen uw resultaten onmiddellijk op het scherm worden getoond. Binnen 72 uur ontvangt u een e-mailbevestiging van uw score van CertMetrics, met een PDF van uw certificaat. U hebt toegang tot logo&#39;s van uw CertMetrics-account die uw certificeringsstatus aangeven en die u kunt gebruiken op uw website, e-mail, handtekening, visitekaartje, sociale profielen enzovoort.
 
 +++
 
-+++Hoe kan ik me aanmelden bij of een Adobe Credential Management/Certmetrics account maken?
++++Hoe kan ik me aanmelden bij of een Adobe maken van een Credential Management/Certmetrics account?
 
 U kunt [hier aanmelden bij of een account maken](https://www.certmetrics.com/adobe/){target="_blank"}. Daar bekijkt u de beschikbare examens, uw examengeschiedenis, certificatievervaldata, en om het even welke voordelen, zoals kortingen, beschikbaar aan u.
 
@@ -111,21 +109,19 @@ U kunt [hier aanmelden bij of een account maken](https://www.certmetrics.com/ado
 
 +++Hoe lang duren certificeringen?
 
-Omdat we ervoor moeten zorgen dat onze Adobe gecertificeerde individuen up-to-date zijn met nieuwe toepassingsfuncties en -mogelijkheden, zijn Adobe-certificaten **twee jaar geldig**.
+Omdat we ervoor moeten zorgen dat onze Adobe gecertificeerde individuen up-to-date zijn met nieuwe toepassingsfuncties en -mogelijkheden, zijn Adobe-certificeringen **geldig gedurende twee jaar**.
 
 +++
 
 +++Zijn de examens beschikbaar in andere talen dan het Engels?
 
-{{PSI-note}}
-
-Er zijn enkele voorbeelden beschikbaar in het Japans via PSI (een van onze leveranciers). Als het examen in Japans beschikbaar is zal het in de examendetails voor dat examen worden genoteerd. De examendetails worden gevonden op het lusje van &quot;krijgen klaar&quot;van de certificeringshavens pagina&#39;s.
+Sommige voorbeelden zijn beschikbaar in het Japans. Als het examen in Japans beschikbaar is, zal het in de examendetails voor dat examen worden genoteerd. De examendetails worden gevonden op het lusje van &quot;krijgen klaar&quot;van de certificeringshavens pagina&#39;s.
 
 +++
 
-+++Biedt u certificeringen aan bij Adobe-gebeurtenissen?
++++Biedt u certificaties aan bij Adobe-gebeurtenissen?
 
-Certificeringen worden aangeboden bij bepaalde gebeurtenissen die door Adobe worden gesponsord.
+Certificeringen worden aangeboden bij bepaalde gebeurtenissen die door de Adobe worden gesponsord.
 
 +++
 
@@ -139,7 +135,7 @@ Niet direct, nee. Maar omdat certificering nu elke twee jaar moet worden vernieu
 
 +++Wat is certificatievernieuwing? Hoe kan ik mijn certificering vernieuwen?
 
-Adobe-certificeringen verlopen na twee jaar. U kunt uw certificatie vernieuwen door de nieuwste versie van het toepasselijke Adobe certificatieexamen over te nemen en door te geven.
+Certificeringen van Adoben verlopen na twee jaar. U kunt uw certificering vernieuwen door de nieuwste versie van het toepasselijke certificeringsexamen voor Adobe in te voeren en door te geven.
 
 U hebt twee opties:
 
@@ -170,7 +166,7 @@ Ga voor meer informatie over het vernieuwen van uw certificering naar [hier](htt
 
 +++Waar kan ik mijn certificatievervaldatum zien? Zal ik een bericht krijgen?
 
-Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe/){target="_blank"}. Daar kunt u zien wanneer u uw referentie hebt bereikt en wanneer het zal verlopen. Controleer ook uw profiel en bevestig dat uw contactpersoon, secundaire e-mail en taakgegevens correct zijn.
+Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}. Daar kunt u zien wanneer u uw referentie hebt bereikt en wanneer het zal verlopen. Controleer ook uw profiel en bevestig dat uw contactpersoon, secundaire e-mail en taakgegevens correct zijn.
 
 Een maand voordat uw certificering verloopt, ontvangt u een e-mailbericht. Maar als je taken hebt gewijzigd en je e-mail niet hebt bijgewerkt, wordt je mogelijk niet op de hoogte gesteld. Voeg een secundaire e-mail (zoals Gmail, Hotmail, Yahoo, enzovoort) toe aan uw CertMetrics-account, zodat u een herinnering voor het verlopen van de certificering ontvangt, zelfs als u van bedrijf verandert.
 
@@ -178,7 +174,7 @@ Een maand voordat uw certificering verloopt, ontvangt u een e-mailbericht. Maar 
 
 +++Welk examen moet ik voor mijn vernieuwing nemen?
 
-Meld u aan bij de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe/){target="_blank"} Klik in uw Adobe ID op Certifications en selecteer de certificaatnaam. Het vernieuwingsexamen is vermeld onder **verplichting om actueel te blijven**.
+Meld u aan bij de [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"} Klik in uw Adobe ID op Certifications en selecteer de certificaatnaam. Het vernieuwingsexamen is vermeld onder **verplichting om actueel te blijven**.
 
 +++
 
@@ -196,15 +192,15 @@ Nr, is het niet mogelijk om het zelfde examen voor vernieuwing opnieuw te nemen 
 
 >[!TAB Hernieuwingen via voortdurend leren]
 
-+++Wat is het programma voor verlenging van de Adobe via voortdurend leren?
++++Wat is het programma van de Adobe van de certificatievernieuwing via voortdurend leren?
 
-Adobe biedt voortdurend onderwijs- en serviceactiviteiten aan, zodat kandidaten actief kunnen blijven en hun certificeringsstatus met nog eens twee jaar kunnen verlengen. Dit wordt alleen aangeboden voor bepaalde toepassingen.
+Adobe biedt permanente educatie- en betrokkenheidsactiviteiten zodat kandidaten actief kunnen blijven en hun certificeringsstatus met nog eens twee jaar kunnen verlengen. Dit wordt alleen aangeboden voor bepaalde toepassingen.
 
 +++
 
-+++Mijn certificering is al verlopen. kan ik de permanente educatie- en betrokkenheid-activiteiten voor vernieuwing voortzetten?
++++Mijn certificering is al verlopen. Kan ik de permanente educatie- en betrokkenheidsactiviteiten voortzetten voor vernieuwing?
 
-Nr, is de vernieuwingsoptie slechts voor Adobe actief verklaarde Analytics, Experience Manager, en de kandidaten van het Doel.
+Nee, deze verlengingsoptie is alleen bedoeld voor door de Adobe actief gecertificeerde Analytics, Experience Manager, Commerce en Target kandidaten.
 
 +++
 
@@ -222,7 +218,7 @@ De kandidaten zullen 5 tot 7 cursussen op aanvraag worden aangeboden om te beoor
 
 +++Wat is een vorm van de klantenverwijzing in de context van certificatievernieuwingen?
 
-Een formulier dat een kandidaat kan indienen als onderdeel van zijn permanente educatie- en betrokkenheidsactiviteiten voor verlenging van zijn certificatie. Het formulier moet worden ondertekend door een klant, die verklaart dat de kandidaat in de laatste twaalf maanden ten minste 100 uur heeft doorgebracht aan een project dat betrekking heeft op het product waarvoor hij zijn certificering vernieuwt. Door deze optie op te nemen als onderdeel van de vereisten voor certificaatvernieuwing, willen we uw voortdurende betrokkenheid erkennen als een manier om uw vaardigheden en kennis te valideren zodat uw certificering actief blijft.
+Een formulier dat een kandidaat kan indienen in het kader van de permanente leer- en aanstellingsactiviteiten van de Adobe voor de verlenging van zijn certificering. Het formulier moet worden ondertekend door een klant, die verklaart dat de kandidaat in de laatste twaalf maanden ten minste 100 uur heeft doorgebracht aan een project dat betrekking heeft op het product waarvoor hij zijn certificering vernieuwt. Door deze optie op te nemen als onderdeel van de vereisten voor certificaatvernieuwing, willen we uw voortdurende betrokkenheid erkennen als een manier om uw vaardigheden en kennis te valideren zodat uw certificering actief blijft.
 
 +++
 
@@ -240,7 +236,7 @@ Nee, het verzenden van een klantverwijzingsformulier is optioneel en een van de 
 
 +++I houdt drie certificeringen in één oplossing. Moet ik de vereisten voor elke certificatie voltooien?
 
-Nee, u hoeft alleen de vereisten voor de oplossing te voltooien. Uw certificatie(s) worden vernieuwd nadat u de vereiste activiteiten hebt voltooid en de resultaten hebt ingediend bij de Adobe Credential Manager. Als u bijvoorbeeld meerdere certificaten in [!DNL Adobe Analytics] als een Bedrijfs Praktijk, Ontwikkelaar, en een Architect, moet u slechts drie activiteiten voltooien om aan vernieuwingsvereisten voor alle certificatie te voldoen om worden vernieuwd.
+Nee, u hoeft alleen de vereisten voor de oplossing te voltooien. Uw certificatie(s) worden vernieuwd nadat u de vereiste activiteiten hebt voltooid en de resultaten bij de Adobe Credential Manager hebt ingediend. Als u bijvoorbeeld meerdere certificaten in [!DNL Adobe Analytics] als een Bedrijfs Praktijk, Ontwikkelaar, en een Architect, moet u slechts drie activiteiten voltooien om aan vernieuwingsvereisten voor alle certificatie te voldoen om te worden vernieuwd.
 
 +++
 
@@ -256,7 +252,7 @@ De beoordelingen zijn gebaseerd op de cursussen in Experience League en de beoor
 
 +++Wat is het Programma van het Begin van de Certificatie van de Adobe?
 
-Het programma voor het opnieuw starten van Adobe-certificatie is een eenmalig initiatief dat individuen in staat stelt hun verlopen Adobe-certificeringen opnieuw te halen door gratis online korte examens of beoordelingen door te geven.
+Het Adobe Certification Restart Program is een eenmalig initiatief dat individuen in staat stelt hun verlopen certificeringen van de Adobe opnieuw te bereiken door online korte examens of beoordelingen gratis door te geven.
 
 +++
 
@@ -266,7 +262,7 @@ Het programma heeft een looptijd van zes maanden, van 24 april tot 20 oktober 20
 
 +++
 
-+++Zal Adobe dit type programma in de toekomst opnieuw aanbieden?
++++Zal de Adobe dit soort programma in de toekomst opnieuw aanbieden?
 
 Op dit moment zijn we niet van plan dit opnieuw aan te bieden. Dit is slechts een eenmalige aanbieding.
 
@@ -274,13 +270,13 @@ Op dit moment zijn we niet van plan dit opnieuw aan te bieden. Dit is slechts ee
 
 +++Welke certificatieniveaus zijn inbegrepen in het Programma van het Begin?
 
-Alleen certificeringen op het niveau Expert en Master worden opgenomen in het programma Start. Certificeringen op het niveau van het hoger onderwijs hebben vanaf juni 2023 een vernieuwingspad.
+Alleen certificeringen op het niveau Expert en Master worden opgenomen in het Start-programma. Certificeringen op het niveau van het hoger onderwijs hebben vanaf juni 2023 een vernieuwingspad.
 
 +++
 
 **Subsidiabiliteit programma**
 
-+++Who komt in aanmerking voor het Programma van het Begin van de Certificatie van de Adobe?
++++Wie komt in aanmerking voor het programma voor het opnieuw starten van Adoben?
 
 Personen van wie de certificeringen van 2020 tot en met 23 april 2023 zijn verlopen, komen in aanmerking voor het Start-programma, op voorwaarde dat de gewenste certificering in het programma is opgenomen (zie de onderstaande lijst voor kwalificatievoorbeelden).
 
@@ -299,7 +295,7 @@ Omdat het individuen toestaat die niet aan de VRIJE certificatiehernieuwing kond
 
 +++Welke certificatie maakt deel uit van het Programma van het Begin van de Certificatie van de Adobe?
 
-Alle actieve Adobe-certificeringen, met uitzondering van die welke met pensioen zijn gegaan, maken deel uit van het programma.
+Alle certificeringen voor actieve Adoben, behalve die welke met pensioen zijn gegaan, maken deel uit van het programma.
 
 +++
 
@@ -309,8 +305,8 @@ Alle actieve Adobe-certificeringen, met uitzondering van die welke met pensioen 
 
 | Examen-id | Naam van examen |
 | ------- | ------- |
-| AD0-E121 | [!DNL Adobe Experience Manager Sites] Expert aan de praktijk |
-| AD0-E102 | [!DNL Adobe Experience Manager Sites] Expert aan de praktijk |
+| AD0-E121 | [!DNL Adobe Experience Manager Sites] Expert aan de praktijk van bedrijven |
+| AD0-E102 | [!DNL Adobe Experience Manager Sites] Expert aan de praktijk van bedrijven |
 | AD0-E103 | [!DNL Adobe Experience Manager Sites] Ontwikkelaarsexpert |
 | AD0-E116 | [!DNL Adobe Experience Manager Sites] Ontwikkelaarsexpert |
 | AD0-E106 | [!DNL Adobe Experience Manager] Technicus-expert Dev/OPS |
@@ -322,7 +318,7 @@ Alle actieve Adobe-certificeringen, met uitzondering van die welke met pensioen 
 | Examen-id | Naam van examen |
 | ------- | ------- |
 | AD0-E201 | [!DNL Adobe Analytics] Ontwikkelaarsexpert |
-| AD0-E202 | [!DNL Adobe Analytics] Expert aan de praktijk |
+| AD0-E202 | [!DNL Adobe Analytics] Expert aan de praktijk van bedrijven |
 | AD0-E200 | [!DNL Adobe Analytics] Architect Master |
 | AD0-E207 | [!DNL Adobe Analytics] Architect Master |
 
@@ -332,7 +328,7 @@ Alle actieve Adobe-certificeringen, met uitzondering van die welke met pensioen 
 | ------- | ------- |
 | AD0-E454 | [!DNL Adobe Audience Manager] Architect Master |
 | AD0-E452 | [!DNL Adobe Audience Manager] Architect Master |
-| AD0-E453 | [!DNL Adobe Audience Manager] Expert aan de praktijk |
+| AD0-E453 | [!DNL Adobe Audience Manager] Expert aan de praktijk van bedrijven |
 
 **Adobe Campaign Classic**
 
@@ -349,8 +345,8 @@ Alle actieve Adobe-certificeringen, met uitzondering van die welke met pensioen 
 
 | Examen-id | Naam van examen |
 | ------- | ------- |
-| AD0-E307 | Adobe [!DNL Campaign Standard] Expert aan de praktijk |
-| AD0-E302 | Adobe [!DNL Campaign Standard] Expert aan de praktijk |
+| AD0-E307 | Adobe [!DNL Campaign Standard] Expert aan de praktijk van bedrijven |
+| AD0-E302 | Adobe [!DNL Campaign Standard] Expert aan de praktijk van bedrijven |
 | AD0-E306 | Adobe [!DNL Campaign Standard] Ontwikkelaarsexpert |
 | AD0-E301 | Adobe [!DNL Campaign Standard] Ontwikkelaarsexpert |
 
@@ -364,7 +360,7 @@ Alle actieve Adobe-certificeringen, met uitzondering van die welke met pensioen 
 
 | Examen-id | Naam van examen |
 | ------- | ------- |
-| AD0-E401 | [!DNL Adobe Target] Expert aan de praktijk |
+| AD0-E401 | [!DNL Adobe Target] Expert aan de praktijk van bedrijven |
 | AD0-E402 | [!DNL Adobe Target] Architect Master |
 
 +++
@@ -387,17 +383,17 @@ Eindvoorwaarde is dat de nieuwe [!DNL Marketo Engage] Architect-examen. Voor all
 
 +++
 
-+++Waarom zijn Adobe [!DNL Commerce] Certificeringen die geen deel uitmaken van het Adobe Certification Restart Program?
++++Waarom zijn Adoben [!DNL Commerce] Certificeringen die geen deel uitmaken van het programma voor het opnieuw starten van Adoben?
 
-Er zijn geen verlopen certificaathouders voor momenteel aangeboden Adobe [!DNL Commerce] Certificeringen vanaf 23 april 2023. Daarom alle actieve Adobe [!DNL Commerce] Gecertificeerde kandidaten hebben de mogelijkheid om te vernieuwen door voortdurend leren [vernieuwingspad voor certificering](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-renew.html){target="_blank"}.
+Er zijn geen verlopen certificaathouders voor de momenteel aangeboden Adobe [!DNL Commerce] Certificeringen vanaf 23 april 2023. Daarom alle actieve Adobe [!DNL Commerce] Gecertificeerde kandidaten hebben de mogelijkheid om te vernieuwen door voortdurend leren [vernieuwingspad voor certificering](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-renew.html){target="_blank"}.
 
 +++
 
-**Profiel van Adobe Credential Manager**
+**Profiel Adobe van credentiebeheer**
 
-+++Waarom zie ik _Deelname_ onder de geschiedenissectie van mijn Profiel in de Manager van de Adobe Referentie?
++++Waarom zie ik _Deelname_ onder de geschiedenissectie van mijn Profiel in de Manager van de Referentie van de Adobe?
 
-Hiermee wordt aangegeven dat u in aanmerking komt voor het programma Adobe-certificatie opnieuw starten. Kandidaten aan wie deze deelname is toegekend, kunnen in elke toepassing de vereisten voltooien om de verlopen certificering opnieuw te starten.
+Hiermee wordt aangegeven dat u in aanmerking komt voor het programma voor het opnieuw starten van Adoben. Kandidaten aan wie deze deelname is toegewezen, kunnen in elke toepassing de vereisten voltooien om de verlopen certificering opnieuw te starten.
 
 +++
 

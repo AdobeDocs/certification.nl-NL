@@ -1,7 +1,7 @@
 ---
-source-git-commit: 6c78640fc33f8e0d0aa7057265844b810a403d13
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -9,7 +9,7 @@ ht-degree: 0%
 
 ## Een praktijktest uitvoeren {#practice-test}
 
-We raden u aan de test voor vrije praktijk uit te voeren voordat u begint. U zult onbeperkte toegang tot alle beschikbare praktijktests voor Adobe-vlakke examens hebben.
+We raden u aan de test voor vrije praktijk uit te voeren voordat u begint. U zult onbeperkte toegang tot alle beschikbare praktijktests voor deskundige-vlakke onderzoeken van de Adobe hebben.
 
 Onze praktijktests worden allemaal ontwikkeld op basis van dezelfde blauwdruk als de live examens. De praktijktest zal u helpen de onderwerpen begrijpen die in het levende examen worden behandeld.
 
@@ -19,16 +19,13 @@ Ga naar de [Prep Portal voor Adobe-certificatieexamen](https://www.certmetrics.c
 
 ## Ongeveer het certificatieexamen {#about-certification-exam}
 
-Adobe gebruikt twee verkopers om geprocoreerde examens, PSI en te beheren [!DNL Examity].
+De Adobe gebruikt Onderzoek om geproctorde examens online te beheren. In het portaal van het Onderzoek, kunt u:
 
-* **PSI** biedt testcentrum en Japanse examenopties (indien beschikbaar) aan
-* **[!DNL Examity]** biedt een externe online optie aan
+* **Plan, herprogrammeer of annuleer uw examen.** Gelieve te merken op dat het annuleren en het opnieuw plannen vóór 48 uur vóór de geplande examenbenoeming moeten in werking worden gesteld. De kandidaten moeten deze benoeming zelf wijzigen.
 
-Om uw examen te plannen, opnieuw te plannen of te annuleren, eenvoudig de verkoper van keus te selecteren, en de instructies te volgen die op het scherm worden verstrekt. Zo eenvoudig is het!
+* **Betaal voor uw examen.** Betaal voor uw certificatieexamen of door bon of creditcard in het portaal van het Onderzoek. Ga naar: [Adobe Certification Voucher System](https://market.xvoucher.com/adobe/global){target="_blank"}. U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, wordt deze toegepast bij afhandeling.
 
-De annuleringen en het opnieuw plannen zijn mogelijk als in werking gesteld voorafgaand aan 48 uren vóór de geplande examenbenoeming. De kandidaten moeten deze benoeming zelf wijzigen.
-
-Betaal voor uw certificatieexamen of door bon of creditcard. Ga naar: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, wordt deze toegepast bij afhandeling.
+* **Neem uw examen.**
 
 ## PSI-notitie {#PSI-note}
 

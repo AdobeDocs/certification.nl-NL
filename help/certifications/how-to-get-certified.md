@@ -1,43 +1,34 @@
 ---
-title: Gecertificeerd worden op Adobe
-description: Leer hoe je gecertificeerd kunt worden bij Adobe. Zoek alle bronnen die u nodig hebt voor, tijdens en nadat u gecertificeerd bent.
+title: Gecertificeerd worden bij Adobe
+description: Leer hoe u gecertificeerd kunt worden tijdens de Adobe. Zoek alle bronnen die u nodig hebt voor, tijdens en nadat u gecertificeerd bent.
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '1462'
+source-wordcount: '1414'
 ht-degree: 1%
 
 ---
 
 # Hoe wordt gecertificeerd?{#how}
 
-Leer hoe je gecertificeerd kunt worden bij Adobe. Zoek alle bronnen die u nodig hebt voor, tijdens en nadat u gecertificeerd bent.
+Leer hoe u gecertificeerd kunt worden tijdens de Adobe. Zoek alle bronnen die u nodig hebt voor, tijdens en nadat u gecertificeerd bent.
 
 >[!BEGINTABS]
 
 >[!TAB Registratie]
 
-Adobe gebruikt twee verkopers om geproctored examens te beheren: [!DNL PSI] en [!DNL Examity].
-
-{{PSI-note}}
-
-* **[!DNL PSI]:** biedt testcentrum en Japanse examenopties (indien beschikbaar) aan
-* **[!DNL Examity]:** biedt een externe online optie aan
+De Adobe gebruikt Onderzoek om geproctorde examens online te beheren.
 
 **Voer de volgende stappen uit om u te registreren voor uw certificeringsexamen:**
 
-* **Stap 1:** Aanmelden bij de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+* **Stap 1:** Aanmelden bij de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 * **Stap 2:** Ga terug naar deze site en klik op Technische certificeringen.
-* **Stap 3:** Kies uw Adobe oplossing, certificatieniveau en rol
+* **Stap 3:** Kies uw Adobe toepassing, certificatieniveau en rol
 * **Stap 4:** Voer de stappen uit die in het kader van de **Gecertificeerd ophalen** sectie.
 
 **Bronnen**
-
-**PSI:**
-
-* [Hoe te om voor een Examen bij een het Testen Centrum te registreren](https://express.adobe.com/page/C8QDu4upy4gF3/){target="_blank"}
 
 Voorbeeld:
 
@@ -46,27 +37,27 @@ Voorbeeld:
 
 >[!TAB Uw examen nemen]
 
-Uw [profiel](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} De naam in het Adobe Credential Management System moet exact overeenkomen met uw Regering-id. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.
+Uw [profiel](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} De naam in het Credential Management System van de Adobe moet exact overeenkomen met uw Regering ID. Als er geen identieke of onjuiste informatie beschikbaar is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.
 
 De annuleringen en het opnieuw plannen zijn mogelijk als in werking gesteld voorafgaand aan 48 uren vóór de geplande examenbenoeming. De kandidaten moeten deze benoeming zelf wijzigen.
 
-Geen van de leveranciers van de Steun van Adobe of van het examen kan herplannings en annuleringsverzoeken verwerken. Voor annuleringen onder de 48 uur geldt naast de examenkosten een herplanningsvergoeding.
+Geen van beide Adobe-ondersteuning of examen kan herplannings- en annuleringsverzoeken verwerken. Voor annuleringen onder de 48 uur geldt naast de examenkosten een herplanningsvergoeding.
 
 Zodra u een examen voltooit, ontvangt u een voorlopige pas of ontbreekt. De laatste score kan tot 72 uur duren om te vullen. U vindt het resultaat en de score op het tabblad Historie in het dialoogvenster [Adobe Credential Manager](https://www.certmetrics.com/adobe){target="_blank"}.
 
 Als u er niet in slaagt om een Adobe certificatieexamen op uw eerste poging over te gaan, moet u minstens 24 uur wachten alvorens het examen opnieuw te nemen. Het nalaten om een examen op de tweede of om het even welke verdere poging over te gaan vereist een wachtperiode van 14 kalenderdagen alvorens het examen opnieuw te nemen. Elke poging zal een afzonderlijke examenprijs aantrekken.
 
->[!TAB Kosten voor opslag]
+>[!TAB Kosten voor Exams]
 
 Dit zijn de huidige kosten voor certificeringsexamens.
 
-![Badge Examkosten](/help/certifications/assets/exam_costs_new.png)
+![Badge Examingkosten](/help/certifications/assets/exam_costs_new.png)
 
 U kunt voor uw certificatieexamen door bon of creditcard betalen. Ga naar: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-U kunt de vouchercode toepassen wanneer u uw examen plant. Als u een korting hebt, wordt deze toegepast bij afhandeling.
+U kunt de vouchercode toepassen wanneer u uw examen plant. Als u een korting hebt, wordt deze toegepast bij het afrekenen.
 
-**Partnerkortingen**
+**Kortingen voor partners**
 
 Bronze en hierboven krijgen kortingen op alle Adobe certificatieexamens en klassen. U kunt meer over deze korting lezen en hoe te om tot partnervoordelen op toegang te hebben [Partner Portal voor oplossingen](https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/certification/certification_exam_registration_and_management.html?nav=cost){target="_blank"}.
 
@@ -76,7 +67,7 @@ Bovendien kunnen alle gegadigden een korting krijgen op bulkaankopen van 10 of m
 
 **Bulkdisconteringsniveaus**
 
-Opmerking: Bulkkortingen kunnen niet worden gecombineerd met andere aanbiedingen of kortingen.
+Opmerking: Bulkkortingen kunnen niet worden gecombineerd met een andere aanbieding of korting.
 
 | Aantal | % korting |
 | ------- | ------- |
@@ -86,24 +77,21 @@ Opmerking: Bulkkortingen kunnen niet worden gecombineerd met andere aanbiedingen
 
 >[!TAB Verkopers van certificaten]
 
-Het team van de Adobe Credentials partners met verkopers helpen de initiatieven en de doelstellingen van het programma steunen.  Hier zijn de verkopers en hun contactinformatie:
-
-{{PSI-note}}
+De partners van het team van de Credentials van de Adobe met verkopers helpen de initiatieven en de doelstellingen van het programma steunen.  Hier zijn de verkopers en hun contactinformatie:
 
 | Naam leverancier | Beschrijving | Ondersteuningspagina/e-mail |
 | ------- | ------- | ------- |
 | Credly | Badge Management System | [Ondersteuning](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
-| examen | Leverancier testen (alleen online verwerking) | [E-mail](mailto:support@examity.com){target="_blank"} of 855-examen (855-392-6489) |
-| PSI | Leverancier testen voor Verwerkte examens op een locatie of in het Japans | [E-mail](mailto:adobe.psisupport@psionline.com){target="_blank"} |
+| Exemplaar | Leverancier testen (alleen online verwerking) | [E-mail](mailto:support@examity.com){target="_blank"} of 855-examen (855-392-6489) |
 | Xvoucher - Adobe Certification Voucher Center | Vouchercentrum voor de aanschaf van individuele vouchers of vouchers in bulk | [E-mail](mailto:support@xvoucher.com){target="_blank"} of [Online Help](https://help.xvoucher.com/hc/en-us) |
 
 Andere bronnen van leveranciers:
 
-**examen**
+**Exemplaar**
 
 * [Handleiding voor online testprocedures](https://www.examity.com/online-proctoring-troubleshooting-guide-for-test-takers-v4/){target="_blank"}
 * [Veelgestelde vragen](https://www.examity.com/faq/test-takers/){target="_blank"}
-* [Voorschriften voor het systeem van testbanken](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
+* [Voorschriften voor het systeem van de testbank](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!NOTE]
 >
@@ -114,10 +102,10 @@ Nuttige video&#39;s:
 * [Eerste testtakker](https://vimeo.com/394506654){target="_blank"}
 * [Hoe te om uw testbenoeming te plannen](https://vimeo.com/394506786){target="_blank"}
 * [Hoe te om uw testbenoeming te herschikken](https://vimeo.com/394507149){target="_blank"}
-* [Hoe te om uw testbenoeming te annuleren](https://vimeo.com/394507135){target="_blank"}
+* [Hoe u uw testafspraak annuleert](https://vimeo.com/394507135){target="_blank"}
 * [Hoe laat u online testen](https://vimeo.com/394506686){target="_blank"}
 
-Adobe Certification Voucher Center (Xvoucher) - Veelgestelde vragen
+Veelgestelde vragen over Adobe Certification Voucher Center (Xvoucher)
 
 +++Wanneer verlopen de examenvouchers? Hoe lang zijn ze goed voor?
 
@@ -127,9 +115,9 @@ Adobe examenvouchers verlopen twaalf maanden na aankoop. Vouchers kunnen na de
 
 +++Kunnen vouchers worden geretourneerd voor creditering of terugbetaling?
 
-_Alle verkopen zijn definitief._ Retourzendingen en terugbetalingen worden niet geaccepteerd. De Adobe examenvouchers worden gekocht op een examenniveau, niet voor specifieke examens, en dat verstrekt flexibiliteit.
+_Alle verkopen zijn definitief._ Retourzendingen en terugbetalingen worden niet geaccepteerd. Adobe examenvouchers worden gekocht op een examenniveau, niet voor specifieke examens, en dat verstrekt flexibiliteit.
 
-* Voorbeeld: Wanneer u 10 examenbonnen op Adobe Certified Expert-niveau koopt, en hen verspreidt, moet u niet van tevoren weten wie welk Expert examen zal nemen.
+* Voorbeeld: Wanneer u 10 examenvouchers op Adobe Certified Expert-niveau koopt en deze verspreidt, hoeft u niet vooraf te weten wie welk Expert-examen zal afleggen.
 * Beheerders kunnen de voucher toewijzen aan een gebruiker en controleren of de voucher is bekeken, is afgelost of wanneer het examen gepland is of heeft plaatsgevonden.
 
 +++
@@ -138,13 +126,13 @@ _Alle verkopen zijn definitief._ Retourzendingen en terugbetalingen worden niet 
 
 De betaling kan worden verricht met (alle belangrijke) creditcards. Betalingen via creditcard vereisen acceptatie van een online overeenkomst met een klik-omslag. De verschillende betalingsopties zijn:
 
-* Draad, inkooporder of ACH: Maak een inkooporder in het Xvoucher-systeem die kan worden afgedrukt en naar de betaalafdeling van je account kan worden verzonden. Deze bestelling wordt goedgekeurd na ontvangst van de overschrijving of cheque.
-* Creditcard: Alle belangrijke creditcards zijn geaccepteerd.
-* Xwallet: Hierdoor wordt het orderbedrag van uw Xwallet-pool afgetrokken.
+* Duur, inkooporder of ACH: Maak een inkooporder in het Xvoucher-systeem die kan worden afgedrukt en naar de te betalen afdeling van uw rekening kan worden verzonden. Deze bestelling wordt goedgekeurd na ontvangst van de overschrijving of cheque.
+* Creditcard: alle creditcards zijn geaccepteerd.
+* Xwallet: hiermee wordt het orderbedrag van uw Xwallet-pool afgetrokken.
 
 +++
 
-+++Is er een minimum of maximum aantal vouchers ik kan kopen?
++++Is er een minimum of maximum aantal vouchers dat ik kan kopen?
 
 Nee, er is geen minimum of maximum. Aankopen door klanten zijn slechts beperkt op basis van beschikbare middelen, zoals een creditcardlimiet of een bankrekeningsaldo voor overschrijvingen.
 
@@ -176,21 +164,21 @@ Nadat u een voucher hebt toegewezen, ontvangt u een e-mail van support@xvoucher.
 
 +++Kunnen vouchers worden geretourneerd voor creditering of terugbetaling?
 
-Alle verkopen zijn definitief. Retourzendingen en terugbetalingen worden niet geaccepteerd. De Vouchers van het Examen van Adobe worden gekocht op een examenniveau, niet voor specifieke examens, die grote flexibiliteit verstrekt.
+Alle verkopen zijn definitief. Retourzendingen en terugbetalingen worden niet geaccepteerd. De Vouchers van het Examen van de Adobe worden gekocht op een examenniveau, niet voor specifieke examens, die grote flexibiliteit verstrekt.
 
 +++
 
 >[!TAB Uw certificeringsprofiel beheren]
 
-De volgende secties en koppelingen werken alleen nadat u zich met succes hebt aangemeld bij het [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+De volgende secties en koppelingen werken alleen nadat u zich met succes hebt aangemeld bij het [Systeem voor het beheer van de Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 | Snelle koppelingen | Beschrijving |
 | ------- | ------- | 
-| Adobe Referentiemanagementsysteem | [Aanvankelijke aanmelding bij Adobe Credential Management](https://www.certmetrics.com/adobe){target="_blank"} |
-| Profiel | [Demografische informatiepagina met locatie van accountnaam, adres, bedrijf, enzovoort. Namen kunnen alleen worden bijgewerkt met een Adobe-beheerder](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
+| Adobe Credential Management System | [Aanvankelijke aanmelding bij Adobe Credential Management](https://www.certmetrics.com/adobe){target="_blank"} |
+| Profiel | [Demografische informatiepagina met locatie van accountnaam, adres, bedrijf, enzovoort. Namen kunnen alleen worden bijgewerkt met Adobe Admin](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
 | Identificatie | [Locatie van Adobe-/aanmeldings-id. Doorgaans begint met ADB](https://www.certmetrics.com/adobe/candidate/identification.aspx){target="_blank"} |
 | Historie | [Muziekscore weergeven en examengeschiedenis](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
-| Certificeringen | [Bekijk al uw huidige en verlopen certificeringen](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
+| Certificeringen | [Alle huidige en verlopen certificaten weergeven](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
 
 >[!TAB Uw badges beheren]
 
@@ -198,16 +186,16 @@ Zodra u uw certificatieexamen hebt overgegaan, zult u een digitale badge van Ado
 
 Uw badge is een tastbaar bewijs van uw ervaring met Adobe Experience Cloud-producten. Door de presentatie weer te geven op uw profielen voor sociale media of door te hervatten, kunt u uw prestaties aan potentiële werkgevers en klanten tonen en uw vaardigheden in deze toepassingen tonen.
 
-**Voor bestaande gebruikers zijn er twee manieren om uw Adobe-certificeringsbadge te accepteren:**
+**Voor bestaande gebruikers zijn er twee manieren om uw Adobe-certificatiebadge te accepteren:**
 
-* **Stap 1:** Aanmelden [Credly](https://www.credly.com/users/sign_in){target="_blank"}. _(Je moet hetzelfde e-mailadres gebruiken dat je hebt gebruikt om je Adobe-referentie te verdienen, of je ziet je badge niet.)_
+* **Stap 1:** Aanmelden [Credly](https://www.credly.com/users/sign_in){target="_blank"}. _(Je moet hetzelfde e-mailadres gebruiken dat je hebt gebruikt om je Adobe te betalen, of je ziet je badge niet.)_
 * **Stap 2:** Of ga naar het e-mailbericht dat je van Credly hebt ontvangen om de badge te accepteren.
 * **Stap 3:** Accepteer en deel uw badge.
 
 **Voor nieuwe gebruikers volgt u de onderstaande instructies om uw Adobe-certificatiebadge te accepteren:**
 
 * **Stap 1:** Ga naar het e-mailbericht dat je van Credly hebt ontvangen om de badge te accepteren.
-* **Stap 2:** Maak een account. _(Je moet hetzelfde e-mailadres gebruiken dat je hebt gebruikt om je Adobe-referentie te verdienen, of je ziet je badge niet.)_
+* **Stap 2:** Maak een account. _(Je moet hetzelfde e-mailadres gebruiken dat je hebt gebruikt om je Adobe te betalen, of je ziet je badge niet.)_
 * **Stap 3:** Accepteer en deel uw badge.
 
 [Meer informatie](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge){target="_blank"}

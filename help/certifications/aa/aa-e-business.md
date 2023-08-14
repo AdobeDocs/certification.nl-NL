@@ -4,19 +4,19 @@ description: Leer hoe u gecertificeerd kunt worden als Adobe Business Practition
 solution: Analytics
 product: Analytics
 role: User
-badge: label="Exam AD0-E208" type="positive"
+badge: label="Examen AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '1019'
+source-wordcount: '995'
 ht-degree: 2%
 
 ---
 
-# Certificeringsreis voor [!DNL Adobe Analytics] Expert aan de praktijk
+# Certificeringsreis voor [!DNL Adobe Analytics] Expert aan de praktijk van bedrijven
 
-Leer hoe u een gecertificeerde expert op het gebied van Analytics Business Practitioner wordt.
+Leer hoe u een gecertificeerde expert op het gebied van Analytics Business Practitioner kunt worden.
 
 ## Minimale ervaring
 
@@ -32,19 +32,19 @@ U zou moeten hebben:
 * Begrijpen hoe de technologie werkt en de implementatie van een client begrijpt (bijvoorbeeld waar de gegevens zich bevinden, hoe ze kunnen worden verzameld, hoe ze worden bijgehouden) vanuit een functioneel oogpunt
 * Ten minste één jaar [!DNL Adobe Analytics] praktijkervaring
 * Basiskennis van de manier waarop digitale analyses gegevens filteren/structureren
-* Een bewustzijn van de integratie van [!DNL Adobe Analytics] met andere Adobe-oplossingen
+* Een bewustzijn van de integratie van [!DNL Adobe Analytics] met andere oplossingen voor Adobe
 
 ### Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 
 * FTP-client
 * Huidig [!DNL Adobe Analytics] Werkruimtemogelijkheden en andere rapportopties buiten Workspace (bijv. geplande projecten en planningsrapporten)
-* Foutopsporingsgereedschappen die relevant zijn voor [!DNL Adobe Analytics] (De monitor van het pakket zoals Adobe Debugger, browser ontwikkelaarshulpmiddelen, Charles)
+* Foutopsporingsgereedschappen die relevant zijn voor [!DNL Adobe Analytics] (De monitor van het pakket zoals een Adobe Debugger, browser ontwikkelaarshulpmiddelen, Karel)
 * Admin Console (Analytics Reports Suite Admin Console en Experience Cloud Admin Console)
-* Adobe Grondbeginselen/grondbeginselen van de Lancering
+* Grondbeginselen/basisbeginselen van Adobe starten
 * Apps, SPA, basiskennis van websites
 * Gebruikersinterface voor mobiele services
 * Adobe Help Center
-* Exportopties voor gegevens (bijv. klik met de rechtermuisknop om te exporteren, .csv-download, Gegevensfeeds, Data Warehouse-extract)
+* Exportopties voor gegevens (bijvoorbeeld klik met de rechtermuisknop om te exporteren, .csv-download, Gegevensfeeds, Data Warehouse-extract)
 
 >[!NOTE]
 >
@@ -67,7 +67,7 @@ U zou moeten hebben:
 * UI-analisten
 * Conversie-/optimalisatiespecialisten
 
-**Details examen:**
+**Details van examen:**
 
 * **Niveau:** Expert (1-3 jaar ervaring)
 * **Voldoende score:** 05-31-50
@@ -83,10 +83,10 @@ Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/laun
 
 **Doelstellingen en toepassingsgebied van examen**
 
-Sectie 1: Analyses begrijpen in het ecosysteem van Adobe Experience Cloud (10%)
+Deel 1: Analyse in het ecosysteem van Adobe Experience Cloud (10%)
 
-* Toon kennis over het gebruik van de Adobe Experience Cloud-id
-* Toon begrip van de Lancering van Adobe aan
+* Toon kennis van het gebruik van Adobe Experience Cloud ID aan
+* Toon inzicht in het lanceren van Adobe
 * Toon inzicht in gemeenschappelijke integratie in het ecosysteem van Adobe Experience Cloud
 
 Sectie 2: Rapportage en dashboarding voor projecten (30%)
@@ -101,7 +101,7 @@ Sectie 2: Rapportage en dashboarding voor projecten (30%)
 * Gezien een scenario, bepaal het aangewezen punt aan gebruik
 * Pas het proces toe om mobiele scorecards te creëren, te vormen en te gebruiken
 
-Deel 3: Segmentering en berekende cijfers (22%)
+Sectie 3: Segmentering en berekende cijfers (22%)
 
 * Bepaal hoe u segmenten ontwikkelt en configureert
 * Pas het proces toe om segmenten met anderen in de organisatie te delen
@@ -116,7 +116,7 @@ Sectie 4: Algemene kennis van gereedschappen en probleemoplossing (12%)
 * Bepalen hoe gegevens in- en worden geplaatst [!DNL Adobe Analytics]
 * Informatie van marketing-URL&#39;s identificeren
 
-Sectie 5: Toediening (10%)
+Afdeling 5: Administratie (10%)
 
 * Pas het proces toe om het te vormen [!UICONTROL Marketing Channel] rapporten met [!UICONTROL Marketing Channel] verwerkingsvoorschriften
 * Pas het proces toe om de Indeler van de Indeling en de Bouwer van de Regel te vormen
@@ -145,17 +145,17 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Overzicht van visualisaties](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
 * [Overzicht van intelligente waarschuwingen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html){target="_blank"}
 
-**Deel 3: Segmentering en berekende metrische waarde**
+**Sectie 3: Segmentering en berekende metrische waarde**
 
 * [Analytics-segmentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html){target="_blank"}
-* [Berekende en Geavanceerde berekende (Afgeleide) Metriek](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html){target="_blank"}
+* [Berekende en geavanceerde berekende (afgeleide) cijfers](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html){target="_blank"}
 
 **Sectie 4: Algemene kennis van gereedschappen en probleemoplossing**
 
 * [Handleiding Analytics-tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
 * [Analysis Workspace - Overzicht](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html){target="_blank"}
 
-**Sectie 5: Beheer**
+**Afdeling 5: Administratie**
 
 * [Handleiding Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 * [Veelgestelde vragen](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
@@ -165,39 +165,24 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke of onjuiste informatie beschikbaar is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.
 
 ## Een praktijktest uitvoeren
 
 {{practice-test}}
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E208)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E208
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 
