@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Examen AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 7aa27decdbc3517351894d2b1d6dad383aeaac03
+source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
 workflow-type: tm+mt
-source-wordcount: '1145'
+source-wordcount: '1141'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Analytics] Developer
 U zou moeten hebben:
 
 * 6-12 maanden ervaring in [!DNL Adobe Analytics] implementatie (web- en mobiele app)
-* Ervaring die optreedt als een speler die de teams van de Implementatie van Analytics bij het overbruggen tussen IT en het zaken steunt hoe de bedrijfsvereisten in een technische oplossing (SDR) vertalen, en gebaseerd op vereisten die door de analist worden verstrekt
+* Ervaar ondersteunende teams van de Implementatie van Analytics in het bruggen tussen IT en het zaken om te begrijpen hoe de bedrijfsvereisten in een technische oplossing (SDR) vertalen, en gebaseerd op vereisten die door de analist worden verstrekt
 * Begrijpen welk type variabele nodig is, waar en hoe te om de gegevens te verzamelen, het gegevensmodel (gegevenslaag) te ontwerpen, de oplossing van het markeringsbeheer te vormen en te handhaven
 
 Ervaar de volgende taken:
