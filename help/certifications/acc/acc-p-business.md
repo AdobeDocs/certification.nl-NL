@@ -4,19 +4,19 @@ description: Leer hoe u een gecertificeerde Adobe Business Practice-professional
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
-badge: label="Exam AD0-E329" type="positive"
+badge: label="Examen AD0-E329" type="positive"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1217'
+source-wordcount: '1215'
 ht-degree: 8%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Campaign Classic] Professional
+# Certificeringsreis voor Adobe [!DNL Campaign Classic] Professioneel als bedrijf
 
-Leer hoe u een gecertificeerde Adobe Business Practitioner Professional kunt worden.
+Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Campaign Classic] Zakelijke beroepsbeoefenaar.
 
 ## Minimale ervaring
 
@@ -27,14 +27,14 @@ U zou moeten hebben:
 * Een goed begrip van de toolkit die Adobe Campaign biedt
 * Kennis van de manier waarop bedrijfsdoelstellingen in workflow kunnen worden omgezet
 * Een begrip over het richten van en het segmenteren van een publiek
-* Ervaring met het testen en verzenden van een levering
+* Ervaring met testen en verzenden van levering
 * Handmatige ervaring met kanaaloverschrijdende, gepersonaliseerde workflows en het verzenden van leveringen
 * Ervaring met het analyseren en controleren van logbestanden en fouten
-* Kennis van concepten en tactieken op het gebied van digitale marketing
+* Kennis van concepten en tactieken voor digitale marketing
 * Basisbegripsautomatisering, metriek en campagnetactiek (mogelijkheden rond gegevensbeheer, cloudservices, goedkeuringen, enzovoort)
 * Een goed begrip van de fundamentele relationele databases en van de vraag in een campagne
 * Ervaring met elementaire HTML en personalisatie
-* Abonnementsservicebeheer (opt in/opt out)
+* Abonnementsservicebeheer (opt-in/opt-out)
 
 >[!NOTE]
 >
@@ -54,14 +54,14 @@ U zou moeten hebben:
 * Zakenbeoefenaar
 * CRM-projectmanager
 
-**Details examen:**
+**Details van examen:**
 
-* Niveau: Professioneel (0-12 maanden ervaring)
-* Voldoende score: 05-32-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (cameratoegang vereist)
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 32/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
 * Beschikbare talen: Engels
-* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Kosten: $125 (wereldwijd) / $95 (India)
 * Examen-id: AD0-E329
 
 **Zelfbeoordeling van gereedheid**
@@ -82,14 +82,14 @@ Sectie 1: Een campagne maken (29%)
 * Erkennen waar de leveringsresultaten of uitvoer moeten worden gevonden
 * Verschil tussen verschillende fout- en waarschuwingstypen (levering, campagne en workflowniveau)
 
-Sectie 2: Workflowbeheer en platformmogelijkheden (16%)
+Sectie 2: Workflowbeheer en platformcapaciteiten (16%)
 
 * Op basis van een scenario bepalen welke workflowactiviteiten moeten worden geselecteerd
 * Verschil tussen campagne- en technische workflows
 * Op basis van een scenario bepaalt u welke workflowoplossing optimaal is voor continue, wacht-, terugkerende, abortussituaties
 * De nieuwe mogelijkheden en functies van Campagne V8 identificeren in vergelijking met eerdere versies
 
-Deel 3: Gegevensbewerkingen (20%)
+Sectie 3: Gegevensbewerkingen (20%)
 
 * Bepaal hoe u kolommen binnen een weergave kunt wijzigen om gegevens/uitvoer te testen
 * Beschrijf de doelstellingen van de unitie, de intersection, de uitsluiting, en de spleet werkschema richtend activiteiten
@@ -109,7 +109,7 @@ Sectie 4: Leveringsconfiguratie (28%)
 * Geef aan waar/hoe u de inhoud en personalisatie van de levering wilt testen
 * Verschil tussen de verschillende leveringsstaten die tijdens verwerking voorkomen en acties toepassen
 
-Sectie 5: Beheer en rapportage (7%)
+Sectie 5: Administratie en rapportage (7%)
 
 * Identificeer gemeenschappelijke OOTB- rapporten en waar om tot hen toegang te hebben
 * Bepaal welk OOTB-rapport nodig is op basis van rapportagevereisten
@@ -124,7 +124,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Voorbeeldvragen**
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmelding nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
 
 [Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
 
@@ -163,7 +163,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Aan de slag met personalisatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=nl){target="_blank"}
 * [Marketingcampagnes ontwerpen en uitvoeren](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
 
-**Sectie 5: Beheer en rapportage**
+**Afdeling 5: Beheer en rapportage**
 
 * [Rapporten over leveringen](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
 * [Aan de slag met rapportages](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
@@ -175,25 +175,21 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E329)
-
-### Beschikbare opties
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E329
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E329" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

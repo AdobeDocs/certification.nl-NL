@@ -1,21 +1,21 @@
 ---
 title: Certificering van projectmanager Professional
-description: Leer hoe u een gecertificeerde Adobe Project Manager Professional in Adobe kunt worden [!DNL Workfront].
+description: Leer hoe u een gecertificeerde projectmanager van de Adobe kunt worden in de Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
-badge: label="Exam AD0-E903" type="positive"
+badge: label="Examen AD0-E903" type="positive"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1573'
+source-wordcount: '1549'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Workfront] Projectmanager Professional
 
-Leer hoe u een gecertificeerde Adobe Project Manager Professional kunt worden.
+Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Workfront] Projectmanager Professional.
 
 ## Minimale ervaring
 
@@ -36,7 +36,7 @@ U zou moeten hebben:
 **Beoogd publiek:**
 
 * Projectmanager, werkmanager, planner
-* SCRUM master
+* SCRUM
 * [!DNL Workfront] stroomgebruiker
 * Systeembeheerder
 * Programmabeheerder, portfoliobeheerder
@@ -45,12 +45,12 @@ U zou moeten hebben:
 
 **Details van examen - Adobe [!DNL Workfront] Projectmanager**
 
-* Niveau: Professioneel (0-12 maanden ervaring)
-* Voldoende score: 07-45
-* Tijd: 140 minuten
-* Aflevering: Online geproctoreerd (cameratoegang vereist)
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 45/70
+* Tijd: 140 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
 * Beschikbare talen: Engels
-* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Kosten: $125 (wereldwijd) / $95 (India)
 * Examen-id: AD0-E903
 
 **Zelfbeoordeling van gereedheid**
@@ -59,15 +59,15 @@ Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/laun
 
 **Doelstellingen en toepassingsgebied van examen**
 
-Sectie 1: Inname en planning (30%)
+Deel 1: Inname en planning (30%)
 
 * Verschillende manieren aanwijzen waarop een werkverzoek op de hoogte moet worden gesteld
 * Op basis van een verzoek bekijkt u de aangepaste gegevens om de juiste actie te bepalen
 * Op basis van een scenario bepaalt u de machtigingen voor delen die vereist zijn voor een activiteit
 * Gezien een scenario, bepaal de aangewezen taakmontages om de uitvoering van een taak in een specifiek tijdkader te plannen
-* Identificeer manieren om van zeer belangrijke gegevens op een project de plaats te bepalen
+* Identificeer manieren om zeer belangrijke gegevens op een project te bepalen
 * Verschillende manieren identificeren om projectrisico te volgen
-* De juiste hiërarchie van objecten in [!DNL Workfront]
+* De juiste hiërarchie van objecten vaststellen in [!DNL Workfront]
 * Identificeer het aangewezen gebied om een specifieke toegewezen middel te bekijken
 * Op basis van een persoon bepaalt u de inname- of planningsrapporten/dashboards die nuttig zijn voor de persoon tijdens de inname of planningsfase van het project/werkproces
 
@@ -92,7 +92,7 @@ Sectie 2: Uitvoeren (50%)
 * Identificeer de diverse soorten rapporten beschikbaar binnen [!DNL Workfront]
 * Gezien een scenario, beschrijf de stappen om een douanerapport te bouwen
 
-Deel 3: Afsluiting (20%)
+Sectie 3: Afsluiting (20%)
 
 * Bepaal op basis van een bepaalde objectstatus welke activiteiten moeten worden uitgevoerd of welke handelingen moeten worden geactiveerd
 * Gezien een scenario, bepaal het type van rapport en het rapporteringselement om een taaklijst of rapport te gebruiken
@@ -107,7 +107,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Voorbeeldvragen**
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmelding nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
 
 [Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
 
@@ -117,7 +117,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 **Aanvullende bronnen:**
 
-**Sectie 1: Inname en planning**
+**Deel 1: Inname en planning**
 
 * [Meldingen gebruiken](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FWorkfront_basics%2FUsing_Notifications%2F_use-notifications.htm&amp;_LANG=en){target="_blank"}
 * [De Duur van de taak en de Types van Duur](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTaskDurtn%2F_task-duration-duration-type.htm&amp;_LANG=en){target="_blank"}
@@ -128,7 +128,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Adobe [!DNL Workfront] grondbeginselen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_basics%2F_workfront-basics.htm&amp;_LANG=en){target="_blank"}
 * [Navigeren door Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_basics%2FNavigate_Workfront%2F_navigate-workfront.htm&amp;_LANG=en){target="_blank"}
 * [Taken toewijzen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FAssign_tasks%2F_assign-tasks.htm&amp;_LANG=en){target="_blank"}
-* [Ga aan de slag met behendig in Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAgile%2FGet_Started_with_Agile_in_Workfront%2F_get-started-with-agile.htm&amp;_LANG=en){target="_blank"}
+* [Aan de slag met een flexibele Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAgile%2FGet_Started_with_Agile_in_Workfront%2F_get-started-with-agile.htm&amp;_LANG=en){target="_blank"}
 * [Rapporten maken en beheren](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReports_and_Dashboards%2FReports%2FCreating_and_Managing_Reports%2F_create-manage-reports.htm&amp;_LANG=en){target="_blank"}
 
 **Sectie 2: Uitvoeren**
@@ -150,13 +150,13 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Werken met de objecten van een groep](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FWork_with_group_objects%2F_work-with-a-groups-objects.htm&amp;_LANG=en){target="_blank"}
 * [Werken met groepen en teams](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FPeople_Teams_and_Groups%2FWork_with_Groups_and_Teams%2F_work-with-groups-and-teams.htm&amp;_LANG=en){target="_blank"}
 * [Werk aan een project bijwerken](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FUpdating_Work_in_a_Project%2F_update-work-on-project.htm&amp;_LANG=en){target="_blank"}
-* [Statussen en prioriteitslabels](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreating_Custom_Status_and_Priority_Labels%2F_create-custom-status-and-priority-labels.htm&amp;_LANG=en){target="_blank"}
+* [Statussen en prioritaire labels](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreating_Custom_Status_and_Priority_Labels%2F_create-custom-status-and-priority-labels.htm&amp;_LANG=en){target="_blank"}
 
-**Deel 3: Sluiten**
+**Sectie 3: Afsluiting**
 
 * [Overzicht van rapportelementen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReports_and_Dashboards%2FReports%2FReporting_Elements%2F_reporting-elements-overview.htm&amp;_LANG=en){target="_blank"}
 * [Tijdschema&#39;s maken en beheren in Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FTimesheets%2FCreate_and_Manage_Timesheets%2F_create-and-manage-timesheets.htm&amp;_LANG=en){target="_blank"}
-* [Portfolio-beheer](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&amp;_LANG=en){target="_blank"}
+* [Beheer van Portfolio&#39;s](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&amp;_LANG=en){target="_blank"}
 * [Tijdlijn project](https://www.workfront.com/project-management/knowledge-areas/time-management/project-timeline){target="_blank"}
 * [Projecten maken](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FCreate_projects%2F_create-projects-overview.htm&amp;_LANG=enus){target="_blank"}
 
@@ -164,36 +164,21 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E903)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E903" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E903
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E903" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

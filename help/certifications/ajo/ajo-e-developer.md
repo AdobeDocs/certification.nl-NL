@@ -4,11 +4,11 @@ description: Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Journey Opti
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
-badge: label="Exam AD0-E603" type="positive"
+badge: label="Examen AD0-E603" type="positive"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '733'
 ht-degree: 4%
 
 ---
@@ -55,14 +55,14 @@ U moet minstens één jaar ervaring hebben met het werken met verschillende CDP-
 * CDP-ontwikkelaar
 * CDP Architect
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 05-31-51
+* Voldoende score: 31/51
 * Tijd: 110 minuten
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Beschikbare talen: Engels
-* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E603
 
 **Zelfbeoordeling van gereedheid**
@@ -86,20 +86,20 @@ Sectie 2: Adobe Experience Platform Foundation (33%)
 * Verklaar hoe te om schema&#39;s voor AJO te vormen
 * Bepaal het gedrag van het klantenprofiel in real time op AJO
 
-Deel 3: offer decisioning (11%)
+Deel 3: Offer decisioning (11%)
 
 * Toon een inzicht in het creëren van en het beheren van aanbiedingen en componenten aan
 * Toon hoe te om testprofielen te gebruiken om aanbiedingssimulatie in werking te stellen
 
-Sectie 4: Inhoud ontwerpen (20%)
+Sectie 4: Inhoud schrijven (20%)
 
 * Toon inzicht in hoe u e-mail, SMS, in app-berichten en pushberichten kunt maken
 * Toon een inzicht in inhoudsmanipulatie en verpersoonlijking gebruikend helperfuncties aan
 * Toon een inzicht in het bevestigen van, het proef, en het publiceren van een bericht aan
 
-Sectie 5: Journey Orchestration (19%)
+Deel 5: Journey Orchestration (19%)
 
-* Verklaar het proces om een multi-kanaalreis tot stand te brengen
+* Verklaar het proces om een multi-kanaalreis te creëren
 * Identificeer waar te om rapportdashboards toegang te hebben
 * Toon hoe te om een reis te testen en te bevestigen
 
@@ -109,7 +109,7 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
-**Sectie 1: Beheer en configuratie**
+**Afdeling 1: Beheer en configuratie**
 
 * [Adobe [!DNL Journey Optimizer] Documentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
@@ -122,25 +122,25 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Overzicht van sandboxen](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=nl){target="_blank"}
 
 
-**Sectie 2: AEP Foundation**
+**Afdeling 2: AEP-stichting**
 
 * [Adobe [!DNL Experience Platform] Documentatie](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
    * XDM-hulplijn
    * Handleiding voor realtime klantprofiel
-   * Handleiding Platform Identity Service
+   * Platform Identity Service-gids
    * Een gegevensstroom configureren
    * Handleiding Bronconnectors
    * Gegevensinleidingshulplijn
    * Handleiding Segmenteringsservice
    * Schema&#39;s
 
-* [Inleiding tot Adobe [!DNL Experience Platform] cursus](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"}
-* [Aan de slag met Adobe [!DNL Experience Platform] voor de cursus van de Ingenieurs van Gegevens](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
+* [Inleiding tot de Adobe [!DNL Experience Platform] cursus](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"}
+* [Aan de slag met Adobe [!DNL Experience Platform] voor de cursus Gegevensingenieurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
 * [Gegevensinname voor cursus Data Engineers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"}
 * [Digital Experience-blauwdrukken](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html){target="_blank"}
 
-**Deel 3: offer decisioning**
+**Deel 3: Offer decisioning**
 
 * [Adobe [!DNL Journey Optimizer] Documentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
@@ -160,7 +160,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
    * Personalisatie
    * Landingspagina&#39;s
 
-**Sectie 5: Journey Orchestration**
+**Deel 5: Journey Orchestration**
 
 * [Adobe [!DNL Journey Optimizer] Documentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
@@ -173,39 +173,24 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 ## Een praktijktest uitvoeren
 
 {{practice-test}}
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E603)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E603
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

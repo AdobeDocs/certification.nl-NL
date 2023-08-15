@@ -1,16 +1,16 @@
 ---
-title: Technische stichtingen, professionele certificering
+title: Technische stichtingen - Professionele certificering
 description: Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager] Professional.
 solution: Experience Manager
 product: Experience Manager
 role: User
-badge: label="Examen AD0-E132 type="positief"
+badge: label="Exam AD0-E132 type="positive"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '605'
-ht-degree: 2%
+source-wordcount: '600'
+ht-degree: 3%
 
 ---
 
@@ -22,11 +22,11 @@ Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager] Profe
 
 U zou een toepassingsontwikkelaar moeten zijn en hebben:
 
-* Minimaal 0-12 maanden ervaring met het AEM Platform
+* Minimaal 0 tot 12 maanden ervaring met het AEM Platform
 * De mogelijkheid om geavanceerde componentontwikkeling uit te voeren
 * Een diepgaand inzicht in het MVC-kader
 * Het bewustzijn van kaders en bibliotheken in AEM
-* inzicht in de AEM ontwikkelingscyclus
+* Kennis van de AEM ontwikkelingscyclus
 
 Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 
@@ -52,14 +52,14 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * AEM ontwikkelaars
 * Technische leiding
 
-**Details examen:**
+**Details van examen:**
 
-* Niveau: Professioneel (0-12 maanden ervaring)
-* Voldoende score: 06-38-60
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 38/60
 * Tijd: 120 minuten
-* Aflevering: Online geproctoreerd (cameratoegang vereist)
+* Aflevering: online geprocoreerd (cameratoegang vereist)
 * Beschikbare talen: Engels
-* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Kosten: $125 (wereldwijd) / $95 (India)
 * Examen-id: AD0-E132
 
 **Doelstellingen en toepassingsgebied van examen**
@@ -86,13 +86,13 @@ Sectie 2: Uitvoering (42%)
 * Basiscomponenten uitbreiden
 * Structuur-inhoudmodellering
 
-Deel 3: Instellen en implementeren (13%)
+Sectie 3: Opstelling en plaatsing (13%)
 
 * Installatiebundels
 * Pakketten implementeren
 * AEM installeren
 
-Sectie 4: Onderhoud en toediening van gebruikers (12%)
+Sectie 4: Onderhoud en gebruikersbeheer (12%)
 
 * Gebruikerstoegang beheren
 * OSGI-configuraties wijzigen
@@ -109,17 +109,17 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 * [AEM 6.4 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
 * [AEM 6.5 Gebruikersgids voor authoring](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=nl){target="_blank"}
 * [Handleiding voor assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
 
-**Sectie 2: Implementatie**
+**Deel 2: Uitvoering**
 
 * [Componenten AEM: de basisbeginselen](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html){target="_blank"}
 * [Tutorials voor headless in AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html){target="_blank"}
 * [Paginasjablonen maken](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html#creating-and-managing-templates){target="_blank"}
 * [Client-Side bibliotheken gebruiken](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html){target="_blank"}
 
-**Deel 3: Instellen en implementeren**
+**Sectie 3: Instellen en implementeren**
 
 * [Webconsole](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
 * [AEM-projectstructuur](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html#embedding-3rd-party-packages){target="_blank"}
@@ -135,25 +135,21 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E132)
-
-### Beschikbare opties
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E132
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E132" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

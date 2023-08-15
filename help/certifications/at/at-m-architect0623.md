@@ -4,22 +4,22 @@ description: Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe T
 solution: Target
 product: Target
 role: Data Architect
-badge: label="Exam AD0-E409" type="positive"
+badge: label="Examen AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 5f155e7b81ec0e39f632416546a46d9ca7da5426
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '943'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor [!DNL Adobe Target] Architect Master
 
-Leer hoe u een gecertificeerde Adobe architect Master kunt maken.
+Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Target] Architect Master.
 
 >[!NOTE]
 >
->Dit is het nieuwste Master examen van Adobe Target Architect. Als u al bent begonnen met studeren of de [oudere versie](at-m-architect.md) u hebt tot 8 september 2023 de tijd om het te voltooien.
+>Dit is de nieuwste [!DNL Adobe Target] Architect Master examen. Als u al bent begonnen met studeren of de [oudere versie](at-m-architect.md) u hebt tot 8 september 2023 de tijd om het te voltooien.
 
 ## Minimale ervaring
 
@@ -68,14 +68,14 @@ Omgevingen:
 * Optimalisatiebeheer
 * Online campagneleider
 
-**Details examen:**
+**Details van examen:**
 
-* Niveau: Master (3-5 jaar ervaring)
-* Voldoende score: 05-32-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Niveau: master (3-5 jaar ervaring)
+* Voldoende score: 32/50
+* Tijd: 100 min
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Beschikbare talen: Engels
-* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E409
 
 **Doelstellingen en toepassingsgebied van examen**
@@ -83,9 +83,9 @@ Omgevingen:
 Sectie 1: [!DNL Adobe Target] fundamentals ( 13 % )
 
 * Identificeer het aangewezen [!DNL Adobe Target] gebruik voor een bepaald scenario
-* Verklaar de fundamentele technologieën van een [!DNL Adobe Target] uitvoering
+* De fundamentele technologieën van een [!DNL Adobe Target] uitvoering
 
-Sectie 2: Integreren met [!DNL Adobe Target] (18%)
+Sectie 2: Integratie met [!DNL Adobe Target] (18%)
 
 * Het integratieproces toepassen [!DNL Adobe Target] met Adobe Analytics (A4T)
 * Het integratieproces toepassen [!DNL Adobe Target] naar Adobe Experience Manager
@@ -104,7 +104,7 @@ Sectie 4: [!DNL Adobe Target] en ondersteunde aanraakpunten (6%)
 * Beschrijf de implementatie van de levering aan de serverzijde
 * Beschrijf implementatievereisten voor mobiele apparaten, het richten van e-mail, en APIs
 
-Sectie 5: Hefboomwerking [!DNL Adobe Target] aanbevelingen (11%)
+Sectie 5: Hefboomfinanciering [!DNL Adobe Target] aanbevelingen (11%)
 
 * Toon een inzicht in aanbevelingen, catalogi, en criteria aan
 * Pas het proces toe om de aanbevelingen van het Doel te vormen
@@ -139,7 +139,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 * [Doel integreren met Adobe Campaign](https://experienceleague.adobe.com/docs/target/using/integrate/campaign-and-target.html){target="_blank"}
 * [Adobe Analytics als bron van rapportage voor Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html){target="_blank"}
-* [Experience Cloud-publiek](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html){target="_blank"}
+* [Experience Cloud publiek](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html){target="_blank"}
 * [Geniet van fragmentatieaanbiedingen in Adobe Target](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/personalization/experience-fragment-target-offer-feature-video-use.html){target="_blank"}
 
 **Afdeling 3**
@@ -150,7 +150,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Aanbevolen werkwijzen en beperkingen van Visual Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/vec/experience-composer-best-practices.html){target="_blank"}
 
 
-**Afdeling 4**
+**Sectie 4**
 
 * [Recommendations integreren met e-mail](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/integrating-recs-email.html){target="_blank"}
 * [Formuliergebaseerde Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
@@ -163,12 +163,12 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Feeds](https://experienceleague.adobe.com/docs/target/using/recommendations/entities/feeds.html){target="_blank"}
 * [Een ontwerp aanpassen met Snelheid](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/customizing-a-template.html){target="_blank"}
 
-**Afdeling 6**
+**Sectie 6**
 
 * [Hybride Adobe Target-implementatie](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/hybrid-deployment.html){target="_blank"}
 * [Hoe Target werkt in mobiele apps](https://experienceleague.adobe.com/docs/target-dev/developer/mobile-apps/version-4/how-target-works-mobile-apps.html){target="_blank"}
 * [Een doelimplementatie ontwerpen](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.5-design-target-implementation.html){target="_blank"}
-* [Adobe Target gebruiken met de SDK van het Web van het Platform](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/target-overview.html){target="_blank"}
+* [Adobe Target gebruiken met de Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/target-overview.html){target="_blank"}
 
 **Afdeling 7**
 
@@ -176,37 +176,29 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 [Problemen met de levering van inhoud oplossen](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
 [Veelgestelde vragen over ontwerp](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
 [Veelgestelde vragen over Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
-[Aanmelden bij Adobe Analytics for Target (A4T) via de Web SDK van het Platform](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
+[Aanmelden bij Adobe Analytics for Target (A4T) via de Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
 
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
-**Neem het certificatieexamen**
+## Ongeveer het certificatieexamen
 
-Adobe gebruikt twee verkopers om geproctored examens, PSI en Onderzoek te beheren.
+{{about-certification-exam}}
 
-* **PSI** biedt testcentrum en Japanse examenopties (indien beschikbaar) aan
-* **[!DNL Examity]** biedt een externe online optie aan
+## Plan of neem examen AD0-E409
 
-Om uw examen te plannen, opnieuw te plannen of te annuleren, eenvoudig op de verkoper van keus te klikken, en de instructies te volgen die op het scherm worden verstrekt. Zo eenvoudig is het!
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-De naam van uw profiel in het Adobe Credential Management System moet exact overeenkomen met uw Regeringen-id. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.
-
-De annuleringen en het opnieuw plannen zijn mogelijk als in werking gesteld voorafgaand aan 48 uren vóór de geplande examenbenoeming. De kandidaten moeten deze benoeming zelf wijzigen.
-
-### Examen: AD0-E409
-
-[!BADGE examen]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
-
-U kunt voor uw certificatieexamen door bon of creditcard betalen. Ga naar: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, wordt deze toegepast bij afhandeling.
+<span class="spectrum-Button-label has-no-wrap">
+   Ga naar examenportal
+</span>
+</a>
 
 >[!ENDTABS]
 

@@ -3,19 +3,19 @@ title: Certificering van ontwikkelaars
 description: Leer hoe je een gecertificeerde Adobe Developer professional in Adobe kunt worden [!DNL Workfront Fusion].
 solution: Workfront
 role: Developer
-badge: label="Exam AD0-E902" type="positive"
+badge: label="Examen AD0-E902" type="positive"
 mini-toc-levels: 1
 exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1460'
+source-wordcount: '1436'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Workfront Fusion] Developer Professional
 
-Leer hoe u een gecertificeerde Adobe Developer Professional kunt worden.
+Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Workfront] Developer Professional.
 
 ## Minimale ervaring
 
@@ -49,19 +49,19 @@ U zou moeten hebben:
 * Zakelijke analisten, toegepaste zakelijke analisten
 * Systeembeheerder (IT, MIS, Technologie, Kennissystemen, AI-beheerders)
 
-**Details examen:**
+**Details van examen:**
 
-* Niveau: Professioneel (0-12 maanden ervaring)
-* Voldoende score: 05-33-51
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 33/51
 * Tijd: 102 min
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Beschikbare talen: Engels
-* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Kosten: $125 (wereldwijd) / $95 (India)
 * Examen-id: AD0-E902
 
 **Doelstellingen en toepassingsgebied van examen**
 
-Sectie 1: Fundamentele technische concepten (39%)
+Sectie 1: Grondbeginselen van de techniek (39%)
 
 * Op basis van een [!DNL Fusion] scenario met één gebiedsindeling die in een ander gebiedsindeling moet zijn, de mogelijke functies verstrekken die zouden kunnen worden gebruikt om de gegevens correct om te zetten
 * Op basis van een [!DNL Fusion] scenario dat vereist dat een functie binnen een andere functie wordt genest, selecteer de correct gevormde uitdrukking
@@ -74,7 +74,7 @@ Sectie 1: Fundamentele technische concepten (39%)
 * Op basis van een [!DNL Fusion] scenario waar de gegevens in één weg in een andere weg nodig zijn, verstrek een reeks-get oplossing voor het ter beschikking stellen van die gegevens op extra verpletterende wegen
 * De manieren identificeren waarop u een [!DNL Fusion] template voor een zakelijke behoefte
 * Op basis van een [!DNL Fusion] scenario, identificeren wat te doen om uitvoeringen te bekijken en/of fouten op te lossen
-* Identificeer de verschillende opties in [!DNL Fusion] scenario-instellingen om aan de behoeften van scenario&#39;s te voldoen
+* Identificeer de verschillende opties in [!DNL Fusion] scenario montages om scenario behoeften te richten
 * Op basis van een [!DNL Fusion] scenario, selecteert u de juiste stroomregeling en/of bepaalt u de juiste combinatie van de module(s) voor stroomregeling
 
 Sectie 2: Scenario-ontwerp en -architectuur (35%)
@@ -84,26 +84,26 @@ Sectie 2: Scenario-ontwerp en -architectuur (35%)
 * Verschillen identificeren tussen instant en geplande triggers
 * Identificeer een correcte module voor het uploaden van een document aan [!DNL Workfront]
 * Op basis van een bedrijfsvereiste de juiste benadering vaststellen om te volgen dat [!DNL Fusion] een record heeft verwerkt (geen gebruiker) en wanneer
-* Op basis van een [!DNL Fusion] scenario&#39;s, een kans identificeren om het ontwerp te vereenvoudigen en/of voor onderhoud te optimaliseren
+* Op basis van een [!DNL Fusion] scenario, een mogelijkheid identificeren om het ontwerp te vereenvoudigen en/of te optimaliseren voor onderhoud
 * Identificeren [!DNL Fusion] best practices voor het documenteren van scenario&#39;s
 * Gezien een situatie, identificeer een kans om gegevensstroom door een scenario te verminderen
 * Op basis van een voorbeeld van het aantal bundels dat op een zoekmodule en een volgende aggregator wordt weergegeven, licht u de wijzigingen toe in het aantal bewerkingen dat door de bundelcontrole wordt verwerkt en weergegeven
 * Identificeer informatie die in de bundelcontrole wordt gevonden
 * Op basis van een beschrijving van de noodzaak om een scenario langer dan 60 dagen te archiveren en de enige mogelijke manier te selecteren (blauwdruk voor importeren/exporteren)
-* Op basis van een voorbeeld van een fout 403: Selecteer de oorsprong van het foutbericht goed en zorg dat
+* Op basis van een voorbeeld van een fout 403: Verboden, selecteert u correct de oorsprong van het foutbericht en veroorzaakt u
 
-Deel 3: Testen en foutafhandeling (16%)
+Sectie 3: Testen en foutafhandeling (16%)
 
-* Identificeer de elementen van een testplan
+* De elementen van een testplan identificeren
 * De elementen van een testcase identificeren
 * Op basis van een [!DNL Fusion] scenario, identificeer correct de aangewezen richtlijn om een onbetrouwbare dienst te behandelen
-* Identificeer het proces om douanefoutafhandeling in toe te voegen [!DNL Fusion] scenario
+* Identificeer het proces om douanefout behandeling in toe te voegen [!DNL Fusion] scenario
 * Identificeer hoe te om onvolledige uitvoeringen te volgen, te lezen en op te lossen
 * Op basis van een [!DNL Fusion] scenario met ontbrekende vereiste gegevens, selecteer manieren om de ongeldige gegevens te behandelen
 
 Sectie 4: Werken met API&#39;s (10%)
 
-* Op basis van een externe API die een 429-waarde retourneert: Te veel verzoeken, identificeer een oplossing om de fout te verhinderen of te behandelen
+* Op basis van een API van derden die een versie van 429 retourneert: Te veel verzoeken, identificeer een oplossing om de fout te voorkomen of af te handelen
 * Op basis van een [!DNL Fusion] scenario waarin nieuwe functionaliteit niet beschikbaar is in het [!DNL Workfront] identificeert het juiste referentie- en moduletype om de nieuwe functionaliteit te gebruiken
 * Op basis van een systeem van derden dat geen specifieke app heeft, identificeert u de HTTP-toepassing en selecteert u de juiste module
 * Het verschil vaststellen tussen CRUD-bewerkingen en andere algemene mogelijkheden van REST API&#39;s
@@ -116,11 +116,11 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Voorbeeldvragen**
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmelding nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
 
 [Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
 
-**Sectie 1: Fundamentele technische concepten**
+**Deel 1: Grondbeginselen van technische begrippen**
 
 * [Toewijzing in Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FMapping%2F_mapping.htm&amp;_LANG=en){target="_blank"}
 * [Functies in Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FFunctions%2F_Functions.htm&amp;_LANG=en){target="_blank"}
@@ -139,7 +139,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Door het systeem bijgehouden feeds voor updates](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FSet_up_Workfront%2FSystem-Tracked_Update_Feeds%2F_system-tracked-updates-feeds.htm&amp;_LANG=en){target="_blank"}
 * [Scenario&#39;s in Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
 
-**Deel 3: Testen en foutafhandeling**
+**Sectie 3: Testen en foutafhandeling**
 
 * [Fouten in Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FErrors%2F_errors.htm&amp;_LANG=en){target="_blank"}
 * [Scenario&#39;s in Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
@@ -155,36 +155,21 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E902)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E902" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E902
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E902" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

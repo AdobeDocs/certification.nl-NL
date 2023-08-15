@@ -1,14 +1,14 @@
 ---
 title: Verbeterde certificering van connectorexperts
-description: Leer hoe u een gecertificeerde Adobe-expert in Adobe kunt worden [!DNL Workfront] for [!DNL Experience Manager]
+description: Leer hoe u een gecertificeerde Adobe-gecertificeerde Adobe kunt worden [!DNL Workfront] for [!DNL Experience Manager]
 solution: Workfront
 role: Developer
-badge: label="Exam AD0-E906" type="positive"
+badge: label="Examen AD0-E906" type="positive"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '867'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ U zou één of meerdere van de volgende certificatie moeten bereikt hebben:
 * AEM Sites Developer Certified Expert
 * [!DNL Workfront] Certified Expert Core Developer
 
-En u zou moeten hebben:
+En u moet:
 
 * 1+ jaar CMS ervaring
 * 1+ jaar AEM ervaring
@@ -47,26 +47,26 @@ En u zou moeten hebben:
 **Beoogd publiek:**
 
 * Consultants voor partneroplossingen
-* Implementatiespecialisten
+* Uitvoeringsspecialisten
 * Integratiespecialisten
 * Ontwikkelaars of architecten
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 05-34-55
+* Voldoende score: 34/55
 * Tijd: 110 minuten
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Beschikbare talen: Engels
-* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E906
 
 **Doelstellingen en toepassingsgebied van examen**
 
-Sectie 1: Technische vereisten (25%)
+Deel 1: Technische eisen (25%)
 
 * Gebruiken [!DNL Workfront] Aangepaste Forms
-* Bij een scenario documentbeheer tonen
+* Op basis van een scenario documentbeheer tonen
 * Toon kennis van het bevorderen van code over milieu&#39;s aan
 * Op basis van een scenario bepalen hoe waarden worden doorgegeven aan [!DNL Workfront] aangepaste formulieren
 * Problemen met code op de server oplossen
@@ -78,15 +78,15 @@ Sectie 2: Configuratie (26%)
 * Beslissingen nemen die nodig zijn om het metagegevensschema voor verschillende elementtypen aan te passen
 * Pas procedurele AEM toe die worden vereist om bundels OSGi, activa, meta-gegevensschema, het etiketteren, en toestemmingen op te stellen
 
-Deel 3: Bedrijfspraktijken (21%)
+Sectie 3: Bedrijfspraktijken (21%)
 
 * De clientbehoeften interpreteren om de juiste workflowstrategieën aan te bevelen
-* Toon hoe u instelt [!DNL Workfront] workflows voor goedkeuring en proefdrukken
-* Op basis van een scenario kunt u de beste werkwijzen identificeren voor het gebruik van de proefdrukviewer, instellingen en markeringsfunctionaliteit
+* Demonstreer hoe u instelt [!DNL Workfront] workflows voor goedkeuring en proefdrukken
+* In een scenario kunt u de beste werkwijzen identificeren voor het gebruik van de proefdrukviewer, instellingen en markeringsfunctionaliteit
 * Toon een inzicht in het volgen van te leveren punten als deel van campagnebeheer aan
-* Gezien een scenario, identificeer de belangrijkste overwegingen van veranderingsbeheer voor een [!DNL Workfront] uitvoering
+* Gezien een scenario, identificeer de belangrijkste overwegingen van veranderingsbeheer voor [!DNL Workfront] uitvoering
 
-Sectie 4: Installatie en configuratie van de connector (28%)
+Sectie 4: Installatie en configuratie van connector (28%)
 
 * Voorwaarden valideren binnen AEM
 * Gezien een geval van het klantengebruik, identificeer de eigenschappen van de schakelaar om uit te voeren
@@ -99,11 +99,11 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Voorbeeldvragen**
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmelding nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
 
 [Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
 
-**Sectie 1: Technische vereisten**
+**Deel 1: Technische eisen**
 
 * [Overzicht van aangepaste formulieren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
 * [Documentintegratie configureren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-document-integrations.html){target="_blank"}
@@ -117,16 +117,16 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Beste praktijken - Onboarding en adoptie](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 * [Een individueel gebruikersprofiel maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
 * [Adobe [!DNL Experience Manager Assets] integratie met Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
-* [Metagegevens en trefwoorden: metagegevensinstelling](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/metadata-and-keywords/metadata-setup.html%3Flang%3Dzh-Hant){target="_blank"}
+* [Metagegevens en trefwoorden: instellen van metagegevens](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/metadata-and-keywords/metadata-setup.html%3Flang%3Dzh-Hant){target="_blank"}
 * [Installeren [!DNL Workfront] for [!DNL Experience Manager] verbeterde aansluiting](https://experienceleague.adobe.com/docs/experience-manager-64/assets/integrations/workfront-connector-install.html){target="_blank"}
 
-**Deel 3: Zakelijke praktijken**
+**Sectie 3: Bedrijfspraktijken**
 
 * [Een [!DNL Workfront] DAM-strategie](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html){target="_blank"}
 * [Een goedkeuringsproces voor werkitems maken](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
 * [Geautomatiseerd workflowoverzicht](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html){target="_blank"}
 * [Een bewijs controleren en goedkeuren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html){target="_blank"}
-* [Voortgang van project bijhouden](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
+* [Voortgang bijhouden vanaf de projecttijdlijn](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
 * [Doelstellingen voor uw Adobe definiëren [!DNL Workfront] uitvoering](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
 
 **Sectie 4: Installatie en configuratie van de connector**
@@ -140,36 +140,21 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E906)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E906" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E906
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E906" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

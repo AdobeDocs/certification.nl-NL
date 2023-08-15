@@ -3,14 +3,14 @@ title: Overzicht van Experience Manager-certificering
 description: Overzicht van certificeringsopties voor Adobe Experience Manager
 solution: Experience Manager
 exl-id: 75f283b8-017d-464d-b7d4-a6bd2d20b90c
-source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '347'
 ht-degree: 2%
 
 ---
 
-# Overzicht van Experience Manager-certificering
+# Adobe [!DNL Experience Manager] Overzicht van certificering
 
 Selecteer uw niveau en uw taakrol om meer informatie over de certificatie te vinden u in geinteresseerd bent.
 
@@ -36,7 +36,7 @@ Als u informatie zoekt over het vernieuwen van uw bestaande certificering, gaat 
 
 >[!NOTE]
 >
->De **Master examen voor Adobe Experience Manager Architect Sites (AD0-E117)** ondergaat en tijdelijk niet beschikbaar is. Onze oprechte excuses voor het ongemak. [Aanmelden voor kennisgeving](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wanneer deze weer beschikbaar is.
+>De **Adobe Experience Manager Architect Sites Master-examen (AD0-E117)** ondergaat en tijdelijk niet beschikbaar is. Onze oprechte excuses voor het ongemak. [Aanmelden voor kennisgeving](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wanneer deze weer beschikbaar is.
 >
 >**Vragen?** Zie onze [Veelgestelde vragen](#AEM-FAQ) onder aan deze pagina.
 
@@ -44,7 +44,7 @@ Als u informatie zoekt over het vernieuwen van uw bestaande certificering, gaat 
 
 
 
-## Veelgestelde vragen voor Master examen voor Adobe Experience Manager Sites Architect (AD0-E117) {#AEM-FAQ}
+## Veelgestelde vragen voor basisexamen Adobe Experience Manager Sites Architect (AD0-E117) {#AEM-FAQ}
 
 Het certificatieexamen AD0-E117 ondergaat onderhoud en is tijdelijk niet beschikbaar. Onze oprechte excuses voor het ongemak. [Aanmelden voor kennisgeving](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wanneer deze weer beschikbaar is.
 

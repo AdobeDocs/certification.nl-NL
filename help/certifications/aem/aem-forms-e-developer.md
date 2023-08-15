@@ -4,19 +4,19 @@ description: Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience M
 solution: Experience Manager, Experience Manager Forms
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E125" type="positive"
+badge: label="Examen AD0-E125" type="positive"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '798'
 ht-degree: 2%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Experience Manager Forms] Ontwikkelaarsexpert
 
-Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Experience Manager Forms] Ontwikkelaarsexpert.
+Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager Forms] Ontwikkelaarsexpert.
 
 ## Minimale ervaring
 
@@ -69,14 +69,14 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * AEM Consultants
 * AEM architecten
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 05-27-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Voldoende score: 27/50
+* Tijd: 100 min
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Beschikbare talen: Engels
-* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E125
 
 **Zelfbeoordeling van gereedheid**
@@ -101,7 +101,7 @@ Sectie 2: Processen en workflows (34%)
 * PDF manipuleren met Forms- of Assembler-services
 * JDBC-services implementeren
 
-Deel 3: Beheer en probleemoplossing (18%)
+Sectie 3: Beheer en probleemoplossing (18%)
 
 * Logbestanden oplossen en onderscheiden
 * Beheer uitvoeren
@@ -137,7 +137,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Aangepaste opslag voor concepten en verzendingen](https://experienceleague.adobe.com/docs/experience-manager-64/forms/use-forms-portal/adding-custom-storage-provider-forms.html){target="_blank"}
 * [Uitvoerservice](https://experienceleague.adobe.com/docs/experience-manager-65/forms/use-document-services/output-service.html#generating-non-interactive-form-documents){target="_blank"}
 
-**Deel 3: Beheer en probleemoplossing**
+**Sectie 3: Beheer en probleemoplossing**
 
 * [Fouten opsporen in AEM as a Cloud Service met behulp van logboeken](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html#:~:text=aemerror%20is%20the%20Java%20error%20log%20%28found%20at,log%20levels%20for%20custom%20loggers%20per%20environment%20type%3A){target="_blank"}
 * [Logboekregistratie inschakelen voor HTML5 Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/html5-forms/enable-logs.html){target="_blank"}
@@ -146,9 +146,9 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 4: API-eindpunten en -integratie**
 
-* [Adobe Experience Manager Forms integreren als Cloud Service met Acrobat Sign | Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html){target="_blank"}
+* [Adobe Experience Manager Forms integreren als Cloud Service met Acrobat Sign | ADOBE EXPERIENCE MANAGER](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html){target="_blank"}
 
-**Sectie 5: Interactieve communicatie**
+**Deel 5: Interactieve communicatie**
 
 * [Overzicht van communicatie tussen interactie](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html){target="_blank"}
 * [Voorwaarden voor interactieve communicatie](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html){target="_blank"}
@@ -157,37 +157,22 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 ## Een praktijktest uitvoeren
 
 {{practice-test}}
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E125)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E125" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E125
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E125" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

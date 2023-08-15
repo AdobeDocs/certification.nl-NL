@@ -4,19 +4,19 @@ description: Leer hoe u een gecertificeerde Adobe Developer-expert kunt worden i
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
-badge: label="Examen AD0-E330" type="positief"
+badge: label="Examen AD0-E330" type="positive"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1140'
-ht-degree: 9%
+source-wordcount: '1117'
+ht-degree: 10%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Campaign Classic] Ontwikkelaarsexpert
 
-Leer hoe je een gecertificeerde Adobe Developer-expert kunt worden.
+Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Campaign Classic] Ontwikkelaarsexpert.
 
 ## Minimale ervaring
 
@@ -42,16 +42,16 @@ U zou moeten hebben:
 
 * Technisch consultant
 * Technologie-engineer
-* [!DNL Campaign Classic] ontwikkelaar
+* Adobe [!DNL Campaign Classic] ontwikkelaar
 
 **Details van examen**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 05-34-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Voldoende score: 34/50
+* Tijd: 100 min
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Beschikbare talen: Engels
-* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E330
 
 **Zelfbeoordeling van gereedheid**
@@ -75,12 +75,12 @@ Sectie 2: Aanpassing (22%)
 * Beschrijf beste praktijken voor het ontwikkelen met JavaScript in Adobe Campaign
 * JavaScript-bibliotheken toepassen in workflows, SOAP-aanroepen, typologische regels en verpersoonlijkingsblokken
 * Beschrijf beste praktijken voor het gebruiken van SQL functies in Adobe [!DNL Campaign Classic]
-* In een scenario leert u hoe u SQL-scripts kunt gebruiken in Adobe [!DNL Campaign Classic]
+* In een scenario leert u hoe u SQL-scripts in Adobe kunt gebruiken [!DNL Campaign Classic]
 * Beschrijf algemeen gebruikte OOTB functies
 
-Deel 3: Toegangsbeheer (8%)
+Sectie 3: Toegangsbeheer (8%)
 
-* Op basis van een scenario, configureert u beveiligingsinstellingen voor een operator
+* In een scenario, vorm veiligheidsmontages voor een exploitant
 * Beschrijf hoe te om de montages van het toegangsbeheer te vormen die op het document van het oplossingsontwerp worden gebaseerd
 * Beschrijf toegangsbeheer gebruikend het Controlebord van de Campagne
 * Identificeer de beperkingen van gegevensverdeling en wanneer om sysfilter te gebruiken
@@ -93,9 +93,9 @@ Sectie 4: Gegevensintegratie (16%)
 * Beveiligings- en netwerkinstellingen identificeren die met Adobe Campaign kunnen worden geïntegreerd vanuit een extern systeem
 * Het CRUD-proces instellen op een schema van buiten Adobe Campaign
 
-Sectie 5: Instantieonderhoud (12%)
+Sectie 5: Instantie-onderhoud (12%)
 
-* Begrijp en neem actie op de Werkstroomkaart
+* Begrijp en neem op de Werkstroomkaart in werking
 * Toon het proces aan om een douanewerkschema tot stand te brengen of een rapport voor bijvoorbeeld controle
 * Problemen identificeren op basis van systeemindicatoren
 * Verklaar het effect van de diensten en processen op het systeem
@@ -145,7 +145,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Servercapaciteit controleren](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/sftp-management/monitor-server-capacity.html){target="_blank"}
 * [De schema-editor](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/about-schema-edition.html){target="_blank"}
 
-**Sectie 4: Gegevensintegratie**
+**Sectie 4: Integratie van gegevens**
 
 * [Externe accounts](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html){target="_blank"}
 * [Implementatie van FFDA-campagne](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/enterprise-deployment.html){target="_blank"}
@@ -177,39 +177,24 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 ## Een praktijktest uitvoeren
 
 {{practice-test}}
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E330)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E330" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E330
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E330" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

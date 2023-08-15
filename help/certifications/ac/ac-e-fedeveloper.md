@@ -5,23 +5,23 @@ solution: Commerce
 product: Magento
 role: Developer
 level: Experienced
-badge: label="Exam AD0-E710" type="positive"
+badge: label="Examen AD0-E710" type="positive"
 mini-toc-levels: 1
 exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1365'
+source-wordcount: '1337'
 ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Commerce] Front-end ontwikkelaarsexpert
+# Certificeringsreis voor [!DNL Adobe Commerce] Front-end ontwikkelaarsexpert
 
-Leer hoe u een gecertificeerde Adobe Developer-expert kunt worden.
+Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Commerce] Ontwikkelaarsexpert.
 
 >[!NOTE]
 >
->Dit examen Adobe Commerce Front End Developer Expert (AD0-E710) is bijgewerkt. Als u al bent begonnen met studeren of deze versie wilt gebruiken, moet u deze voor 18 augustus 2023 voltooien. Als u nog maar aan de slag gaat, raden we u aan de [nieuwste versie van dit examen](ac-e-fedeveloper0623.md).
+>Dit examen [!DNL Adobe Commerce] Front End Developer Expert (AD0-E710) is bijgewerkt. Als u al bent begonnen met studeren of deze versie wilt gebruiken, moet u deze voor 18 augustus 2023 voltooien. Als u nog maar aan de slag gaat, raden we u aan de [nieuwste versie van dit examen](ac-e-fedeveloper0623.md).
 
 ## Minimale ervaring
 
@@ -32,7 +32,7 @@ Bovendien kunt u de volgende technologieën beter gebruiken:
 * Adobe [!DNL Commerce] - versie 2.4.3
 * Basiskennis van de front-end structuur en lay-out
 * Ervaring en begrip van HTML, CSS (en preprocessoren), LESS, JavaScript en UI-componenten, jQuery, onderstrepingsteken, Require.JS, Knockout, ook PHP-sjablonen, DB-kennis en inhoudsbeheer
-* Kennis van het platform, CMS-blokken, widgets, CMS-pagina&#39;s, categoriepagina&#39;s, productpagina&#39;s, winkelwagentjes en uitchecken en het dashboardgebied van de account
+* Kennis van het platform, CMS-blokken, widgets, CMS-pagina&#39;s, categoriepagina&#39;s, productpagina&#39;s, winkelwagentjes en uitchecken en het dashboardgebied van account
 * Basiskennis of kennis van beheerconfiguraties
 * Kennis van het uitbreiden en overschrijven van stijlen, lay-outs en JS-bestanden
 * Bovenliggende thema&#39;s/Themahiërarchie uitbreiden
@@ -41,7 +41,7 @@ Bovendien kunt u de volgende technologieën beter gebruiken:
 * Ontdek responsieve ontwerp- en mediaquery&#39;s
 * WYSIWYG/Page Builder
 * Codepakketten
-* Omzetting implementeren
+* Vertaling implementeren
 * Begrijpen hoe u met e-mailsjablonen werkt
 
 >[!BEGINTABS]
@@ -51,19 +51,19 @@ Bovendien kunt u de volgende technologieën beter gebruiken:
 **Beoogd publiek:**
 
 * Ontwikkelaars
-* Hoofdontwikkelaars
+* Leidingontwikkelaars
 * Front-end ontwikkelaars
 * Volledige stapelontwikkelaars
 * PWA-ontwikkelaars
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 05-33-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Voldoende score: 33/50
+* Tijd: 100 min
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Beschikbare talen: Engels
-* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E710
 
 **Zelfbeoordeling van gereedheid**
@@ -75,22 +75,22 @@ Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/laun
 Sectie 1: Themabeheer (Themahiërarchie, beeldconfiguratie, vertalingen) (16%)
 
 * Beschrijf Adobe [!DNL Commerce] themamastructuur en hoe deze zich verhoudt tot op mappen gebaseerde thema&#39;s
-* Toon de capaciteit aan om een nieuw thema (Overerving/Fallbacks, ontwerpuitzonderingen, themaeigenschappen) tot stand te brengen
+* Toon de capaciteit aan om een nieuw thema (Overerving/Fallbacks, ontwerpuitzonderingen, themaeigenschappen) te creëren
 * Toon vermogen aan om bestaande thema&#39;s uit te breiden
 * Toon de mogelijkheid aan om transactie-e-mails aan te passen
 * Toon vermogen aan om vertalingen toe te passen
 * Geef op basis van een aantal gebruiksgevallen aan wanneer bestanden in een app/code of app/ontwerp moeten worden geplaatst
 
-Sectie 2: Layout XML en sjablonen (HTML-sjablonen) (24%)
+Sectie 2: XML en sjablonen voor lay-out (HTML-sjablonen) (24%)
 
 * Toon de capaciteit aan om lay-outXML instructies te gebruiken
-* Toon de capaciteit aan om nieuwe paginalay-outs tot stand te brengen
+* Toon de capaciteit aan om nieuwe paginalay-outs te creëren
 * Begrijp het verschil tussen het uitbreiden/samenvoegen en het met voeten treden van XML
 * Toon aan hoe te om argumenten tot malplaatjes over te gaan en te gebruiken
 * Toon capaciteit aan om malplaatjes tot stand te brengen en aan te passen
 * Sjabloonbeveiliging toepassen (uitvoer wordt geëlimineerd)
 
-Deel 3: Stijlen (18%)
+Sectie 3: Stijlen (18%)
 
 * Het doel van styles-m.less, styles-l.less, print.less identificeren
 * Beschrijf het verschil tussen specifieke gedeeltelijke dossiers (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less,)
@@ -103,11 +103,11 @@ Deel 3: Stijlen (18%)
 
 Sectie 4: JavaScript (afbeeldingswidgets, afbeeldingsbibliotheek, module voor klantgegevens, uitnemingssjablonen) (22%)
 
-* Toon de capaciteit aan om componenten te initialiseren en te roepen JavaScript
+* Toon de capaciteit aan initialiseren en componenten te roepen JavaScript
 * Verschillende gebruiksgevallen voor verschillende JavaScript-componenten
 * Het gebruik van RequireJS aantonen
 * Toon de capaciteit aan om verschillende types van mengsels uit te voeren
-* Beschrijf hoe te om een vertaling in JS toe te voegen
+* Beschrijven hoe u een vertaling in JS kunt toevoegen
 * Beschrijf interactie tussen UI componenten
 * Toon het gebruik van Knockout JS aan
 * Het gebruik van jQuery-widgets aantonen
@@ -135,7 +135,7 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
-**Sectie 1: Themabeheer (Themahiërarchie, afbeeldingsconfiguratie, vertalingen)**
+**Sectie 1: Themabeheer (Themahiërarchie, beeldconfiguratie, vertalingen)**
 
 * [Themastructuur](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-structure.html){target="_blank"}
 * [Een winkelthema maken](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-create.html){target="_blank"}
@@ -147,7 +147,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Vertalingen](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
 * [De structuur van het deelbestand maken](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/build/module-file-structure.html#root-directory-location){target="_blank"}
 
-**Sectie 2: Layout XML en sjablonen (HTML-sjablonen)**
+**Sectie 2: XML en sjablonen van layout (HTML-sjablonen)**
 
 * [Layout-instructies](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/xml-instructions.html){target="_blank"}
 * [Een nieuwe lay-out maken](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-create.html){target="_blank"}
@@ -160,7 +160,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Voorbeeld van aanpassing sjablonen](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-sample.html){target="_blank"}
 * [XSS (Cross-site scripting)](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/xss-protection.html){target="_blank"}
 
-**Deel 3: Stijlen**
+**Sectie 3: Stijlen**
 
 * [Inclusief CSS](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-themes.html){target="_blank"}
 * [CSS en LESS-voorbewerking](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-preprocess.html#fedg_css-import){target="_blank"}
@@ -172,7 +172,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Use Sass preprocessor and Gulp task runner](https://developer.adobe.com/commerce/frontend-core/guide/css/custom-preprocessor/gulp-sass/){target="_blank"}
 * [Compilatiemodus](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/compilation-mode/){target="_blank"}
 
-**Sectie 4: JavaScript (afbeeldingswidgets, afbeeldingsbibliotheek, gegevensmodule van klanten, uitnemingspalplaatjes)**
+**Sectie 4: JavaScript (afbeeldingswidgets, afbeeldingsbibliotheek, module voor klantgegevens, uitneemsjablonen)**
 
 * [JavaScript aanroepen en initialiseren](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
 * [Fouten opsporen in JavaScript-componenten](https://developer.adobe.com/commerce/frontend-core/javascript/debug/){target="_blank"}
@@ -186,7 +186,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [jQuery-widgets](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/){target="_blank"}
 * [Een JavaScript-module toevoegen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/frontend-development/add-javascript-module.html){target="_blank"}
 
-**Sectie 5: Configuratie van Admin en PageBuilder**
+**Sectie 5: Admin-configuratie en PageBuilder**
 
 * [Inhoud-elementen](https://docs.magento.com/user-guide/v2.3/cms/content-elements.html){target="_blank"}
 * [Ontwerpconfiguratie](https://docs.magento.com/user-guide/design/configuration.html){target="_blank"}
@@ -210,37 +210,22 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
-> De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+> De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 ## Een praktijktest uitvoeren
 
 {{practice-test}}
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E710)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E710
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

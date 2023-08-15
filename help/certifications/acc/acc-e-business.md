@@ -1,28 +1,28 @@
 ---
 title: Certificering door experts voor zakelijke gebruikers
-description: Leer hoe u een gecertificeerde Adobe Business Practitioner-expert kunt worden met [!DNL Campaign Classic].
+description: Leer hoe u een gecertificeerde Adobe Business Practitioner Expert met [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
-badge: label="Exam AD0-E327" type="positive"
+badge: label="Examen AD0-E327" type="positive"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '914'
 ht-degree: 13%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Campaign Classic] Expert aan de praktijk
+# Certificeringsreis voor Adobe [!DNL Campaign Classic] Expert aan de praktijk van bedrijven
 
-Leer hoe u een gecertificeerde Adobe Business Practitioner-expert kunt worden.
+Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Campaign Classic] Expert van de beroepsbeoefenaar.
 
 ## Minimale ervaring
 
 U zou moeten hebben:
 
-* Ten minste twee jaar lang uitgebreid [!DNL Campaign Classic] software-ervaring
+* Ten minste 2 jaar uitgebreide Adobe [!DNL Campaign Classic] software-ervaring
 * Meerjarenervaring met het ontwikkelen van marketingcampagnes en tactieken met behulp van digitale omnichannel
 * Ervaar het interpreteren/vertalen van bedrijfsvereisten aan uitvoerbare campagneproducten
 * Ervaring met marketingmetingen zoals rendement op eigen vermogen, doorkliksnelheden en conversie
@@ -47,14 +47,14 @@ U zou moeten hebben:
 * Zakenbeoefenaar
 * CRM-projectmanager
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 05-32-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Voldoende score: 32/50
+* Tijd: 100 min
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Beschikbare talen: Engels
-* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E327
 
 **Zelfbeoordeling van gereedheid**
@@ -88,7 +88,7 @@ Deel 3: Gegevensbeheer (24%)
 * Voer de stappen uit om een vooraf gedefinieerd filter te configureren
 * Vermeld het juiste invoerformulier op basis van een bedrijfsvereiste
 
-Sectie 4: Leveringsbeheer (14%)
+Afdeling 4: Leveringsbeheer (14%)
 
 * Pas de stappen toe om leveringen tot stand te brengen/te vormen
 * Selecteer en stel op basis van een scenario het juiste proefpubliek voor goedkeuringen in
@@ -100,7 +100,7 @@ Sectie 5: Rapportage (12%)
 * Ingebouwde rapporten interpreteren
 * De gevolgen van het opschonen/leegmaken van logbestanden voor rapportage uitleggen
 
-Sectie 6: Toediening (8%)
+Afdeling 6: Administratie (8%)
 
 * Op basis van een scenario verklaren de gevolgen van het weggooien van stammen voor rapporten
 * Op basis van zakelijke vereisten de juiste machtigingen en toegangsrechten verlenen
@@ -112,7 +112,7 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
-**Sectie 1: Campagnebeheer**
+**Afdeling 1: Campagnebeheer**
 
 * [[!DNL Campaign Classic] v7-documentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=nl){target="_blank"}
 * [Aan de slag met marketingcampagnes](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=nl){target="_blank"}
@@ -138,7 +138,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Contentmanagement](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/about-content-management.html){target="_blank"}
 
 
-**Sectie 4: Leveringsbeheer**
+**Afdeling 4: Leveringsbeheer**
 
 * [Campaign-integraties](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/get-started-campaign-integrations.html){target="_blank"}
 * [Levering](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/delivery.html){target="_blank"}
@@ -151,7 +151,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Rapporten over leveringen](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
 * [Aan de slag met rapportages](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
 
-**Sectie 6: Beheer**
+**Afdeling 6: Administratie**
 
 * [Configuratiebeginsel](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/configuration-principle.html){target="_blank"}
 * [Aan de slag met machtigingen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
@@ -162,28 +162,24 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 ## Een praktijktest uitvoeren
 
 {{practice-test}}
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E327)
-
-### Beschikbare opties
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E327
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E327" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

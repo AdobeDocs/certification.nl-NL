@@ -4,29 +4,29 @@ description: Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience M
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E134" type="positive"
+badge: label="Examen AD0-E134" type="positive"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '814'
-ht-degree: 4%
+source-wordcount: '789'
+ht-degree: 5%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Experience Manager Sites] Ontwikkelaarsexpert
 
-Leer hoe u een gecertificeerde Adobe Experience Manager-expert kunt worden.
+Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager] Ontwikkelaarsexpert.
 
 ## Minimale ervaring
 
 U zou moeten hebben:
 
-* Minimaal 1 à 3 jaar ervaring met het AEM Platform
+* Minimaal 1 tot 3 jaar ervaring met het AEM Platform
 * De mogelijkheid om geavanceerde componentontwikkeling uit te voeren
 * Een diep inzicht in het ModelControlemechanisme van de Mening (MVC) kader
 * De kennis van kaders en bibliotheken in AEM
-* inzicht in de AEM ontwikkelingscyclus
+* Kennis van de AEM ontwikkelingscyclus
 
 Bovendien bent u vertrouwd met de volgende technologieën en milieu&#39;s:
 
@@ -53,14 +53,14 @@ Bovendien bent u vertrouwd met de volgende technologieën en milieu&#39;s:
 * AEM Senior Developers
 * Ontwikkelaars van AEM
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 05-26-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Voldoende score: 26/50
+* Tijd: 100 min
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Beschikbare talen: Engels
-* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E134
 
 **Zelfbeoordeling van gereedheid**
@@ -73,7 +73,7 @@ Sectie 1: Configuraties (22%)
 
 * Identificeer de stappen om AEM te creëren en te beheren
 * Bepaal de correcte stappen om multi-huur te vormen
-* Verklaar hoe te om configuraties tot stand te brengen en te beheren OSGi
+* Verklaar hoe te om configuraties te creëren en te beheren OSGi
 * Op basis van een scenario bepaalt u de juiste methode voor het maken en beheren van aangepaste OAK-indexen
 * Bepaal de correcte stappen om integratie te vormen OTB SAML en LDAP
 
@@ -86,7 +86,7 @@ Sectie 2: AEM ontwikkeling (44%)
 * Op basis van een scenario de benadering voor integratie van derden bepalen
 * Bepaal de benadering om een headless of hybride implementatie uit te voeren
 
-Deel 3: Opbouwen en implementeren (14%)
+Sectie 3: Bouw en implementatie (14%)
 
 * Identificeer de stappen aan opstelling en onderhoud front-end en back-end gebiedsbeheer
 * Bepaal correct archetype wanneer het bouwen van projecten
@@ -113,15 +113,15 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [AEM 6.5 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
 * [AEM 6.5 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 
-**Sectie 2: AEM**
+**Deel 2: AEM ontwikkeling**
 
 * [AEM 6.5 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
 * [Aan de slag met AEM Sites - WKND-zelfstudie](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html){target="_blank"}
 * [AEM 6.5 Gebruikersgids voor authoring](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [AEM 6.5 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=nl){target="_blank"}
 
-**Deel 3: Samenstellen en implementeren**
+**Sectie 3: Bouwen en implementeren**
 
 * [Introductie van kerncomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html){target="_blank"}
 * [AEM 6.5 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
@@ -129,9 +129,9 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Adobe [!DNL Experience Manager as a Cloud Service] Video&#39;s en Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html){target="_blank"}
 * [AEM 6.5 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
 
-**Sectie 4: Omgevingsonderhoud**
+**Deel 4: Milieu-onderhoud**
 
-* [[!DNL Experience Manager as a Cloud Service] documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] documentatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=nl){target="_blank"}
 * [Video&#39;s en zelfstudies voor AEM stichting](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
 * [Implementeren en onderhouden](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/deploying/deploy.html){target="_blank"}
 * [AEM 6.5 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
@@ -141,39 +141,24 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 ## Een praktijktest uitvoeren
 
 {{practice-test}}
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E134)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E134" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E134
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

@@ -6,20 +6,20 @@ product: Customer Journey Analytics
 role: User
 badge: label="Examen AD0-E608" type="positive"
 mini-toc-levels: 1
-source-git-commit: 5d7c136e3d38f3fed5443dcb476c8a2af9fad24d
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '619'
 ht-degree: 1%
 
 ---
 
-# Certificeringsreis voor Adobe Customer Journey Analytics Business Practice Professional
+# Certificeringsreis voor Adobe [!DNL Customer Journey Analytics] Professioneel als bedrijf
 
-Leer hoe u een gecertificeerde Adobe Business Practitioner Professional kunt worden.
+Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Customer Journey Analytics] Zakelijke beroepsbeoefenaar.
 
 ## Minimale ervaring
 
-De ideale, minimaal gekwalificeerde kandidaat is een analist met minstens zes maanden ervaring in Customer Journey Analytics en een fundamenteel inzicht in de werking van CJA in samenwerking met Adobe Experience Platform. De kandidaat kan de aangewezen rapportering en visualisatieopties gebruiken om basis en geavanceerde analyse voor een bepaalde bedrijfsbehoefte uit te voeren.
+De ideale minimaal gekwalificeerde kandidaat is een analist met minstens zes maanden ervaring in de Adobe [!DNL Customer Journey Analytics] en een grondbegrip van hoe het werkt in samenhang met [!DNL Adobe Experience Platform]. De kandidaat kan de aangewezen rapportering en visualisatieopties gebruiken om basis en geavanceerde analyse voor een bepaalde bedrijfsbehoefte uit te voeren.
 
 >[!NOTE]
 >
@@ -40,19 +40,19 @@ De ideale, minimaal gekwalificeerde kandidaat is een analist met minstens zes ma
 * Eigenaars en managers van producten
 * Conversie-/optimalisatiespecialisten
 
-**Details examen:**
+**Details van examen:**
 
-* Niveau: Professioneel (0-12 maanden ervaring)
-* Voldoende score: 05-36-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (cameratoegang vereist)
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 36/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
 * Beschikbare talen: Engels
-* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Kosten: $125 (wereldwijd) / $95 (India)
 * Examen-id: AD0-E608
 
 **Doelstellingen en toepassingsgebied van examen**
 
-Sectie 1: Onderdelen (30%)
+Sectie 1: Componenten (30%)
 
 * Zakelijke vragen omzetten in relevante onderdelen
 * Een subset van gegevens maken met de juiste componenten en filters
@@ -72,7 +72,7 @@ Deel 3: Distributie (12%)
 
 Sectie 4: Gegevensanalyse (26%)
 
-* Verkennende analyse uitvoeren en resultaten interpreteren voor inzichten
+* Verkennende analyse uitvoeren en resultaten interpreteren om inzichten te bieden
 * Evalueer publiek om met andere hulpmiddelen AEP te delen
 * Correcte componenten kiezen voor analyse
 
@@ -101,7 +101,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Projecten delen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/curate-share/share-projects.html){target="_blank"}
 * [Cursieve projecten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/curate-share/curate.html){target="_blank"}
 
-**Sectie 4: Gegevensanalyse**
+**Deel 4: Gegevensanalyse**
 
 * [Adobe Analytics-rapportsuite gebruiken op reis van klant](https://experienceleague.adobe.com/docs/analytics-platform/using/compare-aa-cja/cja-aa-comparison/aa-data-in-cja.html){target="_blank"}
 * [Kenmerkmodellen voor analyse en terugkijkvensters](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en%22%3ehttps://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html){target="_blank"}
@@ -112,29 +112,25 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 
 ## Een praktijktest uitvoeren
 
 {{practice-test}}
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E608)
-
-### Beschikbare opties
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E608
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E608" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

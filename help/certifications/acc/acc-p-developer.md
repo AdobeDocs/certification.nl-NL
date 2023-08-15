@@ -4,19 +4,19 @@ description: Leer hoe u een gecertificeerde Adobe Developer Professional kunt wo
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
-badge: label="Exam AD0-E331" type="positive"
+badge: label="Examen AD0-E331" type="positive"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1198'
+source-wordcount: '1174'
 ht-degree: 9%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Campaign Classic] Developer Professional
 
-Leer hoe u een gecertificeerde Adobe Developer Professional kunt worden.
+Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Campaign Classic] Developer Professional.
 
 ## Minimale ervaring
 
@@ -42,14 +42,14 @@ U zou moeten hebben:
 * Junior Marketing Technology engineer
 * Junior Campaign-ontwikkelaar
 
-**Details examen:**
+**Details van examen:**
 
-* Niveau: Professioneel (0-12 maanden ervaring)
-* Voldoende score: 05-33-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 33/50
+* Tijd: 100 min
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Beschikbare talen: Engels
-* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Kosten: $125 (wereldwijd) / $95 (India)
 * Examen-id: AD0-E331
 
 **Zelfbeoordeling van gereedheid**
@@ -64,7 +64,7 @@ Sectie 1: Systeemconfiguratie (25%)
 * Pas het proces toe om het OOTB Ontvangerschema uit te breiden
 * Schema-details definiëren (primaire sleutels, automatische primaire sleutels, database-indexen)
 * De toepasselijke toepassingen van Formulierrenderingen onderscheiden
-* Verschillende configuratie-instellingen voor het gehele systeem die van invloed zijn op de werkruimte/het projectniveau
+* Verschillende systeembrede configuratie-instellingen die van invloed zijn op de werkruimte/het projectniveau
 * Configuratie-instellingen identificeren voor externe SFTP-accounts
 * De configuratie-instellingen voor Openen en Gesloten opsommingen identificeren
 * Verschillende typen typologische regels
@@ -85,14 +85,14 @@ Sectie 2: Aanpassing (16%)
 * Identificeer de gebruiksgevallen voor het gebruik van contentbeheer
 * Toepassen op proces om de OOTB-formulieren bij te werken
 
-Deel 3: Operationele veiligheid (10%)
+Afdeling 3: Operationele veiligheid (10%)
 
 * Beschrijf het proces om gebruikersgroepen en rollen toe te voegen
 * Pas het proces toe om de matrix voor gebruikersbeheer te vertalen met de juiste gebruikersrechten en hiërarchie
 * De juiste machtigingen identificeren en definiëren
 * Identificeer de veiligheidsstreek voor een gebruikersgroep
 
-Sectie 4: Technische workflows (29%)
+Sectie 4: Technische werkstromen (29%)
 
 * Het proces voor importeren/exporteren toepassen
 * Identificeer de verschillende gegevensbronnen waartoe een werkstroom toegang heeft
@@ -108,15 +108,15 @@ Sectie 4: Technische workflows (29%)
 * Pas het proces toe om alarm en goedkeuringen te vormen
 * Typen campagnecabases identificeren
 
-Sectie 5: Instantieonderhoud (4%)
+Sectie 5: Instantie-onderhoud (4%)
 
 * Fouten uit verschillende servicelogboeken identificeren
 * Heatmap-lezingen werkstroom verkennen
 
-Sectie 6: Configuratie campagne (14%)
+Sectie 6: Campagne-configuratie (14%)
 
 * Het proces toepassen om campagnes te maken met behulp van Campagneresjablonen
-* Beschrijf het proces om goedkeuringen tot stand te brengen
+* Beschrijf het proces om goedkeuringen te creëren
 * Fouten identificeren door auditlogboeken te analyseren
 * Identificeer het gebruik van verschillende leveringen, gegeven een campagnescenario
 * Het proces definiëren om het geavanceerde proces in workflows te maken
@@ -130,7 +130,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Voorbeeldvragen**
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmelding nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
 
 [Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e331-adobe-campaign-classic-developer-professional-copy-ixmxw7){target="_blank"}
 
@@ -151,7 +151,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Gebruiksscenario: seedadressen selecteren op criteria](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/use-case--selecting-seed-addresses-on-criteria.html){target="_blank"}
 * [Informatie over opt-in en opt-out in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/understanding-opt-in-and-opt-out-processes/about-opt-in-and-opt-out-in-campaign.html){target="_blank"}
 
-**Deel 3: Operationele beveiliging**
+**Afdeling 3: Operationele veiligheid**
 
 * [Operatorgroepen maken en beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html){target="_blank"}
 * [Opgegeven rechten gebruiken om machtigingen in te stellen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
@@ -167,13 +167,13 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Workflowuitvoering controleren](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=nl){target="_blank"}
 * [Het goedkeuringsproces instellen en beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html){target="_blank"}
 
-**Sectie 5: Instantieonderhoud**
+**Sectie 5: Instantie-onderhoud**
 
 * [Problemen met het bijhouden van logboeken](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/working-with-log-toc/tracking-logs-issues.html){target="_blank"}
 * [Logboekprecisie](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/working-with-log-toc/log-precision.html){target="_blank"}
-* [HeatMap van de Campagne Workflow](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html){target="_blank"}
+* [HeatMap van de Campagne-workflow](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html){target="_blank"}
 
-**Sectie 6: Campagneconfiguratie**
+**Sectie 6: Configuratie van campagne**
 
 * [Campagnesjablonen maken en configureren](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-templates.html){target="_blank"}
 * [Het goedkeuringsproces instellen en beheren](https://experienceleague.adobe.com/docs/campaign/automation/campaign-orchestration/marketing-campaign-approval.html){target="_blank"}
@@ -186,37 +186,22 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E331)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E331" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E331
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E331" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

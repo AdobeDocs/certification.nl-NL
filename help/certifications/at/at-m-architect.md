@@ -1,26 +1,26 @@
 ---
-title: Master certificering architect
+title: Basiscertificering architect
 description: Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Target] Architect Master.
 solution: Target
 product: Target
 role: Data Architect
-badge: label="Exam AD0-E407" type="positive"
+badge: label="Examen AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1122'
 ht-degree: 4%
 
 ---
 
 # Certificeringsreis voor [!DNL Adobe Target] Architect Master
 
-Leer hoe u een gecertificeerde Adobe architect Master kunt maken.
+Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Target] Architect Master.
 
 >[!NOTE]
 >
->Dit examen, Master Architect van Adobe Target (AD0-E407), is bijgewerkt. Als u al bent begonnen met studeren of deze versie wilt gebruiken, moet u deze voor 8 september 2023 voltooien. Als u nog maar aan de slag gaat, raden we u aan de [nieuwste versie van dit examen](at-m-architect0623.md).
+>Dit examen, [!DNL Adobe Target] Architect Master (AD0-E407) is bijgewerkt. Als u al bent begonnen met studeren of deze versie wilt gebruiken, moet u deze voor 8 september 2023 voltooien. Als u nog maar aan de slag gaat, raden we u aan de [nieuwste versie van dit examen](at-m-architect0623.md).
 
 ## Minimale ervaring
 
@@ -30,8 +30,8 @@ U zou moeten hebben:
 * Ten minste twee jaar ervaring (of vijf services) met het implementeren, implementeren en oplossen van problemen [!DNL Adobe Target]
 * Ervaring met het integreren van Target met de Adobe Experience Cloud
 * Fundamenteel begrip van JavaScript, HTML, CSS, en front-end Webontwikkeling
-* Kennis van/kennis van [!DNL Adobe Target] API&#39;s/SDK&#39;s, integratie, rapportage en beheer aan de serverzijde
-* Kennis van uitvoering [!DNL Adobe Target] met frameworks voor Single Page Application (SPA), mobile en email, en aanbevelingen
+* Kennis van/kennis van [!DNL Adobe Target] API&#39;s/SDK&#39;s, integratie, rapportage en beheer op de server
+* Kennis van uitvoering [!DNL Adobe Target] met frameworks voor Single Page Application (SPA), voor mobiel en e-mail en aanbevelingen
 
 Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 
@@ -71,24 +71,24 @@ Omgevingen:
 * Optimalisatiebeheer
 * Online campagneleider
 
-**Details examen:**
+**Details van examen:**
 
-* Niveau: Master (3-5 jaar ervaring)
-* Voldoende score: 05-34-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Niveau: master (3-5 jaar ervaring)
+* Voldoende score: 34/50
+* Tijd: 100 min
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Beschikbare talen: Engels
-* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E407
 
 **Doelstellingen en toepassingsgebied van examen**
 
-Sectie 1: [!DNL Adobe Target] fundamentals ( 12 % )
+Sectie 1: [!DNL Adobe Target] fundamentals (12%)
 
 * Identificeer het aangewezen [!DNL Adobe Target] gebruik voor een bepaald scenario
-* Verklaar de fundamentele technologieën van een [!DNL Adobe Target] uitvoering
+* De fundamentele technologieën van een [!DNL Adobe Target] uitvoering
 
-Sectie 2: Integreren met [!DNL Adobe Target] (16%)
+Sectie 2: Integratie met [!DNL Adobe Target] (16%)
 
 * Het integratieproces toepassen [!DNL Adobe Target] met Adobe Analytics (A4T)
 * Het integratieproces toepassen [!DNL Adobe Target] naar Adobe Experience Manager
@@ -107,7 +107,7 @@ Sectie 4: [!DNL Adobe Target] en ondersteunde aanraakpunten (15%)
 * Beschrijf de implementatie van de levering aan de serverzijde
 * Beschrijf implementatievereisten voor mobiele apparaten, het richten van e-mail, en APIs
 
-Sectie 5: Hefboomwerking [!DNL Adobe Target] aanbevelingen (9%)
+Sectie 5: Hefboomfinanciering [!DNL Adobe Target] aanbevelingen (9%)
 
 * Toon een inzicht in aanbevelingen, catalogi, en milieu&#39;s aan
 * Pas het proces toe om de aanbevelingen van het Doel te vormen
@@ -133,7 +133,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Voorbeeldvragen**
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmelding nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
 
 [Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
 
@@ -142,7 +142,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [[!DNL Adobe Target] Handleiding voor ondernemers](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [Leren hoe te gebruiken [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html){target="_blank"}
 
-**Sectie 2: Integreren met[!DNL Adobe Target]**
+**Sectie 2: Integratie met[!DNL Adobe Target]**
 
 * [[!DNL Adobe Target] Handleiding voor ondernemers](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [AEM Sites - video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
@@ -171,7 +171,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Zelfstudie Adobe Experience Cloud implementeren in mobiele apps](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html){target="_blank"}
 * [Referentie voor doel-API](https://developer.adobe.com/client-sdks/documentation/adobe-target/api-reference/#getthirdpartyid){target="_blank"}
 
-**Sectie 5: Hefboomwerking [!DNL Adobe Target] aanbevelingen**
+**Sectie 5: Hefboomfinanciering [!DNL Adobe Target] aanbevelingen**
 
 * [[!DNL Adobe Target] Handleiding voor ondernemers](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 
@@ -200,36 +200,21 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E407)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E407" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E407
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E407" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

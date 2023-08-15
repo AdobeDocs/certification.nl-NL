@@ -1,6 +1,6 @@
 ---
 title: Professionele certificering
-description: Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Experience Platform] Professioneel in [!DNL Real-Time Customer Data Platform]
+description: Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Experience Platform] Professional in [!DNL Real-Time Customer Data Platform]
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
@@ -8,16 +8,16 @@ recommendations: disable, exclude
 badge: label="Examen AD0-E602" type="positive"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '770'
+source-wordcount: '750'
 ht-degree: 2%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Real-Time CDP] Professional
+# Certificeringsreis voor Adobe [!DNL Real-Time CDP] Professioneel als bedrijf
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Platform] professioneel.
+Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Platform] Beroepsleverancier.
 
 ## Minimale ervaring
 
@@ -59,14 +59,14 @@ Ervaring met taken zoals:
 * Eigenaar van marketingproduct
 * Marketinganalist
 
-**Details examen:**
+**Details van examen:**
 
-* Niveau: Professioneel (0-12 maanden ervaring)
-* Voldoende score: 05-28-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 28/50
+* Tijd: 100 min
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Beschikbare talen: Engels
-* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Kosten: $125 (wereldwijd) / $95 (India)
 * Examen-id: AD0-E602
 
 **Doelstellingen en toepassingsgebied van examen**
@@ -78,12 +78,12 @@ Sectie 1: Segmenten en activering (32%)
 * Concepten toepassen die zijn vereist voor doelidentiteiten in doelen
 * Identificeer attributenafbeeldingen en het plannen van segmenten aan bestemming
 
-Sectie 2: Privacy en gegevensbeheer (20%)
+Deel 2: Privacy en gegevensbeheer (20%)
 
 * Toon een inzicht in DULE beleid en hun gevolgen op gegevensbeschikbaarheid op bestemmingen aan
 * Ervoor zorgen dat de privacy- en gegevenscompatibiliteitsmaatregelen worden nageleefd
 
-Deel 3: Bedrijfsanalyse (30%)
+Sectie 3: Bedrijfsanalyse (30%)
 
 * Gebruiksgevallen identificeren die terugkoppelen aan KPI&#39;s voor bedrijven
 * Gegevensanalyse uitvoeren op klantsegmenten in platform
@@ -91,7 +91,7 @@ Deel 3: Bedrijfsanalyse (30%)
 
 Sectie 4: Schema&#39;s en profielen (18%)
 
-* Toon een begrip van Adobe aan [!DNL Experience Platform] concepten
+* Toon een inzicht in Adobe [!DNL Experience Platform] concepten
 * Profielfuncties gebruiken
 
 >[!TAB Vooraf ingesteld]
@@ -102,7 +102,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Voorbeeldvragen**
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmelding nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
 
 [Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
 
@@ -117,19 +117,19 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [De publieksgegevens van de activering aan het stromen profiel de uitvoerbestemmingen](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html){target="_blank"}
 * [Een nieuwe doelverbinding maken](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html){target="_blank"}
 
-**Sectie 2: Identiteit en gegevensbeheer**
+**Afdeling 2: Identiteit en beheer van gegevens**
 
 * [Overzicht naamruimte identiteit](https://experienceleague.adobe.com/docs/experience-platform/identity/namespaces.html?lang=nl){target="_blank"}
 * [Overzicht van gegevensbeheer](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html){target="_blank"}
 
-**Deel 3: Bedrijfsanalyse**
+**Sectie 3: Bedrijfsanalyse**
 
 * [Overzicht van gegevensinname](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html){target="_blank"}
-* [Gegevensstromen bewaken in Adobe [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html){target="_blank"}
+* [Gegevensstromen in Adobe bewaken [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html){target="_blank"}
 * [Privacy Service- en Experience Cloud-toepassingen](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html){target="_blank"}
 * [Overzicht van beleidshandhaving](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html){target="_blank"}
 
-**Sectie 4: Schema&#39;s en profielen**
+**Deel 4: Schema&#39;s en profielen**
 
 * [XDM System, overzicht](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=nl){target="_blank"}
 * [Overzicht van het realtime klantprofiel](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html){target="_blank"}
@@ -139,39 +139,24 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 ## Een praktijktest uitvoeren
 
 {{practice-test}}
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E602)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E602" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E602
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E602" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

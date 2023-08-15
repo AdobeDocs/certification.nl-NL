@@ -4,34 +4,34 @@ description: Leer hoe u een gecertificeerde Adobe Business Practice Professional
 solution: Commerce
 product: Magento
 role: User
-badge: label="Exam AD0-E712" type="positive"
+badge: label="Examen AD0-E712" type="positive"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '956'
+source-wordcount: '932'
 ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Commerce] Professional
+# Certificeringsreis voor Adobe [!DNL Commerce] Professioneel als bedrijf
 
 Leer hoe u een gecertificeerde Adobe Business Practitioner Professional kunt worden.
 
 ## Minimale ervaring
 
-U moet minimaal 0-12 maanden praktijkervaring hebben met [!DNL Magento Open Source] versie 2.4.3 die het LUMA of het BLANK thema en basisbegrip van Adobe gebruikt [!DNL Commerce] versie 2.4.3.
+U moet minimaal 0-12 maanden praktijkervaring hebben met [!DNL Magento Open Source] versie 2.4.3. gebruik van het LUMA- of BLANK-thema en basisbegrip van Adobe [!DNL Commerce] versie 2.4.3.
 
 Bovendien moet u een basiskennis hebben van de eCommerce-ervaring en kennis hebben van de volgende concepten:
 
 * Digitale marketing (SEO, CMS, e-mailmarketing, verkooptechnieken [cross-sell, upsell], analyses, rapportage en monitoring)
-* Ecommerce-terminologie (verkoop-/marketingstrategieën zoals omnichannel en multichannel)
-* Prijzen en promotie
+* Ecommerce terminologie (verkoop/marketing strategieën zoals omnichannel en multichannel)
+* Prijsstelling en promotie
 * Klantenservice
 * Levenscyclus bestellen
 * [!DNL Magento] Marketplace en extensies van derden
 * Beveiliging en naleving (GDPR, ADA, PCI DSS v3.2.1, PSD2)
-* Prijzen en promotie
+* Prijsstelling en promotie
 
 >[!NOTE]
 >
@@ -47,20 +47,20 @@ Bovendien moet u een basiskennis hebben van de eCommerce-ervaring en kennis hebb
 * Projectmanagers
 * Eigenaars van producten
 * Consultants
-* [!DNL Commerce] strategen
+* [!DNL Adobe Commerce] strategen
 * eCommerce Admin/Director/Manager/Consultants
 * Digital Marketing Director/Manager/Developers
 * Oplossingsspecialisten
 * Technische accountmanagers
 
-**Details examen:**
+**Details van examen:**
 
-* Niveau: Professioneel (0-12 maanden ervaring)
-* Voldoende score: 05-30-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 30/50
+* Tijd: 100 min
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Beschikbare talen: Engels
-* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Kosten: $125 (wereldwijd) / $95 (India)
 * Examen-id: AD0-E712
 
 **Zelfbeoordeling van gereedheid**
@@ -78,23 +78,23 @@ Sectie 1: [!DNL Magento Open Source] kernelement (49%)
 * Beschrijf de standaardreis van de klant
 * Beschrijf de standaard levenscyclus van de orde
 * Beschrijf de dagelijkse taken betrokken bij het onderhoud van de winkel
-* Beschrijf de verschillende typen inhoudselementen en wanneer te gebruiken
+* Verklaar de verschillende soorten inhoudselementen en wanneer om te gebruiken
 
-Sectie 2: Adobe [!DNL Commerce] basisbeginselen (14%)
+Deel 2: Adobe [!DNL Commerce] basisbeginselen (14%)
 
-* Belangrijkste kenmerken beschikbaar in Adobe identificeren [!DNL Commerce]
+* Belangrijke functies die beschikbaar zijn in de Adobe identificeren [!DNL Commerce]
 * Invoegtoepassingen voor services identificeren in Adobe [!DNL Commerce]
-* Identificeer het ontvangen opties voor Adobe [!DNL Commerce]
+* Identificeer gastheeropties voor Adobe [!DNL Commerce]
 
-Deel 3: Basisbegrippen voor digitale marketing en e-handel (24%)
+Sectie 3: Digitale marketing en de basisbeginselen van e-handel (24%)
 
-* Identificeer het basisgebruik van Digital Marketing-tools (Google Analytics/Adobe Analytics, Google Tag Manager, E-mailmarketing, Segmentatie, sociale plug-ins)
+* Identificeer het basisgebruik van Digital Marketing-tools (Googles Analytics/Adobe Analytics, Google Tag Manager, E-mailmarketing, Segmentatie, sociale plug-ins)
 * Verklaar de basisbeginselen van SEO
 * Identificeer het basisgebruik van gemeenschappelijke eCommerce hulpmiddelen (d.w.z., zoals het winkelvoer)
 * Belangrijkste kenmerken van een eCommerce-website identificeren
 * Identificeer de basisconcepten van de eCommerce (met inbegrip van archiefront opties)
 
-Sectie 4: Basisprincipes van compatibiliteit/beveiliging (13%)
+Sectie 4: Beginselen van naleving/beveiliging (13%)
 
 * Begrijp de grondbeginselen van naleving van privacywetten en betalingsbeveiliging
 * Gemeenschappelijke veiligheidsaspecten van een Adobe identificeren [!DNL Commerce] project
@@ -108,7 +108,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Voorbeeldvragen**
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmelding nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
 
 [Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
 
@@ -130,7 +130,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Winkelweergaven](https://docs.magento.com/user-guide/stores/stores-all-create-view.html){target="_blank"}
 * [Zoektermen beheren](https://docs.magento.com/user-guide/marketing/search-terms.html){target="_blank"}
 
-**Sectie 2: Adobe [!DNL Commerce] grondbeginselen**
+**Deel 2: Adobe [!DNL Commerce] grondbeginselen**
 
 * [Cloud Guide voor [!DNL Commerce]](https://devdocs.magento.com/cloud/bk-cloud.html){target="_blank"}
 * [[!DNL Magento] Inleiding Business Intelligence](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
@@ -141,7 +141,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Afhandeling](https://docs.magento.com/user-guide/sales/checkout-process.html){target="_blank"}
 * [Adobe [!DNL Commerce] Admin Systems Guide](https://docs.magento.com/user-guide/system/system.html){target="_blank"}
 
-**Deel 3: Basisprincipes van digitale marketing en e-commerce**
+**Deel 3: Basisbegrippen voor digitale marketing en e-handel**
 
 * [Aanbiedingen](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
 * [Hulp bij winkelen](https://docs.magento.com/user-guide/marketing/shopping-tools.html){target="_blank"}
@@ -151,7 +151,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Klantenreis](https://docs.magento.com/user-guide/quick-tour/customer-journey.html){target="_blank"}
 * [Business Intelligence Tools](https://docs.magento.com/user-guide/reports/business-intelligence.html){target="_blank"}
 
-**Sectie 4: Basisprincipes van compatibiliteit/beveiliging**
+**Sectie 4: Grondbeginselen van naleving/beveiliging**
 
 * [Richtlijnen voor toegankelijkheid](https://devdocs.magento.com/guides/v2.4/pattern-library/general/accessibilityguideline/accessibilityGuideline.html#visual){target="_blank"}
 * [Beveiliging](https://docs.magento.com/user-guide/stores/security.html){target="_blank"}
@@ -162,39 +162,24 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 ## Een praktijktest uitvoeren
 
 {{practice-test}}
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E712)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E712" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E712
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E712" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

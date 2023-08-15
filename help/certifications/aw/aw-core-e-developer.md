@@ -3,23 +3,23 @@ title: Certificering door de Core Developer Expert
 description: Leer hoe u een gecertificeerde Adobe Developer-expert in Adobe kunt worden [!DNL Workfront].
 solution: Workfront
 role: Developer
-badge: label="Exam AD0-E904" type="positive"
+badge: label="Examen AD0-E904" type="positive"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1531'
+source-wordcount: '1509'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Workfront] Core Developer Expert
 
-Leer hoe u een gecertificeerde Adobe Developer-expert kunt worden.
+Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Workfront] Core Developer Expert.
 
 ## Minimale ervaring
 
-U moet minstens 18-24 maanden ervaring hebben met [!DNL Workfront]en kan:
+U moet minstens 18-24 maanden ervaring hebben met Adobe [!DNL Workfront]en kan:
 
 * Navigeren door de [!DNL Workfront] systeem, begrijpen waar zijn functionaliteit verblijft
 * Alle aspecten van het systeem configureren
@@ -44,14 +44,14 @@ U moet minstens 18-24 maanden ervaring hebben met [!DNL Workfront]en kan:
 * Technisch consultant
 * Configuratieconsultant
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 06-36-64
-* Tijd: 130 minuten
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Voldoende score: 36/64
+* Tijd: 130 min
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Beschikbare talen: Engels
-* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E904
 
 **Zelfbeoordeling van gereedheid**
@@ -60,7 +60,7 @@ Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/laun
 
 **Doelstellingen en toepassingsgebied van examen**
 
-Sectie 1: Beheer en installatie van kernsystemen (17%)
+Sectie 1: Basissysteembeheer en -installatie (17%)
 
 * Bij een scenario beschrijft u manieren om machtigingen en toegang effectief te delen.
 * Op basis van een diagram selecteert u de juiste hiërarchische toegangsvolgorde.
@@ -79,7 +79,7 @@ Sectie 2: Inname, aangepaste formulieren en projectbeheer (17%)
 * Beschrijf op basis van een scenario wat moet worden gedaan om fouten in de rapportage en berekening aan te pakken.
 * In een scenario, identificeer ondersteunende elementen die zich aan malplaatjes lenen.
 
-Deel 3: Strategische functionaliteit - portefeuille- en programmamanagement, middelenbeheer (13%)
+Sectie 3: Strategische functionaliteit - portefeuille- en programmamanagement, middelenbeheer (13%)
 
 * Gezien een scenario, bepaal hoe te om post-project KPIs te vangen die in Portfolio Optimizer weerspiegeld worden.
 * In een scenario, pas het bedrijfsgeval aan om een verandering in het projectwerkingsgebied te weerspiegelen.
@@ -89,10 +89,10 @@ Deel 3: Strategische functionaliteit - portefeuille- en programmamanagement, mid
 * Op basis van een scenario bepaalt u de hoofdoorzaak.
 * Op basis van een scenario bepaalt u waarom een gebruiker te veel is toegewezen.
 
-Sectie 4: Documentbeheer en bewijsstukken (13%)
+Afdeling 4: Documentbeheer en bewijsmiddelen (13%)
 
 * Toon bij een scenario aan wanneer u documentbeheer of proefdrukken wilt gebruiken
-* Op basis van een scenario kunt u de beste werkwijzen identificeren voor het gebruik van de proefdrukviewer, instellingen en markeringsfunctionaliteit
+* In een scenario kunt u de beste werkwijzen identificeren voor het gebruik van de proefdrukviewer, instellingen en markeringsfunctionaliteit
 * Toon op basis van een scenario aan hoe u machtigingen voor een bestand kunt bewerken en instellen.
 * Toon bij een scenario hoe u externe documentopslag kunt instellen met beveiligingsbeperkingen
 
@@ -102,14 +102,14 @@ Sectie 5: Rapportage (13%)
 * Toon op basis van een rapport of filter de verdiensten aan van het gebruik van jokertekenwaarden.
 * Identificeer ouder-aan-kind verhoudingen in een rapport.
 * Beschrijf op basis van een scenario hoe rapportage een efficiënte uitvoering van het werk vergemakkelijkt.
-* Op basis van een scenario, illustreren [!DNL Workfront] Rapportage om gebruikerstoepassing te controleren en te verbeteren.
+* Op basis van een scenario [!DNL Workfront] Rapportage om gebruikerstoepassing te controleren en te verbeteren.
 
-Sectie 6: Methodologie/best practices/gebruiksgevallen (20%)
+Sectie 6: Methodologie/beste praktijken/gebruiksgevallen (20%)
 
-* Op basis van een scenario binnen [!DNL Workfront], functionaliteit tonen voor het instellen van tracering van te leveren items die deel uitmaken van één campagne.
-* Op basis van een scenario binnen [!DNL Workfront], functionaliteit aan te tonen rond strategische prioriteiten en rechtvaardiging van werkzaamheden.
-* Op basis van een scenario binnen [!DNL Workfront], functionaliteit tonen rond financiële middelen, gebruik, prognoses, factureringscijfers/records
-* Op basis van een scenario binnen [!DNL Workfront], functionaliteit tonen bij het instellen van de workflow en goedkeuringen.
+* Op basis van een scenario [!DNL Workfront], functionaliteit tonen voor het instellen van tracering van te leveren items die deel uitmaken van één campagne.
+* Op basis van een scenario [!DNL Workfront], functionaliteit aan te tonen rond strategische prioriteiten en rechtvaardiging van werkzaamheden.
+* Op basis van een scenario [!DNL Workfront], functionaliteit tonen rond financiële middelen, gebruik, prognoses, factureringscijfers/records
+* Op basis van een scenario [!DNL Workfront], functionaliteit tonen bij het instellen van de workflow en goedkeuringen.
 * Op basis van een scenario voor Agile, kunt u native functies identificeren om de voortgang te tonen.
 * Op basis van een scenario kunt u het beste een kader voor governance rond systeembeheer instellen wanneer u de instantie van een client uitbreidt.
 * Gezien een scenario, identificeer gebieden voor overweging wanneer het uitbreiden van de instantie van een cliënt om extra teams toe te laten om samen te werken.
@@ -119,7 +119,7 @@ Sectie 7: Zakelijk advies (8%)
 * Beschrijf op basis van een scenario het proces dat nodig is om die inspanning volledig te ondersteunen.
 * Gezien een scenario, verklaar hoe te om een bestaand Werkschema aan te passen om een recente verandering in een kritiek, lichte bedrijfsproces te ontmoeten.
 * Gezien een scenario, identificeer configuratiemontages die het moeilijkst zijn om in een bepaalde instantie te veranderen.
-* Gezien een scenario, identificeer de belangrijkste overwegingen van veranderingsbeheer voor een [!DNL Workfront] uitvoering
+* Gezien een scenario, identificeer de belangrijkste overwegingen van veranderingsbeheer voor [!DNL Workfront] uitvoering
 * Geef een aanbeveling op basis van een scenario.
 
 >[!TAB Vooraf ingesteld]
@@ -128,7 +128,7 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
-**Sectie 1: Beheer en installatie van kernsystemen**
+**Sectie 1: Basissysteembeheer en -installatie**
 
 * [Systeeminstellingen: groepen en gebruikers](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html%3Flang%3Dsv){target="_blank"}
 * [Hoe de toegangsniveaus en de toestemmingen samenwerken](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
@@ -152,9 +152,9 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Prioriteit geven aan en werk beheren met portfolio&#39;s](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html){target="_blank"}
 * [Risico&#39;s maken en bewerken voor projecten](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/create-edit-risks-on-projects.html){target="_blank"}
 * [De projectprioriteiten begrijpen en bijwerken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-priority.html){target="_blank"}
-* [Weergave: het voortkomen uitgeeft details voor taken en projecten](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-originating-issue-details-tasks-projects.html){target="_blank"}
+* [Weergave: details over de oorsprong van taken en projecten](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-originating-issue-details-tasks-projects.html){target="_blank"}
 
-**Sectie 4: Documentbeheer en proefdrukken**
+**Afdeling 4: Documentbeheer en bewijsmiddelen**
 
 * [Begrijp het verschil tussen een document en een proef](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html%3Flang%3Dzh-Hant){target="_blank"}
 * [Best practices - Proofing](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/proofing-bp.html){target="_blank"}
@@ -165,20 +165,20 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 * [Weergave: gegevens uit meerdere kolommen samenvoegen in één gedeelde kolom](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-merge-columns.html){target="_blank"}
 * [Filters maken met jokertekens op basis van gebruiker](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html){target="_blank"}
-* [Weergave: de ouder-kind verhouding in een taak tonen door de taken in te springen](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-parent-child-relationship-by-indenting-tasks-with-custom-view.html){target="_blank"}
+* [Weergave: de relatie bovenliggend-onderliggend item in een taak weergeven door de taken in te springen](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-parent-child-relationship-by-indenting-tasks-with-custom-view.html){target="_blank"}
 * [Rapporten en dashboards](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports-and-dashboards-overview.html){target="_blank"}
 * [Beste praktijken - Onboarding en adoptie](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 
-**Sectie 6: Methodologie/best practices/gebruiksgevallen**
+**Sectie 6: Methodologie/beste praktijken/gebruiksgevallen**
 
-* [Voortgang van project bijhouden](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
+* [Voortgang bijhouden vanaf de projecttijdlijn](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
 * [Prioriteit geven aan uw werk in [!DNL Workfront] Home](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home/prioritize-your-work-in-workfront-home.html){target="_blank"}
 * [Overzicht van facturering en inkomsten](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/billing-and-revenue-overview.html){target="_blank"}
 * [Informatie over bronnengebruik weergeven](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html){target="_blank"}
 * [Een goedkeuringsproces voor werkitems maken](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
 * [Geautomatiseerd workflowoverzicht](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html){target="_blank"}
 
-**Sectie 7: Bedrijfsadvisering**
+**Afdeling 7: Bedrijfsadvisering**
 
 * [Werkinspanning begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort.html){target="_blank"}
 * [Een sjabloon voor een geautomatiseerde workflow bewerken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/proof-workflows/edit-an-automated-workflow-template.html){target="_blank"}
@@ -191,39 +191,24 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 ## Een praktijktest uitvoeren
 
 {{practice-test}}
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E904)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E904" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E904
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E904" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

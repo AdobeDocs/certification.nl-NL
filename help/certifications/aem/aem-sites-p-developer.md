@@ -1,22 +1,22 @@
 ---
 title: Certificering van ontwikkelaars
-description: Leer hoe u een gecertificeerde Adobe Business Practitioner-expert kunt worden in [!DNL Experience Manager Sites].
+description: Leer hoe u een gecertificeerde Adobe Business Practitioner Expert in [!DNL Experience Manager Sites].
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E123" type="positive"
+badge: label="Examen AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '708'
-ht-degree: 2%
+source-wordcount: '697'
+ht-degree: 3%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Experience Manager Sites] Developer Professional
 
-Leer hoe u een gecertificeerde Adobe Business Practitioner-expert kunt worden.
+Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager Sites] Developer Professional.
 
 ## Minimale ervaring
 
@@ -40,14 +40,14 @@ U zou een toepassingsontwikkelaar moeten zijn en hebben:
 * Front End Developers
 * Software-engineers
 
-**Details examen:**
+**Details van examen:**
 
-* Niveau: Professioneel (0-12 maanden ervaring)
-* Voldoende score: 05-31-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (cameratoegang vereist)
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 31/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
 * Beschikbare talen: Engels
-* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Kosten: $125 (wereldwijd) / $95 (India)
 * Examen-id: AD0-E123
 
 **Doelstellingen en toepassingsgebied van examen**
@@ -56,7 +56,7 @@ Sectie 1: Configuraties (26%)
 
 * Erken het doel van AEM verzendersconfiguraties en caching
 * Bepaal de correcte stappen om multi-site in AEM te vormen
-* Verklaar hoe te om configuraties tot stand te brengen en te beheren OSGi
+* Verklaar hoe te om configuraties te creëren en te beheren OSGi
 * Bepaal de correcte stappen om de indexen van douaneOAK te beheren
 * Bepaal de correcte stappen om integratie te vormen OTB SAML of IMS
 
@@ -67,7 +67,7 @@ Sectie 2: AEM ontwikkeling (40%)
 * Op basis van een scenario de juiste stappen bepalen om workflows te ontwikkelen
 * Geef bij een scenario het doel van inhoudsfragmenten of ervaringsfragmenten weer
 
-Deel 3: Opbouwen en implementeren (12%)
+Sectie 3: Bouw en implementatie (12%)
 
 * Maven-projectstructuur definiëren
 * Projecten configureren van archetypen
@@ -87,7 +87,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Voorbeeldvragen**
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmelding nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
 
 [Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
 
@@ -97,7 +97,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [AEM 6.4 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
 * [Overzicht van verzending](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
 
-**Sectie 2: AEM**
+**Deel 2: AEM ontwikkeling**
 
 * [AEM 6.4 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
 * [AEM 6.5 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
@@ -105,19 +105,19 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Introductie van kerncomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html){target="_blank"}
 * [Basisbeginselen van componenten](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html){target="_blank"}
 
-**Deel 3: Samenstellen en implementeren**
+**Sectie 3: Bouwen en implementeren**
 
 * [Introductie van kerncomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html){target="_blank"}
 * [Aan de slag met [!DNL AEM Sites] - WKND-zelfstudie](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html){target="_blank"}
 
 
-**Sectie 4: Omgevingsonderhoud**
+**Deel 4: Milieu-onderhoud**
 
 * [AEM 6.4 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en){target="_blank"}
 * [AEM 6.4 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
 * [Operations-dashboard](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en#automated-maintenance-tasks){target="_blank"}
-* [Opmerkingen bij de release voor Adobe [!DNL Experience Manager] 6,5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] -overzicht](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [Opmerkingen bij de release ter Adobe [!DNL Experience Manager] 6,5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] -overzicht](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=nl){target="_blank"}
 * [Introductie van kerncomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html)
 * [[!DNL AEM as Cloud Service] video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html){target="_blank"}
 * [Adobe [!DNL Experience Manager] Updates en routekaart vrijgeven](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html){target="_blank"}
@@ -126,28 +126,20 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E123)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E123
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E123" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

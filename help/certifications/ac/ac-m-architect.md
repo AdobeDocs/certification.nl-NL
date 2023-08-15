@@ -1,55 +1,55 @@
 ---
-title: Master certificering architect
+title: Basiscertificering architect
 description: Leer hoe u een gecertificeerde Adobe architect master in Adobe kunt worden [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Data Architect
 level: Experienced
-badge: label="Exam AD0-E718" type="positive"
+badge: label="Examen AD0-E718" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '850'
 ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Commerce] Architect Master
+# Certificeringsreis voor [!DNL Adobe Commerce] Architect Master
 
-Leer hoe u een gecertificeerde Adobe architect Master kunt maken.
+Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Commerce] Architect Master.
 
 ## Minimale ervaring
 
-U moet minimaal 3-5 jaar ervaring hebben met het opleiden [!DNL Commerce] ontwikkelingsprojecten en kunnen, oplossingen aan bedrijfsproblemen ontwerpen integreren uitvoeren en verklaren door Adobe te gebruiken [!DNL Commerce] samen met de bijbehorende diensten.
+U moet minstens 3-5 jaar ervaring hebben met het opleiden [!DNL Commerce] ontwikkelingsprojecten en kunnen, oplossingen aan bedrijfsproblemen ontwerpen integreren uitvoeren en verklaren door te gebruiken [!DNL Adobe Commerce] samen met de bijbehorende diensten.
 
 Bovendien, zou u zeer vertrouwd met de volgende activiteiten en de technologieën moeten zijn:
 
 * Basisfuncties uitbreiden
-* Adobe configureren [!DNL Commerce] volledig
+* Configureren [!DNL Adobe Commerce] volledig
 * Creeer volledige blauwdruk van hoe een uitbreiding zou moeten werken, vereisten van bedrijf aan blauwdruk van hoe het zou moeten werken, zonder het moeten in de code gaan
 * Begrijp bedrijfsbehoeften/eigenschappen
 * Prestatieimplicaties van oplossingen en uitbreidingen
-* Logica voor servicecontracten
+* Servicecontracten logica
 * GraphQL
 * Composer begrijpen als een hulpprogramma voor afhankelijkheid
-* Werkexemplaar van Adobe instellen en configureren [!DNL Commerce] helemaal opnieuw
+* Werkexemplaar van Adobe instellen en configureren [!DNL Adobe Commerce] krassen
 * Beheerdashboard aanpassen, rasters en formulieren maken
-* Cachebeheer en indexbeheer; aangepaste index maken
+* Cache- en indexbeheer; aangepaste index maken
 * Nieuw cachetype maken
 * Verschillende problemen in de omgeving oplossen en er fouten in opsporen
 * Databaseschema uitbreiden en beheren
 * Beveiligingsfuncties, zorgen voor een veilige installatie en ontwikkelingsuitbreiding
-* Voer op server-gebaseerde diensten uit die [!DNL Commerce] connects (Redis, Varnish configuratiemanagement)
+* Voer op server-gebaseerde diensten uit die [!DNL Adobe Commerce] connects (Redis, Varnish configuratiemanagement)
 * Bewust met de beste codeerstandaardpraktijken, Coderingsnormen, PSR, SOLID-beginsel
-* Instellen en gebruiken [!DNL Commerce] Services Connector (en bijbehorende services)
+* Instellen en gebruiken [!DNL Adobe Commerce] Services Connector (en bijbehorende services)
 * Inhoudsbeheer opslaan
-* Adobe begrijpen [!DNL Commerce] standaardinstellingen, indien beschikbaar en niet beschikbaar
-* Brede kennis van alle aanverwante [!DNL Commerce] domein
+* Begrijpen [!DNL Adobe Commerce] standaardinstellingen, indien beschikbaar en niet beschikbaar
+* Brede kennis van alle aanverwante zaken [!DNL Adobe Commerce] domein
 * Ontwerpprojectarchitectuur
-* Prestaties van Adobe optimaliseren [!DNL Commerce] default
+* Prestaties optimaliseren van [!DNL Adobe Commerce] default
 * B2B maken en wijzigen
-* AMQP-protocol en -adapters in Adobe [!DNL Commerce] (S3)
+* AMQP-protocol en -adapters in [!DNL Adobe Commerce] (S3)
 
 >[!NOTE]
 >
@@ -61,7 +61,7 @@ Bovendien, zou u zeer vertrouwd met de volgende activiteiten en de technologieë
 
 **Beoogd publiek:**
 
-* Loodsoftware/[!DNL Commerce] Architect
+* Loodsoftware/[!DNL Adobe Commerce] Architect
 * Technisch architect
 * Architect van oplossing
 * Technische leiding
@@ -73,14 +73,14 @@ Bovendien, zou u zeer vertrouwd met de volgende activiteiten en de technologieë
 * Back-end Software Engineer
 * Hoogste technisch adviseur
 
-**Details examen:**
+**Details van examen:**
 
-* Niveau: Master (3-5 jaar ervaring)
-* Voldoende score: 05-29-50
+* Niveau: master (3-5 jaar ervaring)
+* Voldoende score: 29/50
 * Tijd: 120 minuten
-* Aflevering: Online geproctoreerd (cameratoegang vereist)
+* Aflevering: online geprocoreerd (cameratoegang vereist)
 * Beschikbare talen: Engels
-* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E718
 
 **Zelfbeoordeling van gereedheid**
@@ -91,7 +91,7 @@ Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/laun
 
 Sectie 1: Ontwerp (46%)
 
-* Optimale oplossingen ontwerpen en implementeren voor Adobe [!DNL Commerce] om aan bedrijfsbehoeften te voldoen
+* Optimale oplossingen voor Adobe ontwerpen en implementeren [!DNL Commerce] om aan bedrijfsbehoeften te voldoen
 * Ontwerp logische en technische stromen
 * Aanpassen [!DNL Commerce] functies
 * Adobe integreren [!DNL Commerce] met externe systemen en diensten
@@ -99,20 +99,20 @@ Sectie 1: Ontwerp (46%)
 
 Sectie 2 - Evaluatie (32%)
 
-* Controle en refactor bestaande Adobe [!DNL Commerce] aanpassingen
+* Controle en refactor van bestaande Adobe [!DNL Commerce] aanpassingen
 * Gebruiken [!DNL Commerce] testframeworks gedurende de gehele werkstroom
 * Prestaties en schaalbaarheid optimaliseren voor Adobe [!DNL Commerce]
 * Los problemen op om de worteloorzaak van kwesties met Adobe te identificeren [!DNL Commerce]
 * Coderingsnormen handhaven
 
-Deel 3: Configureren en implementeren (22%)
+Sectie 3: Configureren en implementeren (22%)
 
 * Adobe configureren [!DNL Commerce] en zorg ervoor dat het project optimaal is ingesteld
 * Alle aspecten van Adobe configureren [!DNL Commerce] Wolk
 * Implementatieproces controleren en verbeteren
 * Problemen met infrastructuur en configuratie oplossen
 
-Sectie 4: Basisprincipes van compatibiliteit/beveiliging (13%)
+Sectie 4: Beginselen van naleving/beveiliging (13%)
 
 * Begrijp de grondbeginselen van naleving van privacywetten en betalingsbeveiliging
 * Gemeenschappelijke veiligheidsaspecten van een Adobe identificeren [!DNL Commerce] project
@@ -126,7 +126,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Voorbeeldvragen**
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmelding nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
 
 [Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e718-adobe-commerce-architect-master-copy-kzcvh7){target="_blank"}
 
@@ -143,7 +143,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Verificatie](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"}
 * [GraphQL-overzicht](https://devdocs.magento.com/guides/v2.4/graphql/index.html){target="_blank"}
 
-**Sectie 2: Controleren**
+**Afdeling 2: Herziening**
 
 * [Inleiding](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
 * [Een aangepast tekstveldkenmerk toevoegen](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html){target="_blank"}
@@ -152,7 +152,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Best practices voor](https://support.magento.com/hc/en-us/categories/360002582351-Best-Practices-){target="_blank"}
 * [Varnish configureren](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
 
-**Deel 3: Configureren en implementeren**
+**Sectie 3: Vorm en Implementeer**
 
 * [Referentiehandleiding voor configuratie](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
 * [Configuratiebestanden voor implementatie](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
@@ -165,35 +165,20 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E718)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E718
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

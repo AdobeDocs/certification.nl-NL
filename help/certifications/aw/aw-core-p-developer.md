@@ -3,37 +3,37 @@ title: Core Developer Professional-certificering
 description: Leer hoe u een gecertificeerde Adobe Developer Professional in Adobe kunt worden [!DNL Workfront].
 solution: Workfront
 role: Developer
-badge: label="Exam AD0-E905" type="positive"
+badge: label="Examen AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1034'
+source-wordcount: '1011'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Workfront] Core Developer Professional
 
-Leer hoe je een gewaarmerkte Adobe Developer professional kunt worden.
+Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Workfront] Core Developer professional.
 
 ## Minimale ervaring
 
 U zou moeten hebben:
 
-* Ten minste 3 - 6 maanden praktijkervaring met Adobe [!DNL Workfront]
+* Minstens 3 - 6 maanden praktijkervaring met Adobe [!DNL Workfront]
 * Ervaring met Adobe [!DNL Workfront] functionaliteit en connectiviteit via inname, goedkeuring, planning, uitvoering en rapportage
-* Een diepgaand begrip van Adobe [!DNL Workfront] objecttypen, waaronder aangepaste formulieren en goedkeuringswerkstromen, sjablonen, duur, werkinspanning/geplande uren
-* Een diepgaand begrip van Adobe [!DNL Workfront] Opstelling, met inbegrip van toegangsniveaus, lay-outmalplaatjes, projectvoorkeur, en andere methodes om eenvoud van eindgebruikerontwerp te bereiken
-* Kennis van en ervaring met het toewijzen van processen
+* Een diepgaand inzicht in de Adobe [!DNL Workfront] objecttypen, waaronder aangepaste formulieren en goedkeuringswerkstromen, sjablonen, duur, werkinspanning/geplande uren
+* Een diepgaand inzicht in de Adobe [!DNL Workfront] Opstelling, met inbegrip van toegangsniveaus, lay-outmalplaatjes, projectvoorkeur, en andere methodes om eenvoud van eindgebruikerontwerp te bereiken
+* Kennis van en ervaring met procesmapping
 * Een begrip van verschillende Adobe [!DNL Workfront] persona&#39;s en hoe u ondersteuning kunt bieden
 
-En u zou moeten hebben:
+En u moet:
 
 * Kennis met [!DNL Workfront] API- en API-verkenner, maar niet noodzakelijkerwijs deskundig in API-aanroepen
 * De mogelijkheid om aangepaste API-aanroepen te gebruiken voor het werken met [!DNL Workfront] en andere API&#39;s
 * Kennis van Adobe [!DNL Workfront]
-* Vertrouwdheid met inheemse schakelaars en andere Adobe [!DNL Workfront] producten en diensten
+* Vertrouwdheid met native connectors en andere Adobe [!DNL Workfront] producten en diensten
 * Kennis van het projectbeheer, inclusief flexibiliteit en waterval, en concepten voor middelenbeheer
 
 >[!NOTE]
@@ -56,14 +56,14 @@ En u zou moeten hebben:
 * IT-specialist
 * [!DNL Workfront] implementatieconsultant/lead
 
-**Details examen:**
+**Details van examen:**
 
-* Niveau: Professioneel (0-12 maanden ervaring)
-* Voldoende score: 04-40-70
-* Tijd: 140 minuten
-* Aflevering: Online geproctoreerd (cameratoegang vereist)
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 44/70
+* Tijd: 140 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
 * Beschikbare talen: Engels
-* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Kosten: $125 (wereldwijd) / $95 (India)
 * Examen-id: AD0-E905
 
 **Zelfbeoordeling van gereedheid**
@@ -115,20 +115,20 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Voorbeeldvragen**
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmelding nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
 
 [Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
 
-**Sectie 1: Strategie en gebruik**
+**Deel 1: Strategie en inname**
 
-* [Beste praktijken - Portfolio en programma&#39;s](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/portfolios-programs-bp.html){target="_blank"}
-* [Portfolio-overzicht in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/portfolio-overview-in-adobe-workfront/portfolio-overview.html){target="_blank"}
+* [Beste praktijken - Portfolio&#39;s en programma&#39;s](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/portfolios-programs-bp.html){target="_blank"}
+* [Overzicht van Portfolio&#39;s in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/portfolio-overview-in-adobe-workfront/portfolio-overview.html){target="_blank"}
 * [Een aanvraagwachtrij maken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
-* [Inzicht in aanvraagwachtrijen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
+* [Vragenrijen begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
 * [Overzicht van aangepaste formulieren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
 * [Een aangepast formulier maken en delen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
 
-**Sectie 2: Begroting en planning**
+**Afdeling 2: Begroting en planning**
 
 * [Resourceplanning in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-planning-overview.html){target="_blank"}
 * [Wat is de Resource Planner?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html){target="_blank"}
@@ -137,7 +137,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Projectsjablonen bewerken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/edit-templates.html){target="_blank"}
 * [Beste praktijken - de malplaatjes van het Project](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/project-templates-bp.html){target="_blank"}
 
-**Deel 3: Gebruikerservaring**
+**Sectie 3: Ervaring voor gebruikers**
 
 * [Beste praktijken - Onboarding en adoptie](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 * [Een individueel gebruikersprofiel maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
@@ -164,37 +164,22 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E905)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E905
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

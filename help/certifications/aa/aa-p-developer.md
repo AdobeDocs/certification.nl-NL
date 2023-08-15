@@ -8,16 +8,16 @@ level: Experienced
 badge: label="Examen AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1141'
+source-wordcount: '1120'
 ht-degree: 3%
 
 ---
 
 # Certificeringsreis voor [!DNL Adobe Analytics] Developer Professional
 
-Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Analytics] Developer Professional.
+Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Analytics] Developer Professional.
 
 ## Minimale ervaring
 
@@ -170,35 +170,20 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 >
 >Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
-## Over het examen
-
-{{about-certification-exam}}
-
 ## Een praktijktest uitvoeren
 
 {{practice-test}}
 
-## Neem het examen (AD0-E213)
+## Ongeveer het certificatieexamen
 
-### Beschikbare opties
+{{about-certification-exam}}
 
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E213" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E213
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E213" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

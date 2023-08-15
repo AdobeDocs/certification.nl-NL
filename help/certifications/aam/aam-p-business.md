@@ -1,23 +1,23 @@
 ---
 title: Bedrijfs Praktijkgerichte Beroeps certificatie
-description: Leer hoe u gecertificeerd kunt worden als een Adobe [!DNL Audience Manager] Zakelijke beroepsbeoefenaar.
+description: Leer hoe u gecertificeerd kunt worden als Adobe [!DNL Audience Manager] Zakelijke beroepsbeoefenaar.
 solution: Audience Manager
 product: Audience Manager
 role: User
 level: Experienced
-badge: label="Exam AD0-E458" type="positive"
+badge: label="Examen AD0-E458" type="positive"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '907'
+ht-degree: 7%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Audience Manager] Professional
+# Certificeringsreis voor Adobe [!DNL Audience Manager] Professioneel als bedrijf
 
-Leer hoe u gecertificeerd kunt worden als een [!DNL Audience Manager] Zakelijke beroepsbeoefenaar.
+Leer hoe u gecertificeerd bent als een [!DNL Audience Manager] Zakelijke beroepsbeoefenaar.
 
 ## Minimale ervaring
 
@@ -37,14 +37,14 @@ U zou een basisbegrip van gegevensstromen, bedrijfsdoelstellingen en KPIs, met w
 * Marketing Data Analyse
 * Data Platforms Manager
 
-**Details examen:**
+**Details van examen:**
 
-* Niveau: Professioneel (0-12 maanden ervaring)
-* Voldoende score: 05-31-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (cameratoegang vereist)
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 31/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
 * Beschikbare talen: Engels
-* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Kosten: $125 (wereldwijd) / $95 (India)
 * Examen-id: AD0-E458
 
 **Doelstellingen en toepassingsgebied van examen**
@@ -53,7 +53,7 @@ Sectie 1: Segment maken en synchroniseren (32%)
 
 * Identificeer manieren om eerste, tweede, en derdegegevens voor gerichte en analytische doeleinden te gebruiken
 * Beschrijf het basisproces voor de activering van zaken of campagnedoelstellingen
-* De methoden voor segmentactivering onderscheiden
+* Verschil de methoden voor segmentactivering
 * Identificeer de verschillende soorten bestemmingen
 * De verschillende typen bronnen identificeren
 
@@ -62,9 +62,9 @@ Sectie 2: Trait Creation (16%)
 * Op basis van een scenario signalen, kenmerken, segmenten en doelgroepen identificeren
 * Identificeer het gebruik van verschillende types van eigenschappen
 
-Deel 3: Rapportage en metingen (16%)
+Sectie 3: Rapportage en metingen (16%)
 
-* Op basis van een scenario rapporten genereren om de activerings- of campagnedoelstellingen te meten
+* Op basis van een scenario rapporten genereren om activering of campagnedoelstellingen te meten
 * Vergelijk, in een scenario, het publiek op basis van gelijke tarieven
 
 Sectie 4: Problemen oplossen (10%)
@@ -72,14 +72,14 @@ Sectie 4: Problemen oplossen (10%)
 * Gezien een scenario, los binnenkomende gegevens van verschillende bronnen en brontypes problemen op
 * Indeling voor inkomende gegevensbestanden valideren
 
-Sectie 5: Taxonomie (12%)
+Afdeling 5: Taxonomie (12%)
 
 * Bepaal de aangewezen structuur om eigenschappen en segmenten tot stand te brengen die een duidelijke en verenigbare nomenclatuur gebruiken
 * De juiste techniek bepalen om een georganiseerd platform te onderhouden met behulp van een duidelijke mapstructuur
 
 Sectie 6: Profiel samenvoegen, ID synchroniseren en Audience Marketplace
 
-* Gebruikerseigenschappen indelen in één enkel profiel om een publiek in een huishouden of op een apparaat gebaseerd publiek te maken
+* Gebruikerseigenschappen indelen in één uniform profiel om een publiek in een huishouden of op een apparaat te maken
 * Activering identificeren met Audience Marketplace
 
 >[!TAB Vooraf ingesteld]
@@ -90,11 +90,11 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Voorbeeldvragen**
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmelding nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
 
 [Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
 
-**Sectie 1: Segmentaanmaak en -syndicatie**
+**Sectie 1: Maken en samenbrengen van segmenten**
 
 * [Bulkgebruik van uploadgegevens naar Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.html){target="_blank"}
 * [Segmenten](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html){target="_blank"}
@@ -104,18 +104,18 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Pagina Segmentdetails](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-summary-view.html){target="_blank"}
 * [Tips voor klanten - aanbevolen procedures voor kenmerken en segmenten](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.html%3Flang%3Dja){target="_blank"}
 
-**Sectie 2: Trait creation**
+**Sectie 2: Aanmaken van sporen**
 
 * [Signalen, eigenschappen en segmenten](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html){target="_blank"}
 * [Segmenten: doel, samenstelling en regels](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html){target="_blank"}
-* [Experience Platform segment delen met [!DNL Audience Manager] en andere Experience Cloud-oplossingen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html){target="_blank"}
+* [Experience Platform segment delen met [!DNL Audience Manager] en andere oplossingen voor Experience Cloud](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html){target="_blank"}
 * [Referenties voor eigenschap- en segmentkwalificaties](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html){target="_blank"}
 * [Populatiedata van eigenschappen en segmenten in Segment Builder](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-builder-data.html){target="_blank"}
 
-**Deel 3: Rapportage en metingen**
+**Sectie 3: Rapportage en metingen**
 
-* [Audience Optimization-rapporten gebruiken om de mediaprestaties te begrijpen](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
-* [Experience Platform segment delen met [!DNL Audience Manager] en andere Experience Cloud-oplossingen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html){target="_blank"}
+* [De prestaties van Audiencen Optimization begrijpen met behulp van rapporten](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
+* [Experience Platform segment delen met [!DNL Audience Manager] en andere oplossingen voor Experience Cloud](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html){target="_blank"}
 * [Overeenstemmen met tarieven](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html){target="_blank"}
 * [Een gegevensbron maken voor Analytics-gegevens](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/data-sources/create-a-data-source-for-analytics-data.html?lang=ru){target="_blank"}
 
@@ -128,14 +128,14 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Opname van binnenkomende realtimedata](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/real-time-inbound-data-integration/real-time-data-transfer.html){target="_blank"}
 * [Id-synchronisatie voor overdracht van binnenkomende data](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-http.html){target="_blank"}
 
-**Sectie 5: Taxonomie**
+**Afdeling 5: Taxonomie**
 
 * [Mapeigenschappen: Info](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
 * [Opslag van eigenschappen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-storage.html){target="_blank"}
 * [Een taxonomie maken](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html){target="_blank"}
 * [Inzicht in segmentering](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/personalization/segmentation.html){target="_blank"}
 
-**Sectie 6: Profielsamenvoeging, id-synchronisatie en Audience Marplace**
+**Sectie 6: Profielsamenvoeging, ID-synchronisatie en Audience Marplace**
 
 * [Hoe de Verbeteringen van de Regel van de Fusie van het Profiel segmentatie, activering, en rapportering beïnvloeden](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/profile-merge/how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.html){target="_blank"}
 * [Een conversietekenmerk maken in [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html){target="_blank"}
@@ -146,24 +146,20 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E458)
-
-### Beschikbare opties
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E458
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E458" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

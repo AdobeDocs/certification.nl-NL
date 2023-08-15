@@ -1,31 +1,31 @@
 ---
 title: Certificering door experts voor zakelijke gebruikers
-description: Leer hoe u een gecertificeerd expert bent voor zakelijke Adobe--praktijkvoorbeelden in Adobe [!DNL Commerce].
+description: Leer hoe u als Adobe-expert in Adobe bent gecertificeerd voor Business Practitioner [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: User
 level: Experienced
-badge: label="Exam AD0-E708" type="positive"
+badge: label="Examen AD0-E708" type="positive"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1443'
+source-wordcount: '1417'
 ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Commerce] Expert aan de praktijk
+# Certificeringsreis voor [!DNL Adobe Commerce] Expert aan de praktijk van bedrijven
 
-Leer hoe u een gecertificeerde Adobe Business Practitioner-expert kunt worden.
+Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Commerce] Expert van de beroepsbeoefenaar.
 
 ## Minimale ervaring
 
-U moet ongeveer 1-3 jaar hands-on hebben [!DNL Commerce] ervaring en een breed begrip van de ervaring op het gebied van e-handel.
+U moet ongeveer 1-3 jaar praktische [!DNL Commerce] ervaring en een breed begrip van de ervaring op het gebied van e-handel.
 
 U moet ervaring hebben met:
 
-* Digitale marketing: SEO, CMS, verkooptechnieken zoals cross-selling en up-selling, Google Analytics begrijpen, e-mailsjablonen
+* Digitale marketing: SEO, CMS, verkooptechnieken zoals cross-selling en up-selling, Googles Analytics begrijpen, e-mailsjablonen
 * De veiligheid, naleving, en privacywetten, zoals PCI, GDPR, ADA, CAN-SPAM, PSD2
 * Verkoop-/marketingstrategieën zoals omnichannel en multichannel
 * Ervaring op het gebied van projectbeheer, het verzamelen van vereisten, integratiestromen, algemene e-commercewetten, methodologieën voor softwareontwikkeling, en toezicht
@@ -36,7 +36,7 @@ U moet ervaring hebben met:
 En, zou u moeten comfortabel zijn gebruikend de volgende technologieën:
 
 * Adobe [!DNL Commerce] - versie 2.4
-* Gereedschappen voor analyse en prestaties: Google Analytics, tagbeheer, SWAT, New Relic, Fastly, Google Lighthouder
+* Gereedschappen voor analyse en prestaties: Googles Analytics, tagbeheer, SWAT, New Relic, Fastly, Google Lighthouse
 * Beveiligingsgereedschappen: PCI-compatibiliteit, ADA, GDPR enzovoort
 * Cloud- of on-premise-architectuur
 
@@ -58,14 +58,14 @@ En, zou u moeten comfortabel zijn gebruikend de volgende technologieën:
 * Admin/Director/Manager/Consultant
 * Digital Marketing Director/Manager/Developer
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 05-31-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Voldoende score: 31/50
+* Tijd: 100 min
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Beschikbare talen: Engels
-* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E708
 
 **Zelfbeoordeling van gereedheid**
@@ -76,14 +76,14 @@ Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/laun
 
 Sectie 1: Basisfuncties/Algemene configuratie (46%)
 
-* De functies van Adobe identificeren [!DNL Commerce] Open Source Edition en [!DNL Commerce] Edition
+* De kenmerken van Adobe identificeren [!DNL Commerce] Open Source Edition en [!DNL Commerce] Edition
 * De verschillen tussen alle edities van Adobe onderscheiden [!DNL Commerce] producten
 * Bepaal hoe te om producttypes en hun eigenschappen te gebruiken om aan klantenvereisten te voldoen
 * Vereisten en modellen interpreteren om te bepalen of aan deze vereisten kan worden voldaan met native functionaliteit
 * Toon kennis van het beheerpaneel en de plaats van gemeenschappelijke eigenschappen aan
-* De mogelijkheid voor importeren/exporteren van Adobe aantonen [!DNL Commerce] entiteiten
+* De Adobe voor importeren/exporteren van bestanden aantonen [!DNL Commerce] entiteiten
 * Begrijp hoe te om kar en controle te vormen
-* Evalueer de native beschikbare verzendmethoden in Adobe [!DNL Commerce] en de wijze waarop zij van toepassing zijn op algemene gebruiksgevallen
+* Evalueer de native beschikbare verzendmethoden in de Adobe [!DNL Commerce] en de wijze waarop zij van toepassing zijn op algemene gebruiksgevallen
 * Gestileerde inhoud maken en publiceren met de Adobe [!DNL Commerce] CMS-functies waaronder PageBuilder
 * Native tools gebruiken om de levenscyclus van uw bestelling te beheren
 * Toon de capaciteit aan om de diverse het giften opties (geschenkkaarten, gift het verpakken, geeft berichten) te vormen
@@ -96,20 +96,20 @@ Sectie 2: Merchandising (10%)
 * Toon capaciteit aan om categorieën en producten te beheren
 * Begrijp de verschillende prijsconfiguraties en hoe zij de definitieve prijs beïnvloeden
 
-Deel 3: Digitale marketing (4%)
+Sectie 3: Digitale marketing (4%)
 
 * Aanbevolen beste praktijken voor SEO gebruikend inheemse eigenschappen
-* Algemene meetwaarden in Google Analytics en BI beoordelen
+* Algemene meetgegevens in Googles Analytics en BI beoordelen
 
-Sectie 4: Modules en aanvullende producten (18%)
+Sectie 4: Modules voor toevoeging en aanvullende producten (18%)
 
 * Beschrijf de functionaliteit B2B en hoe het op gemeenschappelijke scenario&#39;s B2B betrekking heeft
 * Pas bedrijfsvereisten toe om een oplossing voor te stellen die MSI gebruikt
-* Verklaar de voordelen en hoe te om BI aan Adobe te gebruiken [!DNL Commerce] oplossing
+* Verklaar de voordelen en hoe te om BI aan de Adobe te gebruiken [!DNL Commerce] oplossing
 * De verschillen tussen native zoekopdracht en LiveSearch onderscheiden
 * Bedrijfsvereisten toepassen om te bepalen hoe belastingen, rechten en vrijstellingen in een B2B-omgeving moeten worden toegepast
 * Begrijp hoe te om op maat gemaakte tarifering op een B2B klant toe te passen
-* De verschillen tussen Adobe begrijpen [!DNL Commerce] native product en aanbevelingen voor Adobe Sensei-producten
+* Begrijp de verschillen tussen Adobe [!DNL Commerce] native product en aanbevelingen voor Adobe Sensei-producten
 
 Sectie 5: Systeemarchitectuur (10%)
 
@@ -122,7 +122,7 @@ Sectie 6: Naleving/beveiliging (12%)
 
 * Toon hoe te om de Adobe te beveiligen [!DNL Commerce] gegevenstoegang met rollen en toestemmingen
 * Begrijp de grondbeginselen van naleving van privacywetten en betalingsbeveiliging
-* Verklaar gemeenschappelijke veiligheidsaspecten van een Adobe [!DNL Commerce] project
+* Gemeenschappelijke veiligheidsaspecten van een Adobe verklaren [!DNL Commerce] project
 * Begrijp de grondbeginselen van belastingwetten en hoe te te vormen
 
 >[!TAB Vooraf ingesteld]
@@ -141,7 +141,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Gegevensrasters](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-2-data-grids.html){target="_blank"}
 * [Opslaginstellingen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-7-business-settings.html){target="_blank"}
 * [Inleiding tot winkels en aankopen](https://docs.magento.com/user-guide/stores/stores.html){target="_blank"}
-* [Inleiding tot beheersystemen: Operationeel beheer](https://docs.magento.com/user-guide/operations.html){target="_blank"}
+* [Inleiding tot beheersystemen: operationeel beheer](https://docs.magento.com/user-guide/operations.html){target="_blank"}
 * [Invoer- en uitvoerproducten](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-7-import-export-products.html){target="_blank"}
 * [Gegevensoverdracht](https://docs.magento.com/user-guide/system/data-transfer.html){target="_blank"}
 * [Winkelwagentje](https://docs.magento.com/user-guide/sales/cart.html){target="_blank"}
@@ -170,15 +170,15 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Inleiding tot catalogusbeheer](https://docs.magento.com/user-guide/catalog.html){target="_blank"}
 * [Geavanceerde prijzen](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
 
-**Deel 3: Digitale marketing**
+**Afdeling 3: Digitale marketing**
 
-* [Inleiding tot [!DNL Commerce] merchandising en promoties](https://docs.magento.com/user-guide/marketing.html){target="_blank"}
+* [Inleiding tot [!DNL Commerce] merchandising en promotie](https://docs.magento.com/user-guide/marketing.html){target="_blank"}
 * [Overzicht van SEO](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
 * [Aan de slag met Business Intelligence (webinar-opname)](https://business.adobe.com/resources/getting-started-magento-business-intelligence.html){target="_blank"}
 * [Google-sitegereedschappen](https://docs.magento.com/user-guide/marketing/google-tools.html){target="_blank"}
 * [Business Intelligence Tools](https://docs.magento.com/user-guide/reports/business-intelligence.html){target="_blank"}
 
-**Sectie 4: Modules en aanvullende producten**
+**Sectie 4: Modules voor toevoeging en aanvullende producten**
 
 * [B2B-functies](https://docs.magento.com/user-guide/configuration/general/b2b-features.html){target="_blank"}
 * [Inleiding tot B2B voor Adobe [!DNL Commerce]](https://docs.magento.com/user-guide/stores/b2b-features.html){target="_blank"}
@@ -197,9 +197,9 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Handel voor zakelijke gebruikers - Winefront](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-1-storefront-experience.html){target="_blank"}
 * [Winkeldetails](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
 * [Menu Rapporten](https://docs.magento.com/user-guide/reports.html){target="_blank"}
-* [Aan de slag met Adobe Commerce web-API&#39;s](https://devdocs.magento.com/guides/v2.4/get-started/bk-get-started-api.html){target="_blank"}
+* [Aan de slag met Adobe Commerce-web-API&#39;s](https://devdocs.magento.com/guides/v2.4/get-started/bk-get-started-api.html){target="_blank"}
 
-**Sectie 6: Naleving/beveiliging**
+**Deel 6: Naleving/beveiliging**
 
 * [Gebruikers en rollen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-5-users-roles.html){target="_blank"}
 * [Rolbereik en machtigingen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-6-role-scopes.html){target="_blank"}
@@ -213,39 +213,24 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 ## Een praktijktest uitvoeren
 
 {{practice-test}}
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E708)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E708" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E708
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E708" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

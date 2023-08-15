@@ -4,33 +4,33 @@ description: Leer hoe u een gecertificeerde Adobe Developer-expert in Adobe kunt
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Exam AD0-E720" type="positive"
+badge: label="Examen AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: 36b073c50eb5cc84bac1b3ea65fd3ecba3e71a8f
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1046'
 ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Commerce] Front-end ontwikkelaarsexpert
+# Certificeringsreis voor [!DNL Adobe Commerce] Front-end ontwikkelaarsexpert
 
-Leer hoe u een gecertificeerde Adobe Developer-expert kunt worden.
+Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Commerce] Ontwikkelaarsexpert.
 
 >[!NOTE]
 >
->Dit is het nieuwste Adobe Commerce Front End Developer Expert examen. Als u al bent begonnen met studeren of de [oudere versie](ac-e-fedeveloper.md) u hebt tot 18 augustus 2023 de tijd om het te voltooien.
+>Dit is de nieuwste [!DNL Adobe Commerce] Expert-examen voor ontwikkelaars aan de voorzijde. Als u al bent begonnen met studeren of de [oudere versie](ac-e-fedeveloper.md) u hebt tot 18 augustus 2023 de tijd om het te voltooien.
 
 ## Minimale ervaring
 
-De Adobe Commerce Frontend Developer wordt beschouwd als een professionele rol en heeft minstens 1 tot 3 jaar praktijkervaring met Adobe Commerce Frontend-ontwikkeling. Zij moeten in staat zijn de behoeften die door taakvereisten worden uitgedrukt, om te zetten in een technische oplossing.
+De [!DNL Adobe Commerce] Frontend Developer wordt beschouwd als een professionele rol en heeft minstens 1 tot 3 jaar praktijkervaring met de ontwikkeling van Adobe Commerce Frontend. Zij moeten in staat zijn de behoeften die door taakvereisten worden uitgedrukt, om te zetten in een technische oplossing.
 
 De kandidaat moet comfortabel zijn met de volgende technologieën:
 
-* Adobe Commerce - versie 2.4.6
+* [!DNL Adobe Commerce] - versie 2.4.6
 * Basiskennis van de front-end structuur en lay-out
 * Ervaring en begrip van HTML, CSS (en preprocessoren), LESS, JavaScript en UI-componenten, jQuery, onderstrepingsteken, Require.JS, Knockout, ook PHP-sjablonen, DB-kennis en inhoudsbeheer
-* Kennis van het platform, CMS-blokken, widgets, CMS-pagina&#39;s, categoriepagina&#39;s, productpagina&#39;s, winkelwagentjes en uitchecken en het dashboardgebied van de account
+* Kennis van het platform, CMS-blokken, widgets, CMS-pagina&#39;s, categoriepagina&#39;s, productpagina&#39;s, winkelwagentjes en uitchecken en het dashboardgebied van account
 * Basiskennis of kennis van beheerconfiguraties
 * Kennis van het uitbreiden en overschrijven van stijlen, lay-outs en JS-bestanden
 * Bovenliggende thema&#39;s/Themahiërarchie uitbreiden
@@ -39,7 +39,7 @@ De kandidaat moet comfortabel zijn met de volgende technologieën:
 * Ontdek responsieve ontwerp- en mediaquery&#39;s
 * WYSIWYG/Page Builder
 * Codepakketten
-* Omzetting implementeren
+* Vertaling implementeren
 * Begrijpen hoe u met e-mailsjablonen werkt
 * Inzicht in Adobe Commerce Cloud-infrastructuur
 * Basiskennis van het opdrachtgereedschap Cloud CLI
@@ -51,17 +51,17 @@ De kandidaat moet comfortabel zijn met de volgende technologieën:
 **Beoogd publiek:**
 
 * Ontwikkelaars
-* Hoofdontwikkelaars
+* Leidingontwikkelaars
 * Front-end ontwikkelaars
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 05-33-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Voldoende score: 33/50
+* Tijd: 100 min
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Beschikbare talen: Engels
-* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E720
 
 **Zelfbeoordeling van gereedheid**
@@ -73,22 +73,22 @@ Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/laun
 Sectie 1: Themabeheer (Themahiërarchie, beeldconfiguratie, vertalingen) (16%)
 
 * Beschrijf de structuur van de Adobe Commerce-themamap en hoe deze zich verhoudt tot op mappen gebaseerde thema&#39;s.
-* Toon de capaciteit aan om een nieuw thema (Overerving/Fallbacks, ontwerpuitzonderingen, themaeigenschappen) tot stand te brengen
+* Toon de capaciteit aan om een nieuw thema (Overerving/Fallbacks, ontwerpuitzonderingen, themaeigenschappen) te creëren
 * Toon vermogen aan om bestaande thema&#39;s uit te breiden
 * Toon de mogelijkheid aan om transactie-e-mails aan te passen
 * Toon vermogen aan om vertalingen toe te passen
 * Geef op basis van een aantal gebruiksgevallen aan wanneer bestanden in een app/code of app/ontwerp moeten worden geplaatst
 
-Sectie 2: Layout XML en sjablonen (HTML-sjablonen) (22%)
+Sectie 2: XML en sjablonen voor lay-out (HTML-sjablonen) (22%)
 
 * Toon de capaciteit aan om lay-outXML instructies te gebruiken
-* Toon de capaciteit aan om nieuwe paginalay-outs tot stand te brengen
+* Toon de capaciteit aan om nieuwe paginalay-outs te creëren
 * Begrijp het verschil tussen het uitbreiden/samenvoegen en het met voeten treden van XML
 * Toon aan hoe te om argumenten tot malplaatjes over te gaan en te gebruiken
 * Toon capaciteit aan om malplaatjes tot stand te brengen en aan te passen
 * Sjabloonbeveiliging toepassen (uitvoer wordt geëlimineerd)
 
-Deel 3: Stijlen (18%)
+Sectie 3: Stijlen (18%)
 
 * Het doel van styles-m.less, styles-l.less, print.less identificeren
 * Beschrijf het verschil tussen specifieke gedeeltelijke dossiers (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less,)
@@ -101,11 +101,11 @@ Deel 3: Stijlen (18%)
 
 Sectie 4: JavaScript (afbeeldingswidgets, afbeeldingsbibliotheek, module voor klantgegevens, uitnemingssjablonen) (22%)
 
-* Toon de capaciteit aan om componenten te initialiseren en te roepen JavaScript
+* Toon de capaciteit aan initialiseren en componenten te roepen JavaScript
 * Verschillende gebruiksgevallen voor verschillende JavaScript-componenten
 * Het gebruik van RequireJS aantonen
 * Toon de capaciteit aan om verschillende types van mengsels uit te voeren
-* Beschrijf hoe te om een vertaling in JS toe te voegen
+* Beschrijven hoe u een vertaling in JS kunt toevoegen
 * Beschrijf interactie tussen UI componenten
 * Toon het gebruik van Knockout JS aan
 * Het gebruik van jQuery-widgets aantonen
@@ -132,35 +132,35 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
-**Sectie 1: Themabeheer (Themahiërarchie, afbeeldingsconfiguratie, vertalingen)**
+**Sectie 1: Themabeheer (Themahiërarchie, beeldconfiguratie, vertalingen)**
 
 * [Thema&#39;s](https://developer.adobe.com/commerce/frontend-core/guide/themes/)
 * [Sjablonen](https://developer.adobe.com/commerce/frontend-core/guide/templates/)
 * [Aangepaste variabelen toevoegen](https://experienceleague.adobe.com/docs/commerce-admin/systems/variables/variables-custom.html?lang=en)
 * [Vertalingen](https://developer.adobe.com/commerce/frontend-core/guide/translations/)
 
-**Sectie 2: Layout XML en sjablonen (HTML-sjablonen)**
+**Sectie 2: XML en sjablonen van layout (HTML-sjablonen)**
 
 * [Indelingen](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
 * [Algemene aanpassingstaken](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/xml-manage.html){target="_blank"}
 * [Componentontwikkeling](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
 * [Beveiliging](https://developer.adobe.com/commerce/php/development/security/){target="_blank"}
 
-**Deel 3: Stijlen**
+**Sectie 3: Stijlen**
 
 * [Responsief webontwerp](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/){target="_blank"}
 * [Themastijlen aanpassen](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
 * [Codeerstandaarden](https://developer.adobe.com/commerce/php/coding-standards/){target="_blank"}
 * [Cascading Style Sheets (CSS)](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
 
-**Sectie 4: JavaScript (afbeeldingswidgets, afbeeldingsbibliotheek, gegevensmodule van klanten, uitnemingspalplaatjes)**
+**Sectie 4: JavaScript (afbeeldingswidgets, afbeeldingsbibliotheek, module voor klantgegevens, uitneemsjablonen)**
 
 * [JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
 * [Inleiding tot UI-componenten](https://developer.adobe.com/commerce/frontend-core/ui-components/){target="_blank"}
 * [Uitchecken aanpassen](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/){target="_blank"}
 * [Waarneembare arrays](https://knockoutjs.com/documentation/observableArrays.html){target="_blank"}
 
-**Sectie 5: Configuratie van Admin en PageBuilder**
+**Sectie 5: Admin-configuratie en PageBuilder**
 
 * [Pagina&#39;s](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/pages/pages.html){target="_blank"}
 * [Wat is Page Builder?](https://developer.adobe.com/commerce/frontend-core/page-builder/){target="_blank"}
@@ -178,32 +178,24 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
-> De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+> De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
 
 **Praktijktest binnenkort beschikbaar**
 
-**Neem het certificatieexamen**
+## Ongeveer het certificatieexamen
 
-Adobe gebruikt twee verkopers om geproctored examens, PSI en Onderzoek te beheren.
+{{about-certification-exam}}
 
-* **PSI** biedt testcentrum en Japanse examenopties (indien beschikbaar) aan
-* **[!DNL Examity]** biedt een externe online optie aan
+## Plan of neem examen AD0-E720
 
-Om uw examen te plannen, opnieuw te plannen of te annuleren, eenvoudig op de verkoper van keus te klikken, en de instructies te volgen die op het scherm worden verstrekt. Zo eenvoudig is het!
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E720" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-De naam van uw profiel in het Adobe Credential Management System moet exact overeenkomen met uw Regeringen-id. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.
-
-De annuleringen en het opnieuw plannen zijn mogelijk als in werking gesteld voorafgaand aan 48 uren vóór de geplande examenbenoeming. De kandidaten moeten deze benoeming zelf wijzigen.
-
-### Examen: AD0-E720
-
-[!BADGE examen]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E720 newtab=true"}
-
-U kunt voor uw certificatieexamen door bon of creditcard betalen. Ga naar: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, wordt deze toegepast bij afhandeling.
+<span class="spectrum-Button-label has-no-wrap">
+   Ga naar examenportal
+</span>
+</a>
 
 >[!ENDTABS]
 

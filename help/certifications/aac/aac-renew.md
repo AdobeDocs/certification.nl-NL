@@ -7,22 +7,22 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8016ac6f-2a30-4a72-bc17-b2ca422c21e8
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-# Verleng uw [!DNL Advertising] certificatie
+# Verleng uw [!DNL Adobe Advertising] certificatie
 
 Wanneer u een certificatieexamen overgaat, is uw certificatie geldig voor twee jaar.
 
-We zijn blij om aan te kondigen dat u nu uw certificering kunt vernieuwen via een nieuwe, gratis indeling. Het omvat het gebruik van cursussen en zelfstudies voor Experiencen League op aanvraag - voltooi drie activiteiten om uw certificering zonder kosten te vernieuwen. U moet vernieuwen alvorens uw certificatie verloopt, of u zult het volledige examen moeten nemen om opnieuw verklaard te worden.
+We zijn blij om aan te kondigen dat u nu in staat bent om uw certificering te vernieuwen via een nieuwe, gratis indeling. Het omvat het gebruik van cursussen en zelfstudies voor Experiencen League op aanvraag - voltooi drie activiteiten om uw certificering zonder kosten te vernieuwen. U moet vernieuwen alvorens uw certificatie verloopt, of u zult het volledige examen moeten nemen om opnieuw verklaard te worden.
 
 >[!IMPORTANT]
 >
->De volgende examinverbindingen zullen **alleen** functie na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende examinverbindingen zullen **alleen** functie na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -42,7 +42,7 @@ We zijn blij om aan te kondigen dat u nu uw certificering kunt vernieuwen via ee
 
 >[!NOTE]
 >
->Master verlenging komt binnenkort.
+>Hoofdvernieuwing binnenkort beschikbaar.
 
 >[!ENDTABS]
 

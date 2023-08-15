@@ -4,19 +4,19 @@ description: Leer hoe u een gecertificeerd expert bent in de praktijk in [!DNL E
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User
-badge: label="Exam AD0-E121" type="positive"
+badge: label="Examen AD0-E121" type="positive"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1122'
+source-wordcount: '1098'
 ht-degree: 2%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Experience Manager Sites] Expert aan de praktijk
+# Certificeringsreis voor Adobe [!DNL Experience Manager Sites] Expert aan de praktijk van bedrijven
 
-Leer hoe u een gecertificeerde Adobe Business Practitioner-expert kunt worden.
+Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager] Expert van de beroepsbeoefenaar.
 
 ## Minimale ervaring
 
@@ -66,11 +66,11 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * Oplossingsarchitecten
 * Individuen in partnerorganisaties en freelancers die een analist-baanrol voor AEM oplossingen uitvoeren
 * Marketing specialisten die de eigenschappen en de mogelijkheden kennen nodig om ontwikkelaars in dienst te nemen om een oplossing voor bedrijfsbehoeften te bepalen
-* Klanten die het product gebruiken (dus Power Users)
+* Klanten die het product gebruiken (dat wil zeggen, Power Users)
 
-**Details examen:**
+**Details van examen:**
 
-Niveau: Expert (1-3 jaar ervaring) Passende score: 32/50 Tijd: 100 minuten Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerde Beschikbare talen: Kosten Engels en Japans: $225 (global) / $150 (India) examen-id: AD0-E121
+Niveau: Expert (1-3 jaar ervaring) Passing Score: 32/50 keer: 100 minuten Levering: Online geproclameerd (vereist cameratoegang) of door testcentrum geproclameerde Beschikbare talen: Engels en Japans Kosten: $225 (globaal) / $150 (India) Exam ID: AD0-E121
 
 **Zelfbeoordeling van gereedheid**
 
@@ -86,12 +86,12 @@ Sectie 1: Onderwijs (22%)
 
 Sectie 2: Architectuur (24%)
 
-* Een informatiearchitectuur aanbevelen om AEM standaardfuncties te gebruiken om aan bedrijfsbehoeften te voldoen met behulp van een op-prem- of Adobe-gehoste (cloud) omgeving
+* Een informatiearchitectuur aanbevelen om AEM standaardfuncties te gebruiken om aan bedrijfsbehoeften te voldoen met behulp van een op-prem- of Adobe gehoste (cloud) omgeving
 * Beschrijf hoe AEM met de diensten van derden integreert
 * Bepalen hoe rollen en machtigingen moeten worden gedefinieerd
 * Beschrijf caching-benaderingen
 
-Deel 3: Bedrijfsanalyse (38%)
+Sectie 3: Bedrijfsanalyse (38%)
 
 * Kaart standaardmodules van AEM aan verschillende bedrijfsproblemen voor de klant
 * Concepten voor inhoudsbeheer toepassen op AEM
@@ -111,7 +111,7 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
-**Sectie 1: Onderwijs**
+**Afdeling 1: Onderwijs**
 
 * [AEM 6.5 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
 * [Meer informatie over AEM 6.5-mogelijkheden](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
@@ -124,7 +124,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 2: Architectuur**
 
-* [Een inleiding tot Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"}
+* [Inleiding tot Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"}
 * [Meer informatie over AEM 6.5-mogelijkheden](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
 * [Adobe [!DNL Experience Manager] documentatie](https://experienceleague.adobe.com/docs/experience-manager.html){target="_blank"}
 * [Integreren met services van derden](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/third-party-services.html)
@@ -135,16 +135,16 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Gebruikers, rollen en machtigingen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/users-roles-permissions.html){target="_blank"}
 * [Gebruikers, groepen en gebruikersrollen beheren](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html){target="_blank"}
 * [Beveiligde inhoud in cache plaatsen](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/permissions-cache.html){target="_blank"}
-* [Hoofdstuk 1 - Dispatcher-concepten, -patronen en -antipatronen](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-1.html){target="_blank"}
+* [Hoofdstuk 1 - Dispatcher-concepten, -patronen en -patronen](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-1.html){target="_blank"}
 * [Hoofdstuk 2 - Infrastructuur](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-2.html){target="_blank"}
 * [Hoofdstuk 3 - Geavanceerde onderwerpen in cache plaatsen](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-3.html){target="_blank"}
 
-**Deel 3: Bedrijfsanalyse**
+**Sectie 3: Bedrijfsanalyse**
 
 * [Ontwikkel globale websites in AEM](https://learning.adobe.com/catalog/adobe_experiencemanager/cours000000000087076.html){target="_blank"}
 * [AEM kernbegrippen](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html){target="_blank"}
 * [Overzicht van onderdelen](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html){target="_blank"}
-* [Inhoudsarchitectuur](https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/content-architecture.html){target="_blank"}
+* [Inhoud architectuur](https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/content-architecture.html){target="_blank"}
 * [Projecten beheren - Checklist voor aanbevolen procedures](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html){target="_blank"}
 * [Overwegingen als projecten worden behandeld](https://experienceleague.adobe.com/docs/experience-manager-screens/using/strategic-brief/pre-sales-considerations.html){target="_blank"}
 * [Bezorgings- en planningsaanpak](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/planning/delivery.html){target="_blank"}
@@ -157,7 +157,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Checklist - Verdere referentie](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices-further-reference.html){target="_blank"}
 
 
-**Sectie 4: Instellen en implementeren**
+**Afdeling 4: Instelling en uitvoering**
 
 * [AEM 6.4 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
 * [AEM ontwikkeling - Richtsnoeren en beste praktijken](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html){target="_blank"}
@@ -171,39 +171,24 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 ## Een praktijktest uitvoeren
 
 {{practice-test}}
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E121)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E121" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E121
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E121" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

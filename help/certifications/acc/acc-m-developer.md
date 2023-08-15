@@ -1,31 +1,31 @@
 ---
-title: Master certificering architect
+title: Basiscertificering architect
 description: Leer hoe u een gecertificeerde Adobe architect Master kunt worden in [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Data Architect
-badge: label="Exam AD0-E328" type="positive"
+badge: label="Examen AD0-E328" type="positive"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1013'
+source-wordcount: '1011'
 ht-degree: 9%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Campaign Classic] Architect Master
 
-Leer hoe u een gecertificeerde Adobe architect Master kunt worden in [!DNL Campaign Classic].
+Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Campaign Classic] Architect Master.
 
 ## Minimale ervaring
 
 U zou moeten hebben:
 
-* Ervaring met meerdere [!DNL Campaign] implementaties
+* Ervaring met meerdere Adoben [!DNL Campaign Classic] implementaties
 * Begrijpen hoe Adobe Campaign werkt als een digitale marketingoplossing en deze implementeren op basis van projectvereisten
 * De mogelijkheid om een functioneel ontwerpdocument te maken
-* De capaciteit om een functioneel werkingsgebied voor een installatie van Adobe Campaign tot stand te brengen
+* De capaciteit om een functioneel werkingsgebied voor een installatie van Adobe Campaign te creëren
 * De capaciteit om de technische roadmap met inbegrip van LEO en taakgebiedsdelen te verstrekken
 * De mogelijkheid om technische informatie te verstrekken met betrekking tot de reikwijdte en het tijdschema van het project
 * Ervaring met workshops over bedrijfsvereisten
@@ -49,18 +49,18 @@ U zou moeten hebben:
 **Beoogd publiek:**
 
 * Technische leiding met Adobe [!DNL Campaign Classic] background
-* Adobe Certified Expert - [!DNL Campaign Classic] Ontwikkelaar
+* ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] Ontwikkelaar
 * Adobe [!DNL Campaign Classic] ontwikkelaar of soortgelijke rol
 * Martech Solution Architect
 
-**Details examen:**
+**Details van examen:**
 
-* Niveau: Master (3-5 jaar ervaring)
-* Voldoende score: 05-30-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Niveau: master (3-5 jaar ervaring)
+* Voldoende score: 30/50
+* Tijd: 100 min
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Beschikbare talen: Engels
-* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E328
 
 **Zelfbeoordeling van gereedheid**
@@ -75,20 +75,20 @@ Sectie 1: Definitie van oplossing (24%)
 * Op basis van een scenario, levert u prestaties, infrastructuur en configuratieaanbevelingen
 * Analyseren [!DNL Campaign Classic] voorzieningen voor advies over verbeteringen
 * Bedrijfsvereisten bepalen voor het ontwerpen van een digitale marketingoplossing
-* Geef bij een scenario de juiste implementatiemethode voor het product op
+* Geef bij een scenario de juiste methode voor productimplementatie op
 
 Sectie 2: Gegevenslandschappen (24%)
 
 * Specificeer het Model van Gegevens en de ontwerpparameters van de integratiekaart voor een oplossing van de Campagne met andere klantenhulpmiddelen
-* Gezien een scenario, bepaal het oplossingsontwerp wordt vereist om aan wetten en verordeningen te voldoen
+* Gezien een scenario, bepaal het oplossingsontwerp dat wordt vereist om aan wetten en verordeningen te voldoen
 * Op basis van een scenario het optimale technische werkstroomontwerp bepalen
 
-Deel 3: Installatie en beheer (16%)
+Sectie 3: Installatie en beheer (16%)
 
 * Gezien een reeks zeer belangrijke modules, bevestig de configuratie van de moduleopstelling
 * Op basis van een scenario kunt u integratieoplossingen aanbevelen om native integratie en integratie van derden met Adobe mogelijk te maken [!DNL Campaign Classic]
 * Op basis van een scenario diagnostische methoden bepalen
-* Integratieparameters en -benadering opgeven voor integratie van Adobe- en niet-Adobe-toepassingen
+* Integratieparameters en -benadering opgeven voor integratie van toepassingen in Adobe en toepassingen die geen Adobe zijn
 * Op basis van een scenario advies geven over de geschikte hardware-infrastructuur die nodig is tijdens het ontwerp van de oplossing
 * Gezien een scenario, bepaal de correcte methode voor oplossingsbevordering aan het respectieve milieu
 
@@ -127,7 +127,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Best practices voor het gegevensmodel](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html?lang=nl){target="_blank"}
 * [Privacyverzoeken beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-requests/privacy-requests.html){target="_blank"}
 
-**Deel 3: Installatie en beheer**
+**Sectie 3: Installatie en beheer**
 
 * [Aanbiedingsplaatsingen maken](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/managing-environments/creating-offer-spaces.html){target="_blank"}
 * [CRM-connectoren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html){target="_blank"}
@@ -144,7 +144,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 5: Aanpassing**
 
-* [Werken met campagne- en Experience Cloud-triggers](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers.html){target="_blank"}
+* [Werken met Triggers voor campagnes en Experiencen Cloud](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers.html){target="_blank"}
 * [JavaScript-scripts en -sjablonen](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
 * [Beheer van big data op Snowflake](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/fda/big-data-segmentation-on-snowflake.html){target="_blank"}
 * [CRM-connectoren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html){target="_blank"}
@@ -155,25 +155,21 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E328)
-
-### Beschikbare opties
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E328
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E328" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

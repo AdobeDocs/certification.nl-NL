@@ -1,22 +1,22 @@
 ---
 title: Bedrijfs Praktijkgerichte Beroeps certificatie
-description: Leer hoe u gecertificeerd kunt worden als een [!DNL Adobe Analytics] Zakelijke beroepsbeoefenaar.
+description: Leer hoe u gecertificeerd bent als een [!DNL Adobe Analytics] Zakelijke beroepsbeoefenaar.
 solution: Analytics
 product: Analytics
 role: User
-badge: label="Exam AD0-E212" type="positive"
+badge: label="Examen AD0-E212" type="positive"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '772'
 ht-degree: 3%
 
 ---
 
-# Certificeringsreis voor [!DNL Adobe Analytics] Professional
+# Certificeringsreis voor [!DNL Adobe Analytics] Professioneel als bedrijf
 
-Leer hoe u een gecertificeerde Business Practitioner voor Analytics kunt worden.
+Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Analytics] Zakelijke beroepsbeoefenaar.
 
 ## Minimale ervaring
 
@@ -48,14 +48,14 @@ U dient minimaal 3 maanden ervaring te hebben met [!DNL Adobe Analytics] en de v
 * UI-analisten
 * Conversie-/optimalisatiespecialisten
 
-**Details examen:**
+**Details van examen:**
 
-* Niveau: Professioneel (0-12 maanden ervaring)
-* Voldoende score: 05-31-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (cameratoegang vereist)
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 31/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
 * Beschikbare talen: Engels
-* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Kosten: $125 (wereldwijd) / $95 (India)
 * Examen-id: AD0-E212
 
 **Zelfbeoordeling van gereedheid**
@@ -83,7 +83,7 @@ Sectie 2: Rapportage en dashboarding voor projecten (38%)
 * Gezien een scenario, bepaal het aangewezen punt aan gebruik
 * Verslag over de prestaties van de marketingcampagne
 
-Deel 3: Segmentering en berekende cijfers (19%)
+Sectie 3: Segmentering en berekende cijfers (19%)
 
 * Bepaal hoe te om basissegmenten te ontwikkelen en te vormen gebruikend beste praktijken
 * Pas het proces toe om segmenten met anderen in de organisatie te delen
@@ -103,7 +103,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Voorbeeldvragen**
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmelding nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
 
 [Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
 
@@ -122,7 +122,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Handleiding voor Analytics-componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
 * [Handleiding voor Customer Journey Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}
 
-**Deel 3: Segmentering en berekende meetwaarden**
+**Sectie 3: Segmentering en berekende cijfers**
 
 * [Handleiding voor Analytics-componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
 
@@ -135,35 +135,20 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E212)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E212" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E212
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E212" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

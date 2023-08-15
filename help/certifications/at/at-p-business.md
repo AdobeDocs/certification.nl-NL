@@ -4,26 +4,26 @@ description: Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe T
 solution: Target
 product: Target
 role: User
-badge: label="Exam AD0-E408" type="positive"
+badge: label="Examen AD0-E408" type="positive"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '867'
 ht-degree: 1%
 
 ---
 
-# Certificeringsreis voor [!DNL Adobe Target] Professional
+# Certificeringsreis voor [!DNL Adobe Target] Professioneel als bedrijf
 
-Leer hoe u een gecertificeerde Adobe Business Practitioner Professional kunt worden.
+Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Target] Zakelijke beroepsbeoefenaar.
 
 ## Minimale ervaring
 
 U zou moeten hebben:
 
 * 0-12 maanden ervaring met optimalisatieplatforms, waaronder [!DNL Adobe Target]
-* Gecontroleerde praktijkervaring met [!DNL Adobe Target]
+* Gecontroleerde praktische ervaring met [!DNL Adobe Target]
 * 0-12 maanden ervaring met het leiden/bijdragen aan optimalisatieprogramma&#39;s
 * Mogelijkheid om elementaire beheertaken voor Target/Adobe Marketing Cloud te identificeren (voorkeuren, gebruikersrollen en machtigingen, instellingen)
 * Een basiskennis van de driestappenworkflow (ervaringen, doelgerichtheid en doelstellingen en instellingen, inclusief alle rapporteringsbronnen)
@@ -44,19 +44,19 @@ U zou moeten hebben:
 * Analytics
 * Digitale en productmarketing
 
-**Details examen:**
+**Details van examen:**
 
-* Niveau: Professioneel (0-12 maanden ervaring)
-* Voldoende score: 05-31-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (cameratoegang vereist)
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 31/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
 * Beschikbare talen: Engels
-* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Kosten: $125 (wereldwijd) / $95 (India)
 * Examen-id: AD0-E408
 
 **Doelstellingen en toepassingsgebied van examen**
 
-Sectie 1: Planning en strategie (26%)
+Deel 1: Planning en strategie (26%)
 
 * Bedrijfs-KPIs identificeren
 * Gezien een scenario van bedrijfs KPIs en gegevensanalyse, identificeer mogelijkheden voor optimalisering
@@ -73,18 +73,18 @@ Sectie 2: Configureren, uitvoeren en beheren (50%)
 * Beschrijf procedures om een ervaring tot stand te brengen gebruikend VEC
 * Beschrijf procedures om een ervaring tot stand te brengen gebruikend Form-Based Composer
 * Beschrijf procedures om ervaringen binnen een ervaringscomposer te beheren
-* Beschrijf de werkstroom die op het creëren van de Activiteiten van het Doel van toepassing is
+* Beschrijf de workflow die van toepassing is op het maken van doelactiviteiten
 * Op basis van een scenario procedures toepassen om een A/B-testactiviteit te creëren
 * Op basis van een scenario past u procedures toe om een XT-activiteit te maken
 * Op basis van een scenario procedures toepassen om een MVT-activiteit te creëren
 * Identificeer hoe AP voor oplossingen wordt gebruikt
 * Identificeer wanneer om de activiteit van de Aanbeveling te gebruiken
-* Beschrijf procedures om een Publiek in Doel tot stand te brengen
+* Beschrijf procedures om een Publiek in Doel te creëren
 * Beschrijf procedures om Doelstellingen en instellingen in te stellen
 * Beschrijf procedures om activiteit QA te leiden
 * Beschrijf de procedures voor het beheer van activiteiten en soorten publiek binnen het doelgebied
 
-Deel 3: Analyseren en rapporteren (16%)
+Sectie 3: Analyseren en rapporteren (16%)
 
 * Beschrijf montages helpen plaatsen de elementen die in een rapport verschijnen
 * Beschrijf het verschil in [!DNL Adobe Target] Voorbeeldinstellingen voor calculator voor grootte tussen planning en validatie
@@ -107,11 +107,11 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Voorbeeldvragen**
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmelding nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
 
 [Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
 
-**Sectie 1: Planning en strategie**
+**Deel 1: Planning en strategie**
 
 * [[!DNL Adobe Target] Handleiding voor ondernemers](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * Documentatie voor [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target.html){target="_blank"}
@@ -120,7 +120,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Succeswaarden](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html){target="_blank"}
 * [Categorieën voor soorten publiek](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html){target="_blank"}
 
-**Sectie 2: Configureren, uitvoeren en beheren**
+**Sectie 2: Vormen, uitvoeren en beheren**
 
 * [Visual Experience Composer (VEC)](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html){target="_blank"}
 * [[!DNL Adobe Target] welkomstkit](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
@@ -131,7 +131,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Soorten publiek maken](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html){target="_blank"}
 * [Activiteit QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
 
-**Deel 3: Analyseren en rapporteren**
+**Sectie 3: Analyse en rapportage**
 
 * [Rapportinstellingen](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
 * [A/B-testoverzicht](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
@@ -145,36 +145,21 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E408)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E408" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E408
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E408" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

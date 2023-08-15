@@ -1,26 +1,26 @@
 ---
 title: Expertcertificering
-description: Leer hoe u een gecertificeerde Adobe van een expert kunt worden in [!DNL Customer Journey Analytics]
+description: Leer hoe u een gecertificeerde Adobe van experts kunt worden in [!DNL Customer Journey Analytics]
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-badge: label="Exam AD0-E604" type="positive"
+badge: label="Examen AD0-E604" type="positive"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '657'
-ht-degree: 0%
+source-wordcount: '628'
+ht-degree: 1%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Customer Journey Analytics] Expert
 
-Leer hoe u een gecertificeerde Adobe Analytics Customer Journey Developer kunt worden.
+Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Customer Journey Analytics] Ontwikkelaarsexpert.
 
 ## Minimale ervaring
 
-U moet 12 tot 24 maanden ervaring hebben in Adobe Customer Journey Analytics en de volgende taken kunnen uitvoeren:
+U moet 12-24 maanden ervaring hebben met Adobe [!DNL Customer Journey Analytics]en in staat zijn de volgende taken uit te voeren:
 
 * XDM-schema (klassen) lezen en begrijpen
 * Toon een vertrouwdheid met de platforminterface aan
@@ -31,7 +31,7 @@ U moet 12 tot 24 maanden ervaring hebben in Adobe Customer Journey Analytics en 
 * Verbindingen met primaire identiteiten (persoon-id) configureren
 * Verbindingen met veelvoudige datasets vormen
 * Een gegevensweergave configureren (configuratie metrisch / dimensie)
-* CJA configureren
+* Adobe configureren [!DNL Customer Journey Analytics]
 * Gegevens transformeren binnen de afmetingen en metriek
 * De grondbeginselen van de werkruimte analyseren (visualisaties, attributie-instellingen, filters, berekende metriek)
 * Werken met gegevensbeheer in CJA (DULE)
@@ -58,14 +58,14 @@ U moet 12 tot 24 maanden ervaring hebben in Adobe Customer Journey Analytics en 
 * Implementatiedeskundige
 * Marketing Technology Lead
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 05-33-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Voldoende score: 33/50
+* Tijd: 100 min
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Beschikbare talen: Engels
-* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E604
 
 **Doelstellingen en toepassingsgebied van examen**
@@ -75,12 +75,12 @@ Sectie 1: Verbindingen (22%)
 * CJA-verbindingen ontwerpen met de juiste instellingen
 * CJA-verbindingen maken van XDM-gegevenssets die beschikbaar zijn in AEP per sandbox
 
-Sectie 2: Gegevens (30%)
+Sectie 2: Gegevensweergaven (30%)
 
 * Gegevensweergaven configureren voor rapportage en analyse
 * Componenten in gegevensweergaven wijzigen
 
-Deel 3: Validatie en probleemoplossing van gegevens (34%)
+Sectie 3: Validatie en probleemoplossing van gegevens (34%)
 
 * Controleren of de gegevens correct en volledig worden ingevuld
 * Verbindingen en gegevensweergaven oplossen
@@ -109,7 +109,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Overzicht van gegevensweergaven](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html){target="_blank"}
 * [Componentinstellingen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
 
-**Deel 3: Gegevensvalidatie en probleemoplossing**
+**Sectie 3: Validatie en het Oplossen van problemen van gegevens**
 
 * [Overzicht van gegevensweergaven](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html){target="_blank"}
 * [Een gegevensweergave maken of bewerken](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html){target="_blank"}
@@ -126,39 +126,24 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 ## Een praktijktest uitvoeren
 
 {{practice-test}}
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E604)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E604" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E604
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E604" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

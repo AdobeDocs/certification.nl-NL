@@ -4,23 +4,23 @@ description: Leer hoe je een gecertificeerde Adobe Developer professional in Ado
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Exam AD0-E717" type="positive"
+badge: label="Examen AD0-E717" type="positive"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1351'
+source-wordcount: '1348'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Commerce] Developer Professional
 
-Leer hoe u een gecertificeerde Adobe Developer Professional kunt worden.
+Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Commerce] Developer Professional.
 
 ## Minimale ervaring
 
-U zou comfortabel moeten werken in Adobe [!DNL Commerce] en een basisbegrip hebben van Adobe [!DNL Commerce] ontwikkeling van beheer, architectuur, EAV/database, layout/UI, uitchecken en verkopen, en catalogus.
+U zou moeten comfortabel werken in Adobe [!DNL Commerce] en een basisbegrip hebben van de Adobe [!DNL Commerce] ontwikkeling van beheer, architectuur, EAV/database, layout/UI, uitchecken en verkopen, en catalogus.
 
 Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 
@@ -41,19 +41,19 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 **Beoogd publiek:**
 
 * Ontwikkelaars
-* Hoofdontwikkelaars
+* Leidingontwikkelaars
 * Backend Developer
 * Oplossingsarchitecten
 * Technische leiders
 
-**Details examen:**
+**Details van examen:**
 
-* Niveau: Professioneel (0-12 maanden ervaring)
-* Voldoende score: 05-50-77
-* Tijd: 154 min
-* Aflevering: Online geproctoreerd (cameratoegang vereist)
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 50/77
+* Tijd: 154 minuten
+* Aflevering: online geprocoreerd (cameratoegang vereist)
 * Beschikbare talen: Engels
-* Kosten: $ 125 (wereldwijd) / $ 95 (India)
+* Kosten: $125 (wereldwijd) / $95 (India)
 * Examen-id: AD0-E717
 
 **Zelfbeoordeling van gereedheid**
@@ -84,15 +84,15 @@ Sectie 2: Architectuur (29%)
 * Beschrijf het [!DNL Magento] caching-systeem
 * Beschrijf winkels, websites en winkelweergaven (basiskennis)
 
-Deel 3: EAV/database (13%)
+Sectie 3: EAV/database (13%)
 
 * Op basis van een scenario kunt u kenmerksets en/of kenmerken wijzigen/toevoegen/verwijderen
 * Verschillende typen kenmerken beschrijven
-* Op basis van een scenario gebruikt u een DB-schema om een databasetabel te wijzigen
+* Op basis van een scenario gebruikt u een databasetabel met een databaseschema
 * Beschrijf modellen, middelmodellen, en inzamelingen
 * Beschrijf de grondbeginselen van de Waarde van het Attribuut van de Entiteit (EAV)
 
-Sectie 4: Layout/UI (15%)
+Sectie 4: Lay-out/gebruikersinterface (15%)
 
 * Wijzigingen toepassen op bestaande producttypen en nieuwe maken
 * Bestaande Catalogusentiteiten wijzigen en uitbreiden
@@ -115,7 +115,7 @@ Sectie 6: Catalogus (8%)
 * Beschrijf de prijsregels
 * Beschrijf prijstypen
 
-Sectie 7: Adobe [!DNL Commerce] Cloudarchitectuur (12%)
+Deel 7: Adobe [!DNL Commerce] Cloudarchitectuur (12%)
 
 * Adobe definiëren [!DNL Commerce] architectuur-/omgevingsworkflow
 * Beschrijf de dossiers van het wolkenproject, toestemming, en structuur
@@ -127,17 +127,17 @@ Sectie 7: Adobe [!DNL Commerce] Cloudarchitectuur (12%)
 
 Sectie 8: Adobe instellen/configureren [!DNL Commerce] Wolk (4%)
 
-* Identificeer hoe te om Adobe te installeren/te vormen [!DNL Commerce] Wolk
+* Identificeer hoe te opstelling/Adobe te vormen [!DNL Commerce] Wolk
 * Basisproblemen in de cloud definiëren (hiërarchie van webinterface en variabelen, prioriteit voor configuraties)
 * Basiskennis van gebruikersbeheer in de cloud en onboarding UI herkennen
 * Omgevingsbeheer beschrijven met UI
 * Vertakking beschrijven met UI
-* Cloud Plan-mogelijkheden voor Adobe commerce identificeren
+* Mogelijkheden van het Cloud Plan voor Adobe-handel identificeren
 
 Sectie 9: [!DNL Commerce] Cloud CLI-gereedschap (onderdeel beheren) (6%)
 
-* Beschrijf exclusieve eigenschappen van Adobe [!DNL Commerce] Cloud CLI-gereedschap (exclusieve CLI-functies: e-mails activeren, omgevingen opnieuw baseren, momentopname, db-dump, lokale omgeving instellen)
-* Vertakking beschrijven met de Adobe [!DNL Commerce] Cloud CLI-gereedschap
+* Beschrijf exclusieve kenmerken van Adobe [!DNL Commerce] Cloud CLI-tool (exclusieve CLI-functies: e-mails activeren, omgevingen opnieuw baseren, momentopname, db-dump, lokale omgeving instellen)
+* Vertakkingen beschrijven met de Adobe [!DNL Commerce] Cloud CLI-gereedschap
 * Hoe kunt u verbinding maken met cloudservices? (Mijn SQL, Redis, tunnel:info)
 
 >[!TAB Vooraf ingesteld]
@@ -148,7 +148,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Voorbeeldvragen**
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmelding nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
 
 [Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/template-for-exam-projects-copy-1fgbcj){target="_blank"}
 
@@ -177,7 +177,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Categorieën maken](https://docs.magento.com/user-guide/catalog/category-create.html){target="_blank"}
 * [Winkel- en sitestructuur](https://docs.magento.com/user-guide/stores/stores-all-stores.html){target="_blank"}
 
-**Deel 3: Basisprincipes van digitale marketing en e-commerce**
+**Deel 3: Basisbegrippen voor digitale marketing en e-handel**
 
 * [[!DNL Commerce] Tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
 * [Gebeurtenissen en waarnemers](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
@@ -185,7 +185,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Overzicht van productkenmerken](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
 * [Overzicht van declaratief schema](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/){target="_blank"}
 
-**Sectie 4: Layout/UI**
+**Sectie 4: Lay-out/gebruikersinterface**
 
 * [Pagina&#39;s](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
 * [Indelingen](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
@@ -195,7 +195,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Codeerstandaarden](https://devdocs.magento.com/guides/v2.4/coding-standards/bk-coding-standards.html){target="_blank"}
 * [Pagina in cache plaatsen](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/page-caching.html){target="_blank"}
 
-**Sectie 5: Afhandeling en verkoop**
+**Afdeling 5: Afhandeling en verkoop**
 
 * [Orderbeheer en -activiteiten](https://docs.magento.com/user-guide/sales/order-management.html){target="_blank"}
 * [Winkelwagentje](https://docs.magento.com/user-guide/sales/cart.html){target="_blank"}
@@ -214,7 +214,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Regels inzake catalogusprijzen](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){target="_blank"}
 * [Geavanceerde prijzen](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
 
-**Sectie 7: Adobe [!DNL Commerce] Cloudarchitectuur**
+**Deel 7: Adobe [!DNL Commerce] Cloudarchitectuur**
 
 * [[!DNL Commerce] over Cloud-infrastructuur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html){target="_blank"}
 * [Cloudarchitectuur voor [!DNL Commerce]](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html){target="_blank"}
@@ -227,38 +227,34 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Overzicht van configuratiebestanden](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html){target="_blank"}
 * [Eigenschappen voor toepassingsconfiguratie](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html){target="_blank"}
 * [Omgevingsvariabelen voor implementatie configureren](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/configure-env-yaml.html){target="_blank"}
-* [Adobe [!DNL Commerce] Productbeschrijving in cloud](https://helpx.adobe.com/legal/product-descriptions/adobe-commerce-on-cloud.html){target="_blank"}
+* [Adobe [!DNL Commerce] over productomschrijving in cloud](https://helpx.adobe.com/legal/product-descriptions/adobe-commerce-on-cloud.html){target="_blank"}
 
 **Sectie 9: [!DNL Commerce] Cloud CLI (onderdeel beheren)**
 
 * [Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli.html){target="_blank"}
-* [Vertakkingen beheren met de CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/cli-branches.html){target="_blank"}
+* [De takken met CLI beheren](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/cli-branches.html){target="_blank"}
 * [Services configureren](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/services-yaml.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E717)
-
-### Beschikbare opties
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E717
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E717" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

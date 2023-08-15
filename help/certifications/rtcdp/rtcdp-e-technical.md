@@ -8,16 +8,16 @@ recommendations: disable, exclude
 badge: label="Examen AD0-E600 &amp; AD7-E601" type="positive"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1729'
+source-wordcount: '1570'
 ht-degree: 3%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Real-Time Customer Data Platform] Expert
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Platform] expert in Real-time Customer Data Platform (RTCDP).
+Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Real-Time Customer Data Platform] Expert.
 
 ## Minimale ervaring
 
@@ -58,16 +58,16 @@ U zou moeten hebben:
 
 **Voorschrift 1: AD0-E600 Adobe [!DNL Experience Platform] Technische stichtingen**
 
-Het examen AD0-E600 bevestigt vaardigheden en kennis die de basiseigenschappen en vaak uitgevoerde taken van Adobe behandelen [!DNL Experience Platform] op deskundigenniveau.
+Het examen AD0-E600 bevestigt vaardigheden en kennis die de basiseigenschappen en vaak uitgevoerde taken van Adobe behandelen [!DNL Experience Platform] op het niveau van de deskundigen.
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 05-35-50
-* Tijd: 105 min
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Voldoende score: 35/50
+* Tijd: 105 minuten
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Taal: Engels
-* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E600
 
 **Doelstellingen en toepassingsgebied van examen**
@@ -87,7 +87,7 @@ Sectie 2: Gegevensinname (36%)
 * Toon aan hoe te om gegevensontdekking op brongegevens uit te voeren
 * Toon aan hoe te om gegevens om XDM aan te passen
 
-Deel 3: Profielen verenigen (34%)
+Sectie 3: Profielen verenigen (34%)
 
 * Profielen en gegevens na opname van gebeurtenisgegevens valideren
 * Naamruimten definiëren
@@ -109,10 +109,10 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
-**Sectie 1: Gegevensmodellering**
+**Deel 1: Gegevensmodellering**
 
 * [Schemas begrijpen](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html){target="_blank"}
-* [Schema en XDM Overzicht/Adobe [!DNL Experience Platform]: Gegevensmodellering en insluiting](https://video.tv.adobe.com/v/27105){target="_blank"}
+* [Schema en XDM - Overzicht/Adobe [!DNL Experience Platform]: Gegevensmodellering en insluiting](https://video.tv.adobe.com/v/27105){target="_blank"}
 * [Modelgegevens in schema&#39;s](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
 * [Overzicht schema en XDM](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html){target="_blank"}
 
@@ -120,9 +120,9 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 * [Gegevensopname](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html){target="_blank"}
 
-**Deel 3: Profielen verenigen**
+**Sectie 3: Vergelijkende profielen**
 
-* [Identiteitsgrafieken en identiteitsgrafieken](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html){target="_blank"}
+* [Identiteitsgrafiek en identiteitsgrafiek](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html){target="_blank"}
 * [Identiteiten toewijzen](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html){target="_blank"}
 * [Identiteitsgegevens labelen, opnemen en verifiëren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html){target="_blank"}
 * [Een dataset maken voor het exporteren van een publiekssegment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html){target="_blank"}
@@ -136,34 +136,27 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 ## Een praktijktest uitvoeren
 
 {{practice-test}}
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen
+## Plan of neem examen AD0-E600
 
-Adobe gebruikt twee verkopers om geproctored examens, PSI en Onderzoek te beheren.
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* **PSI** biedt testcentrum en Japanse examenopties (indien beschikbaar) aan
-* **[!DNL Examity]** biedt een externe online optie aan
+<span class="spectrum-Button-label has-no-wrap">
+   Ga naar examenportal
+</span>
+</a>
 
-Om uw examen te plannen, opnieuw te plannen of te annuleren, eenvoudig op de verkoper van keus te klikken, en de instructies te volgen die op het scherm worden verstrekt. Zo eenvoudig is het!
-
-De naam van uw profiel in het Adobe Credential Management System moet exact overeenkomen met uw Regeringen-id. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.
-
-De annuleringen en het opnieuw plannen zijn mogelijk als in werking gesteld voorafgaand aan 48 uren vóór de geplande examenbenoeming. De kandidaten moeten deze benoeming zelf wijzigen.
-
-### Examen: AD0-E600
-
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E600 newtab=true"}[!BADGE examen]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600 newtab=true"}
 
 >[!ENDTABS]
 
@@ -171,18 +164,18 @@ De annuleringen en het opnieuw plannen zijn mogelijk als in werking gesteld voor
 
 >[!TAB Klaar]
 
-**Voorschrift 2: AD7-E601 Adobe Real-Time CDP - Technische praktiserer**
+**Voorschrift 2: AD7-E601 Technische Praktijk van Adobe Real-Time CDP**
 
 Het examen AD7-E601 behandelt de verwezenlijking, het beheer en het begrip van klantenprofiel, de segmentatie, de bestemmingen over bronnen, en andere onderwerpen. Het examen bevestigt de grondvaardigheden en de kennis nodig om in real time CDP voor publiekssegmentatie, bestemmingsuitvoer, en activering op een basis in real time voor verenigde profielen aan gegevens en privacyverordeningen aan te wenden. Kandidaten moeten ervaring hebben met CDP (Customer Data Platforms) en kennis hebben van Adobe [!DNL Experience Platform].
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 03-25-34
+* Voldoende score: 25/34
 * Tijd: 51 minuten
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Taal: Engels
-* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD7-E601
 
 **Zelfbeoordeling van gereedheid**
@@ -199,7 +192,7 @@ Sectie 1: Validatie (41%)
 * Segment exporteren naar doel controleren
 * Concepten toepassen die vereist zijn voor het valideren van beleidsregels voor gegevensbeheer
 
-Sectie 2: Segmentatie (32%)
+Sectie 2: Segmentering (32%)
 
 * Toon een inzicht in hoe te om segmenten tot stand te brengen die op bedrijfsvereisten worden gebaseerd
 * Toon een inzicht in hoe te om segmentevaluaties te bepalen die op gegeven worden gebaseerd
@@ -233,7 +226,7 @@ Deel 3: Doelen (27%)
 * [Beleid voor gegevensgebruik maken](https://video.tv.adobe.com/v/32977/){target="_blank"}
 * [Beleid voor gegevensgebruik afdwingen](https://video.tv.adobe.com/v/33631/){target="_blank"}
 
-**Sectie 2: Segmentering**
+**Sectie 2: Segmentatie**
 
 * [Segmenteringsservice in [!DNL Real-Time Customer Data Platform]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segmentation-overview.html){target="_blank"}
 * [Handleiding voor de gebruikersinterface van Segment Builder](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html){target="_blank"}
@@ -258,7 +251,7 @@ Deel 3: Doelen (27%)
 * [Doeltypen en -categorieën](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html){target="_blank"}
 * [Werkruimte Doel](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html){target="_blank"}
 * [Een nieuwe doelverbinding maken](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html){target="_blank"}
-* [CDP in realtime: Doelen](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
+* [CDP in realtime: doelen](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
 * [Overzicht van bestemming](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html){target="_blank"}
 * [Doel maken en gegevens activeren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html){target="_blank"}
 * [Overzicht van activering](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html){target="_blank"}
@@ -269,45 +262,30 @@ Deel 3: Doelen (27%)
 * [Marketo-bestemming configureren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-marketo-destination.html){target="_blank"}
 * [Op bestanden gebaseerde cloudopslag of e-mailmarketingbestemming configureren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations.html){target="_blank"}
 * [Een sociale bestemming configureren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-a-social-destination.html){target="_blank"}
-* [Gegevens activeren voor niet-Adobe-toepassing](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html){target="_blank"}
+* [Gegevens activeren voor toepassing zonder Adobe](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html){target="_blank"}
 
 >[!TAB Gecertificeerd ophalen]
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 ## Een praktijktest uitvoeren
 
 {{practice-test}}
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E601)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E601
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

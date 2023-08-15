@@ -4,19 +4,19 @@ description: Leer hoe u een gecertificeerde Adobe Developer-expert in Adobe kunt
 solution: Commerce
 role: Developer
 level: Experienced
-badge: label="Exam AD0-E716" type="positive"
+badge: label="Examen AD0-E716" type="positive"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1850'
 ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Commerce] Ontwikkelaarsexpert
+# Certificeringsreis voor [!DNL Adobe Commerce] Ontwikkelaarsexpert
 
-Leer hoe u een gecertificeerde Adobe Developer-expert kunt worden.
+Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Commerce] Ontwikkelaarsexpert.
 
 ## Minimale ervaring
 
@@ -25,7 +25,7 @@ U moet minstens 1-3 jaar ervaring hebben met Adobe [!DNL Commerce] ontwikkeling 
 * Adobe [!DNL Commerce] - versie 2.4
 * PHP
 * XDebug/PHP-foutopsporingsprogramma&#39;s, browserfoutopsporingsprogramma&#39;s
-* Koppelingsgereedschappen
+* Gereedschappen voor koppelingen
 * Composer
 * SSH, standaard Linux
 * Redis, Elasticsearch, SQL, Varnish, RabbitMQ
@@ -44,19 +44,19 @@ U moet minstens 1-3 jaar ervaring hebben met Adobe [!DNL Commerce] ontwikkeling 
 **Beoogd publiek:**
 
 * Ontwikkelaars
-* Hoofdontwikkelaars
+* Leidingontwikkelaars
 * Backend Developer
 * Oplossingsarchitecten
 * Technische leiders
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 06-41-69
+* Voldoende score: 41/69
 * Tijd: 138 min
-* Aflevering: Online geproctoreerd (cameratoegang vereist)
+* Aflevering: online geprocoreerd (cameratoegang vereist)
 * Beschikbare talen: Engels
-* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E716
 
 **Zelfbeoordeling van gereedheid**
@@ -65,9 +65,9 @@ Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/laun
 
 **Doelstellingen en toepassingsgebied van examen**
 
-Sectie 1: Adobe [!DNL Commerce] Architectuur- en aanpassingstechnieken (36%)
+Deel 1: Adobe [!DNL Commerce] Architectuur- en aanpassingstechnieken (36%)
 
-* Toon hoe te om geheime voorgeheugen in Adobe effectief te gebruiken [!DNL Commerce]
+* Toon hoe te om geheim voorgeheugen in Adobe effectief te gebruiken [!DNL Commerce]
 * Aangepaste extensiekenmerken maken, gebruiken en bewerken
 * Aanbevolen oplossingen voor het toepassen van aangepaste thematoepassingen op product-/categoriepagina&#39;s
 * Pas waarnemers, voorkeuren en plug-ins (effecten van sorteervolgorde) correct toe
@@ -89,10 +89,10 @@ Sectie 2: Werken met databases en EAV (10%)
 
 * EAV-kenmerken en kenmerksets programmatisch bewerken
 * Toon de capaciteit aan om het gegevensbestandschema uit te breiden
-* Toon de capaciteit aan invoer/uitvoer gegevens uit Adobe Commerce
+* Toon de capaciteit aan om gegevens van Adobe Commerce in te voeren/uit te voeren
 * Beschrijf hoe te om flarden en terugkomende reeksen te gebruiken om het gegevensbestand te wijzigen
 
-Deel 3: Ontwikkelen met Admin (6%)
+Sectie 3: Ontwikkeling met Admin (6%)
 
 * Toon de capaciteit aan om netten en vormen bij te werken en te creëren
 * Rasterhandelingen uitbreiden
@@ -106,7 +106,7 @@ Sectie 4: De catalogus aanpassen (6%)
 * Toon de capaciteit aan om Indexen te beheren en prijsoutput aan te passen
 * Uitleggen hoe inventarisatie uit meerdere bronnen invloed heeft op voorraad (programmaniveau)
 
-Sectie 5: Verkooptransacties aanpassen (6%)
+Sectie 5: Verkoop aanpassen (6%)
 
 * Toon aan dat het mogelijk is nieuwe betalingsmethoden te ontwikkelen of bestaande betalingsmethoden aan te passen
 * Toon de capaciteit aan om verzendmethodes toe te voegen en aan te passen
@@ -115,16 +115,16 @@ Sectie 5: Verkooptransacties aanpassen (6%)
 
 Sectie 6: API&#39;s en services (4%)
 
-* Toon de capaciteit aan om nieuwe APIs tot stand te brengen of bestaande APIs uit te breiden
+* Toon de capaciteit aan om nieuwe APIs te creëren of bestaande APIs uit te breiden
 * Toon de capaciteit aan om het het een rij vormen systeem te gebruiken
 
-Sectie 7: Adobe [!DNL Commerce] Cloudarchitectuur (16%)
+Deel 7: Adobe [!DNL Commerce] Cloudarchitectuur (16%)
 
 * Toon kennis van Adobe [!DNL Commerce] architectuur-/omgevingsworkflow
 * Toon een werkende kennis van de dossiers van het wolkenproject, toestemming, en structuur aan
 * Toon de capaciteit aan opstelling multi domein gebaseerde opslag op Adobe [!DNL Commerce] Cloud (meerdere domeinsites, combinatie van ontwikkelwerk en ondersteuning)
 * Toon een algemene kennis van toepassingsdiensten en hoe te om hen (YAML, PHP, MariaDB, Redis, RabbitMQ, enz.) te leiden
-* Identificeer hoe te om tot verschillende types van logboeken toegang te hebben
+* Omgaan met verschillende typen logbestanden
 * Toon de capaciteit aan om een project (Belangrijkste stappen van plaatsing) op te stellen
 * Functies definiëren die worden geleverd door ECE-gereedschappen
 * Gebruiksmogelijkheden voor ECE-patches identificeren (inbreuk op beveiliging)
@@ -140,7 +140,7 @@ Sectie 8: Adobe instellen/configureren [!DNL Commerce] Wolk (10%)
 * Beschrijf hoe te om wolkenvariabelen bij te werken gebruikend UI
 * Omgevingsbeheer beschrijven met UI
 * Toon inzicht in vertakking gebruikend UI aan
-* Cloud Plan-mogelijkheden voor Adobe commerce identificeren
+* Mogelijkheden van het Cloud Plan voor Adobe-handel identificeren
 
 Sectie 9: [!DNL Commerce] Cloud CLI-gereedschap (onderdeel beheren) (6%)
 
@@ -155,7 +155,7 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
-**Sectie 1: Adobe [!DNL Commerce] architectuur en aanpassingstechnieken**
+**Deel 1: Adobe [!DNL Commerce] architectuur en aanpassingstechnieken**
 
 * [[!DNL Commerce] voor ontwikkelaars - Overzicht](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-1-overview.html#video-content){target="_blank"}
 * [[!DNL Commerce] voor ontwikkelaars - Workflow voor ontwikkeling](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-2-workflow.html){target="_blank"}
@@ -172,14 +172,14 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Componentontwikkeling](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/module-development.html){target="_blank"}
 * [[!DNL Commerce] voor ontwikkelaars - grondbeginselen van ontwikkeling](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-1-dev-basics.html){target="_blank"}
 * [[!DNL Commerce] voor ontwikkelaars - Na installatie](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-3-post-install.html){target="_blank"}
-* [[!DNL Commerce] voor ontwikkelaars - het Verpletteren](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-3-routing.html){target="_blank"}
+* [[!DNL Commerce] for developers - Routering](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-3-routing.html){target="_blank"}
 * [Een nieuwe pagina maken](https://devdocs.magento.com/videos/fundamentals/create-a-new-page/){target="_blank"}
 * [Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
 * [Wat is Page Builder](https://devdocs.magento.com/page-builder/docs/){target="_blank"}
 * [Meerdere websites of winkels instellen](https://devdocs.magento.com/cloud/project/project-multi-sites.html){target="_blank"}
 * [Meerdere websites of winkels](https://devdocs.magento.com/guides/v2.4/config-guide/multi-site/ms_over.html){target="_blank"}
 * [Voorbeeld van injectie van afhankelijkheid](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/dependency-injection.html){target="_blank"}
-* [System.xml reference](https://devdocs.magento.com/guides/v2.4/config-guide/prod/config-reference-systemxml.html){target="_blank"}
+* [System.xml-referentie](https://devdocs.magento.com/guides/v2.4/config-guide/prod/config-reference-systemxml.html){target="_blank"}
 * [[!DNL Commerce] voor ontwikkelaars - Installatie](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-2-install.html){target="_blank"}
 * [Patches toepassen](https://devdocs.magento.com/cloud/project/project-patch.html){target="_blank"}
 * [CLI-opdrachten toevoegen](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cli-cmds/cli-add.html){target="_blank"}
@@ -196,7 +196,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 * [Een productkenmerk maken](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html){target="_blank"}
 * [EAV- en extensiekenmerken](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/attributes.html){target="_blank"}
-* [Hoe te om een nieuw productattribuut toe te voegen](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/){target="_blank"}
+* [Hoe te om een nieuw productkenmerk toe te voegen](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/){target="_blank"}
 * [Een aangepast tekstveldkenmerk toevoegen](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/text-field.html){target="_blank"}
 * [[!DNL Commerce] voor ontwikkelaars - Declaratief schema](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-2-declarative-schema.html){target="_blank"}
 * [Een nieuwe tabel toevoegen aan een database](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/new-db-table.html){target="_blank"}
@@ -206,7 +206,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Inventaris importeren en exporteren](https://docs.magento.com/user-guide/catalog/inventory-import-export.html){target="_blank"}
 * [Gegevens- en schemapatches ontwikkelen](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/data-patches.html){target="_blank"}
 
-**Deel 3: Ontwikkelen met beheerder**
+**Sectie 3: Ontwikkelen met beheerders**
 
 * [[!DNL Commerce] voor ontwikkelaars - Een beheerpagina maken](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-4-admin-page.html){target="_blank"}
 * [Een beheerderraster toevoegen](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/admin-grid.html){target="_blank"}
@@ -229,17 +229,17 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Renderprijzen aan de voorzijde](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/howto/price_rendering.html){target="_blank"}
 * [Inleiding tot Inventory management](https://docs.magento.com/user-guide/catalog/inventory-management.html){target="_blank"}
 
-**Sectie 5: Verkoopbewerkingen aanpassen**
+**Sectie 5: Verkooptransacties aanpassen**
 
 * [Uitchecken aanpassen](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_overview.html){target="_blank"}
-* [Een aangepaste betalingsmethode toevoegen aan afhandeling](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_payment.html){target="_blank"}
+* [Een aangepaste betalingsmethode toevoegen aan de afhandeling](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_payment.html){target="_blank"}
 * [Een nieuwe integratie in de betalingssector toevoegen (betalingsmethode)](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
 * [Aangepaste verzendprovider toevoegen](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout-add-custom-carrier.html){target="_blank"}
 * [Aangepaste validaties voor verzenddragers toevoegen](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_carrier.html){target="_blank"}
 * [De weergave van een uitcheckstap aanpassen](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_customize.html){target="_blank"}
 * [Volgorde voor uitchecktotalen sorteren](https://docs.magento.com/user-guide/sales/checkout-totals-sort-order.html){target="_blank"}
 
-**Sectie 6: API&#39;s en services**
+**Sectie 6: API&#39;s en diensten**
 
 * [Aan de slag met Adobe [!DNL Commerce] web-API&#39;s](https://devdocs.magento.com/guides/v2.4/get-started/bk-get-started-api.html){target="_blank"}
 * [REST API-overzicht](https://devdocs.magento.com/guides/v2.4/rest/bk-rest.html){target="_blank"}
@@ -248,7 +248,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Berichtenrijen](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/message-queues/message-queues.html){target="_blank"}
 * [Bulkbewerkingen](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/message-queues/bulk-operations.html){target="_blank"}
 
-**Sectie 7: Adobe [!DNL Commerce] Cloud-architectuur**
+**Deel 7: Adobe [!DNL Commerce] Cloud-architectuur**
 
 * [Workflow voor Pro-projecten](https://devdocs.magento.com/cloud/architecture/pro-develop-deploy-workflow.html){target="_blank"}
 * [Cloud CLI](https://devdocs.magento.com/cloud/reference/cli-ref-topic.html){target="_blank"}
@@ -261,7 +261,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Gebruikerstoegang beheren](https://devdocs.magento.com/cloud/project/user-admin.html#cloud-user-webinterface){target="_blank"}
 * [Beveiligde verbindingen met externe omgevingen](https://devdocs.magento.com/cloud/before/before-workspace-ssh.html#add-key-web){target="_blank"}
 * [Cloud-infrastructuurproject](https://devdocs.magento.com/cloud/setup/first-time-setup-import-prepare.html#add-authentication-keys){target="_blank"}
-* [Vertakkingen beheren met de CLI](https://devdocs.magento.com/cloud/project/project-webint-branch.html){target="_blank"}
+* [De takken met CLI beheren](https://devdocs.magento.com/cloud/project/project-webint-branch.html){target="_blank"}
 
 
 **Sectie 9: [!DNL Commerce] Cloud CLI-gereedschap (onderdeel beheren)**
@@ -274,28 +274,24 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 ## Een praktijktest uitvoeren
 
 {{practice-test}}
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E716)
-
-### Beschikbare opties
-
-**[!DNL Examity]** ( *online* )
+### Plan of neem examen AD0-E716
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E716" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

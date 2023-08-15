@@ -3,22 +3,22 @@ title: Overzicht van doelcertificatie
 description: Overzicht van certificeringsopties voor Adobe Target
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 6b681faf4c1d84408f6ab430477fef22285b8c9d
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 9%
+source-wordcount: '110'
+ht-degree: 11%
 
 ---
 
-# Overzicht van doelcertificatie
+# [!DNL Adobe Target] Overzicht van certificering
 
 ## Nieuwe functies
 
-De Master certificering voor de Adobe Target Architect is bijgewerkt.
+De [!DNL Adobe Target] Basiscertificering van architect is bijgewerkt.
 
 De huidige versie is:
 
-* [master architect van Adobe Target (AD0-E409)](/help/certifications/at/at-m-architect.md)
+* [Adobe Target Architect Master (AD0-E409)](/help/certifications/at/at-m-architect.md)
 
 Als u reeds hebt gepland of begonnen te bestuderen voor het huidige examen, te verzekeren u plant en voltooit het examen **vóór 8 september 2023**.
 

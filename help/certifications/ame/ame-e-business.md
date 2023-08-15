@@ -1,28 +1,28 @@
 ---
 title: Certificering door experts voor zakelijke gebruikers
-description: Leer hoe u een gecertificeerde Adobe Business Practitioner-expert kunt worden in [!DNL Marketo Engage].
+description: Leer hoe u een gecertificeerde Adobe Business Practitioner Expert in [!DNL Marketo Engage].
 solution: Marketo Engage
 product: Marketo
 role: User
 badge: label="Examen AD0-E559" type="positive"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: 49dc037af5b72c804ae00af908b33ae20c75f5c3
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1425'
+source-wordcount: '1388'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Marketo Engage] Expert aan de praktijk van bedrijven
 
-Leer hoe u een gecertificeerde Adobe Business Practitioner-expert kunt worden.
+Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Marketo Engage] Expert van de beroepsbeoefenaar.
 
 ## Minimale ervaring
 
 U zou moeten hebben:
 
-* Ongeveer 18 maanden ervaring met [!DNL Marketo] eigenschappen en mogelijkheden nodig om marketing campagnes te creëren en de gegevens van het klantengedrag te gebruiken
+* Ongeveer 18 maanden ervaring met Adobe [!DNL Marketo Engage] eigenschappen en mogelijkheden nodig om marketing campagnes te creëren en de gegevens van het klantengedrag te gebruiken
 
 U moet een markeerteken zijn met ervaring in:
 
@@ -208,46 +208,24 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 ## Een praktijktest uitvoeren
 
 {{practice-test}}
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E559)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Engels examen maken
-</span>
-</a>
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559-j" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Japans examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E559
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

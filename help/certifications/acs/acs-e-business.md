@@ -1,35 +1,35 @@
 ---
 title: Certificering door experts voor zakelijke gebruikers
-description: Leer hoe u een gecertificeerde Adobe Business Practitioner-expert in Adobe kunt worden [!DNL Campaign Standard]
+description: Leer hoe u een gecertificeerde Adobe Business Practitioner Expert in Adobe kunt worden [!DNL Campaign Standard]
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User
-badge: label="Examen AD0-E307" type="positief"
+badge: label="Examen AD0-E307" type="positive"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '790'
 ht-degree: 8%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Campaign Standard] Expert aan de praktijk
+# Certificeringsreis voor Adobe [!DNL Campaign Standard] Expert aan de praktijk van bedrijven
 
-Leer hoe u een gecertificeerde Adobe Business Practitioner-expert kunt worden.
+Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Campaign Standard] Expert van de beroepsbeoefenaar.
 
 ## Minimale ervaring
 
-U moet ervaring hebben met het werken in een omgeving voor kanaallevering (e-mail, direct mail, mobiel en sociaal); vertrouwdheid met marketingcampagnes zoals multi-aanraking, levenscyclus en reactivering; en een inzicht in marketing metriek zoals ROI, klikthrough tarieven, en omzetting.
+U zou ervaring moeten hebben werkend in een milieu van de kanaallevering (e-mail, direct mail, mobiel, en sociale); kennis van de de campagnetactiek van de marketing zoals multi-aanraking, levenscyclus, en reactivering; en inzicht in marketing metriek zoals ROI, klikthrough tarieven, en omzetting.
 
 Bovendien moet u:
 
-* Veldervaring met werken met [!DNL Campaign Standard] met regelmatige frequentie
+* Veldervaring met werken met Adobe [!DNL Campaign Standard] met regelmatige frequentie
 * De mogelijkheid om gegevensbestanden te verwerken
 * Een goed begrip van de concepten relationele databases, triggers, API&#39;s en technische workflows
 * Begrip hoe te om marketing werkschema&#39;s te bouwen en met de onderliggende gegevens te werken om marketing werkschema&#39;s te lanceren
 * Ervaring met het configureren van rapporten
-* Een goed begrip van de opstelling en goedkeuring van de campagnelevering
+* inzicht in de opstelling en goedkeuring van de campagnelevering;
 
 >[!NOTE]
 >
@@ -51,14 +51,14 @@ Bovendien moet u:
 * CRM-manager
 * Oplossingsmanager
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 05-30-50
-* Tijd: 100 minuten
-* Aflevering: Online geproctoreerd (vereist cameratoegang) of testcentrum geproctoreerd
+* Voldoende score: 30/50
+* Tijd: 100 min
+* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
 * Beschikbare talen: Engels en Japans
-* Kosten: $ 225 (wereldwijd) / $ 150 (India)
+* Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E307
 
 **Zelfbeoordeling van gereedheid**
@@ -67,7 +67,7 @@ Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/laun
 
 **Doelstellingen en toepassingsgebied van examen**
 
-Sectie 1: Leveringsbeheer (25%)
+Afdeling 1: Leveringsbeheer (25%)
 
 * Pas beste praktijken in vestiging en het opstellen van een levering toe
 * Bepaal de correcte leveringsconfiguratie
@@ -78,7 +78,7 @@ Sectie 2: Campagnebeheer (25%)
 * Configuraties toepassen om workflows uit te voeren
 * Beste werkwijzen toepassen bij het plannen, omschrijven en wijzigen van een campagne
 
-Deel 3: Analyse van de vereisten (10%)
+Deel 3: Eisen (10%)
 
 * Een nieuwe workflow ontwerpen op basis van de vereisten voor bedrijven en campagnes
 * De vereisten van klanten interpreteren
@@ -107,9 +107,9 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
-**Sectie 1: Leveringsbeheer**
+**Afdeling 1: Leveringsbeheer**
 
-* [Portfolio-beheer](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&amp;_LANG=en){target="_blank"}
+* [Beheer van Portfolio&#39;s](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&amp;_LANG=en){target="_blank"}
 * [Informatie over kanaalconfiguratie](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
 * [Een verzending controleren](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/monitoring-messages/monitoring-a-delivery.html?lang=nl){target="_blank"}
 * [Email Designer in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html){target="_blank"}
@@ -120,7 +120,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Aangepaste bronnen voor privacyverzoeken wijzigen](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/privacy/custom-resources-for-privacy-requests.html){target="_blank"}
 * [Doelgroepen maken](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-audiences/creating-audiences.html){target="_blank"}
 
-**Deel 3: Analyse van vereisten**
+**Deel 3: Eisen en analyse**
 
 * [Een workflow maken](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html){target="_blank"}
 * [Gebruikersbeheer](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/users-management.html){target="_blank"}
@@ -138,7 +138,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Best practices voor workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=nl){target="_blank"}
 * [Problemen met API oplossen](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/troubleshooting.html){target="_blank"}
 
-**Sectie 6: Gegevensbeheer en -beheer**
+**Afdeling 6: Gegevensbeheer en -beheer**
 
 * [ [!DNL Campaign Standard] Aan de slag met het datamodel](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
 * [Aan de slag met [!DNL Campaign Standard] administratie](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
@@ -147,39 +147,24 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
 ## Een praktijktest uitvoeren
 
 {{practice-test}}
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E307)
-
-### Beschikbare opties
-
-{{PSI-note}}
-
-**PSI** (*testcentrum / opties voor Japans examen (indien beschikbaar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E307" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Examen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Plan of neem examen AD0-E307
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E307" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Examen
+   Ga naar examenportal
 </span>
 </a>
 

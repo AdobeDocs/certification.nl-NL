@@ -1,15 +1,15 @@
 ---
-title: Master certificering architect
-description: Leer hoe u een gecertificeerde architect Master kunt worden in Experience Manager Sites.
+title: Basiscertificering architect
+description: Leer hoe u een gecertificeerde architect Master in Experience Manager Sites kunt worden.
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Data Architect
 badge: label="Examen AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1722'
+source-wordcount: '1723'
 ht-degree: 7%
 
 ---
@@ -22,14 +22,14 @@ ht-degree: 7%
 >
 >**Vragen?** Zie onze [Veelgestelde vragen](#AEM-FAQ) onder aan deze pagina.
 
-Leer hoe u een gecertificeerde architect Master kunt worden.
+Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager Sites] Architect Master.
 
 ## Minimale ervaring
 
 U zou moeten hebben:
 
 * Ten minste 3 jaar ervaring als architect-gebouw in AEM Sites
-* De mogelijkheid om te werken in Adobe Managed Services en Adobe [!DNL Experience Manager as a Cloud Service]
+* Het vermogen om in Adobe Managed Services en Adobe te werken [!DNL Experience Manager as a Cloud Service]
 * De mogelijkheid om Adobe in te stellen [!DNL Experience Manager] omgevingen en infrastructuur
 
 Bovendien, zou u de capaciteit moeten hebben om de volgende taken uit te voeren:
@@ -43,7 +43,7 @@ Bovendien, zou u de capaciteit moeten hebben om de volgende taken uit te voeren:
 * Functie- en gebruiksgevallen van internationalisatie instellen
 * Definieer strategieën ter ondersteuning van meerdere sites en talen
 * Correcte configuratiemechanismen voor softwaremodules bepalen
-* Producten van derden en Adobe integreren met AEM
+* Producten van derden en Adoben integreren met AEM
 * Migratie- en upgradestrategieën (producten en inhoud) definiëren
 * Implementatiemethoden begrijpen (inhoud en code)
 * Infrastructuur-/implementatiediagrammen maken en leveren
@@ -73,7 +73,7 @@ Bovendien, zou u de capaciteit moeten hebben om de volgende taken uit te voeren:
 
 **Details van examen:**
 
-* Niveau: Master (3-5 jaar ervaring)
+* Niveau: master (3-5 jaar ervaring)
 * Voldoende score: 29/50
 * Tijd: 100 min
 * Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
@@ -160,7 +160,7 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [AEM 6.5 Gebruikersgids voor authoring](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [AEM Sites - video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 * [Aanbevolen praktijken voor AEM Screens](https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html){target="_blank"}
-* [Adobe Help-documenten](https://helpx.adobe.com/nl/enterprise/using/adobe-asset-link.html){target="_blank"}
+* [Help-documenten Adoben](https://helpx.adobe.com/nl/enterprise/using/adobe-asset-link.html){target="_blank"}
 * [AEM 6.5 Forms Guide](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
 * [AEM 6.5 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 * [Overzicht van verzending](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
@@ -209,17 +209,15 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+>Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
 
-## Over het examen
+## Ongeveer het certificatieexamen
 
 {{about-certification-exam}}
 
-## Neem het examen (AD0-E117)
-
-### Beschikbare opties
+## Plan of neem examen AD0-E117
 
 >[!NOTE]
 >
@@ -235,7 +233,7 @@ De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
 
-## Veelgestelde vragen voor Master examen voor Adobe Experience Manager Sites Architect (AD0-E117) {#AEM-FAQ}
+## Veelgestelde vragen voor basisexamen Adobe Experience Manager Sites Architect (AD0-E117) {#AEM-FAQ}
 
 Het certificatieexamen AD0-E117 ondergaat onderhoud en is tijdelijk niet beschikbaar. Onze oprechte excuses voor het ongemak. [Aanmelden voor kennisgeving](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wanneer deze weer beschikbaar is.
 
