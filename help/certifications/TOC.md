@@ -2,9 +2,9 @@
 user-guide-title: Certificering bij Adobe
 breadcrumb-title: Certificering bij Adobe
 user-guide-description: Meer informatie over  [!DNL Experience Cloud] -certificering bij Adobe. Ontdek wat certificeren voor u kan doen.
-source-git-commit: 14c7b7523b95127c664f046caf26af781e26691e
+source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '255'
 ht-degree: 29%
 
 ---
@@ -74,13 +74,11 @@ ht-degree: 29%
       + Professional {#ac-professional}
          + [Business Practitioner](/help/certifications/ac/ac-p-business.md)
          + [Ontwikkelaar](/help/certifications/ac/ac-p-developer.md)
-         + [Front-end Developer](/help/certifications/ac/ac-p-fedeveloper.md)
-         + [Front-end Developer (Nieuw)](/help/certifications/ac/ac-p-fedeveloper0623.md)
+         + [Front-end Developer](/help/certifications/ac/ac-p-fedeveloper0623.md)
       + Expert {#ac-expert}
          + [Business Practitioner](/help/certifications/ac/ac-e-business.md)
          + [Ontwikkelaar](/help/certifications/ac/ac-e-developer.md)
-         + [Front-end Developer](/help/certifications/ac/ac-e-fedeveloper.md)
-         + [Front-end Developer (Nieuw)](/help/certifications/ac/ac-e-fedeveloper0623.md)
+         + [Front-end Developer](/help/certifications/ac/ac-e-fedeveloper0623.md)
       + Master {#ac-master}
          + [Architect](/help/certifications/ac/ac-m-architect.md)
       + [Verlenging](/help/certifications/ac/ac-renew.md)
@@ -102,7 +100,7 @@ ht-degree: 29%
          + [Ontwikkelaar (sites)](/help/certifications/aem/aem-sites-e-developer.md)
          + [DevOps](/help/certifications/aem/aem-devops-e-engineer.md)
          + [Ontwikkelaar (Forms)](/help/certifications/aem/aem-forms-e-developer.md)
-         + [Cloud Service migreren](/help/certifications/aem/aem-cs-e-migration.md)
+         + [Migratie van Cloud Service](/help/certifications/aem/aem-cs-e-migration.md)
       + Master {#aem-master}
          + [Architect (sites)](/help/certifications/aem/aem-sites-m-architect.md)
       + [Verlenging](/help/certifications/aem/aem-renew.md)

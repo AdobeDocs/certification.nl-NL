@@ -6,9 +6,9 @@ product: Magento
 role: Developer
 badge: label="Examen AD0-E721" type="positive"
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
 workflow-type: tm+mt
-source-wordcount: '888'
+source-wordcount: '860'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 0%
 # Certificeringsreis voor Adobe [!DNL Commerce] Front-end Developer Professional
 
 Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Commerce] Developer Professional.
-
->[!NOTE]
->
->Dit is de nieuwste [!DNL Adobe Commerce] Front-end Professional-examen voor ontwikkelaars. Als u al bent begonnen met studeren of de [oudere versie](ac-p-fedeveloper.md) u hebt tot 18 augustus 2023 de tijd om het te voltooien.
 
 ## Minimale ervaring
 
