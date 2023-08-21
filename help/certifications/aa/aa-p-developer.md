@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Examen AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: c661d42a32717320031da2289509ffcf6f5bc945
 workflow-type: tm+mt
-source-wordcount: '1120'
+source-wordcount: '1116'
 ht-degree: 3%
 
 ---
@@ -169,10 +169,6 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 >De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 >Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
-
-## Een praktijktest uitvoeren
-
-{{practice-test}}
 
 ## Ongeveer het certificatieexamen
 
