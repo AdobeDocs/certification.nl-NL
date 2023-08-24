@@ -5,12 +5,12 @@ solution: Commerce
 product: Magento
 role: Data Architect
 level: Experienced
-badge: label="Examen AD0-E718" type="positive"
+badge: label="Examen AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 77c33a05498833b58e467c0d332ba007cc181a7d
 workflow-type: tm+mt
-source-wordcount: '850'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -76,12 +76,12 @@ Bovendien, zou u zeer vertrouwd met de volgende activiteiten en de technologieë
 **Details van examen:**
 
 * Niveau: master (3-5 jaar ervaring)
-* Voldoende score: 29/50
+* Voldoende score: 30/50
 * Tijd: 120 minuten
 * Aflevering: online geprocoreerd (cameratoegang vereist)
 * Beschikbare talen: Engels
 * Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E718
+* Examen-id: AD0-E722
 
 **Zelfbeoordeling van gereedheid**
 
@@ -123,12 +123,6 @@ Sectie 4: Beginselen van naleving/beveiliging (13%)
 U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
-
-**Voorbeeldvragen**
-
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
-
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e718-adobe-commerce-architect-master-copy-kzcvh7){target="_blank"}
 
 **Sectie 1: Ontwerp**
 
@@ -173,9 +167,9 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 {{about-certification-exam}}
 
-## Plan of neem examen AD0-E718
+## Plan of neem examen AD0-E722
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E722" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Ga naar examenportal
