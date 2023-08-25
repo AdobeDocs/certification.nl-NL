@@ -2,9 +2,9 @@
 user-guide-title: Certificering bij Adobe
 breadcrumb-title: Certificering bij Adobe
 user-guide-description: Meer informatie over  [!DNL Experience Cloud] -certificering bij Adobe. Ontdek wat certificeren voor u kan doen.
-source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
+source-git-commit: bc8d85db13a643ee737c5443d9124fc6492c4831
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '260'
 ht-degree: 29%
 
 ---
@@ -112,6 +112,7 @@ ht-degree: 29%
          + [Business Practitioner](/help/certifications/ame/ame-e-business.md)
       + Master {#ame-master}
          + [Architect](/help/certifications/ame/ame-m-architect.md)
+         + [Architect - NIEUW](/help/certifications/ame/ame-m-architect-23-08.md)
       + [Verlenging](/help/certifications/ame/ame-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
       + [Real-Time CDP - Overzicht](/help/certifications/rtcdp/rtcdp-overview.md)
@@ -143,6 +144,7 @@ ht-degree: 29%
          + [Ontwikkelaar (Core)](/help/certifications/aw/aw-core-p-developer.md)
       + Expert {#aw-expert}
          + [Ontwikkelaar (Core)](/help/certifications/aw/aw-core-e-developer.md)
+         + [Ontwikkelaar (Core) - NIEUW](/help/certifications/aw/aw-core-e-developer-23-08.md)
          + [AEM verbeterde aansluiting](/help/certifications/aw/aw-aem-e-connector.md)
       + [Verlenging](/help/certifications/aw/aw-renew.md)
 + [Referenties voor eindgebruikers](https://learning.adobe.com/certification/credentials)
