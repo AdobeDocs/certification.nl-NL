@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Examen AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: bfde4e81ff7a942dca9b97cec28cef99c296dd1f
+source-git-commit: dca1d6b3f7c79b2fc389342829793b6a63b5ad0c
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '766'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ Bovendien, zou u zeer vertrouwd met de volgende activiteiten en de technologieë
 
 * Niveau: master (3-5 jaar ervaring)
 * Voldoende score: 30/50
-* Tijd: 120 minuten
+* Tijd: 100 min
 * Aflevering: online geprocoreerd (cameratoegang vereist)
 * Beschikbare talen: Engels
 * Kosten: $225 (wereldwijd) / $150 (India)
@@ -111,12 +111,6 @@ Sectie 3: Configureren en implementeren (22%)
 * Alle aspecten van Adobe configureren [!DNL Commerce] Wolk
 * Implementatieproces controleren en verbeteren
 * Problemen met infrastructuur en configuratie oplossen
-
-Sectie 4: Beginselen van naleving/beveiliging (13%)
-
-* Begrijp de grondbeginselen van naleving van privacywetten en betalingsbeveiliging
-* Gemeenschappelijke veiligheidsaspecten van een Adobe identificeren [!DNL Commerce] project
-* Aanwijzen van beste praktijken en wettelijke vereisten van toegankelijkheids naleving
 
 >[!TAB Vooraf ingesteld]
 
