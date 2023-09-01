@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Examen AD0-E556" type="positive"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '1030'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Certificeringsreis voor Adobe [!DNL Marketo Engage] Architect Master
 
 Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Marketo Engage] Architect Master.
+
+>[!NOTE]
+>
+>Dit examen, [!DNL Adobe Marketo Engage] Architect Master (AD0-E556) is bijgewerkt. Als u al bent begonnen met studeren of deze versie wilt gebruiken, moet u deze voor 31 oktober 2023 voltooien. Als u nog maar aan de slag gaat, raden we u aan de [nieuwste versie van dit examen (AD0-E560)](ame-m-architect-23-08.md).
 
 Het Adobe Credential-programma heeft een nieuwe Adobe gelanceerd [!DNL Marketo Engage] Certificering van architect inschakelen voor kandidaten die belangstelling hebben voor het behalen van de gecertificeerde hoofdtitel. Het vervangt het vorige certificeringsproces van Marketo Certified Solution Architect (MCSA). [Meer informatie](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
 
