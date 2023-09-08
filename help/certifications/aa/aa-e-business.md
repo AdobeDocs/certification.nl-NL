@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
 workflow-type: tm+mt
-source-wordcount: '994'
+source-wordcount: '1025'
 ht-degree: 2%
 
 ---
@@ -177,14 +177,25 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 {{about-certification-exam}}
 
-## Plan of neem examen AD0-E208
+## Plan of neem examen AD0-E208 (Engels)
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ga naar examenportal
+   Ga naar examenportaal - Engels examen
 </span>
 </a>
+
+## Plan of neem examen AD0-E208-J (Japans)
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ga naar examenportal - Japans examen
+</span>
+</a>
+
+[Japanse instructies voor planning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 >[!ENDTABS]
 
