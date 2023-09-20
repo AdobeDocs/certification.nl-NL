@@ -7,16 +7,16 @@ role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: af895356-3e6b-424f-a637-a695b916aa47
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '923'
 ht-degree: 6%
 
 ---
 
 # De Adobe verlengen [!DNL Campaign Classic] certificatie
 
-Uw Adobe-certificering is twee jaar geldig. Als u dit merk van twee jaar nadert, is het tijd om uw certificatie te vernieuwen om het actief te houden.
+Uw Adobe is twee jaar geldig. Als u dit merk van twee jaar nadert, is het tijd om uw certificatie te vernieuwen om het actief te houden.
 
 Selecteer eerst het juiste niveau op het onderstaande tabblad (Professional, Expert of Master). Controleer vervolgens zorgvuldig wat u moet doen om uw certificering te vernieuwen.
 
@@ -26,7 +26,7 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -34,32 +34,32 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!NOTE]
 >
->Professionele vernieuwing komt binnenkort.
+>De professionele vernieuwing is in ontwikkeling. Degenen van wie de certificeringen verlopen, ontvangen een extensie zodat zij deze gratis vernieuwingsmethode nog kunnen gebruiken wanneer deze beschikbaar is.
 
->[!TAB Expert en Master]
+>[!TAB Expert en master]
 
 U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 * **Adobe [!DNL Campaign Classic] Ontwerper**
 * **Adobe [!DNL Campaign Classic] Bedrijfs Praktijkdeskundige**
-* **Adobe [!DNL Campaign Classic] Architect master**
+* **Adobe [!DNL Campaign Classic] Architect**
 
-## Hoe te om uw certificatie te vernieuwen:
+## Uw certificering vernieuwen:
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
-* **Stap 2**: Herzie de examendoelstellingen en de middelen
-* **Stap 3**: Neem en ga het examen over
+* **Stap 1**: Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
+* **Stap 3**: Neem het examen over en ga door
 
 ### Klaar
 
 **Details van examen**
 
-* Voldoende score: 05-42-55
+* Voldoende score: 42/55
 * Tijd: 110 minuten
-* Kosten: VRIJ/niet-afgewikkeld
+* Kosten: VRIJ/niet-aangeworven
 * Aflevering: Op aanvraag
 * Beschikbare talen: Engels
-* Vereiste: huidige (niet verlopen) Adobe [!DNL Campaign Classic] deskundige en/of master certificering
+* Vereiste: huidige (niet verlopen) Adobe [!DNL Campaign Classic] deskundige- en/of hoofdcertificering
 * Examen-id: AD5-E823
 
 **Toepassingsgebied en doelstellingen**
@@ -76,17 +76,17 @@ Sectie 1: Installatie en systeemconfiguratie (23%)
 
 Sectie 2: Aanpassing (18%)
 
-* Beschrijf beste praktijken voor het gebruiken van SQL functies in Adobe Campaign
+* Beschrijf best practices voor het gebruik van SQL-functies in Adobe Campaign
 * Beschrijf beste praktijken voor het ontwikkelen met JavaScript in Adobe Campaign
 * Op basis van een reeks vereisten best practices toepassen rond een gegevensmodel
 * Beschrijf de vereisten en processen voor toegangsbeheer
 * Beschrijf het beheer van de mapstructuur
 
-Deel 3: Gegevensarchitectuur (22%)
+Sectie 3: Gegevensarchitectuur (22%)
 
 * De verschillen in gegevensopslag in v8 identificeren
-* De ingebouwde workflows identificeren waarmee lokale gegevens worden gesynchroniseerd met Snowflake
-* Verklaar wanneer om het opvoeren van lijsten te gebruiken versus direct schrijft aan Snowflake
+* Identificeer de ingebouwde workflows die lokale gegevens aan Snowflake synchroniseren
+* Verklaar wanneer om het opvoeren lijsten te gebruiken vs direct schrijft aan Snowflake
 * Identificeer de nieuwe API bevelen in Batch verwerking en wanneer/hoe te om te gebruiken
 * Gezien een scenario, verklaar hoe te om douaneschema&#39;s tot stand te brengen (hoe te om andere schema&#39;s als malplaatje te gebruiken, sys filters, het sluiten van neer gegevens, verbindingen)
 * Verklaar de integratie tussen verschillende oplossingen en Campagne zoals Adobe Experience Platform en Journey Optimizer
@@ -97,7 +97,7 @@ Sectie 4: Campagne, workflow, levering en rapportage (37%)
 * Op basis van een scenario workflowfouten analyseren
 * Op basis van een scenario, analyseert u de leveringsfouten rond de doeltoewijzing
 * Beschrijf workflowpraktijken die een negatief effect hebben op de prestaties
-* Op basis van een praktijkgeval raden we u aan het workflowontwerp als doel in te stellen
+* Op basis van een praktijkgeval raden we u aan het workflowontwerp te kiezen
 * Instellingen voor levering en goedkeuring toepassen
 * Op basis van een scenario bepalen welke rapporten geschikt zijn om te genereren
 * Selecteer bij een scenario de beste aanpak voor integratie met externe gegevensbronnen
@@ -116,7 +116,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Pakketten beheren](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
 * [Werken met gegevenspakketten](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
 * [Een instantie implementeren](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html)
-* [Integreren met Adobe [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html){target="_blank"}
+* [Integratie met Adobe [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html){target="_blank"}
 
 **Sectie 2: Aanpassing**
 
@@ -125,7 +125,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Operatoren maken en beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
 * [Toegang tot mappen beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html){target="_blank"}
 
-**Deel 3: Gegevensarchitectuur**
+**Sectie 3: Gegevensarchitectuur**
 
 * [Overgang van [!DNL Campaign Classic] v7 naar campagne v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=nl){target="_blank"}
 * [Werken met bronnen en bestemmingen](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
@@ -141,13 +141,13 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 ### Uw certificering verlengen
 
-Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de koppeling Campaign Classic vernieuwen - AD5-823 om uw certificering te vernieuwen.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de koppeling Campaign Classic vernieuwen - AD5-823 om uw certificering te vernieuwen.
 
-[Neem de Adobe [!DNL Campaign Classic] Verlenging voor Business Practitioner, Developer and Architect examen nu - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
+[Neem de Adobe [!DNL Campaign Classic] Verlenging voor Business Practitioner, Developer and Architect nu - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
 
 >[!NOTE]
 >
->Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+>Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 >[!ENDTABS]
 

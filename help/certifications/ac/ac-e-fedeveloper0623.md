@@ -6,9 +6,9 @@ product: Magento
 role: Developer
 badge: label="Examen AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
+source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
 workflow-type: tm+mt
-source-wordcount: '1018'
+source-wordcount: '1019'
 ht-degree: 0%
 
 ---
@@ -107,9 +107,9 @@ Sectie 4: JavaScript (afbeeldingswidgets, afbeeldingsbibliotheek, module voor kl
 * Het gebruik van jQuery-widgets aantonen
 * Het gebruik van JS-componenten aantonen met Layout XML
 
-Sectie 5: Admin Configuration and PageBuilder (12%)
+Sectie 5: Admin Configuration and Page Builder (12%)
 
-* Toon de capaciteit aan om de inhoud van de Bouwer van de Pagina aan te passen&quot;
+* Toon de capaciteit aan om de inhoud van de Bouwer van de Pagina aan te passen
 * Beschrijf front-end optimalisering
 * Transactiee-mails aanpassen
 * Toon het gebruik van de hulpmiddelen van de adminontwikkeling aan
