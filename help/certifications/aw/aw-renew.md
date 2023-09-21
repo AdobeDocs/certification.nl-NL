@@ -6,7 +6,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: 032e1a6a773a5ede4b74b4a34a3e8079990d8d91
 workflow-type: tm+mt
 source-wordcount: '3755'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # De Adobe verlengen [!DNL Workfront] certificatie
 
-Uw Adobe-certificering is twee jaar geldig. Als u dit merk van twee jaar nadert, is het tijd om uw certificatie te vernieuwen om het actief te houden.
+Uw Adobe is twee jaar geldig. Als u dit merk van twee jaar nadert, is het tijd om uw certificatie te vernieuwen om het actief te houden.
 
 Selecteer eerst het juiste niveau op het onderstaande tabblad (Professional, Expert of Master). Controleer vervolgens zorgvuldig wat u moet doen om uw certificering te vernieuwen.
 
@@ -25,7 +25,7 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -35,17 +35,17 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 ## Instructies voor het vernieuwen van uw certificering:
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
-* **Stap 2**: Herzie de examendoelstellingen en de middelen
-* **Stap 3**: Neem en ga het examen over
+* **Stap 1**: Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
+* **Stap 3**: Neem het examen over en ga door
 
 ### Klaar
 
-**Details examen:**
+**Details van examen:**
 
-* Voldoende score: 03-25-34
-* Tijd: 68 minuten
-* Kosten: VRIJ/niet-afgewikkeld
+* Voldoende score: 25/34
+* Tijd: 68 min
+* Kosten: VRIJ/niet-aangeworven
 * Aflevering: Op aanvraag
 * Beschikbare talen: Engels
 * Vereiste: huidige (niet verlopen) Adobe Workfront Fusion Developer Professional-certificering
@@ -57,7 +57,7 @@ Sectie 1: Basissysteembeheer en -installatie (26%)
 
 * Als u een Fusion-scenario hebt waarbij een functie in een andere functie moet worden genest, selecteert u de correct gevormde expressie.
 * Op basis van een Fusion-scenario dat tijdzonemanipulatie vereist, maakt u onderscheid tussen de gebruiker, de zichtbare organisatie en de plaats waar de tijdzone moet worden overschreven.
-* Selecteer bij Fusion-scenario de expressie van het deelvenster Toewijzing en/of de module(s) die de invoergegevens op de juiste manier zou omzetten in uitvoergegevens.
+* Selecteer bij een Fusiescenario de expressie van het deelvenster Toewijzing en/of de module(s) waarmee de invoergegevens op de juiste manier worden omgezet in uitvoergegevens.
 * Identificeer de correcte manier(n) om het Hulpmiddel van Fusion te gebruiken om fouten in uitvoering problemen op te lossen of vraag en reacties te bepalen die aan derdesystemen worden gemaakt.
 
 Sectie 2: Scenario-ontwerp en -architectuur (47%)
@@ -67,9 +67,9 @@ Sectie 2: Scenario-ontwerp en -architectuur (47%)
 * Gezien een situatie, identificeer een kans om gegevensstroom door een scenario te verminderen.
 * Op basis van een voorbeeld van het aantal bundels dat op een zoekmodule en een volgende aggregator wordt weergegeven, kunt u de wijzigingen in het aantal verwerkte en weergegeven bewerkingen door de bundelcontrole toelichten.
 * Selecteer op basis van een voorbeeld van fout 403:Verboden de oorsprong van het foutbericht correct en oorzaak
-* Identificeer het aangewezen gebruik van Verwijzingen en Verzamelingen op Workfront Onderzoek en Lezen modules.
+* Identificeer het aangewezen gebruik van Verwijzingen en Verzamelingen op de modules van het Onderzoek en van het Lezen van Workfront.
 
-Deel 3: Testen en foutafhandeling (15%)
+Sectie 3: Testen en foutafhandeling (15%)
 
 * Gezien een scenario van de Fusie, identificeer correct de oplossing om een onbetrouwbare dienst te verhinderen of te behandelen.
 * Als er een Fusion-scenario is met ontbrekende vereiste gegevens, selecteert u manieren om de ongeldige gegevens af te handelen.
@@ -85,7 +85,7 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
-**Sectie 1: Beheer en installatie van het kernsysteem**
+**Sectie 1: Kernsysteembeheer en -installatie**
 
 * [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Functies in Adobe Workfront Fusion, Organisaties in Adobe Workfront Fusion, Modules in Adobe Workfront Fusion, Scenarios in Adobe Workfront Fusion
 
@@ -94,24 +94,24 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Workfront Fusion-scenario optimaliseren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html){target="_blank"} - Zelfstudie
 * [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Modules in Adobe Workfront Fusion
 
-**Deel 3: Testen en foutafhandeling**
+**Sectie 3: Testen en foutafhandeling**
 
 * [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Scenario Settings Panel in Adobe Workfront Fusion, Errors in Adobe Workfront Fusion, Functies in Adobe Workfront Fusion
 
 **Sectie 4: Werken met API&#39;s**
 
 * [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - HTTP-modules, verbindingen in Adobe Workfront Fusion, modules in Adobe Workfront Fusion
-* [Adobe Workfront API](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html){target="_blank"}
+* [ADOBE WORKFRONT API](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html){target="_blank"}
 
 ## Uw certificering verlengen
 
-Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de koppeling Workfront Fusion Developer — AD5-830 hieronder om uw certificering te vernieuwen.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de koppeling Workfront Fusion Developer — AD5-830 hieronder om uw certificering te vernieuwen.
 
 * [Verlenging Workfront Fusion Developer - AD5-830](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E830){target="_blank"}
 
 >[!NOTE]
 >
->Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+>Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 +++
 
@@ -119,17 +119,17 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 
 ## Instructies voor het vernieuwen van uw certificering:
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
-* **Stap 2**: Herzie de examendoelstellingen en de middelen
-* **Stap 3**: Neem en ga het examen over
+* **Stap 1**: Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
+* **Stap 3**: Neem het examen over en ga door
 
 ### Klaar
 
-**Details examen:**
+**Details van examen:**
 
-* Voldoende score: 03-25-35
+* Voldoende score: 25/35
 * Tijd: 70 minuten
-* Kosten: VRIJ/niet-afgewikkeld
+* Kosten: VRIJ/niet-aangeworven
 * Aflevering: Op aanvraag
 * Beschikbare talen: Engels
 * Vereiste: huidige (niet verlopen) certificering van Adobe Workfront Project Manager Professional
@@ -137,7 +137,7 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 
 **Toepassingsgebied en doelstellingen**
 
-Sectie 1: Inname en planning (29%)
+Deel 1: Inname en planning (29%)
 
 * Op basis van een verzoek bekijkt u de aangepaste gegevens om de juiste actie te bepalen. (Overweeg bijgevoegde documenten, vereiste goedkeuring, hoe volledig de gegevens zijn, prioriteit, enz.)
 * Op basis van een scenario bepaalt u de machtigingen voor delen die vereist zijn voor een activiteit. (Overweeg het delen van dashboard/rapporten, handelingen op een taak of verzoek, zichtbaarheid, overgeërfde machtigingen, bestand, enz.)
@@ -152,16 +152,16 @@ Sectie 2: Uitvoeren (59%)
 * Gezien een scenario, bepaal hoe de verschillende Beperkingen van de Taak de projectchronologie wanneer gebruikt beïnvloeden. (Overweeg het begrip wat de verschillende taakbeperkingen doen, wetend wat de verschillende taakbeperkingen zijn, en wanneer om de verschillende taakbeperkingen te gebruiken)
 * Gezien een scenario, toon aan hoe te om projectteams te vinden en hoe te om hen van werktaken, updates, of voltooiing van het werkpunten op de hoogte te brengen. (Overweeg berichttypes, de berichten van het projectteam, het lusje van Mensen, Updates aan projecten/taken, wanneer en waarom aan een het werkvoorwerp in te schrijven, en hoe te om individuele e-mailberichten te wijzigen)
 * Identificeer de verschillende manieren om een project te beheren. (Overweeg waterval, Agile, SCRUM en Kanban.)
-* Beschrijf op basis van een scenario hoe u de belanghebbenden de informatie kunt verschaffen die zij nodig hebben. (Overweeg rapporten te exporteren, bestanden te exporteren, leveringen te herhalen, enz.)
+* Beschrijf op basis van een scenario hoe u de belanghebbenden de vereiste informatie kunt verschaffen. (Overweeg rapporten te exporteren, bestanden te exporteren, leveringen te herhalen, enz.)
 * Gezien een scenario, bepaal hoe de datatypes en de duur projectvoorwaarden beïnvloeden. (Overweeg geplande start, voorspelde start, vastleggen van datum door individuen, enz.)
-* Gezien een scenario, bepaal hoe te om veranderingen in systeem-niveau of groep-vlakke douanestatus uit te voeren of te wijzigen
+* Op basis van een scenario bepalen hoe wijzigingen in aangepaste statussen op systeemniveau of op groepsniveau moeten worden geïmplementeerd of gewijzigd
 * Gezien een scenario, beschrijf de stappen om een rapport te bouwen en het type van nodig rapport te bepalen.
 * Gezien een scenario, bepaal wanneer een kwestie op een project zou moeten worden gebruikt.
 
-Deel 3: Afsluiting (12%)
+Sectie 3: Afsluiting (12%)
 
 * Op basis van een bepaalde objectstatus bepalen welke activiteiten moeten worden uitgevoerd of welke acties moeten worden geactiveerd. (Overweeg lopende goedkeuringen, d.w.z., goedkeuring wordt vereist of een project kan niet worden gesloten tot de goedkeuring wordt opgelost, bericht over actieve projecten slechts - niet op status gelijkwaardig aan planning, het uitgeven van gegevens of het schrappen van taken met geregistreerde uren op een voltooid project, enz.) wordt verzonden
-* Identificeer de projectelementen die kunnen worden gebruikt om projectsucces te meten. (Denk na over basisvariabelen, financiële gegevens, geplande versus werkelijke data/uren/kosten, aangepaste gegevens/KPI&#39;s, enz. Gebruik GEEN hoofdletterspecifieke vragen. Focus op technische elementen.)
+* Identificeer de projectelementen die kunnen worden gebruikt om projectsucces te meten. (Denk na over basislijnvarianten, financiële gegevens, geplande versus werkelijke data/uren/kosten, aangepaste gegevens/KPI&#39;s, enz. Gebruik GEEN hoofdletterspecifieke vragen. Focus op technische elementen.)
 
 ## Vooraf ingesteld
 
@@ -169,15 +169,15 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
-**Sectie 1: Inname en planning**
+**Deel 1: Inname en planning**
 
-* [Inzicht in aanvraagwachtrijen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
+* [Vragenrijen begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
 * [Goedkeuring van de werkzaamheden](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approving-work.html){target="_blank"}
 * [Een project delen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html){target="_blank"}
 * [Projectsjablonen bewerken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/edit-templates.html){target="_blank"}
 * [Taken toewijzen vanuit het projectplan](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html){target="_blank"}
 * [Overzicht van taken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/tasks-overview.html){target="_blank"}
-* [Overzicht van het type duur: Berekend werk](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/tasks-overview.html){target="_blank"}
+* [Overzicht duur: berekend werk](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/tasks-overview.html){target="_blank"}
 * [Objecten in Adobe Workfront begrijpen](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/understand-objects.html){target="_blank"}
 * [Uitgaven converteren naar andere werkitems](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html){target="_blank"}
 * [Een project delen in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/grant-request-object-permissions/share-a-project.html){target="_blank"}
@@ -206,24 +206,24 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Ingebouwde Adobe Workfront-rapporten gebruiken](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/built-in-reports/use-workfront-built-in-reports.html){target="_blank"}
 
 
-**Deel 3: Sluiten**
+**Sectie 3: Afsluiting**
 
 * [De status van een project wijzigen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/change-project-status.html){target="_blank"}
 * [Systeemprojectstatussen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html){target="_blank"}
 * [De milestone-weergave gebruiken](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html){target="_blank"}
 * [Overzicht van de financiële vakgebieden Bedrijfscase](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/business-case-finances.html){target="_blank"}
-* [Projectfinanciën opgenomen in de basislijnen van projecten](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/project-finances-included-in-project-baselines.html#financial-information-included-in-baseline-reports){target="_blank"}
+* [Projectfinanciën die in de basislijnen van projecten zijn opgenomen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/project-finances-included-in-project-baselines.html#financial-information-included-in-baseline-reports){target="_blank"}
 * [Voortgang van het werk bijhouden met projectmetriek](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.html){target="_blank"}
 
 ## Uw certificering verlengen
 
-Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} eerst. Als u uw certificering vervolgens wilt vernieuwen, klikt u hieronder op de koppeling Workfront Project Manager Professional-vernieuwing - AD5-833.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Als u uw certificering vervolgens wilt vernieuwen, klikt u hieronder op de koppeling Workfront Project Manager Professional-vernieuwing - AD5-833.
 
 * [Workfront Project Manager Professional-verlenging - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E833){target="_blank"}
 
 >[!NOTE]
 >
->Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+>Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 +++
 
@@ -231,17 +231,17 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 
 ## Instructies voor het vernieuwen van uw certificering:
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
-* **Stap 2**: Herzie de examendoelstellingen en de middelen
-* **Stap 3**: Neem en ga het examen over
+* **Stap 1**: Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
+* **Stap 3**: Neem het examen over en ga door
 
 ### Klaar
 
-**Details examen:**
+**Details van examen:**
 
-* Voldoende score: 03-25-35
+* Voldoende score: 25/35
 * Tijd: 70 minuten
-* Kosten: VRIJ/niet-afgewikkeld
+* Kosten: VRIJ/niet-aangeworven
 * Aflevering: Op aanvraag
 * Beschikbare talen: Engels
 * Vereiste: huidige (niet verlopen) Adobe Workfront Core Developer Professional-certificering
@@ -249,17 +249,17 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 
 **Toepassingsgebied en doelstellingen**
 
-Sectie 1: Strategie en opname (20%)
+Deel 1: Strategie en opname (20%)
 
-* Portfolio en programma&#39;s gebruiken
+* Portfolio&#39;s en programma&#39;s gebruiken
 * Aanvraagwachtrijen gebruiken
 * Aangepaste Forms gebruiken
 
-Sectie 2: Begroting en planning (11%)
+Afdeling 2: Begroting en planning (11%)
 
 * De hulpmiddelen van de Planning van het Middel gebruiken
 
-Deel 3: Gebruikerservaring (26%)
+Sectie 3: Gebruikerservaring (26%)
 
 * De beste werkwijzen illustreren voor gebruikersbeheer bij het creëren van de juiste gebruikerservaring
 * Op basis van een scenario de juiste instelling toepassen voor het delen en toegangsrechten in het hele systeem
@@ -286,20 +286,20 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
-**Sectie 1: Strategie en opname**
+**Deel 1: Strategie en inname**
 
 * [Overzicht van Portfolio optimaliseren](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html?lang=en){target="_blank"}
 * [Aanvraagwachtrijen maken en beheren](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-manage-request-queues.html?lang=en){target="_blank"}
 * [Toegang tot aanvraagwachtrijen bieden](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/provide-access-to-request-queues.html?lang=en){target="_blank"}
 * [Overzicht van aangepaste formulieren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
 
-**Sectie 2: Begroting en planning**
+**Afdeling 2: Begroting en planning**
 
 * [De werklastbalans zoeken](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer.html?lang=en){target="_blank"}
 * [Werk in bulk toewijzen met Werklastverdeling](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
 * [Toewijzingen van gebruikers beheren in Workload Balancer](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/manage-user-allocations-workload-balancer.html?lang=en){target="_blank"}
 
-**Deel 3: Gebruikerservaring**
+**Sectie 3: Gebruikerservaring**
 
 * [Wanneer en hoe gebruikers te deactiveren of te schrappen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html?lang=en){target="_blank"}
 * [Projectsjablonen delen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/share-project-template.html?lang=en){target="_blank"}
@@ -309,7 +309,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 **Sectie 4: Metriek en rapportage**
 
 * [Adobe Workfront-integratie](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/workfront-integrations-1.html?lang=en){target="_blank"}
-* [Adobe Workfront-plug-ins gebruiken voor Creative Cloud](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=en){target="_blank"}
+* [Adobe Workfront-plug-ins voor Creative Cloud gebruiken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=en){target="_blank"}
 * [Rapporten verzenden en delen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html?lang=en){target="_blank"}
 * [Dashboards maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en){target="_blank"}
 
@@ -322,13 +322,13 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 ## Uw certificering verlengen
 
-Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} eerst. Als u uw certificering vervolgens wilt vernieuwen, klikt u op de koppeling Workfront Core Developer Professional — AD5-835 hieronder.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Als u uw certificering vervolgens wilt vernieuwen, klikt u op de koppeling Workfront Core Developer Professional — AD5-835 hieronder.
 
-* [Workfront Core Developer Professional-verlenging - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
+* [Workfront Core Developer Professional-verlenging - AD5-835](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
 
 >[!NOTE]
 >
->Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+>Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 +++
 
@@ -338,20 +338,20 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 
 ## Instructies voor het vernieuwen van uw certificering:
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
-* **Stap 2**: Herzie de examendoelstellingen en de middelen
-* **Stap 3**: Neem en ga het examen over
+* **Stap 1**: Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
+* **Stap 3**: Neem het examen over en ga door
 
 ### Klaar
 
-**Details examen:**
+**Details van examen:**
 
-* Voldoende score: 03-25-35
+* Voldoende score: 25/35
 * Tijd: 70 minuten
-* Kosten: VRIJ/niet-afgewikkeld
+* Kosten: VRIJ/niet-aangeworven
 * Aflevering: Op aanvraag
 * Beschikbare talen: Engels
-* Vereiste: huidige (niet verlopen) certificering door Adobe Workfront Core Developer Expert
+* Vereiste: huidige (niet verlopen) Adobe Workfront Core Developer Expert-certificering
 * Examen-id: AD5-E829
 
 **Toepassingsgebied en doelstellingen**
@@ -367,7 +367,7 @@ Sectie 2: Inname, Aangepaste Forms en Projectbeheer (11%)
 * Bij een scenario met meerdere formulieren kunt u handelingen bepalen om toegang, zichtbaarheid en afhankelijkheid te beheren.
 * Als u een scenario hebt met berekende velden op formulieren met meerdere objecten, geeft u de juiste formule op.
 
-Deel 3: Strategische functionaliteit (Portfolio- en programmabeheer, hulpbronnenbeheer) (11%)
+Deel 3: Strategische functionaliteit (Portfolio- en programmabeheer, beheer van hulpbronnen) (11%)
 
 * Gezien een scenario, verstrek een mechanisme om ervoor te zorgen dat de projecten volledig worden bemand door de hulpmiddelen van het Beheer van het Middel te gebruiken.
 * Op basis van een scenario-bronnenbeheertools om te bepalen waarom een gebruiker over toegewezen middelen beschikt.
@@ -382,7 +382,7 @@ Sectie 5: Rapportage (11%)
 * Gezien een scenario, bepaal hoe een gebiedstype op een rapport zou teruggeven. (Veldtypen omvatten tekst met opmaak, afbeeldingen en meerdere selecties)
 * Identificeer de mogelijkheden van Adobe Workfront die controle en het verbeteren van gebruikerstoepassing steunen.
 
-Sectie 6: Methodologie / Best Practices / Use cases (29%)
+Sectie 6: Methodologie / Beste praktijken / Gebruikszaken (29%)
 
 * Op basis van een scenario in Workfront, moet u functionaliteit demonstreren voor het bijhouden van de items die onderdeel zijn van één campagne. (Overweeg een geval van marketinggebruik.)
 * In een scenario binnen Workfront moet functionaliteit worden getoond rond financiële middelen, gebruik, prognose, factureringspercentages/records (professionele diensten)
@@ -396,7 +396,7 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
-**Sectie 1: Beheer en installatie van het kernsysteem**
+**Sectie 1: Kernsysteembeheer en -installatie**
 
 * [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Beheer en installatie, Groepen beheren, flexibel)
 * [De projectsjablonen van een groep maken en wijzigen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-templates.html){target="_blank"}
@@ -423,9 +423,9 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Werk in bulk toewijzen met Werklastverdeling](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
 * [Overzicht van slimme toewijzingen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/assign-tasks/smart-assignments.html){target="_blank"}
 
-**Sectie 4: Documentbeheer en proefdrukken**
+**Sectie 4: Documentbeheer en Bewijs**
 
-* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Het werk van het overzicht en keurt goed, vormt proef, vormt integratie)
+* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Het werk van het overzicht en keurt goed, vormt het proef, vormt integratie)
 * [Overzicht van machtigingsprofiel proefdrukken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
 * [Overzicht van proefrollen](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles.html){target="_blank"}
 * [De proefdruktoegang van een gebruiker configureren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/configure-proofing/configure-a-users-proofing-access.html){target="_blank"}
@@ -434,17 +434,17 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 5: Rapportage**
 
-* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Het werk van het overzicht en keurt goed, vormt proef, vormt integratie)
+* [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Het werk van het overzicht en keurt goed, vormt het proef, vormt integratie)
 * [Een projectsjabloon maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
 * [Een afbeeldings- of andere middelenwidget toevoegen of bewerken in een aangepast formulier met de verouderde formulierbuilder](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-widget-or-edit-its-properties-in-a-custom-form.html){target="_blank"}
 * [Een rapport in een diagram weergeven op basis van een aangepast veld met meerdere selecties](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/chart-report-by-multi-select-custom-field.html){target="_blank"}
 * [Overzicht van blauwdrukken](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview.html){target="_blank"}
 
-**Sectie 6: Methodologie / Beste praktijken / Gevallen van het Gebruik**
+**Sectie 6: Methodologie / Beste praktijken / Gebruiksgevallen**
 
-* [as a Cloud Service documentatie Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"} - (Integratie met Adobe Workfront)
+* [as a Cloud Service documentatie Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=nl){target="_blank"} - (Integratie met Adobe Workfront)
 * [Workfront-documentatie](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} (Elementen rapporteren, Projectfinanciën, gebruik van bronnen, gebruik van flexibele planningtools in raden van bestuur, configureren van proefdrukfunctionaliteit)
-* [Essentiële webinar voor systeembeheer: Wat is Workfront Governance?](https://experienceleaguecommunities.adobe.com/t5/workfront-questions/system-admin-essentials-webinar-what-is-workfront-governance-mar/m-p/480721#M13550){target="_blank"}
+* [System Admin Essentials Webinar: Wat is Workfront Governance?](https://experienceleaguecommunities.adobe.com/t5/workfront-questions/system-admin-essentials-webinar-what-is-workfront-governance-mar/m-p/480721#M13550){target="_blank"}
 * [Metagegevenstoewijzing tussen Adobe Workfront en Experience Manager Assets configureren](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/configure-asset-metadata-mapping.html){target="_blank"}
 * [Metagegevens](https://www.adobe.com/digitalimag/pdfs/about_metadata.pdf){target="_blank"}
 * [De milestone-weergave gebruiken](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html){target="_blank"}
@@ -452,13 +452,13 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 ## Uw certificering verlengen
 
-Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} eerst. Als u uw certificering vervolgens wilt vernieuwen, klikt u hieronder op de koppeling Workfront Core Developer-vernieuwing - AD5-829.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Als u uw certificering vervolgens wilt vernieuwen, klikt u hieronder op de koppeling Workfront Core Developer-vernieuwing - AD5-829.
 
 * [Verlenging Workfront Core Developer Expert - AD5-829](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E829){target="_blank"}
 
 >[!NOTE]
 >
->Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+>Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 +++
 
