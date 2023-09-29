@@ -4,12 +4,12 @@ description: Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience P
 solution: Experience Platform
 product: Experience Platform
 role: Developer
-badge: label="Examen AD0-E600 &amp; AD7-E601" type="positive"
+badge: label="Examen AD0-E600 &amp; AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '1422'
+source-wordcount: '1424'
 ht-degree: 3%
 
 ---
@@ -26,6 +26,12 @@ ht-degree: 3%
 >[!IMPORTANT]
 >
 >De Adobe [!DNL Experience Platform] Voor certificering door experts zijn momenteel twee examens vereist: **Adobe [!DNL Experience Platform] Technische stichtingen (AD0-E600)** en **Adobe [!DNL Real-Time CDP] Technisch deskundige (AD7-E601)**. Met ingang van 1 november 2023 wordt een nieuw examen gestart, en dat is alleen examen vereist voor deze certificering.
+
+<br>
+
+[Naar informatie specifiek voor eis 1 gaan](#req-1)
+
+[Naar informatie specifiek voor eis 2 gaan](#req-2)
 
 <br>
 
@@ -56,12 +62,6 @@ U zou moeten hebben:
 * De mogelijkheid om te bepalen welke profielkenmerken nodig zijn
 * Kennis van de frequentie waarmee segmenten naar bestemmingen worden gestuurd
 * Kennis van hoe vaak het segmentlidmaatschap wordt bijgewerkt
-
-<br>
-
-[Naar informatie voor voorschrift 1 gaan](#req-1)
-
-[Naar informatie gaan voor voorschrift 2](#req-2)
 
 <br>
 

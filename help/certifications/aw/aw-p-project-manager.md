@@ -3,10 +3,10 @@ title: Certificering van projectmanager Professional
 description: Leer hoe u een gecertificeerde projectmanager van de Adobe kunt worden in de Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
-badge: label="Examen AD0-E903" type="positive"
+badge: label="Examen AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
 source-wordcount: '1352'
 ht-degree: 0%
