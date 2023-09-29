@@ -7,20 +7,48 @@ role: User,Developer
 badge: label="Examen AD0-E457" type="positive"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '940'
-ht-degree: 6%
+source-wordcount: '815'
+ht-degree: 7%
 
 ---
 
 # Certificeringsreis voor [!DNL Adobe Audience Manager] Expert aan de praktijk van bedrijven
 
-Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Audience Manager] Expert van de beroepsbeoefenaar.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
 
-Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 36/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $225 (wereldwijd) en $150 (India)
+* Examen-id: AD0-E457
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Digital Marketing Specialist
+* Marketing Technology Consultant
+* Publiek strateeg
+* gedragconsultant
+* Digitale marketinganalist
+* Marketing Data Analyse
+* Data Platforms Manager
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -47,74 +75,68 @@ Omgevingen:
 * Digitale marketing
 * Gegevens en analyses
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Digital Marketing Specialist
-* Marketing Technology Consultant
-* Publiek strateeg
-* gedragconsultant
-* Digitale marketinganalist
-* Marketing Data Analyse
-* Data Platforms Manager
-
-**Details van examen:**
-
-* Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 36/50
-* Tijd: 100 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $225 (wereldwijd) en $150 (India)
-* Examen-id: AD0-E457
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Maken en syndiceren van segmenten (25%)
+**Sectie 1: Maken en syndiceren van segmenten (25%)**
 
 * Bepaal de aangewezen methode om segmenten te creëren die eerste, tweede, en derdegegevens voor gerichte en analytische doeleinden gebruiken
 * Gezien een scenario, adviseer segmenten voor activering die zich aan zaken of campagnedoelstellingen richten
 * Bepaal de aangewezen methode om segmenten aan bestemmingen voor activering te synchroniseren
 * Verschil tussen de verschillende soorten bestemmingen
 
-Sectie 2: Treinschepping (17%)
+**Sectie 2: Treinschepping (17%)**
 
 * Aanbevolen kenmerken voor een bepaalde publieksstrategie
 * Bepaal de correcte methode om op regel-gebaseerde en/of onboard eigenschappen tot stand te brengen en bij te werken
 
-Sectie 3: Rapportage en metingen (22%)
+**Sectie 3: Rapportage en metingen (22%)**
 
 * Op basis van een scenario, analyseert u rapporten om de volgende stappen te ondernemen om aan de bedrijfsdoelstellingen te voldoen
 * Op basis van een scenario de optimalisatie voor het publiek analyseren
 
-Sectie 4: Problemen oplossen en beheer (26%)
+**Sectie 4: Problemen oplossen en beheer (26%)**
 
 * Gezien een scenario, verifieer de informatie van de publiekslevering om geplande leveringsbehoeften te verzekeren
 * Bepaal de aangewezen praktijk om off-line binnenkomende dossiers te bevestigen
 * Gezien een scenario, bepaal de correcte methode om QA tegen de synchronisatie van identiteitskaart uit te voeren
 * Bepaal de aangewezen methode om van het Audience Marketplace van de Adobe te navigeren en te activeren
 
-Afdeling 5: Taxonomie (10%)
+**Afdeling 5: Taxonomie (10%)**
 
 * Bepaal de aangewezen structuur om eigenschappen en segmenten tot stand te brengen die een duidelijke en verenigbare nomenclatuur gebruiken
 * De juiste techniek bepalen om een georganiseerd platform te onderhouden met behulp van een duidelijke mapstructuur
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
+
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Maken en samenbrengen van segmenten**
 
@@ -156,17 +178,33 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Eigenschappen classificeren met een gemeenschappelijke taxonomie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html){target="_blank"}
 * [Mapeigenschappen: Info](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
-
-## Een praktijktest uitvoeren
+**Een praktijktest uitvoeren**
 
 {{practice-test}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -179,10 +217,28 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+
+<!--divider-->

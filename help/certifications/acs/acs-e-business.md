@@ -7,18 +7,50 @@ role: User
 badge: label="Examen AD0-E307" type="positive"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '790'
-ht-degree: 8%
+source-wordcount: '637'
+ht-degree: 11%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Campaign Standard] Expert aan de praktijk van bedrijven
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Campaign Standard] Expert van de beroepsbeoefenaar.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 30/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels en Japans
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E307
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* E-mailmarketingmanager
+* Digital Marketing Manager
+* Campagnespecialist
+* Marketing operation manager
+* Campagneproductmanager
+* Campagneanalyst
+* Data Analytics Manager
+* CRM-manager
+* Oplossingsmanager
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou ervaring moeten hebben werkend in een milieu van de kanaallevering (e-mail, direct mail, mobiel, en sociale); kennis van de de campagnetactiek van de marketing zoals multi-aanraking, levenscyclus, en reactivering; en inzicht in marketing metriek zoals ROI, klikthrough tarieven, en omzetting.
 
@@ -31,81 +63,73 @@ Bovendien moet u:
 * Ervaring met het configureren van rapporten
 * inzicht in de opstelling en goedkeuring van de campagnelevering;
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* E-mailmarketingmanager
-* Digital Marketing Manager
-* Campagnespecialist
-* Marketing operation manager
-* Campagneproductmanager
-* Campagneanalyst
-* Data Analytics Manager
-* CRM-manager
-* Oplossingsmanager
-
-**Details van examen:**
-
-* Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 30/50
-* Tijd: 100 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels en Japans
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E307
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Afdeling 1: Leveringsbeheer (25%)
+**Afdeling 1: Leveringsbeheer (25%)**
 
 * Pas beste praktijken in vestiging en het opstellen van een levering toe
 * Bepaal de correcte leveringsconfiguratie
 * Functies van E-mailontwerper toepassen op het juiste scenario
 
-Sectie 2: Campagnebeheer (25%)
+**Sectie 2: Campagnebeheer (25%)**
 
 * Configuraties toepassen om workflows uit te voeren
 * Beste werkwijzen toepassen bij het plannen, omschrijven en wijzigen van een campagne
 
-Deel 3: Eisen (10%)
+**Deel 3: Eisen (10%)**
 
 * Een nieuwe workflow ontwerpen op basis van de vereisten voor bedrijven en campagnes
 * De vereisten van klanten interpreteren
 
-Sectie 4: Rapportage (15%)
+**Sectie 4: Rapportage (15%)**
 
 * Gezien klantenvereisten, bepaal het aangewezen te produceren rapport
 * Gezien een scenario, pas een uit-van-de-doos dynamisch rapport aan
 * Geef op basis van voorbeeldgegevens van OTB-rapporten een interpretatie van de resultaten
 * Pas het proces toe om een OOTB-rapport te plannen en te verzenden
 
-Sectie 5: Problemen oplossen (10%)
+**Sectie 5: Problemen oplossen (10%)**
 
 * Fouten controleren en opsporen
 * Implementatieresultaten analyseren en interpreteren
 
-Sectie 6: Gegevensbeheer en -beheer (15%)
+**Sectie 6: Gegevensbeheer en -beheer (15%)**
 
 * Bronnen voor gegevensmodellen uitleggen
 * Uitvoeren [!DNL Campaign Standard] administratie
 * Het proces toepassen om doelgroepen op te bouwen
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
+
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Afdeling 1: Leveringsbeheer**
 
@@ -143,19 +167,33 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [ [!DNL Campaign Standard] Aan de slag met het datamodel](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
 * [Aan de slag met [!DNL Campaign Standard] administratie](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
-
-## Een praktijktest uitvoeren
+**Een praktijktest uitvoeren**
 
 {{practice-test}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -168,10 +206,27 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+

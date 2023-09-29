@@ -6,18 +6,48 @@ product: Target
 role: Data Architect
 badge: label="Examen AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '917'
+source-wordcount: '841'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor [!DNL Adobe Target] Architect Master
 
-Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Target] Architect Master.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: master (3-5 jaar ervaring)
+* Voldoende score: 32/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E409
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Conversiesnelheid optimalisatie-engineer/ architect
+* Personalisatieingenieur/architect
+* Architect voor digitale oplossingen
+* Consultant voor digitale transformatie
+* Leiding bij optimalisatie van ervaring
+* Optimalisatiebeheer
+* Online campagneleider
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -50,67 +80,47 @@ Omgevingen:
 * Door AMS gehoste omgeving
 * Adobe I/O Runtime
 
->[!BEGINTABS]
+<br>
 
->[!TAB Klaar]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
-**Beoogd publiek:**
+{{exam-objectives}}
 
-* Conversiesnelheid optimalisatie-engineer/ architect
-* Personalisatieingenieur/architect
-* Architect voor digitale oplossingen
-* Consultant voor digitale transformatie
-* Leiding bij optimalisatie van ervaring
-* Optimalisatiebeheer
-* Online campagneleider
-
-**Details van examen:**
-
-* Niveau: master (3-5 jaar ervaring)
-* Voldoende score: 32/50
-* Tijd: 100 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E409
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: [!DNL Adobe Target] fundamentals ( 13 % )
+**Sectie 1: [!DNL Adobe Target] fundamentals ( 13 % )**
 
 * Identificeer het aangewezen [!DNL Adobe Target] gebruik voor een bepaald scenario
 * De fundamentele technologieën van een [!DNL Adobe Target] uitvoering
 
-Sectie 2: Integratie met [!DNL Adobe Target] (18%)
+**Sectie 2: Integratie met [!DNL Adobe Target] (18%)**
 
 * Het integratieproces toepassen [!DNL Adobe Target] met Adobe Analytics (A4T)
 * Het integratieproces toepassen [!DNL Adobe Target] naar Adobe Experience Manager
 * Beschrijf integratie met de oplossingen van Adobe Experience Cloud en van Adobe Experience Platform
 * Beschrijf de integratie met het publiek van Adobe Experience Cloud
 
-Deel 3: [!DNL Adobe Target] bestuur en bestuur ( 6 % )
+**Deel 3: [!DNL Adobe Target] bestuur en bestuur ( 6 % )**
 
 * Een actieve [!DNL Adobe Target] uitvoeringsstrategie en systeembeheer
 * Pas het proces en de beste praktijken toe om gebruikers te beheren
 * Beschrijf de beleidsaspecten van de opstelling van de implementatie
 
-Sectie 4: [!DNL Adobe Target] en ondersteunde aanraakpunten (6%)
+**Sectie 4: [!DNL Adobe Target] en ondersteunde aanraakpunten (6%)**
 
 * Beschrijf de implementatie van levering aan de clientzijde
 * Beschrijf de implementatie van de levering aan de serverzijde
 * Beschrijf implementatievereisten voor mobiele apparaten, het richten van e-mail, en APIs
 
-Sectie 5: Hefboomfinanciering [!DNL Adobe Target] aanbevelingen (11%)
+**Sectie 5: Hefboomfinanciering [!DNL Adobe Target] aanbevelingen (11%)**
 
 * Toon een inzicht in aanbevelingen, catalogi, en criteria aan
 * Pas het proces toe om de aanbevelingen van het Doel te vormen
 
-Sectie 6: Architect, ontwerp en implementatie [!DNL Adobe Target] (18%)
+**Sectie 6: Architect, ontwerp en implementatie [!DNL Adobe Target] (18%)**
 
 * Selecteer de correcte implementatie van het Verzoek van het Doel (Globaal, Bevestigen van de Orde, Hybride) evalueert en ontwerpt en [!DNL Adobe Target] uitvoering
 * Beschrijf de uitvoering van [!DNL Adobe Target] in systeemeigen mobiele toepassingen
 
-Sectie 7: Problemen oplossen (28%)
+**Sectie 7: Problemen oplossen (28%)**
 
 * Mbox-fouten oplossen
 * Problemen met aanvragen en antwoorden oplossen
@@ -118,11 +128,25 @@ Sectie 7: Problemen oplossen (28%)
 * Integratiefouten begrijpen
 * Problemen oplossen [!DNL Adobe Target] Recommendations-fouten
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1**
 
@@ -168,22 +192,33 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Afdeling 7**
 
-[Activiteit QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-[Problemen met de levering van inhoud oplossen](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
-[Veelgestelde vragen over ontwerp](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
-[Veelgestelde vragen over Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
-[Aanmelden bij Adobe Analytics for Target (A4T) via de Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
+* [Activiteit QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
+* [Problemen met de levering van inhoud oplossen](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
+* [Veelgestelde vragen over ontwerp](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
+* [Veelgestelde vragen over Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
+* [Aanmelden bij Adobe Analytics for Target (A4T) via de Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
 
++++
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
++++Stap 3: Planning en betaal voor examen
 
-**Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
+{{schedule-and-pay}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -196,9 +231,25 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 </span>
 </a>
 
->[!ENDTABS]
++++
 
-**Vragen**
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
+
+## Vragen
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

@@ -7,16 +7,41 @@ role: User
 badge: label="Examen AD0-E132" type="positive"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: b7518560c9ab89e0cdb6a45853244d1790f81b44
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '603'
-ht-degree: 3%
+source-wordcount: '468'
+ht-degree: 4%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Experience Manager] Technical Foundations Professional
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager] Professional.
+{{intro}}
+
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 38/60
+* Tijd: 120 minuten
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $125 (wereldwijd) / $95 (India)
+* Examen-id: AD0-E132
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* AEM ontwikkelaars
+* Technische leiding
+
+<br>
 
 ## Minimale ervaring
 
@@ -39,32 +64,13 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * Verschillende AEM hostingmogelijkheden
 * Inhoud/omgevingen tegelijk synchroniseren
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* AEM ontwikkelaars
-* Technische leiding
-
-**Details van examen:**
-
-* Niveau: Professional (0-12 maanden ervaring)
-* Voldoende score: 38/60
-* Tijd: 120 minuten
-* Aflevering: online geprocoreerd (cameratoegang vereist)
-* Beschikbare talen: Engels
-* Kosten: $125 (wereldwijd) / $95 (India)
-* Examen-id: AD0-E132
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Inhoud maken (33%)
+**Sectie 1: Inhoud maken (33%)**
 
 * Inhoudspagina&#39;s beheren
 * Inhoud repliceren
@@ -75,7 +81,7 @@ Sectie 1: Inhoud maken (33%)
 * Procedurele concepten toepassen op het vertalen van inhoud
 * Meerdere sites en live kopieën gebruiken
 
-Sectie 2: Uitvoering (42%)
+**Sectie 2: Uitvoering (42%)**
 
 * Procedurele concepten toepassen om componenten te maken
 * Bewerkbare sjablonen maken
@@ -86,23 +92,37 @@ Sectie 2: Uitvoering (42%)
 * Basiscomponenten uitbreiden
 * Structuur-inhoudmodellering
 
-Sectie 3: Opstelling en plaatsing (13%)
+**Sectie 3: Opstelling en plaatsing (13%)**
 
 * Installatiebundels
 * Pakketten implementeren
 * AEM installeren
 
-Sectie 4: Onderhoud en gebruikersbeheer (12%)
+**Sectie 4: Onderhoud en gebruikersbeheer (12%)**
 
 * Gebruikerstoegang beheren
 * OSGI-configuraties wijzigen
 * Query&#39;s maken
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Inhoud maken**
 
@@ -131,16 +151,27 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Gebruikersbeheer en beveiliging](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html){target="_blank"}
 * [OSGi-configuratie-instellingen](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
++++
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+<br>
 
++++Stap 3: Planning en betaal voor examen
 
-## Ongeveer het certificatieexamen
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -153,10 +184,28 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+
+

@@ -7,18 +7,48 @@ role: User
 badge: label="Examen AD0-E327" type="positive"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '914'
-ht-degree: 13%
+source-wordcount: '761'
+ht-degree: 15%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Campaign Classic] Expert aan de praktijk van bedrijven
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Campaign Classic] Expert van de beroepsbeoefenaar.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 32/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E327
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Bedrijfsadviseur
+* Zakelijke analist
+* Interactiebeheer
+* Campagnebeheer
+* Databasemarkering
+* Zakenbeoefenaar
+* CRM-projectmanager
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -29,41 +59,13 @@ U zou moeten hebben:
 * Kennis van typologische toepassingen, toegangsbeheer, webtechnologieën en marketing van databases
 * Bewustmaking van de wettelijke en ethische richtsnoeren voor het op de markt brengen
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Bedrijfsadviseur
-* Zakelijke analist
-* Interactiebeheer
-* Campagnebeheer
-* Databasemarkering
-* Zakenbeoefenaar
-* CRM-projectmanager
-
-**Details van examen:**
-
-* Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 32/50
-* Tijd: 100 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E327
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-expert-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Campagnebeheer (20%)
+**Sectie 1: Campagnebeheer (20%)**
 
 * Beste werkwijzen toepassen om een campagne te maken
 * Gezien een scenario, bepaal het correcte campagnemalplaatje
@@ -71,14 +73,14 @@ Sectie 1: Campagnebeheer (20%)
 * Doeltoewijzingen beschrijven
 * Uitleggen hoe u webtoepassingen en webformulieren kunt configureren
 
-Sectie 2: Workflowbeheer (22%)
+**Sectie 2: Workflowbeheer (22%)**
 
 * Evalueer een bepaalde reeks campagnevereisten en adviseer de koers van actie
 * Op basis van een scenario workflowfouten analyseren
 * Bepaal op basis van een aantal campagnevereisten het juiste ontwerp van een marketingworkflow
 * Aanbevolen werkwijzen toepassen bij het uitvoeren van workflows
 
-Deel 3: Gegevensbeheer (24%)
+**Deel 3: Gegevensbeheer (24%)**
 
 * Verklaar de kernconcepten relationele gegevensbanken
 * De verschillende gegevensbronnen bepalen waartoe een workflow toegang heeft
@@ -88,29 +90,51 @@ Deel 3: Gegevensbeheer (24%)
 * Voer de stappen uit om een vooraf gedefinieerd filter te configureren
 * Vermeld het juiste invoerformulier op basis van een bedrijfsvereiste
 
-Afdeling 4: Leveringsbeheer (14%)
+**Afdeling 4: Leveringsbeheer (14%)**
 
 * Pas de stappen toe om leveringen tot stand te brengen/te vormen
 * Selecteer en stel op basis van een scenario het juiste proefpubliek voor goedkeuringen in
 * Leveringsaudits analyseren en interpreteren
 
-Sectie 5: Rapportage (12%)
+**Sectie 5: Rapportage (12%)**
 
 * Op basis van een scenario bepalen welke rapporten geschikt zijn om te genereren
 * Ingebouwde rapporten interpreteren
 * De gevolgen van het opschonen/leegmaken van logbestanden voor rapportage uitleggen
 
-Afdeling 6: Administratie (8%)
+**Afdeling 6: Administratie (8%)**
 
 * Op basis van een scenario verklaren de gevolgen van het weggooien van stammen voor rapporten
 * Op basis van zakelijke vereisten de juiste machtigingen en toegangsrechten verlenen
 * De stappen toepassen om SFTP in te schakelen via het bedieningspaneel
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
+
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Afdeling 1: Campagnebeheer**
 
@@ -157,20 +181,33 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Aan de slag met machtigingen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
 * [SFTP-beheer](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/about-sftp-management.html){target="_blank"}
 
+<br>
 
->[!TAB Gecertificeerd ophalen]
-
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
-
-## Een praktijktest uitvoeren
+**Een praktijktest uitvoeren**
 
 {{practice-test}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -183,7 +220,23 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

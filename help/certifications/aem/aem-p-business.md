@@ -7,48 +7,24 @@ role: User
 badge: label="Examen AD0-E126" type="positive"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '865'
-ht-degree: 7%
+source-wordcount: '686'
+ht-degree: 9%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Experience Manager] Professioneel als bedrijf
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager] Zakelijke beroepsbeoefenaar.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
 
-U zou moeten hebben:
+{{exam-description}}
 
-* Ervaring van minimaal 0 tot 12 maanden met het gebruik en configureren van Adobe Cloud Manager
-* Ervaring van minstens 0 tot 12 maanden met AEM functies en mogelijkheden die nodig zijn om ontwikkelaars te betrekken bij het zoeken naar zakelijke oplossingen
-* Minstens 0-12 maanden ervaring het vormen van, het uitvoeren van, en het beheren van Ononderbroken Integratie/Ononderbroken taken van de Plaatsing
+<br>
 
-Als u comfortabel werkt in Adobe Managed Services en Adobe [!DNL Experience Manager] as a Cloud Service en in staat om Adobe in te stellen [!DNL Experience Manager] omgevingen en infrastructuur.
-
-Bovendien moet u:
-
-* De mogelijkheid om AEM producten te gebruiken voor het beheer van inhoud om digitale ervaringen te stimuleren
-* Begrip welke modules aanwezig zijn
-* Een diepgaander inzicht in modules zoals Plaatsen, Activa, en Forms
-
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
-
->[!BEGINTABS]
-
->[!TAB Klaar]
-
-**Beoogd publiek:**
-
-* Oplossingsconsultant
-* Consumentenervaring
-* Producteigenaar voor een oplossing die wordt ontworpen en geïmplementeerd, bedrijfsanalist, oplossingsarchitect
-
-**Details van examen:**
+### Details van examen {#exam-details}
 
 * Niveau: Professional (0-12 maanden ervaring)
 * Voldoende score: 33/50
@@ -58,22 +34,52 @@ Bovendien moet u:
 * Kosten: $125 (wereldwijd) / $95 (India)
 * Examen-id: AD0-E126
 
-**Doelstellingen en toepassingsgebied van examen**
+<br>
 
-Sectie 1: Onderwijs (22%)
+### Beoogd publiek {#intended-audience}
+
+* Oplossingsconsultant
+* Consumentenervaring
+* Producteigenaar voor een oplossing die wordt ontworpen en geïmplementeerd, bedrijfsanalist, oplossingsarchitect
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
+
+U zou moeten hebben:
+
+* Ervaring van minimaal 0 tot 12 maanden met het gebruik en configureren van Adobe Cloud Manager
+* Ervaring van minstens 0 tot 12 maanden met AEM functies en mogelijkheden die nodig zijn om ontwikkelaars te betrekken bij het zoeken naar zakelijke oplossingen
+* Minstens 0-12 maanden ervaring het vormen van, het uitvoeren van, en het beheren van Ononderbroken Integratie/Ononderbroken taken van de Plaatsing
+
+U zou moeten comfortabel werken in Adobe Managed Services en Adobe [!DNL Experience Manager] as a Cloud Service en in staat om Adobe in te stellen [!DNL Experience Manager] omgevingen en infrastructuur.
+
+Bovendien moet u:
+
+* De mogelijkheid om AEM producten te gebruiken voor het beheer van inhoud om digitale ervaringen te stimuleren
+* Begrip welke modules aanwezig zijn
+* Een diepgaander inzicht in modules zoals Plaatsen, Activa, en Forms
+
+<br>
+
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
+
+{{exam-objectives}}
+
+**Sectie 1: Onderwijs (22%)**
 
 * AEM functies en mogelijkheden identificeren
 * Beschrijf AEM eigenschappen die aan bedrijfsbehoeften voldoen
 * Beschrijf de procedurele concepten die nodig zijn om training voor contenteditors uit te voeren
 
-Sectie 2: Architectuur (22%)
+**Sectie 2: Architectuur (22%)**
 
 * Identificeer informatiearchitectuur aangewezen om aan bedrijfsbehoeften te voldoen gebruikend of op prem of Adobe ontvangen (Cloud) milieu
 * Beschrijf hoe AEM met de diensten van de derde verbindt
 * Bepaal waar u rollen en machtigingen wilt definiëren
 * Op basis van een scenario kunt u de beschikbare caching-methoden definiëren
 
-Sectie 3: Bedrijfsanalyse (43%)
+**Sectie 3: Bedrijfsanalyse (43%)**
 
 * Gezien een scenario, identificeer standaardmodules van AEM die klanten bedrijfsproblemen richten
 * Concepten van inhoudsbeheer voor AEM modules identificeren
@@ -82,22 +88,30 @@ Sectie 3: Bedrijfsanalyse (43%)
 * Op basis van een scenario een correcte benadering beschrijven om bedrijfsdoelstellingen te bereiken terwijl binnen budget en/of bereik blijft
 * Identificeer manieren om bedrijfsdoelstellingen met het ontwikkelingsteam te verbinden
 
-Sectie 4: Instelling en implementatie (13%)
+**Sectie 4: Instelling en implementatie (13%)**
 
 * Tips en trucs voor het AEM van inhoudscomponenten identificeren
 * Op basis van een scenario de juiste implementatie van een functie identificeren
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{how-to-get-certified-intro}}
 
-**Voorbeeldvragen**
++++Stap 1: Maak uw account
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+{{create-your-account}}
 
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Afdeling 1: Onderwijs**
 
@@ -138,16 +152,35 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Integratie met Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html){target="_blank"}
 * [AEM [!DNL Sites] video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+**Voorbeeldvragen**
 
+{{sample-questions}}
 
-## Ongeveer het certificatieexamen
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
+
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -160,7 +193,23 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

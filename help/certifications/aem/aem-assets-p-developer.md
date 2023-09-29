@@ -7,18 +7,49 @@ role: Developer
 badge: label="Examen AD0-E129" type="positive"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 3%
+source-wordcount: '630'
+ht-degree: 4%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Experience Manager] Assets Developer Professional
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager] Assets Developer Professional.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 30/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $125 (wereldwijd) / $95 (India)
+* Examen-id: AD0-E129
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* AEM ontwikkelaars
+* DevOps-engineers
+* AEM architecten
+* Cloud Engineers
+* Reliability-engineers van de site
+* Technische managers
+* Engineers voor toepassingsbewerkingen
+* Systeemengineers
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten comfortabel werken in Adobe Managed Services en Adobe [!DNL Experience Manager as a Cloud Service]en in staat zijn Adobe in te stellen [!DNL Experience Manager] omgevingen en infrastructuur.
 
@@ -41,42 +72,13 @@ Bovendien, zou u ervaring met de volgende technologieën en milieu&#39;s moeten 
 * Dev-sandbox
 * Lokale omgeving
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* AEM ontwikkelaars
-* DevOps-engineers
-* AEM architecten
-* Cloud Engineers
-* Reliability-engineers van de site
-* Technische managers
-* Engineers voor toepassingsbewerkingen
-* Systeemengineers
-
-**Details van examen:**
-
-* Niveau: Professional (0-12 maanden ervaring)
-* Voldoende score: 30/50
-* Tijd: 100 min
-* Aflevering: online geprocoreerd (cameratoegang vereist)
-* Beschikbare talen: Engels
-* Kosten: $125 (wereldwijd) / $95 (India)
-* Examen-id: AD0-E129
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Werkstromen van activa (24%)
+**Sectie 1: Werkstromen van activa (24%)**
 
 * Uitleg over het proces om OOTB-workflows aan te passen
 * Identificeer wanneer om de werkschema&#39;s van Activa te creëren of aan te passen om klantenvereisten uit te voeren
@@ -84,7 +86,7 @@ Sectie 1: Werkstromen van activa (24%)
 * Verschil tussen cloud- en on-premise workflows
 * Beschrijf hoe te om de console van het Werkschema te gebruiken om status en vooruitgang te controleren
 
-Sectie 2: Organisatie van activa en de middelenconsole (22%)
+**Sectie 2: Organisatie van activa en de middelenconsole (22%)**
 
 * Toon aan hoe te om Activa in Inzamelingen tot stand te brengen en te organiseren
 * Toon hoe te om Activa te organiseren gebruikend Markeringen
@@ -92,36 +94,52 @@ Sectie 2: Organisatie van activa en de middelenconsole (22%)
 * Beschrijf hoe te om AEM de Rapporten van Activa te vormen en te produceren
 * Beschrijf hoe u gebruikersmachtigingen in de mappen Middelen beheert
 
-Sectie 3: Metagegevens van activa (24%)
+**Sectie 3: Metagegevens van activa (24%)**
 
 * Metagegevensschema&#39;s definiëren
 * Bepaal op basis van een scenario hoe u het juiste metagegevensschema aanpast
 * Op basis van een scenario bepalen hoe metagegevensprofielen kunnen worden gebruikt om aan de vereisten te voldoen
 * Begrijpen hoe trapsgewijze metagegevensschema&#39;s werken
 
-Sectie 4: Middelentypen (18%)
+**Sectie 4: Middelentypen (18%)**
 
 * Beschrijf OOTB-functies die beschikbaar zijn voor middelentypen
 * Inhoudsfragmenten en modellen van inhoudsfragmenten uitleggen
 * Toon hoe en wanneer om de variaties van het inhoudsfragment te gebruiken
 
-Sectie 5: Elementenfunctiesets en -mogelijkheden (12%)
+**Sectie 5: Elementenfunctiesets en -mogelijkheden (12%)**
 
 * Beschrijf de algemene gebruiksgevallen en voordelen van het gebruik van Brand Portal
 * Beschrijf de algemene gebruiksgevallen en voordelen van het gebruik van Dynamic Media
 * Beschrijf opties om AEM te gebruiken Creative Cloud
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
 
-**Voorbeeldvragen**
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"}
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+<br>
 
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Workflows voor bedrijfsmiddelen**
 
@@ -152,16 +170,35 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Ondersteunde bestandsindelingen](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html){target="_blank"}
 * [Dynamic Media-videoprofielen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+**Voorbeeldvragen**
 
+{{sample-questions}}
 
-## Ongeveer het certificatieexamen
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -174,7 +211,23 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

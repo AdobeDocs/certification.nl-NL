@@ -6,44 +6,24 @@ role: Developer
 badge: label="Examen AD0-E903" type="positive"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1549'
+source-wordcount: '1352'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Workfront] Projectmanager Professional
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Workfront] Projectmanager Professional.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
 
-U zou moeten hebben:
+{{exam-description}}
 
-* inzicht in het werkproces van een eerste werkverzoek tot voltooiing of blootstelling aan project- of werkbeheer;
-* Voltooide zelfgeleide training of bootkamp of [!DNL Workfront] gebruiken voor 6-12 maanden zodat zij basisfunctionaliteit begrijpen
-* Een begrip van hoe te om, rapportgegevens te vormen te volgen en te controleren
+<br>
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
-
->[!BEGINTABS]
-
->[!TAB Klaar]
-
-**Beoogd publiek:**
-
-* Projectmanager, werkmanager, planner
-* SCRUM
-* [!DNL Workfront] stroomgebruiker
-* Systeembeheerder
-* Programmabeheerder, portfoliobeheerder
-* Director, manager
-* Resourcebeheer, verkeersbeheerder
-
-**Details van examen - Adobe [!DNL Workfront] Projectmanager**
+### Details van examen {#exam-details}
 
 * Niveau: Professional (0-12 maanden ervaring)
 * Voldoende score: 45/70
@@ -53,13 +33,35 @@ U zou moeten hebben:
 * Kosten: $125 (wereldwijd) / $95 (India)
 * Examen-id: AD0-E903
 
-**Zelfbeoordeling van gereedheid**
+<br>
 
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
+### Beoogd publiek {#intended-audience}
 
-**Doelstellingen en toepassingsgebied van examen**
+* Projectmanager, werkmanager, planner
+* SCRUM
+* [!DNL Workfront] stroomgebruiker
+* Systeembeheerder
+* Programmabeheerder, portfoliobeheerder
+* Director, manager
+* Resourcebeheer, verkeersbeheerder
 
-Deel 1: Inname en planning (30%)
+<br>
+
+### Minimale ervaring {#minimum-experience}
+
+U zou moeten hebben:
+
+* inzicht in het werkproces van een eerste werkverzoek tot voltooiing of blootstelling aan project- of werkbeheer;
+* Voltooide zelfgeleide training of bootkamp of [!DNL Workfront] gebruiken voor 6-12 maanden zodat zij basisfunctionaliteit begrijpen
+* Een begrip van hoe te om, rapportgegevens te vormen te volgen en te controleren
+
+<br>
+
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
+
+{{exam-objectives}}
+
+**Deel 1: Inname en planning (30%)**
 
 * Verschillende manieren aanwijzen waarop een werkverzoek op de hoogte moet worden gesteld
 * Op basis van een verzoek bekijkt u de aangepaste gegevens om de juiste actie te bepalen
@@ -71,7 +73,7 @@ Deel 1: Inname en planning (30%)
 * Identificeer het aangewezen gebied om een specifieke toegewezen middel te bekijken
 * Op basis van een persoon bepaalt u de inname- of planningsrapporten/dashboards die nuttig zijn voor de persoon tijdens de inname of planningsfase van het project/werkproces
 
-Sectie 2: Uitvoeren (50%)
+**Sectie 2: Uitvoeren (50%)**
 
 * Identificeer manieren om, mijlpalen op een Project te begrijpen toe te passen en te meten
 * Maken [!DNL Workfront] Goedkeuring voor eenmalig gebruik en wanneer goedkeuring wordt gebruikt
@@ -92,30 +94,44 @@ Sectie 2: Uitvoeren (50%)
 * Identificeer de diverse soorten rapporten beschikbaar binnen [!DNL Workfront]
 * Gezien een scenario, beschrijf de stappen om een douanerapport te bouwen
 
-Sectie 3: Afsluiting (20%)
+**Sectie 3: Afsluiting (20%)**
 
 * Bepaal op basis van een bepaalde objectstatus welke activiteiten moeten worden uitgevoerd of welke handelingen moeten worden geactiveerd
 * Gezien een scenario, bepaal het type van rapport en het rapporteringselement om een taaklijst of rapport te gebruiken
 * Identificeer de verschillende vervangingen die in het melden kunnen worden gebruikt
 * Identificeer de projectelementen die kunnen worden gebruikt om projectsucces te meten
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
 
-**Voorbeeldvragen**
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"}
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+<br>
 
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
 
-**Aanbevolen trainingscursus:**
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Aanbevolen trainingscursus**
 
 [Basisteamtraining voor planners in de nieuwe [!DNL Workfront] ervaring](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
 
-**Aanvullende bronnen:**
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Deel 1: Inname en planning**
 
@@ -160,16 +176,35 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Tijdlijn project](https://www.workfront.com/project-management/knowledge-areas/time-management/project-timeline){target="_blank"}
 * [Projecten maken](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FCreate_projects%2F_create-projects-overview.htm&amp;_LANG=enus){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+**Voorbeeldvragen**
 
+{{sample-questions}}
 
-## Ongeveer het certificatieexamen
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
+
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -182,7 +217,23 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

@@ -7,18 +7,45 @@ role: User
 badge: label="Examen AD0-E406" type="positive"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1238'
-ht-degree: 0%
+source-wordcount: '1104'
+ht-degree: 1%
 
 ---
 
 # Certificeringsreis voor [!DNL Adobe Target] Expert aan de praktijk van bedrijven
 
-Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Target] Expert van de beroepsbeoefenaar.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 46/68
+* Tijd: 136 minuten
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels, Japans
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E406 (Engels), AD0-E406-J (Japans)
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Optimalisatie
+* Personalisatie
+* Analytics
+* Digitale en productmarketing
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -66,34 +93,13 @@ Omgevingen:
 * Doel gebruiken voor toepassingen van één pagina
 * Email
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Optimalisatie
-* Personalisatie
-* Analytics
-* Digitale en productmarketing
-
-**Details van examen:**
-
-* Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 46/68
-* Tijd: 136 minuten
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E406
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Deel 1: Planning en strategie (31%)
+**Deel 1: Planning en strategie (31%)**
 
 * Identificeer bedrijfs KPIs en vertaal met succes deze in optimaliseringsdoelstellingen gegeven zeer belangrijke bedrijfsvereisten
 * Identificeer kansen voor optimalisering die op zakenKPIs en gegevensanalyse wordt gebaseerd
@@ -105,7 +111,7 @@ Deel 1: Planning en strategie (31%)
 * Vereisten voor het publiek beoordelen
 * Bepaal de relevante analytische rapporteringsbronnen (d.w.z. Target of Adobe Analytics)
 
-Sectie 2: Vormen, uitvoeren en beheren (42%)
+**Sectie 2: Vormen, uitvoeren en beheren (42%)**
 
 * Verklaar het gebruik van Form-Based Experience Composer versus Visual Experience Composer
 * Pas procedures toe om een ervaring tot stand te brengen gebruikend VEC
@@ -122,7 +128,7 @@ Sectie 2: Vormen, uitvoeren en beheren (42%)
 * Procedures toepassen om activiteit QA uit te voeren
 * Procedures toepassen voor het beheer van activiteiten en soorten publiek binnen het doel
 
-Sectie 3: Analyseren en rapporteren (17%)
+**Sectie 3: Analyseren en rapporteren (17%)**
 
 * Bepaal en evalueer rapportmontages helpen de elementen plaatsen die in een rapport verschijnen
 * Evalueren en vergelijken [!DNL Adobe Target] De montages van de calculator van de Grootte van de steekproef wanneer zowel de activiteiten van het Doel plannen als de activiteitenrapporten van het Doel bevestigen
@@ -131,17 +137,31 @@ Sectie 3: Analyseren en rapporteren (17%)
 * Evalueer de Rapporten van de Prestaties van de Ervaring (MVT)
 * De winnende variatie bepalen op basis van de waargenomen lift, het betrouwbaarheidsniveau en de bedrijfsdoelstellingen
 
-Sectie 4: Problemen oplossen (10%)
+**Sectie 4: Problemen oplossen (10%)**
 
 * Kwesties in verband met de kwalificatie van de activiteit
 * Foutopsporingsprogramma&#39;s voor browsers (inclusief Experience Cloud Debugger) gebruiken om de implementatie te controleren
 * Metriek en rapportage controleren
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Deel 1: Planning en strategie**
 
@@ -179,19 +199,33 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Activiteitsfouten oplossen](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
 * [Problemen met integratiefouten oplossen](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.3-troubleshoot-integration-errors.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
-
-## Een praktijktest uitvoeren
+**Een praktijktest uitvoeren**
 
 {{practice-test}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -215,7 +249,23 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 [Japanse instructies voor planning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

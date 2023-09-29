@@ -6,18 +6,47 @@ role: Developer
 badge: label="Examen AD0-E902" type="positive"
 mini-toc-levels: 1
 exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1436'
+source-wordcount: '1253'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Workfront Fusion] Developer Professional
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Workfront] Developer Professional.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 33/51
+* Tijd: 102 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $125 (wereldwijd) / $95 (India)
+* Examen-id: AD0-E902
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Developer, Automation Engineer
+* Beheer van automatisering, procesoptimalisatie en automatisering
+* Integratieconsultants, consultants, partners
+* Systeemintegrators/partners
+* Zakelijke analisten, toegepaste zakelijke analisten
+* Systeembeheerder (IT, MIS, Technologie, Kennissystemen, AI-beheerders)
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -32,36 +61,13 @@ U zou moeten hebben:
 * De capaciteit om organisatieteams en gebruikers te beheren
 * inzicht in het doel en het gebruik van universele connectors voor REST API Oauth2
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Developer, Automation Engineer
-* Beheer van automatisering, procesoptimalisatie en automatisering
-* Integratieconsultants, consultants, partners
-* Systeemintegrators/partners
-* Zakelijke analisten, toegepaste zakelijke analisten
-* Systeembeheerder (IT, MIS, Technologie, Kennissystemen, AI-beheerders)
-
-**Details van examen:**
-
-* Niveau: Professional (0-12 maanden ervaring)
-* Voldoende score: 33/51
-* Tijd: 102 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $125 (wereldwijd) / $95 (India)
-* Examen-id: AD0-E902
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Grondbeginselen van de techniek (39%)
+**Sectie 1: Grondbeginselen van de techniek (39%)**
 
 * Op basis van een [!DNL Fusion] scenario met één gebiedsindeling die in een ander gebiedsindeling moet zijn, de mogelijke functies verstrekken die zouden kunnen worden gebruikt om de gegevens correct om te zetten
 * Op basis van een [!DNL Fusion] scenario dat vereist dat een functie binnen een andere functie wordt genest, selecteer de correct gevormde uitdrukking
@@ -77,7 +83,7 @@ Sectie 1: Grondbeginselen van de techniek (39%)
 * Identificeer de verschillende opties in [!DNL Fusion] scenario montages om scenario behoeften te richten
 * Op basis van een [!DNL Fusion] scenario, selecteert u de juiste stroomregeling en/of bepaalt u de juiste combinatie van de module(s) voor stroomregeling
 
-Sectie 2: Scenario-ontwerp en -architectuur (35%)
+**Sectie 2: Scenario-ontwerp en -architectuur (35%)**
 
 * Kies op basis van een lijst met stappen de juiste volgorde voor het parseren van JSON en het omzetten in bundels
 * Op basis van een reeks vereisten moet u de juiste opzoekmethode voor gegevens identificeren
@@ -92,7 +98,7 @@ Sectie 2: Scenario-ontwerp en -architectuur (35%)
 * Op basis van een beschrijving van de noodzaak om een scenario langer dan 60 dagen te archiveren en de enige mogelijke manier te selecteren (blauwdruk voor importeren/exporteren)
 * Op basis van een voorbeeld van een fout 403: Verboden, selecteert u correct de oorsprong van het foutbericht en veroorzaakt u
 
-Sectie 3: Testen en foutafhandeling (16%)
+**Sectie 3: Testen en foutafhandeling (16%)**
 
 * De elementen van een testplan identificeren
 * De elementen van een testcase identificeren
@@ -101,24 +107,32 @@ Sectie 3: Testen en foutafhandeling (16%)
 * Identificeer hoe te om onvolledige uitvoeringen te volgen, te lezen en op te lossen
 * Op basis van een [!DNL Fusion] scenario met ontbrekende vereiste gegevens, selecteer manieren om de ongeldige gegevens te behandelen
 
-Sectie 4: Werken met API&#39;s (10%)
+**Sectie 4: Werken met API&#39;s (10%)**
 
 * Op basis van een API van derden die een versie van 429 retourneert: Te veel verzoeken, identificeer een oplossing om de fout te voorkomen of af te handelen
 * Op basis van een [!DNL Fusion] scenario waarin nieuwe functionaliteit niet beschikbaar is in het [!DNL Workfront] identificeert het juiste referentie- en moduletype om de nieuwe functionaliteit te gebruiken
 * Op basis van een systeem van derden dat geen specifieke app heeft, identificeert u de HTTP-toepassing en selecteert u de juiste module
 * Het verschil vaststellen tussen CRUD-bewerkingen en andere algemene mogelijkheden van REST API&#39;s
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{how-to-get-certified-intro}}
 
-**Voorbeeldvragen**
++++Stap 1: Maak uw account
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+{{create-your-account}}
 
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Deel 1: Grondbeginselen van technische begrippen**
 
@@ -151,16 +165,35 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Apps en modules daarvan](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=enus){target="_blank"}
 * [Modules in Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+**Voorbeeldvragen**
 
+{{sample-questions}}
 
-## Ongeveer het certificatieexamen
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
+
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -173,7 +206,23 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

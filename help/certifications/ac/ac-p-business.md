@@ -7,18 +7,50 @@ role: User
 badge: label="Examen AD0-E712" type="positive"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 2f4cc72e494787c43205e84cae4a4f3b5ecbf900
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '932'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Commerce] Professioneel als bedrijf
 
-Leer hoe u een gecertificeerde Adobe Business Practitioner Professional kunt worden.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 30/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $125 (wereldwijd) / $95 (India)
+* Examen-id: AD0-E712
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Zakelijke analisten
+* Projectmanagers
+* Eigenaars van producten
+* Consultants
+* [!DNL Adobe Commerce] strategen
+* eCommerce Admin/Director/Manager/Consultants
+* Digital Marketing Director/Manager/Developers
+* Oplossingsspecialisten
+* Technische accountmanagers
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U moet minimaal 0-12 maanden praktijkervaring hebben met [!DNL Magento Open Source] versie 2.4.3. gebruik van het LUMA- of BLANK-thema en basisbegrip van Adobe [!DNL Commerce] versie 2.4.3.
 
@@ -33,43 +65,13 @@ Bovendien moet u een basiskennis hebben van de eCommerce-ervaring en kennis hebb
 * Beveiliging en naleving (GDPR, ADA, PCI DSS v3.2.1, PSD2)
 * Prijsstelling en promotie
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Zakelijke analisten
-* Projectmanagers
-* Eigenaars van producten
-* Consultants
-* [!DNL Adobe Commerce] strategen
-* eCommerce Admin/Director/Manager/Consultants
-* Digital Marketing Director/Manager/Developers
-* Oplossingsspecialisten
-* Technische accountmanagers
-
-**Details van examen:**
-
-* Niveau: Professional (0-12 maanden ervaring)
-* Voldoende score: 30/50
-* Tijd: 100 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $125 (wereldwijd) / $95 (India)
-* Examen-id: AD0-E712
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: [!DNL Magento Open Source] kernfuncties (49%)
+**Sectie 1: [!DNL Magento Open Source] kernfuncties (49%)**
 
 * Omgaan met de functies van [!DNL Magento Open Source]
 * Bepaal het correcte werkingsgebied en wanneer om elk te gebruiken
@@ -80,13 +82,13 @@ Sectie 1: [!DNL Magento Open Source] kernfuncties (49%)
 * Beschrijf de dagelijkse taken betrokken bij het onderhoud van de winkel
 * Verklaar de verschillende soorten inhoudselementen en wanneer om te gebruiken
 
-Deel 2: Adobe [!DNL Commerce] basisbeginselen (14%)
+**Deel 2: Adobe [!DNL Commerce] basisbeginselen (14%)**
 
 * Belangrijke functies die beschikbaar zijn in de Adobe identificeren [!DNL Commerce]
 * Invoegtoepassingen voor services identificeren in Adobe [!DNL Commerce]
 * Identificeer gastheeropties voor Adobe [!DNL Commerce]
 
-Sectie 3: Digitale marketing en de basisbeginselen van e-handel (24%)
+**Sectie 3: Digitale marketing en de basisbeginselen van e-handel (24%)**
 
 * Identificeer het basisgebruik van Digital Marketing-tools (Googles Analytics/Adobe Analytics, Google Tag Manager, E-mailmarketing, Segmentatie, sociale plug-ins)
 * Verklaar de basisbeginselen van SEO
@@ -94,23 +96,39 @@ Sectie 3: Digitale marketing en de basisbeginselen van e-handel (24%)
 * Belangrijkste kenmerken van een eCommerce-website identificeren
 * Identificeer de basisconcepten van de eCommerce (met inbegrip van archiefront opties)
 
-Sectie 4: Beginselen van naleving/beveiliging (13%)
+**Sectie 4: Beginselen van naleving/beveiliging (13%)**
 
 * Begrijp de grondbeginselen van naleving van privacywetten en betalingsbeveiliging
 * Gemeenschappelijke veiligheidsaspecten van een Adobe identificeren [!DNL Commerce] project
 * Aanwijzen van beste praktijken en wettelijke vereisten van toegankelijkheids naleving
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
 
-**Voorbeeldvragen**
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"}
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+<br>
 
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: [!DNL Magento Open Source] kernfunctie**
 
@@ -158,19 +176,35 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Het begrip van naleving ADA en hoe het met eCommerce Websites betrekking heeft](https://magento.com/blog/best-practices/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
 * [Adobe [!DNL Commerce] Tips voor best practices voor beveiliging](https://www.adobe.com/content/dam/cc/en/security/pdfs/Adobe-Magento-Commerce-Best-Practices-Guide.pdf){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+**Voorbeeldvragen**
 
-## Een praktijktest uitvoeren
+{{sample-questions}}
 
-{{practice-test}}
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -183,7 +217,23 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

@@ -7,18 +7,44 @@ role: Developer
 badge: label="Examen AD0-E134" type="positive"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '789'
-ht-degree: 5%
+source-wordcount: '635'
+ht-degree: 7%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Experience Manager Sites] Ontwikkelaarsexpert
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager] Ontwikkelaarsexpert.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 26/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E134
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* AEM ontwikkelaars
+* AEM Senior Developers
+* Ontwikkelaars van AEM
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -28,7 +54,7 @@ U zou moeten hebben:
 * De kennis van kaders en bibliotheken in AEM
 * Kennis van de AEM ontwikkelingscyclus
 
-Bovendien bent u vertrouwd met de volgende technologieën en milieu&#39;s:
+Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 
 * JVM
 * Lagere/preproductieomgevingen
@@ -39,37 +65,13 @@ Bovendien bent u vertrouwd met de volgende technologieën en milieu&#39;s:
 * Gereedschappen voor ontwikkeling en verpakking
 * Opdrachtregelprogramma&#39;s
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* AEM ontwikkelaars
-* AEM Senior Developers
-* Ontwikkelaars van AEM
-
-**Details van examen:**
-
-* Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 26/50
-* Tijd: 100 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E134
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Configuraties (22%)
+**Sectie 1: Configuraties (22%)**
 
 * Identificeer de stappen om AEM te creëren en te beheren
 * Bepaal de correcte stappen om multi-huur te vormen
@@ -77,7 +79,7 @@ Sectie 1: Configuraties (22%)
 * Op basis van een scenario bepaalt u de juiste methode voor het maken en beheren van aangepaste OAK-indexen
 * Bepaal de correcte stappen om integratie te vormen OTB SAML en LDAP
 
-Sectie 2: AEM ontwikkeling (44%)
+**Sectie 2: AEM ontwikkeling (44%)**
 
 * Bepaal de correcte stappen om SPA structuur, malplaatjes, en componenten uit te voeren
 * Op basis van een ontwerp kunt u aangepaste componenten maken, zoals HTML, modellen en services
@@ -86,23 +88,45 @@ Sectie 2: AEM ontwikkeling (44%)
 * Op basis van een scenario de benadering voor integratie van derden bepalen
 * Bepaal de benadering om een headless of hybride implementatie uit te voeren
 
-Sectie 3: Bouw en implementatie (14%)
+**Sectie 3: Bouw en implementatie (14%)**
 
 * Identificeer de stappen aan opstelling en onderhoud front-end en back-end gebiedsbeheer
 * Bepaal correct archetype wanneer het bouwen van projecten
 
-Sectie 4: Milieu-onderhoud (22%)
+**Sectie 4: Milieu-onderhoud (22%)**
 
 * Op basis van een scenario de vereiste stappen bepalen voor het beheer van AEM omgevingen
 * Verklaar de opstellingsstappen rond versiebeheer
 * Aanbevelen en implementeren van oplossingen voor het synchroniseren van inhoud/configuraties in AEM omgevingen
 * De vereiste stappen bepalen voor het plannen en implementeren van AEM upgrades en de migratie/taken van de opslagplaats
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
+
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Configuratie**
 
@@ -137,19 +161,27 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [AEM 6.5 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 * [AEM 6.5 Gebruikershandleiding implementeren](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
++++
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+<br>
 
-## Een praktijktest uitvoeren
++++Stap 3: Planning en betaal voor examen
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -162,7 +194,23 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

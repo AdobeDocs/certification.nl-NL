@@ -7,40 +7,24 @@ role: User
 badge: label="Examen AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: '552'
 ht-degree: 1%
 
 ---
 
 # Certificeringsreis voor [!DNL Adobe Document Cloud] Professioneel als bedrijf
 
-Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Document Cloud] Zakelijke beroepsbeoefenaar.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
 
-U zou moeten hebben:
+{{exam-description}}
 
-* ten minste 0-12 maanden ervaring binnen [!DNL Adobe Document Cloud]
-* De bedrijfsbehoeften kunnen identificeren en meedelen
-* U kunt advies geven over [!DNL Adobe Document Cloud] oplossingen.
+<br>
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
-
->[!BEGINTABS]
-
->[!TAB Klaar]
-
-**Beoogd publiek:**
-
-* Oplossingsconsultant
-* Zakelijke analist
-* Verkoop
-
-**Details van examen:**
+### Details van examen {#exam-details}
 
 * Niveau: Professional (0-12 maanden ervaring)
 * Voldoende score: 34/50
@@ -50,33 +34,69 @@ U zou moeten hebben:
 * Kosten: $125 (wereldwijd) / $95 (India)
 * Examen-id: AD0-D106
 
-**Doelstellingen en toepassingsgebied van examen**
+<br>
 
-Sectie 1: Hoofdletterdetectie gebruiken (36%)
+### Beoogd publiek {#intended-audience}
+
+* Oplossingsconsultant
+* Zakelijke analist
+* Verkoop
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
+
+U zou moeten hebben:
+
+* ten minste 0-12 maanden ervaring binnen [!DNL Adobe Document Cloud]
+* De bedrijfsbehoeften kunnen identificeren en meedelen
+* U kunt advies geven over [!DNL Adobe Document Cloud] oplossingen.
+
+<br>
+
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
+
+{{exam-objectives}}
+
+**Sectie 1: Hoofdletterdetectie gebruiken (36%)**
 
 * Kwalificerende vragen stellen om de kansen van het Document Cloud te identificeren
 * Gevallen voor zakelijk gebruik op hoog niveau definiëren
 
-Sectie 2: Evaluatie van bedrijfsprocessen (34%)
+**Sectie 2: Evaluatie van bedrijfsprocessen (34%)**
 
 * Belangrijkste gebieden van procesverbetering en oplossingsvermogen identificeren
 * Zakelijke doelen afstemmen op de mogelijkheden van het Document Cloud
 * Bied eindgebruikers gerichte demonstraties van verschillende onderdelen van Document Cloud
 
-Sectie 3: Define Document Cloud (DC) Capabilities (18%)
+**Sectie 3: Define Document Cloud (DC) Capabilities (18%)**
 
 * Een overzicht geven van de gevolgen van de naleving en beveiligingsvereisten van documenten en elektronische handtekeningen
 * Beschrijven hoe waarde wordt toegevoegd door proceswijziging
 
-Sectie 4: Aanbevolen oplossing (12%)
+**Sectie 4: Aanbevolen oplossing (12%)**
 
 * Ontwerp van een oplossing voor Documenten Cloud aanbevelen
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Hoofdletterdetectie gebruiken**
 
@@ -118,20 +138,33 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Adobe Acrobat-functies en -gereedschappen](https://www.adobe.com/acrobat/features.html){target="_blank"}
 * [Workflows voor ondertekening instellen](https://helpx.adobe.com/ca/sign/using/workflow-designer-signature-workflow.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
-
-
-## Een praktijktest uitvoeren
+**Een praktijktest uitvoeren**
 
 {{practice-test}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -144,11 +177,26 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
-

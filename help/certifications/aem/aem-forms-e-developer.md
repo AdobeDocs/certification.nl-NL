@@ -7,18 +7,45 @@ role: Developer
 badge: label="Examen AD0-E125" type="positive"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '798'
+source-wordcount: '698'
 ht-degree: 2%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Experience Manager Forms] Ontwikkelaarsexpert
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager Forms] Ontwikkelaarsexpert.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 27/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E125
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* AEM ontwikkelaars
+* Senior AEM Developers
+* AEM Consultants
+* AEM architecten
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -54,45 +81,20 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * Maven
 * GIT/Versiesoftware
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* AEM ontwikkelaars
-* Senior AEM Developers
-* AEM Consultants
-* AEM architecten
-
-**Details van examen:**
-
-* Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 27/50
-* Tijd: 100 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E125
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Oprichting en beheer van Forms (36%)
+**Sectie 1: Oprichting en beheer van Forms (36%)**
 
 * Forms bouwen
 * Forms-gegevensmodel configureren
 * AEM Forms aanpassen
 * Ontwikkel en gebruik JavaScript ClientLib, die GuideBridge-API gebruikt
 
-Sectie 2: Processen en workflows (34%)
+**Sectie 2: Processen en workflows (34%)**
 
 * Een werkstroom voor formuliergoedkeuring ontwerpen en ordenen
 * Een OSGi-bundel ontwikkelen met de API voor documentservices
@@ -101,7 +103,7 @@ Sectie 2: Processen en workflows (34%)
 * PDF manipuleren met Forms- of Assembler-services
 * JDBC-services implementeren
 
-Sectie 3: Beheer en probleemoplossing (18%)
+**Sectie 3: Beheer en probleemoplossing (18%)**
 
 * Logbestanden oplossen en onderscheiden
 * Beheer uitvoeren
@@ -109,20 +111,42 @@ Sectie 3: Beheer en probleemoplossing (18%)
 * Setup AEM Dispatcher uitvoeren voor Forms
 * Navigeren door verschillende consoles
 
-Sectie 4: API-eindpunten en -integratie (8%)
+**Sectie 4: API-eindpunten en -integratie (8%)**
 
 * Integreren met Adobe Experience Cloud
 * Produceer en verbruikt diverse eindpuntdiensten
 
-Sectie 5: Interactieve communicatie (4%)
+**Sectie 5: Interactieve communicatie (4%)**
 
 * Ontwerp, toon en voer processen voor de Interactieve Communicatie aan
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
+
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Oprichting en beheer van Forms**
 
@@ -153,17 +177,33 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Overzicht van communicatie tussen interactie](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html){target="_blank"}
 * [Voorwaarden voor interactieve communicatie](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
-
-## Een praktijktest uitvoeren
+**Een praktijktest uitvoeren**
 
 {{practice-test}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -176,7 +216,23 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

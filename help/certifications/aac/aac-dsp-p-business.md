@@ -7,40 +7,36 @@ role: User
 badge: label="Examen AD0-E502" type="positive"
 mini-toc-levels: 1
 exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '539'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Advertising DSP] Professioneel als bedrijf
 
-Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Advertising DSP] Zakelijke beroepsbeoefenaar.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
 
-U zou moeten hebben:
+{{exam-description}}
 
-* Meer dan 6 maanden ervaring met [!DNL Adobe Advertising]
-* Ervaring met het plannen en meten van belangrijke prestatie-indicatoren in software voor het kopen van media
+<br>
 
-Kennis van de volgende gereedschappen en technologieën:
+### Details van examen {#exam-details}
 
-* Software voor tests en foutopsporing (VAST INSPECTOR, Chrome-ontwikkelaarsgereedschappen)
-* Analysegereedschappen ([!DNL Adobe Analytics], Googles Analytics)
-* Tagingssoftware van derden (Sizmek, Google-tagmanager)
-* Hulpprogramma&#39;s voor mediakwaliteit van derden (IAS, MOAT)
-* Grote browsers
-* Advertentievakelen, SSPs, en DMPs
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 44/69
+* Tijd: 138 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $125 (wereldwijd) / $95 (India)
+* Examen-id: AD0-E502
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
-
->[!TAB Klaar]
+### Beoogd publiek {#intended-audience}
 
 **Beoogd publiek:**
 
@@ -50,19 +46,31 @@ Kennis van de volgende gereedschappen en technologieën:
 * Campagneregisseur
 * Media-koper
 
-**Details van examen:**
+<br>
 
-* Niveau: Professional (0-12 maanden ervaring)
-* Voldoende score: 44/69
-* Tijd: 138 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $125 (wereldwijd) / $95 (India)
-* Examen-id: AD0-E502
+### Minimale ervaring {#minimum-experience}
 
-**Doelstellingen en toepassingsgebied van examen**
+U zou moeten hebben:
 
-Sectie 1: Opzetten van campagnes (42%)
+* Meer dan 6 maanden ervaring met [!DNL Adobe Advertising]
+* Ervaring met het plannen en meten van belangrijke prestatie-indicatoren in software voor het kopen van media
+
+U zou ook met de volgende hulpmiddelen en de technologieën vertrouwd moeten zijn:
+
+* Software voor tests en foutopsporing (VAST INSPECTOR, Chrome-ontwikkelaarsgereedschappen)
+* Analysegereedschappen ([!DNL Adobe Analytics], Googles Analytics)
+* Tagingssoftware van derden (Sizmek, Google-tagmanager)
+* Hulpprogramma&#39;s voor mediakwaliteit van derden (IAS, MOAT)
+* Grote browsers
+* Advertentievakelen, SSPs, en DMPs
+
+<br>
+
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
+
+{{exam-objectives}}
+
+**Sectie 1: Opzetten van campagnes (42%)**
 
 * Bepaal, gezien de behoeften van een campagne, de strategie voor die campagne
 * Gezien een scenario, creeer een nieuwe campagne
@@ -72,14 +80,14 @@ Sectie 1: Opzetten van campagnes (42%)
 * Op basis van een scenario een campagne dupliceren en bewerken
 * Procedurele concepten toepassen die vereist zijn voor het opzetten van particuliere en op verzoek verkrijgbare inventarissen voor een campagne
 
-Sectie 2: Bezig met uitvoeren en optimaliseren van campagnes (22%)
+**Sectie 2: Bezig met uitvoeren en optimaliseren van campagnes (22%)**
 
 * procedureconcepten toepassen om ervoor te zorgen dat campagnes correct worden uitgevoerd
 * Procedurele concepten toepassen om een campagne te optimaliseren
 * Pas procedureconcepten toe om een campagne problemen op te lossen
 * Op basis van een scenario, de integratie met oplossingen in het platform beheren
 
-Sectie 3: Rapportage en analyse (26%)
+**Sectie 3: Rapportage en analyse (26%)**
 
 * Bij een scenario leest u gegevens binnen het platform
 * Voor een scenario maakt en leest u aangepaste rapporten
@@ -87,19 +95,32 @@ Sectie 3: Rapportage en analyse (26%)
 * Op basis van een scenario de prestaties van een campagne evalueren
 * Procedurele concepten toepassen om prestaties toe te wijzen aan een campagne
 
-Sectie 4: Voorstellen voor campagnes (10%)
+**Sectie 4: Voorstellen voor campagnes (10%)**
 
 * Gezien een scenario, verstrek updates aan cliënten die op een campagne worden gebaseerd
 * Op basis van een scenario past u de campagnestrategie aan op basis van de prestaties van de campagne
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Deel 1: Opzetten van campagnes**
-
 
 * [Over Auditiebeheer in [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html){target="_blank"}
 * [Overzicht van inventariskenmerken in [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
@@ -123,15 +144,27 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Hoe [!DNL Advertising] DSP optimaliseert uw campagnes](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
 * [Over Advertentiebeheer in [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
++++
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+<br>
 
-## Ongeveer het certificatieexamen
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -144,7 +177,23 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

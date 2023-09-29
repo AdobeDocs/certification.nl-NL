@@ -7,18 +7,49 @@ role: Developer
 badge: label="Examen AD0-E124" type="positive"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '926'
+source-wordcount: '769'
 ht-degree: 1%
 
 ---
 
 # Certification trip for Adobe Experience Manager DevOps Engineer Expert
 
-Leer hoe u een gecertificeerde Adobe DevOps Engineer Expert kunt worden.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 30/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E124
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Oplossingsconsultants
+* Deskundigen op het gebied van consumentenervaring
+* Producteigenaars van oplossingen die worden ontworpen en geïmplementeerd
+* Zakelijke analisten
+* Oplossingsarchitecten
+* Individuen in partnerorganisaties en freelancers die een analist-baanrol voor AEM oplossingen uitvoeren
+* Marketing specialisten die de eigenschappen en de mogelijkheden kennen nodig om ontwikkelaars in dienst te nemen om een oplossing voor bedrijfsbehoeften te bepalen
+* Klanten die het product gebruiken (dat wil zeggen, stroomgebruikers)
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -27,7 +58,7 @@ U zou moeten hebben:
 
 U zou op zijn gemak moeten werken in Adobe Managed Services en Adobe Experience Manager as a Cloud Service, en kunt Adobe Experience Manager milieu&#39;s en infrastructuur opzetten.
 
-En, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
+Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 
 * Cloud Manager
 * Adobe IO CLI
@@ -39,81 +70,72 @@ En, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 * Dev-sandbox
 * Lokale omgeving
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Oplossingsconsultants
-* Deskundigen op het gebied van consumentenervaring
-* Producteigenaars van oplossingen die worden ontworpen en geïmplementeerd
-* Zakelijke analisten
-* Oplossingsarchitecten
-* Individuen in partnerorganisaties en freelancers die een analist-baanrol voor AEM oplossingen uitvoeren
-* Marketing specialisten die de eigenschappen en de mogelijkheden kennen nodig om ontwikkelaars in dienst te nemen om een oplossing voor bedrijfsbehoeften te bepalen
-* Klanten die het product gebruiken (dat wil zeggen, stroomgebruikers)
-
-**Details van examen:**
-
-* Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 30/50
-* Tijd: 100 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E124
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Adobe Experience Manager configureren (18%)
+**Sectie 1: Adobe Experience Manager configureren (18%)**
 
 * Bepaal de correcte methode om fundamentele montages van Adobe Experience Manager te vormen
 * In een scenario kunt u Adobe Experience Manager-problemen oplossen
 * Bepaal de correcte methode om OSGi te vormen
 
-Sectie 2: Werken met Cloud Manager en Cloud Manager API (20%)
+**Sectie 2: Werken met Cloud Manager en Cloud Manager API (20%)**
 
 * De juiste methode bepalen voor het beheer van de instellingen voor omgevingen in Cloud Manager via de gebruikersinterface
 * De juiste methode bepalen voor het aanbieden van programma&#39;s en omgevingen in Cloud Manager
 * De juiste methode bepalen voor migratie naar Adobe Experience Manager as a Cloud Service
 * De juiste methode bepalen voor het instellen van integraties op Adobe I/O
 
-Sectie 3: De infrastructuur van de Webvolmacht vormen (12%)
+**Sectie 3: De infrastructuur van de Webvolmacht vormen (12%)**
 
 * Bepaal de correcte methode om de configuraties van de Verzender te beheren
 * Gezien een scenario, los caching kwesties problemen op
 
-Sectie 4: Bouw en plaatsingen (28%)
+**Sectie 4: Bouw en plaatsingen (28%)**
 
 * De juiste methode bepalen voor het beheer van implementaties in Cloud Manager
 * Op basis van een scenario de status van een Cloud Manager-pijplijn analyseren
 * Bepaal de juiste methode voor het beheer van inhoudspakketten in meerdere Adobe Experience Manager-instanties
 * Bepaal de correcte methode om veranderingen in Geweven dossiers aan te brengen om pijpleidingen te steunen
 
-Sectie 5: Toezicht op en rapportage over kwaliteitsmaatstaven (14%)
+**Sectie 5: Toezicht op en rapportage over kwaliteitsmaatstaven (14%)**
 
 * Bepaal de correcte methode om prestatiesmetriek en rapporten te verzamelen
 * Bepaal de correcte methode om infrastructuur te schrapen
 
-Sectie 6: Gebruik de Admin Console (8%)
+**Sectie 6: Gebruik de Admin Console (8%)**
 
 * Bepaal de correcte methode om een steunverzoek in de Admin Console voor te leggen
 * Bepaal de correcte methode om federated SSO te vormen en de gebruikers en de groepen van Adobe Experience Manager te synchroniseren
 
->[!TAB Vooraf ingesteld]
+### Readiness-vragenlijst
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+{{readiness}}
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"}
+
+<br>
+
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Adobe Experience Manager configureren**
 
@@ -151,19 +173,27 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [IMS-ondersteuning voor AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html#accessing-cloud-manager){target="_blank"}
 * [Adobe IMS gebruikersgroepen en AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
++++
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+<br>
 
-## Een praktijktest uitvoeren
++++Stap 3: Planning en betaal voor examen
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -176,7 +206,23 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

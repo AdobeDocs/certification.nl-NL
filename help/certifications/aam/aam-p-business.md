@@ -8,36 +8,24 @@ level: Experienced
 badge: label="Examen AD0-E458" type="positive"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '907'
-ht-degree: 7%
+source-wordcount: '804'
+ht-degree: 8%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Audience Manager] Professioneel als bedrijf
 
-Leer hoe u gecertificeerd bent als een [!DNL Audience Manager] Zakelijke beroepsbeoefenaar.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
 
-U zou een basisbegrip van gegevensstromen, bedrijfsdoelstellingen en KPIs, met wat ervaring rond gegevensanalyses en strategieën moeten hebben
+{{exam-description}}
 
->[!BEGINTABS]
+<br>
 
->[!TAB Klaar]
-
-**Beoogd publiek:**
-
-* Digital Marketing Specialist
-* Marketing Technology Consultant
-* Publiek strateeg
-* gedragconsultant
-* Digitale marketinganalist
-* Marketing Data Analyse
-* Data Platforms Manager
-
-**Details van examen:**
+### Details van examen {#exam-details}
 
 * Niveau: Professional (0-12 maanden ervaring)
 * Voldoende score: 31/50
@@ -47,9 +35,31 @@ U zou een basisbegrip van gegevensstromen, bedrijfsdoelstellingen en KPIs, met w
 * Kosten: $125 (wereldwijd) / $95 (India)
 * Examen-id: AD0-E458
 
-**Doelstellingen en toepassingsgebied van examen**
+<br>
 
-Sectie 1: Segment maken en synchroniseren (32%)
+### Beoogd publiek {#intended-audience}
+
+* Digital Marketing Specialist
+* Marketing Technology Consultant
+* Publiek strateeg
+* gedragconsultant
+* Digitale marketinganalist
+* Marketing Data Analyse
+* Data Platforms Manager
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
+
+U zou een basisbegrip van gegevensstromen, bedrijfsdoelstellingen en KPIs, met wat ervaring rond gegevensanalyses en strategieën moeten hebben
+
+<br>
+
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
+
+{{exam-objectives}}
+
+**Sectie 1: Segment maken en synchroniseren (32%)**
 
 * Identificeer manieren om eerste, tweede, en derdegegevens voor gerichte en analytische doeleinden te gebruiken
 * Beschrijf het basisproces voor de activering van zaken of campagnedoelstellingen
@@ -57,42 +67,50 @@ Sectie 1: Segment maken en synchroniseren (32%)
 * Identificeer de verschillende soorten bestemmingen
 * De verschillende typen bronnen identificeren
 
-Sectie 2: Trait Creation (16%)
+**Sectie 2: Trait Creation (16%)**
 
 * Op basis van een scenario signalen, kenmerken, segmenten en doelgroepen identificeren
 * Identificeer het gebruik van verschillende types van eigenschappen
 
-Sectie 3: Rapportage en metingen (16%)
+**Sectie 3: Rapportage en metingen (16%)**
 
 * Op basis van een scenario rapporten genereren om activering of campagnedoelstellingen te meten
 * Vergelijk, in een scenario, het publiek op basis van gelijke tarieven
 
-Sectie 4: Problemen oplossen (10%)
+**Sectie 4: Problemen oplossen (10%)**
 
 * Gezien een scenario, los binnenkomende gegevens van verschillende bronnen en brontypes problemen op
 * Indeling voor inkomende gegevensbestanden valideren
 
-Afdeling 5: Taxonomie (12%)
+**Afdeling 5: Taxonomie (12%)**
 
 * Bepaal de aangewezen structuur om eigenschappen en segmenten tot stand te brengen die een duidelijke en verenigbare nomenclatuur gebruiken
 * De juiste techniek bepalen om een georganiseerd platform te onderhouden met behulp van een duidelijke mapstructuur
 
-Sectie 6: Profiel samenvoegen, ID synchroniseren en Audience Marketplace
+**Sectie 6: Profiel samenvoegen, ID synchroniseren en Audience Marketplace**
 
 * Gebruikerseigenschappen indelen in één uniform profiel om een publiek in een huishouden of op een apparaat te maken
 * Activering identificeren met Audience Marketplace
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{how-to-get-certified-intro}}
 
-**Voorbeeldvragen**
++++Stap 1: Maak uw account
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+{{create-your-account}}
 
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Maken en samenbrengen van segmenten**
 
@@ -142,15 +160,35 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Activeer publiekssegmenten op aanvraag naar batchbestemmingen via de API voor ad-hocactivering](https://experienceleague.adobe.com/docs/experience-platform/destinations/api/ad-hoc-activation-api.html){target="_blank"}
 * [Profielen en segmenten naar een doel activeren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+**Voorbeeldvragen**
 
+{{sample-questions}}
 
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -163,10 +201,27 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+

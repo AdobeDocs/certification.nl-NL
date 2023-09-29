@@ -7,45 +7,36 @@ role: User
 badge: label="Examen AD0-E555" type="positive"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '862'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Marketo Engage] Professional
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Marketo] Professional.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
 
-U zou moeten hebben:
+{{exam-description}}
 
-* Ongeveer 6 maanden praktijkervaring
-* Het vermogen om inzicht te krijgen in de marketingbehoeften die worden uitgedrukt in taakvereisten om een technische oplossing toe te passen
-* De mogelijkheid om van begin tot eind een eenvoudig programma te maken
-* De mogelijkheid om een slimme lijst en slimme campagne te maken
-* Kennis van het maken van segmentaties
-* Een goed begrip van gegevensrevisie (opschonen)
-* Een begrip van Gegevensbestand (hoe te om mensen, het Logboek van de Activiteit te creëren, unsubscribe, lijst van gewezen personen, e-mail ongeldige concepten)
-* De mogelijkheid om het belang van privacyregels te begrijpen
-* Begrip van e-mailmarketing
+<br>
 
-En, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moeten zijn:
+### Details van examen {#exam-details}
 
-* Adobe [!DNL Marketo Engage]
-* Excel of Google Sheets/Doc
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 36/55
+* Tijd: 110 minuten
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels, Japans
+* Kosten: $125 (wereldwijd) / $95 (India)
+* Examen-id: AD0-E555 (Engels), AD0-E555-J (Japans)
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
-
->[!TAB Klaar]
-
-**Beoogd publiek:**
+### Beoogd publiek {#intended-audience}
 
 * Specialist/coördinator Campagne
 * Database Marketing Manager / Specialist / Coordinator
@@ -61,23 +52,34 @@ En, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moeten zij
 * Marketing Technology Coordinator / Specialist / Associated
 * Leden van marketingteam
 
-**Details van examen:**
+<br>
 
-* Niveau: Professional (0-12 maanden ervaring)
-* Voldoende score: 36/55
-* Tijd: 110 minuten
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $125 (wereldwijd) / $95 (India)
-* Examen-id: AD0-E555
+### Minimale ervaring {#minimum-experience}
 
-**Zelfbeoordeling van gereedheid**
+U zou moeten hebben:
 
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
+* Ongeveer 6 maanden praktijkervaring
+* Het vermogen om inzicht te krijgen in de marketingbehoeften die worden uitgedrukt in taakvereisten om een technische oplossing toe te passen
+* De mogelijkheid om van begin tot eind een eenvoudig programma te maken
+* De mogelijkheid om een slimme lijst en slimme campagne te maken
+* Kennis van het maken van segmentaties
+* Een goed begrip van gegevensrevisie (opschonen)
+* Een begrip van Gegevensbestand (hoe te om mensen, het Logboek van de Activiteit te creëren, unsubscribe, lijst van gewezen personen, e-mail ongeldige concepten)
+* De mogelijkheid om het belang van privacyregels te begrijpen
+* Begrip van e-mailmarketing
 
-**Doelstellingen en toepassingsgebied van examen**
+Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moeten zijn:
 
-Deel 1: Opbouw en beheer van programma&#39;s (39%)
+* Adobe [!DNL Marketo Engage]
+* Excel of Google Sheets/Doc
+
+<br>
+
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
+
+{{exam-objectives}}
+
+**Deel 1: Opbouw en beheer van programma&#39;s (39%)**
 
 * Gezien een bedrijfsbehoefte/vraag, identificeer een aangewezen rapporteringsstrategie om een analyse uit te voeren
 * Gegevens analyseren om zakelijke vragen te beantwoorden
@@ -86,7 +88,7 @@ Deel 1: Opbouw en beheer van programma&#39;s (39%)
 * Rapportgegevens analyseren om conclusies samen te vatten en te trekken
 * Uitstekers en anomalieën in rapporten herkennen
 
-Sectie 2: Gebouwen (19%)
+**Sectie 2: Gebouwen (19%)**
 
 * Bestanden bewerken in Design Studio (afbeeldingen en bestanden uploaden/vervangen).
 * Een formulier maken/wijzigen met de formuliereditor.
@@ -96,7 +98,7 @@ Sectie 2: Gebouwen (19%)
 * Teken het verschil tussen concept en goedgekeurde elementen op.
 * Het verschil tussen lokale en globale elementen onderscheiden.
 
-Sectie 3: Doelgroepen definiëren en aanwijzen (33%)
+**Sectie 3: Doelgroepen definiëren en aanwijzen (33%)**
 
 * Slimme lijsten maken/wijzigen.
 * Begrijp de stappen van de slimme stroom van de Campagne.
@@ -111,23 +113,39 @@ Sectie 3: Doelgroepen definiëren en aanwijzen (33%)
 * Begrijp hoe de Slimme trekkers en de filters van de Campagne werken.
 * Hiermee kunt u de verschillende geïmporteerde lijsten onderscheiden.
 
-Sectie 4: Analyseren en opstellen van rapporten (9%)
+**Sectie 4: Analyseren en opstellen van rapporten (9%)**
 
 * De standaardAdobe uitleggen [!DNL Marketo Engage] rapporten en wanneer zij zouden moeten worden gebruikt (de Prestaties van de Verbinding E-mail, E-mailPrestaties, de Prestaties van de Landing van de Pagina, de Prestaties van Mensen, de Prestaties van het Programma, de Activiteit van de Web-pagina, etc.)
 * Gegevens en metriek over het dashboard comprimeren (e-mailprogramma-dashboard, betrokkenheidsprogramma-dashboard)
 * Metrische gegevens van e-mailinzichten aanbevelen
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
 
-**Voorbeeldvragen**
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"}
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+<br>
 
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"}
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Deel 1: Opbouw en beheer van programma&#39;s**
 
@@ -160,16 +178,35 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Overzicht rapporttype](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
 * [Rapportabonnementen beheren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+**Voorbeeldvragen**
 
+{{sample-questions}}
 
-## Ongeveer het certificatieexamen
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"}
+
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -193,7 +230,23 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 
 [Japanse instructies voor planning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

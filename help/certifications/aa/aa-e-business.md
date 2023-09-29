@@ -1,24 +1,57 @@
 ---
 title: Bedrijfs Praktijkcertificering
-description: Leer hoe u gecertificeerd kunt worden als Adobe Business Practitioner Expert in [!DNL Adobe Analytics]
+description: Leer hoe u gecertificeerd bent als een [!DNL Adobe Analytics] Expert aan de praktijk van bedrijven
 solution: Analytics
 product: Analytics
 role: User
 badge: label="Examen AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1025'
-ht-degree: 2%
+source-wordcount: '877'
+ht-degree: 3%
 
 ---
 
 # Certificeringsreis voor [!DNL Adobe Analytics] Expert aan de praktijk van bedrijven
 
-Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Analytics] Expert van de beroepsbeoefenaar.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* **Niveau:** Expert (1-3 jaar ervaring)
+* **Voldoende score:** 05-31-50
+* **Tijd:** 120 minuten
+* **Aflevering:** Online geproctoreerd (cameratoegang vereist)
+* **Beschikbare talen:** Engels, Japans
+* **Kosten:** $ 225 (wereldwijd) / $ 150 (India)
+* **Examen-id:** AD0-E208 (Engels), AD0-E208-J (Japans)
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Digitale markten
+* Zakelijke analisten
+* Bedrijfsadviseurs
+* Gegevensanalisten
+* Webanalisten
+* Digitale analisten
+* Media-/marketinganalisten
+* Eigenaars en managers van producten
+* UI-analisten
+* Conversie-/optimalisatiespecialisten
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -34,7 +67,7 @@ U zou moeten hebben:
 * Basiskennis van de manier waarop digitale analyses gegevens filteren/structureren
 * Een bewustzijn van de integratie van [!DNL Adobe Analytics] met andere oplossingen voor Adobe
 
-### Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
+Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 
 * FTP-client
 * Huidig [!DNL Adobe Analytics] Werkruimtemogelijkheden en andere rapportopties buiten Workspace (bijv. geplande projecten en planningsrapporten)
@@ -46,50 +79,19 @@ U zou moeten hebben:
 * Adobe Help Center
 * Exportopties voor gegevens (bijvoorbeeld klik met de rechtermuisknop om te exporteren, .csv-download, Gegevensfeeds, Data Warehouse-extract)
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Digitale markten
-* Zakelijke analisten
-* Bedrijfsadviseurs
-* Gegevensanalisten
-* Webanalisten
-* Digitale analisten
-* Media-/marketinganalisten
-* Eigenaars en managers van producten
-* UI-analisten
-* Conversie-/optimalisatiespecialisten
-
-**Details van examen:**
-
-* **Niveau:** Expert (1-3 jaar ervaring)
-* **Voldoende score:** 05-31-50
-* **Tijd:** 120 minuten
-* **Aflevering:** Online geproctoreerd (vereist cameratoegang) of >testcentrum geproctoreerd
-* **Beschikbare talen:** Engels
-* **Kosten:** $ 225 (wereldwijd) / $ 150 (India)
-* **Examen-id:** AD0-E208
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Deel 1: Analyse in het ecosysteem van Adobe Experience Cloud (10%)
+**Deel 1: Analyse in het ecosysteem van Adobe Experience Cloud (10%)**
 
 * Toon kennis van het gebruik van Adobe Experience Cloud ID aan
 * Toon inzicht in het lanceren van Adobe
 * Toon inzicht in gemeenschappelijke integratie in het ecosysteem van Adobe Experience Cloud
 
-Sectie 2: Rapportage en dashboarding voor projecten (30%)
+**Sectie 2: Rapportage en dashboarding voor projecten (30%)**
 
 * Houd rekening met de voordelen van het gebruik van een rapporteringsinstrument op basis van een bepaald scenario
 * Fallout- en stroomvisualisatie vergelijken en de juiste typen variabelen voor rapportage
@@ -101,7 +103,7 @@ Sectie 2: Rapportage en dashboarding voor projecten (30%)
 * Gezien een scenario, bepaal het aangewezen punt aan gebruik
 * Pas het proces toe om mobiele scorecards te creëren, te vormen en te gebruiken
 
-Sectie 3: Segmentering en berekende cijfers (22%)
+**Sectie 3: Segmentering en berekende cijfers (22%)**
 
 * Bepaal hoe u segmenten ontwikkelt en configureert
 * Pas het proces toe om segmenten met anderen in de organisatie te delen
@@ -109,14 +111,14 @@ Sectie 3: Segmentering en berekende cijfers (22%)
 * Segmenten toepassen op projecten en componenten
 * Pas het proces toe om berekende en/of gesegmenteerde metriek te produceren
 
-Sectie 4: Algemene kennis van gereedschappen en probleemoplossing (12%)
+**Sectie 4: Algemene kennis van gereedschappen en probleemoplossing (12%)**
 
 * Rapporten analyseren en problemen met de gegevenskwaliteit identificeren
 * Verschillende typen dimensies en parameters definiëren die bestaan in [!DNL Adobe Analytics] (eVars, props en evenementen)
 * Bepalen hoe gegevens in- en worden geplaatst [!DNL Adobe Analytics]
 * Informatie van marketing-URL&#39;s identificeren
 
-Afdeling 5: Administratie (10%)
+**Afdeling 5: Administratie (10%)**
 
 * Pas het proces toe om het te vormen [!UICONTROL Marketing Channel] rapporten met [!UICONTROL Marketing Channel] verwerkingsvoorschriften
 * Pas het proces toe om de Indeler van de Indeling en de Bouwer van de Regel te vormen
@@ -124,11 +126,33 @@ Afdeling 5: Administratie (10%)
 * Gebruik de [!UICONTROL Data Feed] Gebruikersinterface beheerder
 * Begrip van gegevensbeheer
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
+
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"}
+
+<br>
+
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Bedrijfsanalyse**
 
@@ -161,19 +185,31 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Veelgestelde vragen](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
 * [Workflow van de Builder voor classificatieregels](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
-
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke of onjuiste informatie beschikbaar is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.
-
-## Een praktijktest uitvoeren
+**Een praktijktest uitvoeren**
 
 {{practice-test}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -197,7 +233,23 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 [Japanse instructies voor planning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

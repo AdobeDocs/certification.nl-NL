@@ -6,22 +6,48 @@ product: Magento
 role: Developer
 badge: label="Examen AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1019'
+source-wordcount: '924'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor [!DNL Adobe Commerce] Front-end ontwikkelaarsexpert
 
-Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Commerce] Ontwikkelaarsexpert.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
 
-De [!DNL Adobe Commerce] Frontend Developer wordt beschouwd als een professionele rol en heeft minstens 1 tot 3 jaar praktijkervaring met de ontwikkeling van Adobe Commerce Frontend. Zij moeten in staat zijn de behoeften die door taakvereisten worden uitgedrukt, om te zetten in een technische oplossing.
+{{exam-description}}
 
-De kandidaat moet comfortabel zijn met de volgende technologieën:
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 33/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E720
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Ontwikkelaars
+* Leidingontwikkelaars
+* Front-end ontwikkelaars
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
+
+U moet minstens 1-3 jaar praktijkervaring hebben met Adobe Commerce front-end ontwikkeling. U zou de capaciteit moeten hebben om de behoeften die door taakvereisten worden uitgedrukt in een technische oplossing om te zetten.
+
+Bovendien kunt u de volgende technologieën beter gebruiken:
 
 * [!DNL Adobe Commerce] - versie 2.4.6
 * Basiskennis van de front-end structuur en lay-out
@@ -40,33 +66,13 @@ De kandidaat moet comfortabel zijn met de volgende technologieën:
 * Inzicht in Adobe Commerce Cloud-infrastructuur
 * Basiskennis van het opdrachtgereedschap Cloud CLI
 
->[!BEGINTABS]
+<br>
 
->[!TAB Klaar]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
-**Beoogd publiek:**
+{{exam-objectives}}
 
-* Ontwikkelaars
-* Leidingontwikkelaars
-* Front-end ontwikkelaars
-
-**Details van examen:**
-
-* Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 33/50
-* Tijd: 100 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E720
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Themabeheer (Themahiërarchie, beeldconfiguratie, vertalingen) (16%)
+**Sectie 1: Themabeheer (Themahiërarchie, beeldconfiguratie, vertalingen) (16%)**
 
 * Beschrijf de structuur van de Adobe Commerce-themamap en hoe deze zich verhoudt tot op mappen gebaseerde thema&#39;s.
 * Toon de capaciteit aan om een nieuw thema (Overerving/Fallbacks, ontwerpuitzonderingen, themaeigenschappen) te creëren
@@ -75,7 +81,7 @@ Sectie 1: Themabeheer (Themahiërarchie, beeldconfiguratie, vertalingen) (16%)
 * Toon vermogen aan om vertalingen toe te passen
 * Geef op basis van een aantal gebruiksgevallen aan wanneer bestanden in een app/code of app/ontwerp moeten worden geplaatst
 
-Sectie 2: XML en sjablonen voor lay-out (HTML-sjablonen) (22%)
+**Sectie 2: XML en sjablonen voor lay-out (HTML-sjablonen) (22%)**
 
 * Toon de capaciteit aan om lay-outXML instructies te gebruiken
 * Toon de capaciteit aan om nieuwe paginalay-outs te creëren
@@ -84,7 +90,7 @@ Sectie 2: XML en sjablonen voor lay-out (HTML-sjablonen) (22%)
 * Toon capaciteit aan om malplaatjes tot stand te brengen en aan te passen
 * Sjabloonbeveiliging toepassen (uitvoer wordt geëlimineerd)
 
-Sectie 3: Stijlen (18%)
+**Sectie 3: Stijlen (18%)**
 
 * Het doel van styles-m.less, styles-l.less, print.less identificeren
 * Beschrijf het verschil tussen specifieke gedeeltelijke dossiers (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less,)
@@ -95,7 +101,7 @@ Sectie 3: Stijlen (18%)
 * Toon de capaciteit aan om LESS bibliotheekcomponenten uit te voeren en aan te passen
 * De verschillen tussen client-side en server-side compilatie identificeren en de werking ervan
 
-Sectie 4: JavaScript (afbeeldingswidgets, afbeeldingsbibliotheek, module voor klantgegevens, uitnemingssjablonen) (22%)
+**Sectie 4: JavaScript (afbeeldingswidgets, afbeeldingsbibliotheek, module voor klantgegevens, uitnemingssjablonen) (22%)**
 
 * Toon de capaciteit aan initialiseren en componenten te roepen JavaScript
 * Verschillende gebruiksgevallen voor verschillende JavaScript-componenten
@@ -107,14 +113,14 @@ Sectie 4: JavaScript (afbeeldingswidgets, afbeeldingsbibliotheek, module voor kl
 * Het gebruik van jQuery-widgets aantonen
 * Het gebruik van JS-componenten aantonen met Layout XML
 
-Sectie 5: Admin Configuration and Page Builder (12%)
+**Sectie 5: Admin Configuration and Page Builder (12%)**
 
 * Toon de capaciteit aan om de inhoud van de Bouwer van de Pagina aan te passen
 * Beschrijf front-end optimalisering
 * Transactiee-mails aanpassen
 * Toon het gebruik van de hulpmiddelen van de adminontwikkeling aan
 
-Sectie 6: Gereedschappen (CLI en Grunt) (10%)
+**Sectie 6: Gereedschappen (CLI en Grunt) (10%)**
 
 * Toon het gebruik van basisbak/Magento bevelen aan
 * Beschrijf het gebruik van Composer-opdrachten (installeren, bijwerken, vereisen, verwijderen)
@@ -122,11 +128,33 @@ Sectie 6: Gereedschappen (CLI en Grunt) (10%)
 * Grunt instellen en gebruiken definiëren
 * Beschrijf extra hulpmiddelen die de wolk verstrekt (snel, downloadend gegevensbestand, plaatsing van inhoud, vertakking gebruikend UI)
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
+
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
+
+<br>
+
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Themabeheer (Themahiërarchie, beeldconfiguratie, vertalingen)**
 
@@ -170,17 +198,33 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Variabelen samenstellen](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
 * [Handel in Cloud-infrastructuur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
-> De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+**Een praktijktest uitvoeren**
 
-**Nu u zich hebt aangemeld, zijn de volgende koppelingen rechtstreeks toegankelijk.**
+{{practice-test}}
 
-**Praktijktest binnenkort beschikbaar**
++++
 
-## Ongeveer het certificatieexamen
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -193,9 +237,25 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 </span>
 </a>
 
->[!ENDTABS]
++++
 
-**Vragen**
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
+
+## Vragen
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

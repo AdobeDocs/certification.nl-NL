@@ -6,18 +6,50 @@ role: Developer
 badge: label="Examen AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1011'
+source-wordcount: '819'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Workfront] Core Developer Professional
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Workfront] Core Developer professional.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 44/70
+* Tijd: 140 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $125 (wereldwijd) / $95 (India)
+* Examen-id: AD0-E905
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Technisch consultant
+* Systeembeheerder
+* Projectmanager
+* Projectcoördinator
+* Strategist
+* Resource Manager
+* Analyst
+* IT-specialist
+* [!DNL Workfront] implementatieconsultant/lead
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -36,55 +68,25 @@ En u moet:
 * Vertrouwdheid met native connectors en andere Adobe [!DNL Workfront] producten en diensten
 * Kennis van het projectbeheer, inclusief flexibiliteit en waterval, en concepten voor middelenbeheer
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Technisch consultant
-* Systeembeheerder
-* Projectmanager
-* Projectcoördinator
-* Strategist
-* Resource Manager
-* Analyst
-* IT-specialist
-* [!DNL Workfront] implementatieconsultant/lead
-
-**Details van examen:**
-
-* Niveau: Professional (0-12 maanden ervaring)
-* Voldoende score: 44/70
-* Tijd: 140 min
-* Aflevering: online geprocoreerd (cameratoegang vereist)
-* Beschikbare talen: Engels
-* Kosten: $125 (wereldwijd) / $95 (India)
-* Examen-id: AD0-E905
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1. Strategie en gebruik (24%)
+**Sectie 1. Strategie en gebruik (24%)**
 
 * Portefeuilles en programma&#39;s gebruiken
 * Wachtrijen voor aanvragen gebruiken
 * Aangepaste formulieren gebruiken
 * Basisgoedkeuringen gebruiken
 
-Sectie 2. Begroting en planning (11%)
+**Sectie 2. Begroting en planning (11%)**
 
 * Bronnen gebruiken
 * Op basis van een scenario/reeks vereisten past u de configuraties toe op het instellen van een projectsjabloon
 
-Sectie 3. Gebruikerservaring (25%)
+**Sectie 3. Gebruikerservaring (25%)**
 
 * De beste werkwijzen illustreren voor gebruikersbeheer bij het creëren van de juiste gebruikerservaring
 * Op basis van een scenario de juiste instelling toepassen voor het delen en toegangsrechten in het hele systeem
@@ -92,13 +94,13 @@ Sectie 3. Gebruikerservaring (25%)
 * Toon hoe te om timesheets tot stand te brengen en te gebruiken
 * Beschrijf het doel en de waarde van schakelaars, stop-ins, en toe:voegen-ons
 
-Sectie 4. Metriek en rapportage (16%)
+**Sectie 4. Metriek en rapportage (16%)**
 
 * Beschrijf basisconcepten voor het bouwen, verzenden, en het aanpassen van rapporten
 * Uitleggen hoe u dashboards kunt maken en aanpassen
 * Toon aan hoe te om functionele meningen van rapporten te vormen
 
-Sectie 5. Uitvoering (24%)
+**Sectie 5. Uitvoering (24%)**
 
 * Demonstreer hoe te opstellings goedkeuring en proefdrukken werkschema&#39;s
 * Het doel van het maken van een uitgave voor een project herkennen
@@ -107,17 +109,33 @@ Sectie 5. Uitvoering (24%)
 * Identificeer de manieren om tijd binnen in te gaan [!DNL Workfront]
 * Identificeer de elementen van financiële tracking in [!DNL Workfront]
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
 
-**Voorbeeldvragen**
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"}
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+<br>
 
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Deel 1: Strategie en inname**
 
@@ -160,17 +178,35 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Een bestandsteam maken](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
 * [Trackkosten](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+**Voorbeeldvragen**
 
+{{sample-questions}}
 
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -183,7 +219,23 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

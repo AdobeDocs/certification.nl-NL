@@ -8,18 +8,47 @@ role: Data Architect,Developer
 badge: label="Examen AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '755'
-ht-degree: 4%
+source-wordcount: '573'
+ht-degree: 6%
 
 ---
 
 # Certificeringsreis voor [!DNL Adobe Analytics] Architect Master
 
-Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Analytics] Architect Master.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: master (3-5 jaar ervaring)
+* Voldoende score: 33/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E207
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Oplossingsarchitect
+* Technisch manager
+* Gegevensarchitect
+* Analysetechnicus
+* Analytics Strategist
+* Multi Solutions Engineer
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U moet minimaal 3 tot 4 jaar ervaring hebben met het ontwerpen [!DNL Adobe Analytics] architectuur, de specificaties van de gegevenslaag, en markeringsbeheer, evenals basisbegrip van code JavaScript.
 
@@ -33,42 +62,19 @@ Bovendien, bent u verantwoordelijk voor het omzetten van bedrijfsvereisten in he
 * Optimalisatiegereedschappen
 * Code-editors
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Oplossingsarchitect
-* Technisch manager
-* Gegevensarchitect
-* Analysetechnicus
-* Analytics Strategist
-* Multi Solutions Engineer
-
-**Details van examen:**
-
-* Niveau: master (3-5 jaar ervaring)
-* Voldoende score: 33/50
-* Tijd: 100 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E207
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Detectie (18%)
+**Sectie 1: Detectie (18%)**
 
 * Toon vermogen aan om sites te controleren
 * De klant onderzoeken moet bedrijfsvereisten bouwen
 * Op basis van een scenario een meetkader maken
 
-Sectie 2: Oplossingsontwerp (54%)
+**Sectie 2: Oplossingsontwerp (54%)**
 
 * Vertaal bedrijfsvereisten in variabelen en metriek
 * Toon capaciteit aan om de montages van de rapportreeksen te beheren
@@ -77,7 +83,7 @@ Sectie 2: Oplossingsontwerp (54%)
 * Technische specificaties schrijven voor siteontwikkelaars
 * Gebruikers/groepen van Experiencen Cloud maken
 
-Sectie 3: Na de implementatie (28%)
+**Sectie 3: Na de implementatie (28%)**
 
 * Valideer het bijhouden van wijzigingen aan de hand van de ontwikkelaarsgereedschappen van de browser en de rapporten over de Adobe
 * Procedurele concepten toepassen om gegevensextractie en relaties te beheren
@@ -85,17 +91,25 @@ Sectie 3: Na de implementatie (28%)
 * Op basis van een scenario gegevensbronnen en connectors beheren
 * Vorm noodzakelijke segmenten en berekende metriek om bedrijfsvereisten te beantwoorden
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{how-to-get-certified-intro}}
 
-**Voorbeeldvragen**
++++Stap 1: Maak uw account
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+{{create-your-account}}
 
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Detectie**
 
@@ -132,16 +146,35 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Gegevensinvoegingsproces](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
 * [Het Experience Cloud implementeren op websites met zelfstudie over tags](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+**Voorbeeldvragen**
 
+{{sample-questions}}
 
-## Ongeveer het certificatieexamen
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
+
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -154,10 +187,27 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Aanvullende vragen? Stuur een e-mail `certif@adobe.com`
+Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+

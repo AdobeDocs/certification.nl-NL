@@ -7,18 +7,48 @@ role: User
 badge: label="Examen AD0-E329" type="positive"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1215'
-ht-degree: 8%
+source-wordcount: '1027'
+ht-degree: 9%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Campaign Classic] Professioneel als bedrijf
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Campaign Classic] Zakelijke beroepsbeoefenaar.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 32/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $125 (wereldwijd) / $95 (India)
+* Examen-id: AD0-E329
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Bedrijfsadviseur
+* Zakelijke analist
+* Interactiebeheer
+* Campagnebeheer
+* Databasemarkering
+* Zakenbeoefenaar
+* CRM-projectmanager
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -36,41 +66,15 @@ U zou moeten hebben:
 * Ervaring met elementaire HTML en personalisatie
 * Abonnementsservicebeheer (opt-in/opt-out)
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
-
-**Beoogd publiek:**
-
-* Bedrijfsadviseur
-* Zakelijke analist
-* Interactiebeheer
-* Campagnebeheer
-* Databasemarkering
-* Zakenbeoefenaar
-* CRM-projectmanager
-
-**Details van examen:**
-
-* Niveau: Professional (0-12 maanden ervaring)
-* Voldoende score: 32/50
-* Tijd: 100 min
-* Aflevering: online geprocoreerd (cameratoegang vereist)
-* Beschikbare talen: Engels
-* Kosten: $125 (wereldwijd) / $95 (India)
-* Examen-id: AD0-E329
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
+{{exam-objectives}}
 
 **Doelstellingen en toepassingsgebied van examen**
 
-Sectie 1: Een campagne maken (29%)
+**Sectie 1: Een campagne maken (29%)**
 
 * De verschillende Digital Marketing-concepten en -doelstellingen herkennen
 * Belangrijke gereedschapseigenschappen en -structuur identificeren en definiëren in relatie tot de interface
@@ -82,14 +86,14 @@ Sectie 1: Een campagne maken (29%)
 * Erkennen waar de leveringsresultaten of uitvoer moeten worden gevonden
 * Verschil tussen verschillende fout- en waarschuwingstypen (levering, campagne en workflowniveau)
 
-Sectie 2: Workflowbeheer en platformcapaciteiten (16%)
+**Sectie 2: Workflowbeheer en platformcapaciteiten (16%)**
 
 * Op basis van een scenario bepalen welke workflowactiviteiten moeten worden geselecteerd
 * Verschil tussen campagne- en technische workflows
 * Op basis van een scenario bepaalt u welke workflowoplossing optimaal is voor continue, wacht-, terugkerende, abortussituaties
 * De nieuwe mogelijkheden en functies van Campagne V8 identificeren in vergelijking met eerdere versies
 
-Sectie 3: Gegevensbewerkingen (20%)
+**Sectie 3: Gegevensbewerkingen (20%)**
 
 * Bepaal hoe u kolommen binnen een weergave kunt wijzigen om gegevens/uitvoer te testen
 * Beschrijf de doelstellingen van de unitie, de intersection, de uitsluiting, en de spleet werkschema richtend activiteiten
@@ -98,7 +102,7 @@ Sectie 3: Gegevensbewerkingen (20%)
 * Gezien een scenario, bepaal hoe te om een publiek te segmenteren en als lijst en cellen op te slaan
 * Gezien een scenario, bepaal de beste methode om gegevens naar bestemmingen uit te voeren door hen te vormen
 
-Sectie 4: Leveringsconfiguratie (28%)
+**Sectie 4: Leveringsconfiguratie (28%)**
 
 * Gezien een scenario, bepaal het correcte leveringstype
 * Bepaal op basis van zakelijke vereisten hoe u sjablonen kunt maken
@@ -109,24 +113,40 @@ Sectie 4: Leveringsconfiguratie (28%)
 * Geef aan waar/hoe u de inhoud en personalisatie van de levering wilt testen
 * Verschil tussen de verschillende leveringsstaten die tijdens verwerking voorkomen en acties toepassen
 
-Sectie 5: Administratie en rapportage (7%)
+**Sectie 5: Administratie en rapportage (7%)**
 
 * Identificeer gemeenschappelijke OOTB- rapporten en waar om tot hen toegang te hebben
 * Bepaal welk OOTB-rapport nodig is op basis van rapportagevereisten
 * Identificeer de beschrijvende functionaliteit van de Analyse binnen Adobe Campaign
 * In een scenario past u de juiste machtigingen toe om de toegang tot Campagneobjecten te beperken of toe te staan
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
 
-**Voorbeeldvragen**
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"}
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+<br>
 
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Een campagne maken**
 
@@ -171,16 +191,35 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Aan de slag met een beschrijvende analyse](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html){target="_blank"}
 * [Aan de slag met machtigingen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+**Voorbeeldvragen**
 
+{{sample-questions}}
 
-## Ongeveer het certificatieexamen
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
+
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -193,7 +232,23 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

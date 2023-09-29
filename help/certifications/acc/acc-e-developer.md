@@ -7,18 +7,44 @@ role: Developer
 badge: label="Examen AD0-E330" type="positive"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1117'
-ht-degree: 10%
+source-wordcount: '961'
+ht-degree: 11%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Campaign Classic] Ontwikkelaarsexpert
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Campaign Classic] Ontwikkelaarsexpert.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 34/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E330
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Technisch consultant
+* Technologie-engineer
+* Adobe [!DNL Campaign Classic] ontwikkelaar
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -30,37 +56,13 @@ U zou moeten hebben:
 * Mogelijkheid om de implementatie van de Campagne problemen op te lossen
 * Basisbegrip van serverconfiguraties met betrekking tot campagne
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Technisch consultant
-* Technologie-engineer
-* Adobe [!DNL Campaign Classic] ontwikkelaar
-
-**Details van examen**
-
-* Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 34/50
-* Tijd: 100 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E330
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Systeemconfiguratie (16%)
+**Sectie 1: Systeemconfiguratie (16%)**
 
 * Configuratie-instellingen en standaardinstellingen voor het hele systeem toepassen
 * Selecteer op basis van verschillende parameters de juiste Adobe Campaign-functie om een gebruiksgeval te implementeren
@@ -68,7 +70,7 @@ Sectie 1: Systeemconfiguratie (16%)
 * Aangepaste configuraties implementeren
 * Configuratiefuncties van het Configuratiescherm van Campagne identificeren
 
-Sectie 2: Aanpassing (22%)
+**Sectie 2: Aanpassing (22%)**
 
 * Op basis van een aantal vereisten kunt u best practices toepassen om een gegevensmodel te ontwerpen
 * Beschrijf de implementatie van APIs in Campagne
@@ -78,14 +80,14 @@ Sectie 2: Aanpassing (22%)
 * In een scenario leert u hoe u SQL-scripts in Adobe kunt gebruiken [!DNL Campaign Classic]
 * Beschrijf algemeen gebruikte OOTB functies
 
-Sectie 3: Toegangsbeheer (8%)
+**Sectie 3: Toegangsbeheer (8%)**
 
 * In een scenario, vorm veiligheidsmontages voor een exploitant
 * Beschrijf hoe te om de montages van het toegangsbeheer te vormen die op het document van het oplossingsontwerp worden gebaseerd
 * Beschrijf toegangsbeheer gebruikend het Controlebord van de Campagne
 * Identificeer de beperkingen van gegevensverdeling en wanneer om sysfilter te gebruiken
 
-Sectie 4: Gegevensintegratie (16%)
+**Sectie 4: Gegevensintegratie (16%)**
 
 * Selecteer bij een scenario de beste aanpak voor integratie met externe gegevensbronnen
 * Tips en trucs implementeren voor de verwerking van workflowgegevens
@@ -93,7 +95,7 @@ Sectie 4: Gegevensintegratie (16%)
 * Beveiligings- en netwerkinstellingen identificeren die met Adobe Campaign kunnen worden geïntegreerd vanuit een extern systeem
 * Het CRUD-proces instellen op een schema van buiten Adobe Campaign
 
-Sectie 5: Instantie-onderhoud (12%)
+**Sectie 5: Instantie-onderhoud (12%)**
 
 * Begrijp en neem op de Werkstroomkaart in werking
 * Toon het proces aan om een douanewerkschema tot stand te brengen of een rapport voor bijvoorbeeld controle
@@ -101,7 +103,7 @@ Sectie 5: Instantie-onderhoud (12%)
 * Verklaar het effect van de diensten en processen op het systeem
 * De standaardmeetgegevens/controles van systeemaudits aantonen
 
-Sectie 6: Configuratie campagne (25%)
+**Sectie 6: Configuratie campagne (25%)**
 
 * Geavanceerde verpersoonlijkingstechnieken toepassen
 * Aangepaste doeltoewijzingen configureren en toepassen
@@ -112,11 +114,33 @@ Sectie 6: Configuratie campagne (25%)
 * Beschrijf workflowpraktijken die een negatief effect hebben op de prestaties
 * Op basis van een praktijkgeval kunt u het beste een gecompliceerd workflowontwerp gebruiken
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
+
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Systeemconfiguratie**
 
@@ -173,19 +197,27 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Sjablonen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html){target="_blank"}
 * [Een aangepaste tabel voor ontvangers gebruiken](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
++++
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+<br>
 
-## Een praktijktest uitvoeren
++++Stap 3: Planning en betaal voor examen
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -198,7 +230,23 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

@@ -7,20 +7,55 @@ role: User
 badge: label="Examen AD0-E559" type="positive"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1419'
+source-wordcount: '1268'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Marketo Engage] Expert aan de praktijk van bedrijven
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Marketo Engage] Expert van de beroepsbeoefenaar.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
 
-U zou moeten hebben:
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 32/50
+* Tijd: 110 minuten
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels, Japans
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E559 (Engels), AD0-E559-J (Japans)
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Marketing Operations Manager/specialist/expert/analist
+* Digital Marketing Manager/specialist/expert/analist
+* Campagnebeheerder/specialist/deskundige/analist
+* [!DNL Marketo Engage] consultants
+* Automatiseringsmanager/specialist/expert/analist op het gebied van digitaal/marketing
+* Marketing Systems Manager
+* Demand Generation Manager
+* E-mailmarketingmanager
+* Inkomstenbewerkingsmanager
+* Groeibewerkingsmanager
+* Martech architect
+* Marketing Technology Manager
+* Geïntegreerde campagnemanagers
+* Business system analyst
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 * Ongeveer 18 maanden ervaring met Adobe [!DNL Marketo Engage] eigenschappen en mogelijkheden nodig om marketing campagnes te creëren en de gegevens van het klantengedrag te gebruiken
 
@@ -39,48 +74,13 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 * Microsoft Office
 * Standaard HTML
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Marketing Operations Manager/specialist/expert/analist
-* Digital Marketing Manager/specialist/expert/analist
-* Campagnebeheerder/specialist/deskundige/analist
-* [!DNL Marketo Engage] consultants
-* Automatiseringsmanager/specialist/expert/analist op het gebied van digitaal/marketing
-* Marketing Systems Manager
-* Demand Generation Manager
-* E-mailmarketingmanager
-* Inkomstenbewerkingsmanager
-* Groeibewerkingsmanager
-* Martech architect
-* Marketing Technology Manager
-* Geïntegreerde campagnemanagers
-* Business system analyst
-
-**Details van examen:**
-
-* Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 32/50
-* Tijd: 110 minuten
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels en Japans
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E559
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Beheer en onderhoud (12%)
+**Sectie 1: Beheer en onderhoud (12%)**
 
 * Toewijzingsproces tussen Marketo en CRM bepalen
 * Identificeer wat met activa gebeurde gebruikend het Spoor van de Controle
@@ -89,7 +89,7 @@ Sectie 1: Beheer en onderhoud (12%)
 * CRM-platforms identificeren met native Marketo-synchronisatie
 * Zoek bij een scenario de locatie waar naar informatie wordt verwezen
 
-Sectie 2: Marketingactiviteiten/Campaign Management (46%)
+**Sectie 2: Marketingactiviteiten/Campaign Management (46%)**
 
 * Toon een inzicht in Slimme Campagnes, logica, beperkingen en stroomstappen aan
 * Op basis van een scenario de volgende stap definiëren
@@ -106,7 +106,7 @@ Sectie 2: Marketingactiviteiten/Campaign Management (46%)
 * Communicatielimieten oplossen
 * Informatie over een webinar-provider gebruiken in een gebeurtenisprogramma
 
-Sectie 3: Loodbeheer (12%)
+**Sectie 3: Loodbeheer (12%)**
 
 * Een overzicht geven van de belangrijkste beslissingspunten bij het definiëren van het levenscyclusmodel
 * Aanbevolen werkwijzen toepassen op leadscoring
@@ -114,19 +114,19 @@ Sectie 3: Loodbeheer (12%)
 * Het logboek met hoofdactiviteit interpreteren
 * Op basis van een scenario de aanmaakbron identificeren
 
-Sectie 4: Gegevensbeheer (10%)
+**Sectie 4: Gegevensbeheer (10%)**
 
 * Toon hoe te om een programma van het gegevensbeheer op te zetten
 * De gegevenskwaliteit van een instantie analyseren
 * Identificeer een paar zeer belangrijke stukken van het beleid van het de gegevensbehoud van Marketo aangezien het op slimme lijsten betrekking heeft
 * Samenvatten hoe segmentatie werkt
 
-Sectie 5: Rapportage (4%)
+**Sectie 5: Rapportage (4%)**
 
 * Op basis van het resultaat van een campagne bepalen hoe u een programma instelt voor de beste rapportage
 * In een scenario kan het passende overnameprogramma worden onderzocht en toegewezen
 
-Sectie 6: Beste praktijken (16%)
+**Sectie 6: Beste praktijken (16%)**
 
 * Toon de relevantie van lood scoring in marketing en verkoopsamenwerking aan
 * De voordelen van de mapstructuur en naamgevingsconventies illustreren
@@ -134,11 +134,33 @@ Sectie 6: Beste praktijken (16%)
 * Uitleg over het proces voor het uitvoeren van een kwaliteitscontrole op een Marketo-programma
 * Verklaar het proces om een kwaliteitscontrole op e-mail uit te voeren
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
+
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Afdeling 1: Beheer en onderhoud**
 
@@ -204,19 +226,33 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [De Definitieve gids voor het Scoren van de Lood](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}
 * [Mappen begrijpen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
-
-## Een praktijktest uitvoeren
+**Een praktijktest uitvoeren**
 
 {{practice-test}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -240,10 +276,27 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 [Japanse instructies voor planning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+

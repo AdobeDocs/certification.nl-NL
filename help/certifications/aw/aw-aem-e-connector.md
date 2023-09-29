@@ -6,18 +6,45 @@ role: Developer
 badge: label="Examen AD0-E906" type="positive"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '684'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Workfront] for [!DNL Experience Manager] Verbeterde connectorexpert
 
-Leer hoe u een gecertificeerde Adobe-expert kunt worden.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 34/55
+* Tijd: 110 minuten
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E906
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Consultants voor partneroplossingen
+* Uitvoeringsspecialisten
+* Integratiespecialisten
+* Ontwikkelaars of architecten
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou één of meerdere van de volgende certificatie moeten bereikt hebben:
 
@@ -36,34 +63,13 @@ En u moet:
 * inzicht in taxonomieën en AEM tagging, AEM workflows, JCR, Sling, OSGi en databases
 * Kennis van best practices voor werkbeheer
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Consultants voor partneroplossingen
-* Uitvoeringsspecialisten
-* Integratiespecialisten
-* Ontwikkelaars of architecten
-
-**Details van examen:**
-
-* Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 34/55
-* Tijd: 110 minuten
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E906
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Deel 1: Technische eisen (25%)
+**Deel 1: Technische eisen (25%)**
 
 * Gebruiken [!DNL Workfront] Aangepaste Forms
 * Op basis van een scenario documentbeheer tonen
@@ -71,14 +77,14 @@ Deel 1: Technische eisen (25%)
 * Op basis van een scenario bepalen hoe waarden worden doorgegeven aan [!DNL Workfront] aangepaste formulieren
 * Problemen met code op de server oplossen
 
-Sectie 2: Configuratie (26%)
+**Sectie 2: Configuratie (26%)**
 
 * Beste werkwijzen illustreren voor gebruikersbeheer
 * Procedureconcepten toepassen die vereist zijn om bestaande AEM werkstromen voor bedrijfsmiddelen te wijzigen
 * Beslissingen nemen die nodig zijn om het metagegevensschema voor verschillende elementtypen aan te passen
 * Pas procedurele AEM toe die worden vereist om bundels OSGi, activa, meta-gegevensschema, het etiketteren, en toestemmingen op te stellen
 
-Sectie 3: Bedrijfspraktijken (21%)
+**Sectie 3: Bedrijfspraktijken (21%)**
 
 * De clientbehoeften interpreteren om de juiste workflowstrategieën aan te bevelen
 * Demonstreer hoe u instelt [!DNL Workfront] workflows voor goedkeuring en proefdrukken
@@ -86,22 +92,30 @@ Sectie 3: Bedrijfspraktijken (21%)
 * Toon een inzicht in het volgen van te leveren punten als deel van campagnebeheer aan
 * Gezien een scenario, identificeer de belangrijkste overwegingen van veranderingsbeheer voor [!DNL Workfront] uitvoering
 
-Sectie 4: Installatie en configuratie van connector (28%)
+**Sectie 4: Installatie en configuratie van connector (28%)**
 
 * Voorwaarden valideren binnen AEM
 * Gezien een geval van het klantengebruik, identificeer de eigenschappen van de schakelaar om uit te voeren
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{how-to-get-certified-intro}}
 
-**Voorbeeldvragen**
++++Stap 1: Maak uw account
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+{{create-your-account}}
 
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Deel 1: Technische eisen**
 
@@ -136,16 +150,35 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Configureren [!DNL Workfront] for [!DNL Experience Manager] verbeterde aansluiting](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html){target="_blank"}
 * [Adobe [!DNL Experience Manager Assets] integratie met Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+**Voorbeeldvragen**
 
+{{sample-questions}}
 
-## Ongeveer het certificatieexamen
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
+
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -158,7 +191,23 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

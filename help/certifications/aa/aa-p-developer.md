@@ -8,18 +8,44 @@ level: Experienced
 badge: label="Examen AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: c661d42a32717320031da2289509ffcf6f5bc945
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1116'
+source-wordcount: '946'
 ht-degree: 3%
 
 ---
 
 # Certificeringsreis voor [!DNL Adobe Analytics] Developer Professional
 
-Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Analytics] Developer Professional.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 31/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $125 (wereldwijd) en $95 (India)
+* Examen-id: AD0-E213
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Implementatiespecialisten/technici
+* Ontwikkelaars
+* Architecten
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -27,7 +53,7 @@ U zou moeten hebben:
 * Ervaar ondersteunende teams van de Implementatie van Analytics in het bruggen tussen IT en het zaken om te begrijpen hoe de bedrijfsvereisten in een technische oplossing (SDR) vertalen, en gebaseerd op vereisten die door de analist worden verstrekt
 * Begrijpen welk type variabele nodig is, waar en hoe te om de gegevens te verzamelen, het gegevensmodel (gegevenslaag) te ontwerpen, de oplossing van het markeringsbeheer te vormen en te handhaven
 
-Ervaar de volgende taken:
+U moet ook ervaring hebben met de volgende taken:
 
 * Het interpreteren van een Document van het Ontwerp van Oplossingen (SDR) en het doel van allen begrijpen [!DNL Adobe Analytics] verzamelde variabelen
 * Begrijpen en werken met Adobe (Experience Platform) Starten
@@ -41,44 +67,24 @@ Ervaar de volgende taken:
 * Uitvoeren van basisrapportage van Analysis Workspace en inzicht in de gegevensuitvoer die beschikbaar is via de [!DNL Adobe Analytics] Data Warehouse
 * Basiservaring met Adobe Experience Platform Launch (Adobe starten)
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Implementatiespecialisten/technici
-* Ontwikkelaars
-* Architecten
-
-**Details van examen:**
-
-* Niveau: Professional (0-12 maanden ervaring)
-* Voldoende score: 31/50
-* Tijd: 100 min
-* Aflevering: online geprocoreerd (cameratoegang vereist)
-* Beschikbare talen: Engels
-* Kosten: $125 (wereldwijd) en $95 (India)
-* Examen-id: AD0-E213
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Analyse in het ecosysteem van Adobe Experience Cloud (14%)
+**Sectie 1: Analyse in het ecosysteem van Adobe Experience Cloud (14%)**
 
 * Functies en mogelijkheden van Adobe Experience Cloud-id identificeren.
 * Identificeer gebruik voor de Lancering van de Adobe.
 * Omgaan met inschakelen/ondersteunen [!DNL Adobe Analytics] -tags in het ecosysteem van Adobe Experience Cloud.
 
-Sectie 2: Analytische strategie en ontwerp gebaseerd op een SDR (12%)
+**Sectie 2: Analytische strategie en ontwerp gebaseerd op een SDR (12%)**
 
 * Gezien een Verwijzing van het Ontwerp van de Oplossing, identificeer welke gegevensvoorwerpen moeten worden bevolkt.
 * Geef op basis van een onderdeel van een technische-specificatiedocument aan hoe de gegevensvastlegging moet worden geïmplementeerd.
 
-Sectie 3: Implementatie en configuratie van analysemogelijkheden (30%)
+**Sectie 3: Implementatie en configuratie van analysemogelijkheden (30%)**
 
 * Identificeer de stappen om op te stellen [!DNL Adobe Analytics] Code.
 * Identificeer functies van minimale plaatsingscode voor Analytics het volgen.
@@ -87,36 +93,44 @@ Sectie 3: Implementatie en configuratie van analysemogelijkheden (30%)
 * Identificeer de kenmerken van een gegevenslaag en de waarden van de gegevenslaag.
 * Identificeer de functies van de Meting van de Toepassing voor het volgen van eigenschappen zoals verbinding het volgen en e-commerce het volgen.
 
-Sectie 4: Tag Management Systems (18%)
+**Sectie 4: Tag Management Systems (18%)**
 
 * Geef aan of aan de vereisten is voldaan met behulp van tagcontroles.
 * Identificeer de stappen om website het etiketteren met de Lancering van de Adobe te vormen.
 * Op basis van een scenario, identificeert u hoe u extensies in Adobe Launch kunt inschakelen, wijzigen en problemen kunt oplossen.
 * Bepaal hoe u regels en gegevenselementen maakt.
 
-Deel 5: Onderdelen van [!DNL Adobe Analytics] (8%)
+**Deel 5: Onderdelen van [!DNL Adobe Analytics] (8%)**
 
 * De functies identificeren van [!DNL Adobe Analytics] API (gegevensinvoer, pakhuis, gegevensbronnen, rapporten).
 * Identificeer de kenmerken van verwerkingsregels.
 
-Sectie 6: Testen, Validatie, en het Oplossen van problemen (18%)
+**Sectie 6: Testen, Validatie, en het Oplossen van problemen (18%)**
 
 * Identificeer de betekenis van veelvoorkomende JavaScript-fouten.
 * Identificeer de betekenis van gemeenschappelijk [!DNL Adobe Analytics] variabelen, fouten.
 * Op basis van een scenario identificeert u best practices voor het testen en opsporen van fouten bij de validatie die moeten worden gevolgd.
 * Bepalen hoe u een [!DNL Adobe Analytics] serveraanroep (d.w.z. Van baken verzoek aan tonen in het rapport.)
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{how-to-get-certified-intro}}
 
-**Voorbeeldvragen**
++++Stap 1: Maak uw account
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+{{create-your-account}}
 
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Analyse in het ecosysteem van Adobe Experience Cloud**
 
@@ -162,15 +176,41 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Aangeklikte component bijhouden met [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/track-clicked-component.html){target="_blank"}
 * [[!DNL Adobe Analytics] Foutopsporing bij implementatie—Tools](https://www.thelearningproject.in/posts/adobe-analytics-implementation-debugging-tools/){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+**Voorbeeldvragen**
 
-## Ongeveer het certificatieexamen
+{{sample-questions}}
+
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
+
+<br>
+
+**Een praktijktest uitvoeren**
+
+{{practice-test}}
+
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -183,10 +223,27 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+

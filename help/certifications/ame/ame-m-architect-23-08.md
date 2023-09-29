@@ -6,9 +6,9 @@ product: Marketo
 role: Data Architect
 badge: label="Examen AD0-E560" type="positive"
 mini-toc-levels: 1
-source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '992'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,52 @@ ht-degree: 0%
 
 # Certificeringsreis voor Adobe [!DNL Marketo Engage] Architect Master
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Marketo Engage] Architect Master.
+{{intro}}
 
 >[!NOTE]
 >
 >Dit is de nieuwste [!DNL Adobe Marketo Engage] Architect Master examen. Als u al bent begonnen met studeren of de [oudere versie](ame-m-architect.md), moet u het examen vóór 31 oktober 2023 voltooien.
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Vereiste: huidige (niet verlopen) Adobe [!DNL Marketo Engage] Professionele certificering voor zakelijke gebruikers
+* Niveau: master (3-5 jaar ervaring)
+* Praktijkcertificering
+* Voldoende score: 30/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E560
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Marketing Technology Manager
+* Senior/manager marketingactiviteiten
+* Directeur marketing
+* Hogere Director/beheerder voor inkomstenverrichtingen
+* Marketing/technologie/consultants voor automatisering
+* Marketingtechnicus
+* Campagnebeheer
+* Marketing Automation Manager
+* Digitale marketing
+* Demand Generation Manager
+* Oplossingsarchitect
+* Analyse van bedrijfssystemen
+* CRM-manager
+* CRM/Lifecycle Marketing Manager
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -40,48 +79,11 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 * CRM-platform
 * Marketing Technology-platforms
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
-
-**Beoogd publiek:**
-
-* Marketing Technology Manager
-* Senior/manager marketingactiviteiten
-* Directeur marketing
-* Hogere Director/beheerder voor inkomstenverrichtingen
-* Marketing/technologie/consultants voor automatisering
-* Marketingtechnicus
-* Campagnebeheer
-* Marketing Automation Manager
-* Digitale marketing
-* Demand Generation Manager
-* Oplossingsarchitect
-* Analyse van bedrijfssystemen
-* CRM-manager
-* CRM/Lifecycle Marketing Manager
-
-**Details van examen:**
-
-* Vereiste: huidige (niet verlopen) Adobe [!DNL Marketo Engage] Professionele certificering voor zakelijke gebruikers
-* Niveau: master (3-5 jaar ervaring)
-* Praktijkcertificering
-* Voldoende score: 30/50
-* Tijd: 100 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E560
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
+{{exam-objectives}}
 
 **Sectie 1: Projectleiding (16%)**
 
@@ -121,17 +123,33 @@ Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/laun
 * Informatie verzamelen over de implementatie van een client en beveiligingsprocedures aanbevelen
 * Verklaar de toepasbaarheid van werkruimte en verdelingen voor een bepaald scenario
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
 
-**Voorbeeldvragen**
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"}
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+<br>
 
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Projectleiding**
 
@@ -157,15 +175,36 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Zachte grenzen onderdrukken](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
 * [Werken- en personenpartities begrijpen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke of onjuiste informatie beschikbaar is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.
+<br>
 
-## Ongeveer het certificatieexamen
+**Voorbeeldvragen**
+
+{{sample-questions}}
+
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -178,7 +217,23 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

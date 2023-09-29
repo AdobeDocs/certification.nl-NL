@@ -8,18 +8,51 @@ recommendations: disable, exclude
 badge: label="Examen AD0-E602" type="positive"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '750'
-ht-degree: 2%
+source-wordcount: '563'
+ht-degree: 3%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Real-Time CDP] Professioneel als bedrijf
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Platform] Beroepsleverancier.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 28/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $125 (wereldwijd) / $95 (India)
+* Examen-id: AD0-E602
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Oplossingsconsultant
+* Data Analyst
+* Marketing Manager
+* Campagnemarketinganalist
+* Zakelijke analist
+* Campagnebeheer
+* CDP Consultant
+* Consultant voor conversie/optimalisatie
+* Eigenaar van marketingproduct
+* Marketinganalist
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -38,73 +71,54 @@ Ervaring met taken zoals:
 * Inzicht in capaciteit en kenmerken op hoog niveau van AEP en zijn diensten
 * Nieuwe doelen configureren
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Oplossingsconsultant
-* Data Analyst
-* Marketing Manager
-* Campagnemarketinganalist
-* Zakelijke analist
-* Campagnebeheer
-* CDP Consultant
-* Consultant voor conversie/optimalisatie
-* Eigenaar van marketingproduct
-* Marketinganalist
-
-**Details van examen:**
-
-* Niveau: Professional (0-12 maanden ervaring)
-* Voldoende score: 28/50
-* Tijd: 100 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $125 (wereldwijd) / $95 (India)
-* Examen-id: AD0-E602
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Segmenten en activering (32%)
+**Sectie 1: Segmenten en activering (32%)**
 
 * Segment maken en activeren naar doel
 * Nieuwe doelen configureren
 * Concepten toepassen die zijn vereist voor doelidentiteiten in doelen
 * Identificeer attributenafbeeldingen en het plannen van segmenten aan bestemming
 
-Deel 2: Privacy en gegevensbeheer (20%)
+**Deel 2: Privacy en gegevensbeheer (20%)**
 
 * Toon een inzicht in DULE beleid en hun gevolgen op gegevensbeschikbaarheid op bestemmingen aan
 * Ervoor zorgen dat de privacy- en gegevenscompatibiliteitsmaatregelen worden nageleefd
 
-Sectie 3: Bedrijfsanalyse (30%)
+**Sectie 3: Bedrijfsanalyse (30%)**
 
 * Gebruiksgevallen identificeren die terugkoppelen aan KPI&#39;s voor bedrijven
 * Gegevensanalyse uitvoeren op klantsegmenten in platform
 * Toon een inzicht in de concepten van de gegevensstroom aan
 
-Sectie 4: Schema&#39;s en profielen (18%)
+**Sectie 4: Schema&#39;s en profielen (18%)**
 
 * Toon een inzicht in Adobe [!DNL Experience Platform] concepten
 * Profielfuncties gebruiken
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{how-to-get-certified-intro}}
 
-**Voorbeeldvragen**
++++Stap 1: Maak uw account
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+{{create-your-account}}
 
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Segmenten en activering**
 
@@ -135,19 +149,36 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Overzicht van het realtime klantprofiel](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html){target="_blank"}
 * [UI-hulplijn verenigingsschema](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+**Voorbeeldvragen**
 
-## Een praktijktest uitvoeren
+{{sample-questions}}
 
-{{practice-test}}
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
 
-## Ongeveer het certificatieexamen
+
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -160,7 +191,23 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

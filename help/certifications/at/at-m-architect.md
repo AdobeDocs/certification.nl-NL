@@ -8,18 +8,48 @@ badge: label="Examen AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
 hidefromtoc: true
-source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1077'
-ht-degree: 4%
+source-wordcount: '920'
+ht-degree: 5%
 
 ---
 
 # Certificeringsreis voor [!DNL Adobe Target] Architect Master
 
-Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Target] Architect Master.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: master (3-5 jaar ervaring)
+* Voldoende score: 34/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E407
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Conversiesnelheid optimalisatie-engineer/ architect
+* Personalisatieingenieur/architect
+* Architect voor digitale oplossingen
+* Consultant voor digitale transformatie
+* Leiding bij optimalisatie van ervaring
+* Optimalisatiebeheer
+* Online campagneleider
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -54,85 +84,73 @@ Omgevingen:
 * Door AMS gehoste omgeving
 * Adobe I/O Runtime
 
->[!BEGINTABS]
+<br>
 
->[!TAB Klaar]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
-**Beoogd publiek:**
+{{exam-objectives}}
 
-* Conversiesnelheid optimalisatie-engineer/ architect
-* Personalisatieingenieur/architect
-* Architect voor digitale oplossingen
-* Consultant voor digitale transformatie
-* Leiding bij optimalisatie van ervaring
-* Optimalisatiebeheer
-* Online campagneleider
-
-**Details van examen:**
-
-* Niveau: master (3-5 jaar ervaring)
-* Voldoende score: 34/50
-* Tijd: 100 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E407
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: [!DNL Adobe Target] fundamentals (12%)
+**Sectie 1: [!DNL Adobe Target] fundamentals (12%)**
 
 * Identificeer het aangewezen [!DNL Adobe Target] gebruik voor een bepaald scenario
 * De fundamentele technologieën van een [!DNL Adobe Target] uitvoering
 
-Sectie 2: Integratie met [!DNL Adobe Target] (16%)
+**Sectie 2: Integratie met [!DNL Adobe Target] (16%)**
 
 * Het integratieproces toepassen [!DNL Adobe Target] met Adobe Analytics (A4T)
 * Het integratieproces toepassen [!DNL Adobe Target] naar Adobe Experience Manager
 * Beschrijf integratie met andere Oplossingen van Adobe Experience Cloud
 * Beschrijf de integratie met het publiek van Adobe Experience Cloud
 
-Deel 3: [!DNL Adobe Target] bestuur en bestuur ( 13 % )
+**Deel 3: [!DNL Adobe Target] bestuur en bestuur ( 13 % )**
 
 * Een actieve [!DNL Adobe Target] uitvoeringsstrategie en systeembeheer
 * Pas het proces en de beste praktijken toe om gebruikers te beheren
 * Beschrijf de beleidsaspecten van de opstelling van de implementatie
 
-Sectie 4: [!DNL Adobe Target] en ondersteunde aanraakpunten (15%)
+**Sectie 4: [!DNL Adobe Target] en ondersteunde aanraakpunten (15%)**
 
 * Beschrijf de implementatie van levering aan de clientzijde
 * Beschrijf de implementatie van de levering aan de serverzijde
 * Beschrijf implementatievereisten voor mobiele apparaten, het richten van e-mail, en APIs
 
-Sectie 5: Hefboomfinanciering [!DNL Adobe Target] aanbevelingen (9%)
+**Sectie 5: Hefboomfinanciering [!DNL Adobe Target] aanbevelingen (9%)**
 
 * Toon een inzicht in aanbevelingen, catalogi, en milieu&#39;s aan
 * Pas het proces toe om de aanbevelingen van het Doel te vormen
 
-Sectie 6: Architect, ontwerp en implementatie [!DNL Adobe Target] (15%)
+**Sectie 6: Architect, ontwerp en implementatie [!DNL Adobe Target] (15%)**
 
 * Selecteer de juiste mbox-implementatie
 * Demonstreer het ontwerpen van een [!DNL Adobe Target] uitvoering
 * Beschrijf de uitvoering van [!DNL Adobe Target] in systeemeigen mobiele toepassingen
 
-Sectie 7: Problemen oplossen (20%)
+**Sectie 7: Problemen oplossen (20%)**
 
 * Mbox-fouten oplossen
 * Activiteitsfouten oplossen
 * Integratiefouten begrijpen
 * Problemen oplossen [!DNL Adobe Target] Recommendations-fouten
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{how-to-get-certified-intro}}
 
-**Voorbeeldvragen**
++++Stap 1: Maak uw account
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+{{create-your-account}}
 
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: [!DNL Adobe Target] grondbeginselen**
 
@@ -193,16 +211,35 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Opgelost: Waarom toont mijn historische publiek &quot;gegevens verzamelen&quot;?](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-audiences/why-is-my-historical-audience-showing-as-quot-collecting-data/m-p/286891){target="_blank"}
 * [Adobe Experience Cloud-publiek](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+**Voorbeeldvragen**
 
+{{sample-questions}}
 
-## Ongeveer het certificatieexamen
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
+
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -215,7 +252,23 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

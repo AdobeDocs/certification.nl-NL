@@ -8,18 +8,44 @@ level: Experienced
 badge: label="Examen AD0-E209" type="positive"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '809'
 ht-degree: 3%
 
 ---
 
-# Certificeringsreis voor [!DNL Adobe Analytics] Ontwikkelaarsexpert
+# Certificeringsreis voor Adobe [!DNL Analytics] Ontwikkelaarsexpert
 
-Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Analytics] Ontwikkelaarsexpert.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 31/50
+* Tijd: 120 minuten
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels, Japans
+* Kosten: $225 (wereldwijd) en $150 (India)
+* Examen-id: AD0-E209 (Engels), AD0-E209-J (Japans)
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Implementatiespecialisten/technici
+* Ontwikkelaars
+* Architecten
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U moet ervaring hebben als implementatieconsultant in een hybride rol met ongeveer twee jaar ervaring in [!DNL Adobe Analytics] uitvoering. U fungeert als brug tussen IT en het bedrijf, vertaalt de bedrijfsvereisten in een technische oplossing (SDR), en gebaseerd op vereisten die door de analist worden verstrekt, begrijpt welk type variabele nodig is, waar en hoe te om de gegevens te verzamelen, het gegevensmodel (gegevenslaag) te ontwerpen, de oplossing van het markeringsbeheer te vormen en te handhaven.
 
@@ -48,48 +74,24 @@ Omgevingen:
 * Digitale marketing
 * Minimale kennis van back-endontwikkelomgevingen zoals besturingssystemen voor pc, Mac, Android/iOS (basisbewerkingen, niet ontwikkeling)
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!BEGINTABS]
-
->[!TAB Klaar]
-
-**Beoogd publiek:**
-
-* Implementatiespecialisten/technici
-* Ontwikkelaars
-* Architecten
-
-**Details van examen:**
-
-* Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 31/50
-* Tijd: 120 minuten
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $225 (wereldwijd) en $150 (India)
-* Examen-id: AD0-E209
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
+{{exam-objectives}}
 
 **Doelstellingen en toepassingsgebied van examen**
 
-Deel 1: Analyse in het ecosysteem van Adobe Experience Cloud (10%)
+**Deel 1: Analyse in het ecosysteem van Adobe Experience Cloud (10%)**
 
 * Toon kennis van het gebruik van Adobe Experience Cloud ID aan
 * Toon inzicht in het lanceren van Adobe
 * Toon inzicht in gemeenschappelijke integratie in het ecosysteem van Adobe Experience Cloud
 
-Sectie 2: Strategie en ontwerp op basis van een referentie voor het ontwerp van oplossingen (SDR) (6%)
+**Sectie 2: Strategie en ontwerp op basis van een referentie voor het ontwerp van oplossingen (SDR) (6%)**
 
 * Interpreteer een Verwijzing van het Ontwerp van de Oplossing om efficiënte code voor gegevensvangst te ontwikkelen
 * De technische specificaties gebruiken voor het vullen van gegevensobjecten
 
-Sectie 3: Implementatie en configuratie van analysemogelijkheden (36%)
+**Sectie 3: Implementatie en configuratie van analysemogelijkheden (36%)**
 
 * Bepalen welke omgeving moet worden geïmplementeerd [!DNL Adobe Analytics] Code
 * Een minimale implementatiecode uitvoeren voor het bijhouden van analyses
@@ -98,30 +100,52 @@ Sectie 3: Implementatie en configuratie van analysemogelijkheden (36%)
 * Een gegevenslaag binnen een implementatie gebruiken
 * Geavanceerde functies voor het bijhouden van koppelingen, zoals het bijhouden van koppelingen en productreeksen, uitvoeren
 
-Sectie 4: Labelbeheersystemen (20%)
+**Sectie 4: Labelbeheersystemen (20%)**
 
 * Opsommingsvereisten voor Adobe Experience Platform Launch in [!DNL Adobe Analytics]
 * Toepassen van processen om website het etiketteren met de Lancering van de Adobe te vormen
 * Opsommingsvereisten voor het inschakelen van extensies en het starten van Adoben
 * Regels en gegevenselementen maken
 
-Sectie 5: Mobiele diensten (8%)
+**Sectie 5: Mobiele diensten (8%)**
 
 * Pas processen toe om een basis pre-plaatsingscode voor mobiel te vormen en uit te voeren
 * Toon inzicht in verwerkingsregels en mobiele diensten
 
-Sectie 6: Testen, valideren en problemen oplossen (20%)
+**Sectie 6: Testen, valideren en problemen oplossen (20%)**
 
 * JavaScript-fouten oplossen
 * Problemen oplossen [!DNL Adobe Analytics] variabelen
 * Aanbevelen het testen en het zuiveren beste praktijken
 * Los problemen op [!DNL Adobe Analytics] servervraag over zijn levenscyclus (d.w.z. van baken verzoek aan het tonen in het rapport)
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
+
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Deel 1: Analyse in het ecosysteem van Adobe Experience Cloud**
 
@@ -157,20 +181,33 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Het toelaten van, het Zuiveren, en het Aanpassen van het [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
 * [Analysis Workspace-prestaties optimaliseren](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html){target="_blank"}
 
+<br>
 
->[!TAB Gecertificeerd ophalen]
-
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
-
-## Een praktijktest uitvoeren
+**Een praktijktest uitvoeren**
 
 {{practice-test}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -194,7 +231,24 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 [Japanse instructies voor planning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
+
 
 ## Vragen
 

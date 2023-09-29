@@ -8,18 +8,53 @@ level: Experienced
 badge: label="Examen AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: dca1d6b3f7c79b2fc389342829793b6a63b5ad0c
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '766'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Commerce] Architect Master
 
-Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Commerce] Architect Master.
 
-## Minimale ervaring
+{{intro}}
+
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: master (3-5 jaar ervaring)
+* Voldoende score: 30/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E722
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Loodsoftware/[!DNL Adobe Commerce] Architect
+* Technisch architect
+* Architect van oplossing
+* Technische leiding
+* Technisch deskundige
+* Volledige stapelontwikkelaar
+* Hoofdtechnicus
+* Technische architect koppelen
+* Senior Backend Developer
+* Back-end Software Engineer
+* Hoogste technisch adviseur
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U moet minstens 3-5 jaar ervaring hebben met het opleiden [!DNL Commerce] ontwikkelingsprojecten en kunnen, oplossingen aan bedrijfsproblemen ontwerpen integreren uitvoeren en verklaren door te gebruiken [!DNL Adobe Commerce] samen met de bijbehorende diensten.
 
@@ -51,45 +86,13 @@ Bovendien, zou u zeer vertrouwd met de volgende activiteiten en de technologieë
 * B2B maken en wijzigen
 * AMQP-protocol en -adapters in [!DNL Adobe Commerce] (S3)
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Loodsoftware/[!DNL Adobe Commerce] Architect
-* Technisch architect
-* Architect van oplossing
-* Technische leiding
-* Technisch deskundige
-* Volledige stapelontwikkelaar
-* Hoofdtechnicus
-* Technische architect koppelen
-* Senior Backend Developer
-* Back-end Software Engineer
-* Hoogste technisch adviseur
-
-**Details van examen:**
-
-* Niveau: master (3-5 jaar ervaring)
-* Voldoende score: 30/50
-* Tijd: 100 min
-* Aflevering: online geprocoreerd (cameratoegang vereist)
-* Beschikbare talen: Engels
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E722
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Ontwerp (46%)
+**Sectie 1: Ontwerp (46%)**
 
 * Optimale oplossingen voor Adobe ontwerpen en implementeren [!DNL Commerce] om aan bedrijfsbehoeften te voldoen
 * Ontwerp logische en technische stromen
@@ -97,7 +100,7 @@ Sectie 1: Ontwerp (46%)
 * Adobe integreren [!DNL Commerce] met externe systemen en diensten
 * Ontwerpstromen oplossen
 
-Sectie 2 - Evaluatie (32%)
+**Sectie 2: Evaluatie (32%)**
 
 * Controle en refactor van bestaande Adobe [!DNL Commerce] aanpassingen
 * Gebruiken [!DNL Commerce] testframeworks gedurende de gehele werkstroom
@@ -105,18 +108,38 @@ Sectie 2 - Evaluatie (32%)
 * Los problemen op om de worteloorzaak van kwesties met Adobe te identificeren [!DNL Commerce]
 * Coderingsnormen handhaven
 
-Sectie 3: Configureren en implementeren (22%)
+**Sectie 3: Configureren en implementeren (22%)**
 
 * Adobe configureren [!DNL Commerce] en zorg ervoor dat het project optimaal is ingesteld
 * Alle aspecten van Adobe configureren [!DNL Commerce] Wolk
 * Implementatieproces controleren en verbeteren
 * Problemen met infrastructuur en configuratie oplossen
 
->[!TAB Vooraf ingesteld]
+### Readiness-vragenlijst
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+{{readiness}}
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"}
+
+<br>
+
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Ontwerp**
 
@@ -149,15 +172,27 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Overzicht van initialisatie en bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
 * [Overzicht van snelle services](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
++++
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+<br>
 
++++Stap 3: Planning en betaal voor examen
 
+{{schedule-and-pay}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -170,7 +205,23 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

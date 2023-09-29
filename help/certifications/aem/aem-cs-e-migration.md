@@ -7,18 +7,48 @@ role: Developer
 badge: label="Examen AD0-E136" type="positive"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '817'
-ht-degree: 3%
+source-wordcount: '678'
+ht-degree: 4%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Experience Manager] Expert as a Cloud Service migratie
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager] Expert.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 31/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $125 (wereldwijd) / $95 (India)
+* Examen-id: AD0-E136
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Ontwikkelaars die ervaring hebben met Adobe [!DNL Experience Manager]
+* Ontwikkelaars die hebben deelgenomen aan minstens één cloudmigratie
+* Adobe [!DNL Experience Manager] Siteontwikkelaars
+* Adobe [!DNL Experience Manager] Sites Architect
+* Adobe [!DNL Experience Manager] Elementontwikkelaars
+* Adobe [!DNL Experience Manager] Forms Developers
+* Ontwikkelaars/DevOps/Leads/Architects die hebben deelgenomen aan meerdere AEM-implementaties met minimaal 2-3 jaar ontwikkelervaring voor webtoepassingen met Adobe [!DNL Experience Manager]
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -46,37 +76,13 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * Cloud-logbestanden in lokale omgeving afstemmen
 * Cloud-consoleinterfaces
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Ontwikkelaars die ervaring hebben met Adobe [!DNL Experience Manager]
-* Ontwikkelaars die hebben deelgenomen aan minstens één cloudmigratie
-* Adobe [!DNL Experience Manager] Siteontwikkelaars
-* Adobe [!DNL Experience Manager] Sites Architect
-* Adobe [!DNL Experience Manager] Elementontwikkelaars
-* Adobe [!DNL Experience Manager] Forms Developers
-* Ontwikkelaars/DevOps/Leads/Architects die hebben deelgenomen aan meerdere AEM-implementaties met minimaal 2-3 jaar ontwikkelervaring voor webtoepassingen met Adobe [!DNL Experience Manager]
-
-**Details van examen**
-
-* Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 31/50
-* Tijd: 100 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $125 (wereldwijd) / $95 (India)
-* Examen-id: AD0-E136
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Deel 1: Beoordeling (32%)
+**Deel 1: Beoordeling (32%)**
 
 * BPA gebruiken
 * Een migratieplan voorbereiden en schatten
@@ -87,19 +93,19 @@ Deel 1: Beoordeling (32%)
 * Uitleg over de implementatie van bedrijfsmiddelen en de gevolgen ervan
 * Vereisten voor Dispatcher identificeren
 
-Sectie 2: Ontwerp (16%)
+**Sectie 2: Ontwerp (16%)**
 
 * Bestaande componenten controleren en valideren met de nieuwste versie
 * Configuratie voorbereiden voor microservices voor middelen
 * Uitleg caching-strategie
 
-Sectie 3: Implementatie (16%)
+**Sectie 3: Implementatie (16%)**
 
 * Cloud Manager-pijpleidingen configureren en deze koppelen aan omgevingen
 * AEMaaCS-omgevingen (ontwikkelen, werkgebied, profiel - auteur, publiceren, voorvertonen)
 * Beheer het plaatsingsproces met behulp van Adobe IO CLI
 
-Sectie 4: Migratie (20%)
+**Sectie 4: Migratie (20%)**
 
 * Tests uitvoeren
 * Een strategie voor middelenmigratie voorbereiden
@@ -107,21 +113,34 @@ Sectie 4: Migratie (20%)
 * Hiermee kunt u de migratiehulpmiddelen uitvoeren (content transfer, modernizing, refactoring). Resultaten rapporteren en verfijnen, met name kritieke resultaten die niet door gereedschap worden verwerkt
 * Plan de ondersteuning voor de post-go-live
 
-Sectie 5: Uitvoering (16%)
+**Sectie 5: Uitvoering (16%)**
 
 * Voeg veelvoudige projecten in één enkel project samen dat door de pijpleiding van de Adobe moet worden opgesteld
 * Scripts voor opnieuw plaatsen beheren voor machtiging van gebruiker/groep
 * Lokale SDK&#39;s instellen
 * Configuraties bijwerken op basis van runmodi die beschikbaar zijn op AEM as a Cloud Service
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Deel 1: Beoordeling**
-
 
 * [[!DNL Experience Manager] as a Cloud Service gebruikershandleiding](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=nl){target="_blank"}
 * [Migratiehandleiding naar Adobe [!DNL Experience Manager] as a Cloud Service voor Partners](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html){target="_blank"}
@@ -149,17 +168,27 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [De CI/CD-pijpleiding gebruiken in Adobe Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html){target="_blank"}
 * [Implementeren naar AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
++++
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+<br>
 
++++Stap 3: Planning en betaal voor examen
 
+{{schedule-and-pay}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -172,7 +201,23 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

@@ -7,18 +7,45 @@ role: User
 badge: label="Examen AD0-E408" type="positive"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '698'
 ht-degree: 1%
 
 ---
 
 # Certificeringsreis voor [!DNL Adobe Target] Professioneel als bedrijf
 
-Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Target] Zakelijke beroepsbeoefenaar.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 31/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels, Japans
+* Kosten: $125 (wereldwijd) / $95 (India)
+* Examen-id: AD0-E408 (Engels), AD0-E408-J (Japans)
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Optimalisatie
+* Personalisatie
+* Analytics
+* Digitale en productmarketing
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -29,34 +56,13 @@ U zou moeten hebben:
 * Een basiskennis van de driestappenworkflow (ervaringen, doelgerichtheid en doelstellingen en instellingen, inclusief alle rapporteringsbronnen)
 * De mogelijkheid om activiteitenrapporteringsresultaten te lezen en te begrijpen
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Optimalisatie
-* Personalisatie
-* Analytics
-* Digitale en productmarketing
-
-**Details van examen:**
-
-* Niveau: Professional (0-12 maanden ervaring)
-* Voldoende score: 31/50
-* Tijd: 100 min
-* Aflevering: online geprocoreerd (cameratoegang vereist)
-* Beschikbare talen: Engels
-* Kosten: $125 (wereldwijd) / $95 (India)
-* Examen-id: AD0-E408
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Deel 1: Planning en strategie (26%)
+**Deel 1: Planning en strategie (26%)**
 
 * Bedrijfs-KPIs identificeren
 * Gezien een scenario van bedrijfs KPIs en gegevensanalyse, identificeer mogelijkheden voor optimalisering
@@ -67,7 +73,7 @@ Deel 1: Planning en strategie (26%)
 * Op basis van een scenario de publieksvereisten beoordelen
 * Beschrijf de geschikte analytische rapporteringsbronnen (d.w.z., Target of Adobe Analytics)
 
-Sectie 2: Configureren, uitvoeren en beheren (50%)
+**Sectie 2: Configureren, uitvoeren en beheren (50%)**
 
 * Verklaar het gebruik van Form-Based Experience Composer versus Visual Experience Composer
 * Beschrijf procedures om een ervaring tot stand te brengen gebruikend VEC
@@ -84,7 +90,7 @@ Sectie 2: Configureren, uitvoeren en beheren (50%)
 * Beschrijf procedures om activiteit QA te leiden
 * Beschrijf de procedures voor het beheer van activiteiten en soorten publiek binnen het doelgebied
 
-Sectie 3: Analyseren en rapporteren (16%)
+**Sectie 3: Analyseren en rapporteren (16%)**
 
 * Beschrijf montages helpen plaatsen de elementen die in een rapport verschijnen
 * Beschrijf het verschil in [!DNL Adobe Target] Voorbeeldinstellingen voor calculator voor grootte tussen planning en validatie
@@ -93,23 +99,31 @@ Sectie 3: Analyseren en rapporteren (16%)
 * Beschrijf de eigenschappen van de Rapporten van de Prestaties van de Ervaring (MVT)
 * Beschrijf beste praktijken die in A/B testende uitvoering moeten worden gevolgd
 
-Sectie 4: Problemen oplossen (8%)
+**Sectie 4: Problemen oplossen (8%)**
 
 * Bij een scenario kunt u kwalificatiekwesties voor activiteiten identificeren
 * De functies van de foutopsporingsprogramma&#39;s voor browsers identificeren (inclusief Experience Cloud Debugger)
 * Metriek en rapportage identificeren
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{how-to-get-certified-intro}}
 
-**Voorbeeldvragen**
++++Stap 1: Maak uw account
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+{{create-your-account}}
 
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Deel 1: Planning en strategie**
 
@@ -141,16 +155,35 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [[!DNL Adobe Target] Handleiding voor ondernemers](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [Overzicht van Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+**Voorbeeldvragen**
 
+{{sample-questions}}
 
-## Ongeveer het certificatieexamen
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
+
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -163,7 +196,25 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 </span>
 </a>
 
->[!ENDTABS]
+[Japanse instructies voor planning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
+
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

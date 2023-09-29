@@ -7,24 +7,50 @@ role: Data Architect
 badge: label="Examen AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1723'
-ht-degree: 7%
+source-wordcount: '1541'
+ht-degree: 8%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Experience Manager Sites] Architect Master
 
+{{intro}}
+
 >[!NOTE]
 >
->Dit examen (AD0-E117) ondergaat onderhoud en is tijdelijk niet beschikbaar. Onze oprechte excuses voor het ongemak. [Aanmelden voor kennisgeving](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wanneer deze weer beschikbaar is.
->
->**Vragen?** Zie onze [Veelgestelde vragen](#AEM-FAQ) onder aan deze pagina.
+>Dit examen (AD0-E117/AD0-E117-J) ondergaat onderhoud en is tijdelijk niet beschikbaar. Onze oprechte excuses voor het ongemak. [Aanmelden voor kennisgeving](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wanneer deze weer beschikbaar is.<br><br>**Vragen?** Zie onze [Veelgestelde vragen](#AEM-FAQ) onder aan deze pagina.
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager Sites] Architect Master.
+## Beschrijving van examen {#exam-description}
 
-## Minimale ervaring
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: master (3-5 jaar ervaring)
+* Voldoende score: 29/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels, Japans
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E117 (Engels), AD0-E117-J (Japans)
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* AEM architecten
+* Leidingontwikkelaars
+* Technische architecten
+* Oplossingsarchitecten
+* Dev/OPS-instructeurs
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -55,45 +81,19 @@ Bovendien, zou u de capaciteit moeten hebben om de volgende taken uit te voeren:
 * Inhoud op meerdere kanalen hergebruiken
 * Account voor overwegingen die gericht zijn op de cloud, zoals: automatisch schalen, replicatie, beheer van bedrijfsmiddelen, de implicaties en verschillen tussen services op locatie en beheerde services, Cloud Manager, pakketbeheer
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* AEM architecten
-* Leidingontwikkelaars
-* Technische architecten
-* Oplossingsarchitecten
-* Dev/OPS-instructeurs
-
-**Details van examen:**
-
-* Niveau: master (3-5 jaar ervaring)
-* Voldoende score: 29/50
-* Tijd: 100 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels, Japans
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E117
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Detectie (18%)
+**Sectie 1: Detectie (18%)**
 
 * Vertaal bedrijfsdoelstellingen op hoog niveau aan functionele vereisten
 * Op basis van een scenario de huidige status van een architectuur beoordelen
 * Niet-functionele technische eisen voor het ontwerp van de oplossing vaststellen
 
-Sectie 2: Oplossingsontwerp (44%)
+**Sectie 2: Oplossingsontwerp (44%)**
 
 * Gezien bedrijfsvereisten, ontwerp gedetailleerde architectuur en oplossing
 * Gezien een scenario, bepaal aangewezen veiligheidsoplossingen voor een ontwerp
@@ -102,30 +102,46 @@ Sectie 2: Oplossingsontwerp (44%)
 * Procedurele concepten toepassen voor het ontwerpen van schaalbare en veerkrachtige architectuur
 * Op basis van een scenario kunt u migratiestrategieën aanbevelen
 
-Deel 3: Uitvoering (22%)
+**Deel 3: Uitvoering (22%)**
 
 * Op basis van een scenario ontwerpproblemen identificeren en oplossen die tijdens de implementatiefase aan het licht zijn gekomen
 * Op basis van een scenario wordt aanbevolen implementatiebenaderingen uit te voeren op basis van vereisten
 * Bepaal aangewezen methodes om aan prototypeoplossingen voor proefdrukken van concepten te gebruiken
 * Op basis van een scenario kunt u tijdens de implementatie ondervonden problemen opsporen en oplossen
 
-Sectie 4: Onderhoud (16%)
+**Sectie 4: Onderhoud (16%)**
 
 * Op basis van een scenario kunt u problemen in de productieomgeving opsporen en oplossen
 * Procedurele concepten toepassen om te plannen voor het gebruik van nieuwe functies en upgrades
 * In een scenario optimaliseert u de oplossing voor niet-functionele vereisten
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
 
-**Voorbeeldvragen**
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+<br>
 
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Detectie**
 
@@ -205,27 +221,61 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Lucene-index](https://jackrabbit.apache.org/oak/docs/query/lucene.html){target="_blank"}
 * [AEM 6.4 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+**Voorbeeldvragen**
 
-## Ongeveer het certificatieexamen
+{{sample-questions}}
+
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
+
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
-## Plan of neem examen AD0-E117
+## Plan of neem examen AD0-E117/AD0-E117-J
 
 >[!NOTE]
 >
->Dit examen (AD0-E117) ondergaat onderhoud en is tijdelijk niet beschikbaar. Onze oprechte excuses voor het ongemak. [Aanmelden voor kennisgeving](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wanneer deze weer beschikbaar is.
->
->**Vragen?** Zie onze [Veelgestelde vragen](#AEM-FAQ) onder aan deze pagina.
+>Dit examen (AD0-E117/AD0-E117-J) ondergaat onderhoud en is tijdelijk niet beschikbaar. Onze oprechte excuses voor het ongemak. [Aanmelden voor kennisgeving](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wanneer deze weer beschikbaar is.<br><br>**Vragen?** Zie onze [Veelgestelde vragen](#AEM-FAQ) onder aan deze pagina.
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

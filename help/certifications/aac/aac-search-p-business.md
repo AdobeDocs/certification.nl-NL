@@ -8,18 +8,44 @@ role: User
 badge: label="Examen AD0-E501" type="positive"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '880'
-ht-degree: 0%
+source-wordcount: '732'
+ht-degree: 1%
 
 ---
 
 # Certificeringsreis voor [!DNL Adobe Advertising Search] Professioneel als bedrijf
 
-Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Advertising Search] Zakelijke beroepsbeoefenaar.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 35/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $125 (wereldwijd) / $95 (India)
+* Examen-id: AD0-E501
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Zoeken in marketingcampagnemedemanagers
+* Zoeken in marketingprofessionals
+* Personen die regelmatig zoeken gebruiken om zoekcampagnes uit te voeren en te beheren
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -28,7 +54,7 @@ U zou moeten hebben:
 * Ervaring met werken in [!DNL Advertising Search] en vertrouwd zijn met de automatisering van betaalbiedingen, het campagnebeheer,
 * Een begrip van de theorie van het Portfolio
 
-Ervaring met de volgende functies:
+U moet ook ervaring hebben met het werken met de volgende functies:
 
 * Elk aspect van het Portfolio maken
 * Aangepaste simulaties maken om te bepalen wanneer portfolio&#39;s gereed zijn voor optimalisatie
@@ -51,37 +77,13 @@ Ervaring met de volgende functies:
 * Bodmodifier van het publiek
 * Opdrachtaanpassing locatie
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Zoeken in marketingcampagnemedemanagers
-* Zoeken in marketingprofessionals
-* Personen die regelmatig zoeken gebruiken om zoekcampagnes uit te voeren en te beheren
-
-**Details van examen:**
-
-* Niveau: Professional (0-12 maanden ervaring)
-* Voldoende score: 35/50
-* Tijd: 100 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $125 (wereldwijd) / $95 (India)
-* Examen-id: AD0-E501
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Portfolio&#39;s en optimalisaties (54%)
+**Sectie 1: Portfolio&#39;s en optimalisaties (54%)**
 
 * Selecteer en stel op basis van een scenario geautomatiseerde biedingsstrategieën in
 * Gezien bedrijfsstrategieën, bepaal en creeer Portfolio KPI doelstellingen
@@ -90,27 +92,49 @@ Sectie 1: Portfolio&#39;s en optimalisaties (54%)
 * Gezien een scenario, evalueer en los de prestaties van het Portfolio problemen op
 * Op basis van een scenario bepalen hoe u de instellingen van het Portfolio doorlopend kunt aanpassen
 
-Sectie 2: Rapporten, inzichten, en hulpmiddelen (14%)
+**Sectie 2: Rapporten, inzichten, en hulpmiddelen (14%)**
 
 * Pas procedureconcepten toe om rapporten te creëren en te plannen die op bedrijfsbehoeften worden gebaseerd
 * Optimale begrotingstoewijzing bepalen met behulp van beschikbare Platform AI-tools voor verschillende Portfolio&#39;s en zo nodig toepassen
 * Op basis van een gebruiksscenario kunt u aangepaste simulaties maken en definiëren voor analyse en voorspelling van Portfolio&#39;s
 
-Sectie 3: Campagnebeheer (22%)
+**Sectie 3: Campagnebeheer (22%)**
 
 * Accounts instellen
 * Alle aspecten van campagnes opbouwen, beheren en organiseren
 
-Deel 4: Meting (10%)
+**Deel 4: Meting (10%)**
 
 * Gezien een bedrijfsscenario, bepaal een benadering van campagneomzetting het volgen en toepassen
 * Gezien een scenario, los metrische kwesties van de campagneomzetting problemen op
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
+
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"}.
+
+<br>
+
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Portfolio&#39;s en optimalisaties**
 
@@ -147,16 +171,27 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Marketo Measure Help Documentation](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html){target="_blank"}
 * [Conversievariabelen (eVars)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
++++
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+<br>
 
++++Stap 3: Planning en betaal voor examen
 
-## Ongeveer het certificatieexamen
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -169,10 +204,29 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+
+
+

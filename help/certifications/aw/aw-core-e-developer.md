@@ -6,22 +6,50 @@ role: Developer
 badge: label="Examen AD0-E904" type="positive"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: 0a6cdf2e970ca534b003425500ca315af1b0add3
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1557'
+source-wordcount: '1404'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Workfront] Core Developer Expert
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Workfront] Core Developer Expert.
+{{intro}}
 
 >[!NOTE]
 >
 >Dit examen, Adobe [!DNL Workfront] Core Developer Expert (AD0-E904) is bijgewerkt. Als u reeds begonnen bent te studeren of gepland bent om deze versie te nemen, gelieve te voltooien het vóór 6 November 2023. Als u nog maar aan de slag gaat, raden we u aan de [nieuwste versie van dit examen (AD0-907)](aw-core-e-developer-23-08.md).
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 36/64
+* Tijd: 130 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E904
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* [!DNL Workfront] Systeembeheerders die gespecialiseerd zijn in implementatie en nieuwe of bijgewerkte instantieconfiguratie
+* Procesontwerper/architect
+* Zakelijke analist
+* Technisch consultant
+* Configuratieconsultant
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U moet minstens 18-24 maanden ervaring hebben met Adobe [!DNL Workfront]en kan:
 
@@ -32,39 +60,13 @@ U moet minstens 18-24 maanden ervaring hebben met Adobe [!DNL Workfront]en kan:
 * Begrijp en pas het marketing en PMO gebruiksgevallen toe
 * Aanbevelen en creeer rapporten die klantenprocessen steunen
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* [!DNL Workfront] Systeembeheerders die gespecialiseerd zijn in implementatie en nieuwe of bijgewerkte instantieconfiguratie
-* Procesontwerper/architect
-* Zakelijke analist
-* Technisch consultant
-* Configuratieconsultant
-
-**Details van examen:**
-
-* Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 36/64
-* Tijd: 130 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E904
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Basissysteembeheer en -installatie (17%)
+**Sectie 1: Basissysteembeheer en -installatie (17%)**
 
 * Bij een scenario beschrijft u manieren om machtigingen en toegang effectief te delen.
 * Op basis van een diagram selecteert u de juiste hiërarchische toegangsvolgorde.
@@ -75,7 +77,7 @@ Sectie 1: Basissysteembeheer en -installatie (17%)
 * Gezien een scenario, adviseer of een Team standaard, Kanban, of Scrum zou moeten zijn.
 * Gezien een scenario, bepaal de beste praktijken voor het opstellen van de douanestoryboards van het team van de Gelijkheid.
 
-Sectie 2: Inname, aangepaste formulieren en projectbeheer (17%)
+**Sectie 2: Inname, aangepaste formulieren en projectbeheer (17%)**
 
 * Gezien een scenario, identificeer de configuratiegebieden nodig om de werktoewijzingen te steunen.
 * Op basis van een scenario, identificeert u de benodigde instellingen.
@@ -83,7 +85,7 @@ Sectie 2: Inname, aangepaste formulieren en projectbeheer (17%)
 * Beschrijf op basis van een scenario wat moet worden gedaan om fouten in de rapportage en berekening aan te pakken.
 * In een scenario, identificeer ondersteunende elementen die zich aan malplaatjes lenen.
 
-Sectie 3: Strategische functionaliteit - portefeuille- en programmamanagement, middelenbeheer (13%)
+**Sectie 3: Strategische functionaliteit - portefeuille- en programmamanagement, middelenbeheer (13%)**
 
 * Gezien een scenario, bepaal hoe te om post-project KPIs te vangen die in Portfolio Optimizer weerspiegeld worden.
 * In een scenario, pas het bedrijfsgeval aan om een verandering in het projectwerkingsgebied te weerspiegelen.
@@ -93,14 +95,14 @@ Sectie 3: Strategische functionaliteit - portefeuille- en programmamanagement, m
 * Op basis van een scenario bepaalt u de hoofdoorzaak.
 * Op basis van een scenario bepaalt u waarom een gebruiker te veel is toegewezen.
 
-Afdeling 4: Documentbeheer en bewijsmiddelen (13%)
+**Afdeling 4: Documentbeheer en bewijsmiddelen (13%)**
 
 * Toon bij een scenario aan wanneer u documentbeheer of proefdrukken wilt gebruiken
 * In een scenario kunt u de beste werkwijzen identificeren voor het gebruik van de proefdrukviewer, instellingen en markeringsfunctionaliteit
 * Toon op basis van een scenario aan hoe u machtigingen voor een bestand kunt bewerken en instellen.
 * Toon bij een scenario hoe u externe documentopslag kunt instellen met beveiligingsbeperkingen
 
-Sectie 5: Rapportage (13%)
+**Sectie 5: Rapportage (13%)**
 
 * Bij een scenario beschrijft u manieren om meerdere kolommen met gegevens te combineren tot één kolom.
 * Toon op basis van een rapport of filter de verdiensten aan van het gebruik van jokertekenwaarden.
@@ -108,7 +110,7 @@ Sectie 5: Rapportage (13%)
 * Beschrijf op basis van een scenario hoe rapportage een efficiënte uitvoering van het werk vergemakkelijkt.
 * Op basis van een scenario [!DNL Workfront] Rapportage om gebruikerstoepassing te controleren en te verbeteren.
 
-Sectie 6: Methodologie/beste praktijken/gebruiksgevallen (20%)
+**Sectie 6: Methodologie/beste praktijken/gebruiksgevallen (20%)**
 
 * Op basis van een scenario [!DNL Workfront], functionaliteit tonen voor het instellen van tracering van te leveren items die deel uitmaken van één campagne.
 * Op basis van een scenario [!DNL Workfront], functionaliteit aan te tonen rond strategische prioriteiten en rechtvaardiging van werkzaamheden.
@@ -118,7 +120,7 @@ Sectie 6: Methodologie/beste praktijken/gebruiksgevallen (20%)
 * Op basis van een scenario kunt u het beste een kader voor governance rond systeembeheer instellen wanneer u de instantie van een client uitbreidt.
 * Gezien een scenario, identificeer gebieden voor overweging wanneer het uitbreiden van de instantie van een cliënt om extra teams toe te laten om samen te werken.
 
-Sectie 7: Zakelijk advies (8%)
+**Sectie 7: Zakelijk advies (8%)**
 
 * Beschrijf op basis van een scenario het proces dat nodig is om die inspanning volledig te ondersteunen.
 * Gezien een scenario, verklaar hoe te om een bestaand Werkschema aan te passen om een recente verandering in een kritiek, lichte bedrijfsproces te ontmoeten.
@@ -126,11 +128,33 @@ Sectie 7: Zakelijk advies (8%)
 * Gezien een scenario, identificeer de belangrijkste overwegingen van veranderingsbeheer voor [!DNL Workfront] uitvoering
 * Geef een aanbeveling op basis van een scenario.
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
+
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"}
+
+<br>
+
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Basissysteembeheer en -installatie**
 
@@ -191,19 +215,33 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Doelstellingen voor uw Adobe definiëren [!DNL Workfront] uitvoering](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
 * [Beste praktijken - de Planner van het Middel](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
-
-## Een praktijktest uitvoeren
+**Een praktijktest uitvoeren**
 
 {{practice-test}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -216,7 +254,23 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

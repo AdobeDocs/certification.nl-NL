@@ -7,18 +7,45 @@ role: Developer
 badge: label="Examen AD0-E331" type="positive"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1174'
-ht-degree: 9%
+source-wordcount: '979'
+ht-degree: 11%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Campaign Classic] Developer Professional
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Campaign Classic] Developer Professional.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 33/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $125 (wereldwijd) / $95 (India)
+* Examen-id: AD0-E331
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Medeadviseur
+* Technische consultant in opleiding
+* Junior Marketing Technology engineer
+* Junior Campaign-ontwikkelaar
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -27,38 +54,13 @@ U zou moeten hebben:
 * Basiskennis van marketingautomatisering
 * Een goed begrip van relationele databaseconcepten
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Medeadviseur
-* Technische consultant in opleiding
-* Junior Marketing Technology engineer
-* Junior Campaign-ontwikkelaar
-
-**Details van examen:**
-
-* Niveau: Professional (0-12 maanden ervaring)
-* Voldoende score: 33/50
-* Tijd: 100 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $125 (wereldwijd) / $95 (India)
-* Examen-id: AD0-E331
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Systeemconfiguratie (25%)
+**Sectie 1: Systeemconfiguratie (25%)**
 
 * Toon systeem-brede configuratie van montages in de knoop van het Beleid aan
 * Pas het proces toe om het OOTB Ontvangerschema uit te breiden
@@ -74,7 +76,7 @@ Sectie 1: Systeemconfiguratie (25%)
 * Beschrijf de bedrijfs gebruikscase voor het Centrum van het Bericht
 * Functionaliteit voor het importeren van V8 API-gegevens identificeren
 
-Sectie 2: Aanpassing (16%)
+**Sectie 2: Aanpassing (16%)**
 
 * Het proces toepassen om campagnereschema&#39;s te bewerken
 * Identificeer de montages om correcte schemauitbreiding te verzekeren of douaneschema&#39;s te vormen
@@ -85,14 +87,14 @@ Sectie 2: Aanpassing (16%)
 * Identificeer de gebruiksgevallen voor het gebruik van contentbeheer
 * Toepassen op proces om de OOTB-formulieren bij te werken
 
-Afdeling 3: Operationele veiligheid (10%)
+**Afdeling 3: Operationele veiligheid (10%)**
 
 * Beschrijf het proces om gebruikersgroepen en rollen toe te voegen
 * Pas het proces toe om de matrix voor gebruikersbeheer te vertalen met de juiste gebruikersrechten en hiërarchie
 * De juiste machtigingen identificeren en definiëren
 * Identificeer de veiligheidsstreek voor een gebruikersgroep
 
-Sectie 4: Technische werkstromen (29%)
+**Sectie 4: Technische werkstromen (29%)**
 
 * Het proces voor importeren/exporteren toepassen
 * Identificeer de verschillende gegevensbronnen waartoe een werkstroom toegang heeft
@@ -108,12 +110,12 @@ Sectie 4: Technische werkstromen (29%)
 * Pas het proces toe om alarm en goedkeuringen te vormen
 * Typen campagnecabases identificeren
 
-Sectie 5: Instantie-onderhoud (4%)
+**Sectie 5: Instantie-onderhoud (4%)**
 
 * Fouten uit verschillende servicelogboeken identificeren
 * Heatmap-lezingen werkstroom verkennen
 
-Sectie 6: Campagne-configuratie (14%)
+**Sectie 6: Campagne-configuratie (14%)**
 
 * Het proces toepassen om campagnes te maken met behulp van Campagneresjablonen
 * Beschrijf het proces om goedkeuringen te creëren
@@ -122,17 +124,33 @@ Sectie 6: Campagne-configuratie (14%)
 * Het proces definiëren om het geavanceerde proces in workflows te maken
 * Beschrijf methoden voor workflowuitvoering
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
 
-**Voorbeeldvragen**
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"}
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+<br>
 
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e331-adobe-campaign-classic-developer-professional-copy-ixmxw7){target="_blank"}
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Systeemconfiguratie**
 
@@ -182,17 +200,35 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Aan de slag met workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html){target="_blank"}
 * [Workflowuitvoering](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/common-general-issues-toc/workflow-execution.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+**Voorbeeldvragen**
 
+{{sample-questions}}
 
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad0-e331-adobe-campaign-classic-developer-professional-copy-ixmxw7){target="_blank"}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -205,7 +241,23 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

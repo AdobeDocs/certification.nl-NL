@@ -7,40 +7,24 @@ role: Developer
 badge: label="Examen AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 3%
+source-wordcount: '518'
+ht-degree: 4%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Experience Manager Sites] Developer Professional
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager Sites] Developer Professional.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
 
-U zou een toepassingsontwikkelaar moeten zijn en hebben:
+{{exam-description}}
 
-* 0-12 maanden ervaring met de AEM [!DNL Platform]
-* De mogelijkheid om componentontwikkeling uit te voeren
-* Een basisbegrip van het MVC-kader, levenscycluskaders en bibliotheken in AEM
+<br>
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
-
->[!BEGINTABS]
-
->[!TAB Klaar]
-
-**Beoogd publiek:**
-
-* AEM ontwikkelaars
-* Front End Developers
-* Software-engineers
-
-**Details van examen:**
+### Details van examen {#exam-details}
 
 * Niveau: Professional (0-12 maanden ervaring)
 * Voldoende score: 31/50
@@ -50,9 +34,31 @@ U zou een toepassingsontwikkelaar moeten zijn en hebben:
 * Kosten: $125 (wereldwijd) / $95 (India)
 * Examen-id: AD0-E123
 
-**Doelstellingen en toepassingsgebied van examen**
+<br>
 
-Sectie 1: Configuraties (26%)
+### Beoogd publiek {#intended-audience}
+
+* AEM ontwikkelaars
+* Front End Developers
+* Software-engineers
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
+
+U zou een toepassingsontwikkelaar moeten zijn en hebben:
+
+* 0-12 maanden ervaring met de AEM [!DNL Platform]
+* De mogelijkheid om componentontwikkeling uit te voeren
+* Een basisbegrip van het MVC-kader, levenscycluskaders en bibliotheken in AEM
+
+<br>
+
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
+
+{{exam-objectives}}
+
+**Sectie 1: Configuraties (26%)**
 
 * Erken het doel van AEM verzendersconfiguraties en caching
 * Bepaal de correcte stappen om multi-site in AEM te vormen
@@ -60,36 +66,44 @@ Sectie 1: Configuraties (26%)
 * Bepaal de correcte stappen om de indexen van douaneOAK te beheren
 * Bepaal de correcte stappen om integratie te vormen OTB SAML of IMS
 
-Sectie 2: AEM ontwikkeling (40%)
+**Sectie 2: AEM ontwikkeling (40%)**
 
 * Bepaal de correcte stappen om op kern-gebaseerde componenten uit te voeren
 * Functionaliteit van Connect-componenten, waaronder HTML, modellen en services
 * Op basis van een scenario de juiste stappen bepalen om workflows te ontwikkelen
 * Geef bij een scenario het doel van inhoudsfragmenten of ervaringsfragmenten weer
 
-Sectie 3: Bouw en implementatie (12%)
+**Sectie 3: Bouw en implementatie (12%)**
 
 * Maven-projectstructuur definiëren
 * Projecten configureren van archetypen
 
-Sectie 4: Milieu-onderhoud (22%)
+**Sectie 4: Milieu-onderhoud (22%)**
 
 * Gezien een scenario, bepaal de stappen die worden vereist om kwesties in AEM milieu&#39;s te zuiveren
 * Verklaar AEM onderhoudsversies
 * Identificeer hoe te om AEM over topologieën te vormen
 * De vereiste stappen bepalen voor het plannen en migreren naar AEM as a Cloud Service
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{how-to-get-certified-intro}}
 
-**Voorbeeldvragen**
++++Stap 1: Maak uw account
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+{{create-your-account}}
 
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Configuraties**
 
@@ -122,15 +136,35 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [[!DNL AEM as Cloud Service] video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html){target="_blank"}
 * [Adobe [!DNL Experience Manager] Updates en routekaart vrijgeven](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+**Voorbeeldvragen**
 
-## Ongeveer het certificatieexamen
+{{sample-questions}}
+
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
+
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -143,10 +177,27 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+

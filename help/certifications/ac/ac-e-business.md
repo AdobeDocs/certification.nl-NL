@@ -8,18 +8,48 @@ level: Experienced
 badge: label="Examen AD0-E708" type="positive"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1417'
+source-wordcount: '1265'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor [!DNL Adobe Commerce] Expert aan de praktijk van bedrijven
 
-Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Commerce] Expert van de beroepsbeoefenaar.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 31/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E708
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Zakelijke analist
+* Commerce Strategist
+* Consultant
+* Technisch projectmanager/technisch accountmanager
+* Architect/Oplossingsarchitect/Specialist
+* Admin/Director/Manager/Consultant
+* Digital Marketing Director/Manager/Developer
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U moet ongeveer 1-3 jaar praktische [!DNL Commerce] ervaring en een breed begrip van de ervaring op het gebied van e-handel.
 
@@ -33,48 +63,20 @@ U moet ervaring hebben met:
 * Basiskennis van aanpasbare toepassingen, cloud en serverinfrastructuur
 * Moderne terminologie voor e-handel
 
-En, zou u moeten comfortabel zijn gebruikend de volgende technologieën:
+Bovendien kunt u de volgende technologieën beter gebruiken:
 
 * Adobe [!DNL Commerce] - versie 2.4
 * Gereedschappen voor analyse en prestaties: Googles Analytics, tagbeheer, SWAT, New Relic, Fastly, Google Lighthouse
 * Beveiligingsgereedschappen: PCI-compatibiliteit, ADA, GDPR enzovoort
 * Cloud- of on-premise-architectuur
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Zakelijke analist
-* Commerce Strategist
-* Consultant
-* Technisch projectmanager/technisch accountmanager
-* Architect/Oplossingsarchitect/Specialist
-* Admin/Director/Manager/Consultant
-* Digital Marketing Director/Manager/Developer
-
-**Details van examen:**
-
-* Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 31/50
-* Tijd: 100 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E708
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Basisfuncties/Algemene configuratie (46%)
+**Sectie 1: Basisfuncties/Algemene configuratie (46%)**
 
 * De kenmerken van Adobe identificeren [!DNL Commerce] Open Source Edition en [!DNL Commerce] Edition
 * De verschillen tussen alle edities van Adobe onderscheiden [!DNL Commerce] producten
@@ -90,18 +92,18 @@ Sectie 1: Basisfuncties/Algemene configuratie (46%)
 * E-mailberichten over transacties configureren en wijzigen
 * Verklaar de de dienst van de klantenzelfbediening en inheemse eigenschappen van het loyaliteitsprogramma in B2B
 
-Sectie 2: Merchandising (10%)
+**Sectie 2: Merchandising (10%)**
 
 * Toon de capaciteit aan om bevorderingen tot stand te brengen om aan specifieke bedrijfscriteria te voldoen en hoe het definitieve tarifering bepaalt
 * Toon capaciteit aan om categorieën en producten te beheren
 * Begrijp de verschillende prijsconfiguraties en hoe zij de definitieve prijs beïnvloeden
 
-Sectie 3: Digitale marketing (4%)
+**Sectie 3: Digitale marketing (4%)**
 
 * Aanbevolen beste praktijken voor SEO gebruikend inheemse eigenschappen
 * Algemene meetgegevens in Googles Analytics en BI beoordelen
 
-Sectie 4: Modules voor toevoeging en aanvullende producten (18%)
+**Sectie 4: Modules voor toevoeging en aanvullende producten (18%)**
 
 * Beschrijf de functionaliteit B2B en hoe het op gemeenschappelijke scenario&#39;s B2B betrekking heeft
 * Pas bedrijfsvereisten toe om een oplossing voor te stellen die MSI gebruikt
@@ -111,25 +113,47 @@ Sectie 4: Modules voor toevoeging en aanvullende producten (18%)
 * Begrijp hoe te om op maat gemaakte tarifering op een B2B klant toe te passen
 * Begrijp de verschillen tussen Adobe [!DNL Commerce] native product en aanbevelingen voor Adobe Sensei-producten
 
-Sectie 5: Systeemarchitectuur (10%)
+**Sectie 5: Systeemarchitectuur (10%)**
 
 * Evalueer vereisten om te bepalen welke websites, opslag, en opslagmening noodzakelijk zijn
 * Prestatiewaarden identificeren en analyseren om verbeteringen aan te brengen
 * Begrijp de beschikbare methodes om extern systeem met Adobe te integreren [!DNL Commerce]
 * Verschil tussen headless-benaderingen en traditioneel
 
-Sectie 6: Naleving/beveiliging (12%)
+**Sectie 6: Naleving/beveiliging (12%)**
 
 * Toon hoe te om de Adobe te beveiligen [!DNL Commerce] gegevenstoegang met rollen en toestemmingen
 * Begrijp de grondbeginselen van naleving van privacywetten en betalingsbeveiliging
 * Gemeenschappelijke veiligheidsaspecten van een Adobe verklaren [!DNL Commerce] project
 * Begrijp de grondbeginselen van belastingwetten en hoe te te vormen
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
+
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Basisfuncties/algemene configuratie**
 
@@ -209,19 +233,33 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Beveiliging](https://devdocs.magento.com/guides/v2.4/architecture/security_intro.html){target="_blank"}
 * [Belastingrichtsnoeren per land](https://docs.magento.com/user-guide/tax/international-tax-guidelines.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
-
-## Een praktijktest uitvoeren
+**Een praktijktest uitvoeren**
 
 {{practice-test}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -234,7 +272,23 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

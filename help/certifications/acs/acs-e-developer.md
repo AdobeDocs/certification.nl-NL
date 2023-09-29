@@ -7,18 +7,47 @@ role: Developer
 badge: label="Examen AD0-E306" type="positive"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1073'
-ht-degree: 12%
+source-wordcount: '930'
+ht-degree: 14%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Campaign Standard] Ontwikkelaarsexpert
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Campaign Standard] Ontwikkelaarsexpert.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 29/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E306
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Beheerder van marketingautomatisering
+* Adobe Experience Cloud developer
+* E-mailmarketinganalist
+* Toepassingsontwikkelaar
+* Campagneontwikkelaar
+* Martech-ontwikkelaar
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -40,40 +69,13 @@ U zou moeten hebben:
 * Ervaring met transactioneel overseinen, en berichtlevering op multi-kanalen
 * Ervaring met beheerde pakketten
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Beheerder van marketingautomatisering
-* Adobe Experience Cloud developer
-* E-mailmarketinganalist
-* Toepassingsontwikkelaar
-* Campagneontwikkelaar
-* Martech-ontwikkelaar
-
-**Details van examen:**
-
-* Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 29/50
-* Tijd: 100 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E306
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Modellering en beheer van gegevens (26%)
+**Sectie 1: Modellering en beheer van gegevens (26%)**
 
 * Gezien een scenario, transformeer een cliëntvereiste in een douanemiddel
 * Bepaal hoe u scherm- en filterdefinities kunt configureren
@@ -82,7 +84,7 @@ Sectie 1: Modellering en beheer van gegevens (26%)
 * Problemen met gegevensmodellering oplossen
 * Bepaal de correcte benadering om technische werkschema&#39;s te bouwen
 
-Sectie 2: Campagnebeheer (50%)
+**Sectie 2: Campagnebeheer (50%)**
 
 * Workflowfouten oplossen
 * Bepaal de correcte benadering om campagnes te bouwen
@@ -95,7 +97,7 @@ Sectie 2: Campagnebeheer (50%)
 * Bepaal de juiste aanpak voor het samenstellen van e-mails met behulp van creatieve ontwerper
 * Bepaal de correcte benadering om douanerapporten tot stand te brengen
 
-Afdeling 3: Administratie (24%)
+**Afdeling 3: Administratie (24%)**
 
 * Bepaal de correcte benadering om gebruikersveiligheidsgroepen en organisatorische eenheden tot stand te brengen
 * Bepaal de correcte benadering om pakketten te beheren en op te stellen
@@ -104,9 +106,33 @@ Afdeling 3: Administratie (24%)
 * Bepaal de correcte benadering om merken te creëren
 * Bepaal de correcte benadering om kanaalconfiguraties te ontwikkelen
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
+
+{{readiness}}
+
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Deel 1: Modellering en beheer van gegevens**
 
@@ -151,19 +177,33 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 * [Informatie over kanaalconfiguratie](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
 * [Aan de slag met communicatiekanalen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
-
-## Een praktijktest uitvoeren
+**Een praktijktest uitvoeren**
 
 {{practice-test}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -176,7 +216,23 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

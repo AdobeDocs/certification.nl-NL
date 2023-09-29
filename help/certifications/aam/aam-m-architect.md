@@ -8,38 +8,36 @@ level: Experienced
 badge: label="Examen AD0-E454" type="positive"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '708'
+source-wordcount: '615'
 ht-degree: 2%
 
 ---
 
 # Certificeringsreis voor [!DNL Adobe Audience Manager] Architect Master
 
-Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Audience Manager] Architect Master.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
 
-U moet minstens drie jaar ervaring hebben met gegevensverzamelingsmethoden, platforms voor gegevensbeheer en digitale marketingtechnologiestapels voor Adoben en andere marketingplatforms dan Adoben. U begrijpt de unieke technische en zakelijke vereisten van klanten en ontwikkelt aangepaste oplossingen.
+{{exam-description}}
 
-Bovendien, zou u de volgende taken moeten kunnen voltooien:
+<br>
 
-* De bedrijfsvereisten analyseren om bestaande gegevens en de extra gegevens te begrijpen die worden vereist
-* Ontwerp en ontwikkel specifieke implementaties om aan klantenvereisten te voldoen
-* Adobe implementeren [!DNL Audience Manager] gebruik maken van verschillende methoden
-* Segmenten maken
-* Activeer publiekssegmenten over verschillende Adobe en niet-Adobe wolkenoplossingen
-* Verschillende rapporten genereren en analyseren binnen [!DNL Audience Manager]
-* Strategieën voor gegevensverzameling begrijpen
+### Details van examen {#exam-details}
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+* Niveau: master (3-5 jaar ervaring)
+* Voldoende score: 29/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E454
 
->[!BEGINTABS]
+<br>
 
->[!TAB Klaar]
+### Beoogd publiek {#intended-audience}
 
 **Beoogd publiek:**
 
@@ -54,23 +52,31 @@ Bovendien, zou u de volgende taken moeten kunnen voltooien:
 * Technisch consultant
 * Marketing Technoloog
 
-**Details van examen**
+<br>
 
-* Niveau: master (3-5 jaar ervaring)
-* Voldoende score: 29/50
-* Tijd: 100 min
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Beschikbare talen: Engels
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E454
+### Minimale ervaring {#minimum-experience}
 
-**Zelfbeoordeling van gereedheid**
+U moet minstens drie jaar ervaring hebben met gegevensverzamelingsmethoden, platforms voor gegevensbeheer en digitale marketingtechnologiestapels voor Adoben en andere marketingplatforms dan Adoben. U begrijpt de unieke technische en zakelijke vereisten van klanten en ontwikkelt aangepaste oplossingen.
 
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
+Bovendien, zou u de volgende taken moeten kunnen voltooien:
+
+* De bedrijfsvereisten analyseren om bestaande gegevens en de extra gegevens te begrijpen die worden vereist
+* Ontwerp en ontwikkel specifieke implementaties om aan klantenvereisten te voldoen
+* Adobe implementeren [!DNL Audience Manager] gebruik maken van verschillende methoden
+* Segmenten maken
+* Activeer publiekssegmenten over verschillende Adobe en niet-Adobe wolkenoplossingen
+* Verschillende rapporten genereren en analyseren binnen [!DNL Audience Manager]
+* Strategieën voor gegevensverzameling begrijpen
+
+<br>
+
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
+
+{{exam-objectives}}
 
 **Doelstellingen en toepassingsgebied van examen**
 
-Sectie 1: Implementatieanalyse (26%)
+**Sectie 1: Implementatieanalyse (26%)**
 
 * Bepaal hoe u de implementatie van AAM als een zelfstandig product of als onderdeel van een cloudoplossing kunt begeleiden en ondersteunen
 * Analyseer uitgaande bestemmingsopties en adviseer een AAM implementatiebenadering
@@ -78,14 +84,14 @@ Sectie 1: Implementatieanalyse (26%)
 * Omgaan met functies zoals viewer voor bezoekersprofielen, tags, RBAC enzovoort, om deze uit te lijnen op bedrijfsdoelen
 * Bepaal hoe u pixels ontwerpt en test die nodig zijn om segmenten en kenmerken te maken
 
-Sectie 2: Oplossingsontwerp en aanbevelingen (18%)
+**Sectie 2: Oplossingsontwerp en aanbevelingen (18%)**
 
 * AAM mogelijkheden bepalen op basis van het gebruiksscenario van de klant voor publiek en activering
 * Pas procedureconcepten toe om oplossingen van de publieksidentiteit te gebruiken om ontwerparchitectuur aan te vullen
 * Kenmerken en gedragsgegevens identificeren en deze toewijzen aan specifieke gevallen van zakelijk gebruik
 * Procedureconcepten toepassen op de ontwerpmappentaxonomie en naamgevingsconventie
 
-Sectie 3: Segmentering en activering (30%)
+**Sectie 3: Segmentering en activering (30%)**
 
 * Pas procedureconcepten toe om bestemmingen tot stand te brengen in [!DNL Audience Manager]
 * Identificeer signalen om op regel-Gebaseerde, Onboard, en Algorithmic Traits te creëren
@@ -94,20 +100,42 @@ Sectie 3: Segmentering en activering (30%)
 * Procedurele concepten toepassen om een algoritmisch of voorspellend model te maken
 * Segmentatielogica bepalen op basis van gebruiksgevallen
 
-Deel 4: Privacy en gegevensbeheer (8%)
+**Deel 4: Privacy en gegevensbeheer (8%)**
 
 * Aanbevelen [!DNL Audience Manager] capaciteiten op het gebied van bestuur, privacy en beveiliging
 * Identificeer het beleid van klantengegevens dat in overeenstemming met overheidsverordeningen is
 
-Sectie 5: Prestaties en rapportage (18%)
+**Sectie 5: Prestaties en rapportage (18%)**
 
 * Bepaal hoe te om rapporten in AAM te vormen om signaal, eigenschappen, en segmentprestaties per bedrijfsvereisten te verzamelen
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
+
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"}.
+
+<br>
+
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Implementatieanalyse**
 
@@ -136,15 +164,27 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 * [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
++++
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+<br>
 
++++Stap 3: Planning en betaal voor examen
 
+{{schedule-and-pay}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -157,7 +197,23 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

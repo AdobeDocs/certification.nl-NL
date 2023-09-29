@@ -8,20 +8,39 @@ recommendations: disable, exclude
 badge: label="Examen AD0-E600 &amp; AD7-E601" type="positive"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1570'
+source-wordcount: '1402'
 ht-degree: 3%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Real-Time Customer Data Platform] Expert
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Real-Time Customer Data Platform] Expert.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
 
-Om een certificatie met examen te verdienen, moet u 2 verschillende examens overgaan met een aanwezige aannemer, online of onsite, waar beschikbaar.
+{{exam-description}}
+
+>[!IMPORTANT]
+>
+>De Adobe [!DNL Real-Time Customer Data Platform] Voor certificering door experts zijn twee examens vereist: **Adobe [!DNL Experience Platform] Technische stichtingen (AD0-E600)** en **Adobe [!DNL Real-Time CDP] Technisch deskundige (AD7-E601)**.
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Gegevensarchitect/engineer
+* Architect van de oplossing of MSA
+* Enterprise Architect
+* Productmanager
+* Marketing Technology Lead
+* Technisch consultant
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -38,29 +57,19 @@ U zou moeten hebben:
 * Kennis van de frequentie waarmee segmenten naar bestemmingen worden gestuurd
 * Kennis van hoe vaak het segmentlidmaatschap wordt bijgewerkt
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+[Naar informatie voor voorschrift 1 gaan](#req-1)
 
->[!TAB Klaar]
+[Naar informatie gaan voor voorschrift 2](#req-2)
 
-**Beoogd publiek:**
+<br>
 
-* Gegevensarchitect/engineer
-* Architect van de oplossing of MSA
-* Enterprise Architect
-* Productmanager
-* Marketing Technology Lead
-* Technisch consultant
-
-
-**Voorschrift 1: AD0-E600 Adobe [!DNL Experience Platform] Technische stichtingen**
+## Vereiste nr. 1: Informatie voor Adobe [!DNL Experience Platform] Technische stichtingen (AD0-E600) {#req-1}
 
 Het examen AD0-E600 bevestigt vaardigheden en kennis die de basiseigenschappen en vaak uitgevoerde taken van Adobe behandelen [!DNL Experience Platform] op het niveau van de deskundigen.
 
-**Details van examen:**
+### Details examen voor AD0-E600 {#exam-details-600}
 
 * Niveau: Expert (1-3 jaar ervaring)
 * Voldoende score: 35/50
@@ -70,15 +79,19 @@ Het examen AD0-E600 bevestigt vaardigheden en kennis die de basiseigenschappen e
 * Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E600
 
-**Doelstellingen en toepassingsgebied van examen**
+<br>
 
-Sectie 1: Gegevensmodellering (20%)
+### Doelstellingen en toepassingsgebied van examen voor AD0-E600 {#exam-objectives}
+
+{{exam-objectives}}
+
+**Sectie 1: Gegevensmodellering (20%)**
 
 * Brongegevens analyseren om primaire en secundaire identiteit voor profielstitching te evalueren
 * Toon een inzicht in hoe te om UI te gebruiken om Schema&#39;s tot stand te brengen/uit te geven XDM.
 * DULE Guidance identificeren
 
-Sectie 2: Gegevensinname (36%)
+**Sectie 2: Gegevensinname (36%)**
 
 * Toon hoe te om gegevens voor opname te formatteren en voor te bereiden
 * Toon hoe te om gegevensbronnen aan te sluiten gebruikend schakelaars OTB
@@ -87,7 +100,7 @@ Sectie 2: Gegevensinname (36%)
 * Toon aan hoe te om gegevensontdekking op brongegevens uit te voeren
 * Toon aan hoe te om gegevens om XDM aan te passen
 
-Sectie 3: Profielen verenigen (34%)
+**Sectie 3: Profielen verenigen (34%)**
 
 * Profielen en gegevens na opname van gebeurtenisgegevens valideren
 * Naamruimten definiëren
@@ -95,19 +108,30 @@ Sectie 3: Profielen verenigen (34%)
 * Omgaan met het verrijken van profielen via services voor het modelleren van gegevenswetenschappen
 * Toon aan hoe te om een segment met de Bouwer van het Segment te bouwen en hoe de segmenteringsdienst werkt
 
-Sectie 4: Activering (10%)
+**Sectie 4: Activering (10%)**
 
 * Toon aan hoe te opstelling een bestemming en hoe de segmentactivering werkt
 * Toon en begrip van gegevenstoegang API en het uitvoeren van gegevens via Real-Time CDP
 
-Neem een vragenlijst over gereedheid om na te gaan of u aan de minimumkwalificaties voldoet.
+<br>
 
+## Hoe wordt gecertificeerd (AD0-E600) {#how-to-get-certified}
 
->[!TAB Vooraf ingesteld]
+{{how-to-get-certified-intro}}
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
++++Stap 1: Maak uw account
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Deel 1: Gegevensmodellering**
 
@@ -132,19 +156,33 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 * [Overzicht van doelen](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=nl){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
-
-## Een praktijktest uitvoeren
+**Een praktijktest uitvoeren**
 
 {{practice-test}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -157,18 +195,25 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 </span>
 </a>
 
++++
 
->[!ENDTABS]
+<br>
 
->[!BEGINTABS]
++++Stap 6: Uw badges beheren
 
->[!TAB Klaar]
+{{manage-your-badges}}
 
-**Voorschrift 2: AD7-E601 Technische Praktijk van Adobe Real-Time CDP**
++++
+
+<br>
+
+## Vereiste nr. 2: Informatie voor Adobe [!DNL Real-Time CDP] Technisch deskundige (AD7-E601) {#req-2}
 
 Het examen AD7-E601 behandelt de verwezenlijking, het beheer en het begrip van klantenprofiel, de segmentatie, de bestemmingen over bronnen, en andere onderwerpen. Het examen bevestigt de grondvaardigheden en de kennis nodig om in real time CDP voor publiekssegmentatie, bestemmingsuitvoer, en activering op een basis in real time voor verenigde profielen aan gegevens en privacyverordeningen aan te wenden. Kandidaten moeten ervaring hebben met CDP (Customer Data Platforms) en kennis hebben van Adobe [!DNL Experience Platform].
 
-**Details van examen:**
+<br>
+
+### Details examen voor AD7-E601
 
 * Niveau: Expert (1-3 jaar ervaring)
 * Voldoende score: 25/34
@@ -178,11 +223,11 @@ Het examen AD7-E601 behandelt de verwezenlijking, het beheer en het begrip van k
 * Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD7-E601
 
-**Zelfbeoordeling van gereedheid**
+<br>
 
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
+### Doelstellingen en toepassingsgebied van examen voor AD7-E601
 
-**Toepassingsgebied en doelstellingen van het examen**
+{{exam-objectives}}
 
 Sectie 1: Validatie (41%)
 
@@ -202,7 +247,33 @@ Deel 3: Doelen (27%)
 * Pas concepten toe die worden vereist om één of meerdere Doelen te vormen wanneer het verzenden van/het uitvoeren van publiek dat op bedrijfsgebruiksgevallen wordt gebaseerd
 * Toon een begrip van het uitvoeren van segmenten door Bestemming aan
 
->[!TAB Vooraf ingesteld]
+<br>
+
+### Voorbereidingsvragenlijst voor AD7-E601
+
+{{readiness}}
+
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"}
+
+<br>
+
+## Hoe wordt gecertificeerd (AD7-E601)
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Validatie**
 
@@ -210,10 +281,10 @@ Deel 3: Doelen (27%)
 * [Profieldashboard](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
 * [Standaardhulplijnen voor realtime klantprofielgegevens](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html)
 * [Klantprofiel in realtime inschakelen](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html){target="_blank"}
-* [[!DNL Real-Time Customer Data Platform] Overzicht](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=nl){target="_blank"}
+* [Real-time Customer Data Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=nl){target="_blank"}
 * [AEP Application Services: Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
 * [Aan de slag met Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html){target="_blank"}
-* [[!DNL Real-Time Customer Data Platform] homepage en dashboards](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
+* [Real-time Customer Data Platform-startpagina en -dashboards](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
 * [Dataflows voor doelen in de UI controleren](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html){target="_blank"}
 * [Segmenten maken en activeren in Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 * [Privacyoverzicht](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html){target="_blank"}
@@ -228,7 +299,7 @@ Deel 3: Doelen (27%)
 
 **Sectie 2: Segmentatie**
 
-* [Segmenteringsservice in [!DNL Real-Time Customer Data Platform]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segmentation-overview.html){target="_blank"}
+* [Segmenteringsservice in Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segmentation-overview.html){target="_blank"}
 * [Handleiding voor de gebruikersinterface van Segment Builder](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html){target="_blank"}
 * [Segmentering in real-time CDP B2B-editie](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/b2b.html){target="_blank"}
 * [Segmenten maken](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html){target="_blank"}
@@ -264,32 +335,62 @@ Deel 3: Doelen (27%)
 * [Een sociale bestemming configureren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-a-social-destination.html){target="_blank"}
 * [Gegevens activeren voor toepassing zonder Adobe](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
-
-## Een praktijktest uitvoeren
+**Een praktijktest uitvoeren**
 
 {{practice-test}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
-## Plan of neem examen AD0-E601
+## Plan of neem examen AD7-E601
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD7-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Ga naar examenportal
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

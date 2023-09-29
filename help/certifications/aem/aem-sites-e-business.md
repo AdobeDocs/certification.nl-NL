@@ -7,18 +7,49 @@ role: User
 badge: label="Examen AD0-E121" type="positive"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1129'
+source-wordcount: '981'
 ht-degree: 2%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Experience Manager Sites] Expert aan de praktijk van bedrijven
 
-Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager] Expert van de beroepsbeoefenaar.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 32/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels, Japans
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E121 (Engels), AD0-E121-J (Japans)
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Oplossingsconsultant
+* Deskundigen op het gebied van consumentenervaring
+* Producteigenaars van oplossingen die worden ontworpen en geïmplementeerd
+* Zakelijke analisten
+* Oplossingsarchitecten
+* Individuen in partnerorganisaties en freelancers die een analist-baanrol voor AEM oplossingen uitvoeren
+* Marketing specialisten die de eigenschappen en de mogelijkheden kennen nodig om ontwikkelaars in dienst te nemen om een oplossing voor bedrijfsbehoeften te bepalen
+* Klanten die het product gebruiken (dat wil zeggen, Power Users)
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U zou moeten hebben:
 
@@ -49,49 +80,26 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * Algemeen begrip van het Web
 * Responsieve concepten voor webontwerp
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
+{{exam-objectives}}
 
-**Beoogd publiek:**
-
-* Oplossingsconsultant
-* Deskundigen op het gebied van consumentenervaring
-* Producteigenaars van oplossingen die worden ontworpen en geïmplementeerd
-* Zakelijke analisten
-* Oplossingsarchitecten
-* Individuen in partnerorganisaties en freelancers die een analist-baanrol voor AEM oplossingen uitvoeren
-* Marketing specialisten die de eigenschappen en de mogelijkheden kennen nodig om ontwikkelaars in dienst te nemen om een oplossing voor bedrijfsbehoeften te bepalen
-* Klanten die het product gebruiken (dat wil zeggen, Power Users)
-
-**Details van examen:**
-
-Niveau: Expert (1-3 jaar ervaring) Passing Score: 32/50 keer: 100 minuten Levering: Online geproclameerd (vereist cameratoegang) of door testcentrum geproclameerde Beschikbare talen: Engels en Japans Kosten: $225 (globaal) / $150 (India) Exam ID: AD0-E121
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
-
-**Doelstellingen en toepassingsgebied van examen**
-
-Sectie 1: Onderwijs (22%)
+**Sectie 1: Onderwijs (22%)**
 
 * Geef relevante AEM en mogelijkheden weer
 * Aanbevelen hoe u AEM functies kunt gebruiken om aan uw bedrijfsbehoeften te voldoen
 * Procedurele concepten toepassen die nodig zijn voor het volgen van training voor contenteditors
 
-Sectie 2: Architectuur (24%)
+**Sectie 2: Architectuur (24%)**
 
 * Een informatiearchitectuur aanbevelen om AEM standaardfuncties te gebruiken om aan bedrijfsbehoeften te voldoen met behulp van een op-prem- of Adobe gehoste (cloud) omgeving
 * Beschrijf hoe AEM met de diensten van derden integreert
 * Bepalen hoe rollen en machtigingen moeten worden gedefinieerd
 * Beschrijf caching-benaderingen
 
-Sectie 3: Bedrijfsanalyse (38%)
+**Sectie 3: Bedrijfsanalyse (38%)**
 
 * Kaart standaardmodules van AEM aan verschillende bedrijfsproblemen voor de klant
 * Concepten voor inhoudsbeheer toepassen op AEM
@@ -100,16 +108,38 @@ Sectie 3: Bedrijfsanalyse (38%)
 * Bepaal hoe te om de kernbedrijfsdoelstellingen te ontmoeten terwijl het blijven binnen begroting en/of werkingsgebied
 * Bepaal hoe de vragen van ontwikkelaars met betrekking tot de bedrijfsdoelstellingen zouden moeten worden beantwoord
 
-Sectie 4: Instellen en implementeren (16%)
+**Sectie 4: Instellen en implementeren (16%)**
 
 * Bepaal hoe te om inhoudscomponenten te vormen en te gebruiken om beste praktijken van AEM te tonen
 * Controleer de correcte implementatie van functies en zoek en beschrijf eventuele fouten
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
+
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Afdeling 1: Onderwijs**
 
@@ -167,19 +197,33 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Localisatiefuncties van de kerncomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html){target="_blank"}
 * [Zoekfunctie](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
-
-## Een praktijktest uitvoeren
+**Een praktijktest uitvoeren**
 
 {{practice-test}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -203,7 +247,23 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 [Japanse instructies voor planning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

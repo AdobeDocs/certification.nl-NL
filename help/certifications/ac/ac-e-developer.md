@@ -7,18 +7,46 @@ level: Experienced
 badge: label="Examen AD0-E716" type="positive"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1850'
+source-wordcount: '1707'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor [!DNL Adobe Commerce] Ontwikkelaarsexpert
 
-Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Commerce] Ontwikkelaarsexpert.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 41/69
+* Tijd: 138 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E716
+
+<br>
+
+### Beoogd publiek {#intended-audience}
+
+* Ontwikkelaars
+* Leidingontwikkelaars
+* Backend Developer
+* Oplossingsarchitecten
+* Technische leiders
+
+<br>
+
+### Minimale ervaring {#minimum-experience}
 
 U moet minstens 1-3 jaar ervaring hebben met Adobe [!DNL Commerce] ontwikkeling en u bent vertrouwd met de volgende technologieën en milieu&#39;s:
 
@@ -33,39 +61,15 @@ U moet minstens 1-3 jaar ervaring hebben met Adobe [!DNL Commerce] ontwikkeling 
 * Versiebeheersoftware zoals Git
 * Cloudarchitectuur
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+<br>
 
->[!BEGINTABS]
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
 
->[!TAB Klaar]
-
-**Beoogd publiek:**
-
-* Ontwikkelaars
-* Leidingontwikkelaars
-* Backend Developer
-* Oplossingsarchitecten
-* Technische leiders
-
-**Details van examen:**
-
-* Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 41/69
-* Tijd: 138 min
-* Aflevering: online geprocoreerd (cameratoegang vereist)
-* Beschikbare talen: Engels
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E716
-
-**Zelfbeoordeling van gereedheid**
-
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
+{{exam-objectives}}
 
 **Doelstellingen en toepassingsgebied van examen**
 
-Deel 1: Adobe [!DNL Commerce] Architectuur- en aanpassingstechnieken (36%)
+**Deel 1: Adobe [!DNL Commerce] Architectuur- en aanpassingstechnieken (36%)**
 
 * Toon hoe te om geheim voorgeheugen in Adobe effectief te gebruiken [!DNL Commerce]
 * Aangepaste extensiekenmerken maken, gebruiken en bewerken
@@ -85,40 +89,40 @@ Deel 1: Adobe [!DNL Commerce] Architectuur- en aanpassingstechnieken (36%)
 * Toon de capaciteit aan om gegevens te laden en te manipuleren
 * Toon de capaciteit aan om de wedijver van de Toepassing te gebruiken
 
-Sectie 2: Werken met databases en EAV (10%)
+**Sectie 2: Werken met databases en EAV (10%)**
 
 * EAV-kenmerken en kenmerksets programmatisch bewerken
 * Toon de capaciteit aan om het gegevensbestandschema uit te breiden
 * Toon de capaciteit aan om gegevens van Adobe Commerce in te voeren/uit te voeren
 * Beschrijf hoe te om flarden en terugkomende reeksen te gebruiken om het gegevensbestand te wijzigen
 
-Sectie 3: Ontwikkeling met Admin (6%)
+**Sectie 3: Ontwikkeling met Admin (6%)**
 
 * Toon de capaciteit aan om netten en vormen bij te werken en te creëren
 * Rasterhandelingen uitbreiden
 * Toon de capaciteit aan om bepalingsklassen tot stand te brengen
 * Toon de capaciteit aan om toegang tot ACL te beperken
 
-Sectie 4: De catalogus aanpassen (6%)
+**Sectie 4: De catalogus aanpassen (6%)**
 
 * Wijzigingen toepassen op bestaande producttypen en nieuwe maken
 * Bestaande Catalogusentiteiten wijzigen en uitbreiden
 * Toon de capaciteit aan om Indexen te beheren en prijsoutput aan te passen
 * Uitleggen hoe inventarisatie uit meerdere bronnen invloed heeft op voorraad (programmaniveau)
 
-Sectie 5: Verkoop aanpassen (6%)
+**Sectie 5: Verkoop aanpassen (6%)**
 
 * Toon aan dat het mogelijk is nieuwe betalingsmethoden te ontwikkelen of bestaande betalingsmethoden aan te passen
 * Toon de capaciteit aan om verzendmethodes toe te voegen en aan te passen
 * Toon de capaciteit aan om verkoopverrichtingen aan te passen
 * Uitleggen hoe u totalen kunt aanpassen
 
-Sectie 6: API&#39;s en services (4%)
+**Sectie 6: API&#39;s en services (4%)**
 
 * Toon de capaciteit aan om nieuwe APIs te creëren of bestaande APIs uit te breiden
 * Toon de capaciteit aan om het het een rij vormen systeem te gebruiken
 
-Deel 7: Adobe [!DNL Commerce] Cloudarchitectuur (16%)
+**Deel 7: Adobe [!DNL Commerce] Cloudarchitectuur (16%)**
 
 * Toon kennis van Adobe [!DNL Commerce] architectuur-/omgevingsworkflow
 * Toon een werkende kennis van de dossiers van het wolkenproject, toestemming, en structuur aan
@@ -132,7 +136,7 @@ Deel 7: Adobe [!DNL Commerce] Cloudarchitectuur (16%)
 * Geef aan wanneer contact moet worden opgenomen met de ondersteuning *Yaml-bestanden en -beperkingen (DIY vs Support-tickets)
 * Toon basiskennis van OOTB SNEL eigenschappen configuratie en installatie aan
 
-Sectie 8: Adobe instellen/configureren [!DNL Commerce] Wolk (10%)
+**Sectie 8: Adobe instellen/configureren [!DNL Commerce] Wolk (10%)**
 
 * Beschrijf hoe te opstelling/Adobe te vormen [!DNL Commerce] Wolk
 * Basiskennis over probleemoplossing in de cloud toepassen (hiërarchie van webinterface en variabelen, prioriteit voor configuraties)
@@ -142,18 +146,40 @@ Sectie 8: Adobe instellen/configureren [!DNL Commerce] Wolk (10%)
 * Toon inzicht in vertakking gebruikend UI aan
 * Mogelijkheden van het Cloud Plan voor Adobe-handel identificeren
 
-Sectie 9: [!DNL Commerce] Cloud CLI-gereedschap (onderdeel beheren) (6%)
+**Sectie 9: [!DNL Commerce] Cloud CLI-gereedschap (onderdeel beheren) (6%)**
 
 * Toon inzicht in het bijwerken van wolkenvariabelen gebruikend CLI
 * Toon inzicht in milieubeheer gebruikend CLI (exclusieve eigenschappen CLI:activeer e-mails, rebase milieu&#39;s, momentopname, db stortplaats, lokale milieu opstelling)
 * Toon inzicht in vertakking gebruikend CLI aan
 * Toon hoe te om met de diensten van de wolk problemen op te lossen? (Mijn SQL, Redis, tunnel:info)
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
+
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"}
+
+<br>
+
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Deel 1: Adobe [!DNL Commerce] architectuur en aanpassingstechnieken**
 
@@ -255,7 +281,6 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [[!DNL Commerce] over Cloud-infrastructuur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html){target="_blank"}
 * [ECE-gereedschapspakket](https://devdocs.magento.com/cloud/reference/ece-tools-reference.html){target="_blank"}
 
-
 **Sectie 8: Adobe instellen/configureren [!DNL Commerce] Wolk**
 
 * [Gebruikerstoegang beheren](https://devdocs.magento.com/cloud/project/user-admin.html#cloud-user-webinterface){target="_blank"}
@@ -263,26 +288,38 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Cloud-infrastructuurproject](https://devdocs.magento.com/cloud/setup/first-time-setup-import-prepare.html#add-authentication-keys){target="_blank"}
 * [De takken met CLI beheren](https://devdocs.magento.com/cloud/project/project-webint-branch.html){target="_blank"}
 
-
 **Sectie 9: [!DNL Commerce] Cloud CLI-gereedschap (onderdeel beheren)**
 
 * [Momentopnamen en back-upbeheer](https://devdocs.magento.com/cloud/project/project-webint-snap.html){target="_blank"}
 * [Schijfruimte beheren](https://devdocs.magento.com/cloud/project/manage-disk-space.html){target="_blank"}
 
+<br>
 
->[!TAB Gecertificeerd ophalen]
-
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
-
-## Een praktijktest uitvoeren
+**Een praktijktest uitvoeren**
 
 {{practice-test}}
 
-## Ongeveer het certificatieexamen
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -295,7 +332,23 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 

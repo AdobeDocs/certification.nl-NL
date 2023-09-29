@@ -4,38 +4,39 @@ description: Leer hoe u gecertificeerd bent als een [!DNL Adobe Analytics] Zakel
 solution: Analytics
 product: Analytics
 role: User
-badge: label="Examen AD0-E212" type="positive"
+badge: label="Examen AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '772'
-ht-degree: 3%
+source-wordcount: '582'
+ht-degree: 5%
 
 ---
 
-# Certificeringsreis voor [!DNL Adobe Analytics] Professioneel als bedrijf
+# Certificeringsreis voor Adobe [!DNL Analytics] Professioneel als bedrijf
 
-Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Analytics] Zakelijke beroepsbeoefenaar.
+{{intro}}
 
-## Minimale ervaring
+## Beschrijving van examen {#exam-description}
 
-U dient minimaal 3 maanden ervaring te hebben met [!DNL Adobe Analytics] en de volgende ervaring:
+{{exam-description}}
 
-* Een marketingachtergrond of komt uit een marketingrol, maar kan uit verschillende functies voortkomen.
-* Basiskennis van meetgegevens en dimensies voor digitale analyse.
-* De capaciteit om Analytics te gebruiken om rapporten te bouwen en bedrijfsvragen te beantwoorden, en de resultaten mee te delen.
-* Een begrip van fundamentele digitale analytische concepten zoals segmentatie, rapportbouw, standaard metrische definities.
+<br>
 
->[!NOTE]
->
->Uw certificering is twee jaar geldig vanaf het moment dat u slaagt. We raden u aan de nieuwere versie zo veel mogelijk in te voeren, omdat deze betrekking heeft op nieuwere productmogelijkheden.
+### Details van examen {#exam-details}
 
->[!BEGINTABS]
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 31/50
+* Tijd: 100 min
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels
+* Kosten: $125 (wereldwijd) / $95 (India)
+* Examen-id: AD0-E212
 
->[!TAB Klaar]
+<br>
 
-**Beoogd publiek:**
+### Beoogd publiek {#intended-audience}
 
 * Digitale markten
 * Zakelijke analisten
@@ -48,23 +49,24 @@ U dient minimaal 3 maanden ervaring te hebben met [!DNL Adobe Analytics] en de v
 * UI-analisten
 * Conversie-/optimalisatiespecialisten
 
-**Details van examen:**
+<br>
 
-* Niveau: Professional (0-12 maanden ervaring)
-* Voldoende score: 31/50
-* Tijd: 100 min
-* Aflevering: online geprocoreerd (cameratoegang vereist)
-* Beschikbare talen: Engels
-* Kosten: $125 (wereldwijd) / $95 (India)
-* Examen-id: AD0-E212
+### Minimale ervaring {#minimum-experience}
 
-**Zelfbeoordeling van gereedheid**
+U dient minimaal 3 maanden ervaring te hebben met [!DNL Adobe Analytics] en de volgende ervaring:
 
-Voltooi de [online vragenlijst over gereedheid](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"} om te zien of uw huidige ervaring de geadviseerde minimumkandidaatkwalificatie aanpast.
+* Een marketingachtergrond of komt uit een marketingrol, maar kan uit verschillende functies voortkomen.
+* Basiskennis van meetgegevens en dimensies voor digitale analyse.
+* De capaciteit om Analytics te gebruiken om rapporten te bouwen en bedrijfsvragen te beantwoorden, en de resultaten mee te delen.
+* Een begrip van fundamentele digitale analytische concepten zoals segmentatie, rapportbouw, standaard metrische definities.
 
-**Doelstellingen en toepassingsgebied van examen**
+<br>
 
-Sectie 1: Bedrijfsanalyse (34%)
+### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
+
+{{exam-objectives}}
+
+**Sectie 1: Bedrijfsanalyse (34%)**
 
 * Gezien een bedrijfsbehoefte/vraag, identificeer een aangewezen rapporteringsstrategie om een analyse uit te voeren
 * Gegevens analyseren om zakelijke vragen te beantwoorden
@@ -73,7 +75,7 @@ Sectie 1: Bedrijfsanalyse (34%)
 * Rapportgegevens analyseren om conclusies samen te vatten en te trekken
 * Uitstekers en anomalieën in rapporten herkennen
 
-Sectie 2: Rapportage en dashboarding voor projecten (38%)
+**Sectie 2: Rapportage en dashboarding voor projecten (38%)**
 
 * Overweeg de voordelen om specifieke visualisaties te gebruiken die op een bepaald scenario worden gebaseerd
 * Fallout- en stroomvisualisatie vergelijken
@@ -83,29 +85,45 @@ Sectie 2: Rapportage en dashboarding voor projecten (38%)
 * Gezien een scenario, bepaal het aangewezen punt aan gebruik
 * Verslag over de prestaties van de marketingcampagne
 
-Sectie 3: Segmentering en berekende cijfers (19%)
+**Sectie 3: Segmentering en berekende cijfers (19%)**
 
 * Bepaal hoe te om basissegmenten te ontwikkelen en te vormen gebruikend beste praktijken
 * Pas het proces toe om segmenten met anderen in de organisatie te delen
 * Segmenten toepassen op projecten en componenten
 * Het proces toepassen om berekende en/of gesegmenteerde standaardwaarden te genereren
 
-Sectie 4: Algemene kennis van gereedschappen en probleemoplossing (9%)
+**Sectie 4: Algemene kennis van gereedschappen en probleemoplossing (9%)**
 
 * Begrijp verschillende soorten dimensies en parameters die in [!DNL Adobe Analytics] (gebeurtenissen, props en gebeurtenissen)
 * Bepalen hoe gegevens moeten worden geëxporteerd [!DNL Adobe Analytics]
 
->[!TAB Vooraf ingesteld]
+<br>
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+### Readiness-vragenlijst
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+{{readiness}}
 
-**Voorbeeldvragen**
+[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"}
 
-De steekproefvragen staan u toe om het type en het formaat van punten te zien die u in het daadwerkelijke examen zult ontmoeten. Er is geen aanmeldingsnaam nodig. De resultaten van de voorbeeldvragen worden niet opgeslagen en voorspellen niet de werkelijke testresultaten.
+<br>
 
-[Zie voorbeeldvragen](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
+## Hoe wordt gecertificeerd? {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Stap 1: Maak uw account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Stap 2: Bereid voor uw examen voor
+
+**Materialen onderzoeken**
+
+{{study-materials-intro}}
 
 **Sectie 1: Bedrijfsanalyse**
 
@@ -131,15 +149,35 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 * [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
 * [Handleiding voor Analytics-componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
 
->[!TAB Gecertificeerd ophalen]
+<br>
 
->[!IMPORTANT]
->
->De volgende secties en koppelingen werken **alleen**  na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Daarnaast wordt de naam van uw profiel in het dialoogvenster [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} moet exact overeenkomen met je gebruikersnaam. Als er geen identieke informatie of een onjuiste overeenkomst is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.*
+**Voorbeeldvragen**
 
-## Ongeveer het certificatieexamen
+{{sample-questions}}
+
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
+
++++
+
+<br>
+
++++Stap 3: Planning en betaal voor examen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Stap 4: Voor en na het examen
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Stap 5: Neem het examen
 
 {{about-certification-exam}}
 
@@ -152,7 +190,23 @@ De steekproefvragen staan u toe om het type en het formaat van punten te zien di
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Stap 6: Uw badges beheren
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Uw certificering vernieuwen
+
+{{renewing-intro}}
+
+<br>
 
 ## Vragen
 
