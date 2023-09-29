@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
+source-git-commit: 94ee089f972ff95b8ca75c08668e4b5cbacc77ea
 workflow-type: tm+mt
-source-wordcount: '2643'
+source-wordcount: '3097'
 ht-degree: 1%
 
 ---
@@ -243,6 +243,69 @@ Nee, u hoeft alleen de vereisten voor de oplossing te voltooien. Uw certificatie
 +++Moet ik de cursussen herzien, of kan ik eenvoudig beginnen beoordelingen te nemen?
 
 De beoordelingen zijn gebaseerd op de cursussen in Experience League en de beoordeling ervan zal kandidaten voorbereiden om ze met succes te behalen. De belangrijkste voorwaarde voor verlenging is echter dat de beoordelingen worden goedgekeurd.
+
++++
+
+>[!TAB  Vouchers]
+
++++Wanneer verlopen de examenvouchers? Hoe lang zijn ze goed voor?
+
+Adobe examenvouchers verlopen twaalf maanden na aankoop. Vouchers kunnen na de vervaldatum niet worden uitgebreid. De registraties van het examen moeten voor, worden gepland betaald en worden genomen vóór de vervaldatum van de examenbon.
+
++++
+
++++Kunnen vouchers worden geretourneerd voor creditering of terugbetaling?
+
+_Alle verkopen zijn definitief._ Retourzendingen en terugbetalingen worden niet geaccepteerd. Adobe examenvouchers worden gekocht op een examenniveau, niet voor specifieke examens, en dat verstrekt flexibiliteit.
+
+* Voorbeeld: Wanneer u 10 examenvouchers op Adobe Certified Expert-niveau koopt en deze verspreidt, hoeft u niet vooraf te weten wie welk Expert-examen zal afleggen.
+* Beheerders kunnen de voucher toewijzen aan een gebruiker en controleren of de voucher is bekeken, is afgelost of wanneer het examen gepland is of heeft plaatsgevonden.
+
++++
+
++++Welke betalingen worden geaccepteerd?
+
+De betaling kan worden verricht met (alle belangrijke) creditcards. Betalingen via creditcard vereisen acceptatie van een online overeenkomst met een klik-omslag. De verschillende betalingsopties zijn:
+
+* Duur, inkooporder of ACH: Maak een inkooporder in het Xvoucher-systeem die kan worden afgedrukt en naar de te betalen afdeling van uw rekening kan worden verzonden. Deze bestelling wordt goedgekeurd na ontvangst van de overschrijving of cheque.
+* Creditcard: alle creditcards zijn geaccepteerd.
+* Xwallet: hiermee wordt het orderbedrag van uw Xwallet-pool afgetrokken.
+
++++
+
++++Is er een minimum of maximum aantal vouchers dat ik kan kopen?
+
+Nee, er is geen minimum of maximum. Aankopen door klanten zijn slechts beperkt op basis van beschikbare middelen, zoals een creditcardlimiet of een bankrekeningsaldo voor overschrijvingen.
+
++++
+
++++Hoe lang duurt het om toegang tot vouchers te krijgen nadat ik mijn bestelling heb geplaatst?
+
+Vouchers zijn direct na aankoop beschikbaar als ze via creditcard of Xwallet worden betaald.
+
+* Als u voor uzelf koopt, worden boncodes op het scherm en in e-mail verstrekt.
+* Als u voor anderen koopt, meldt u zich aan bij uw Xvoucher-account en stuurt u de vouchers van daaruit naar uw eindgebruikers.
+* Als u via een kabel of inkooporder betaalt, worden voucheropdrachten vrijgegeven wanneer Xvoucher de middelen heeft ontvangen.
+
+[Online Help](https://help.xvoucher.com/){target="_blank"}
+
++++
+
++++Hoe heb ik toegang tot mijn Xvoucher-account?
+
+Meld u gewoon aan bij uw account [hier](https://www.xvoucher.com/Login.aspx){target="_blank"}.
+
++++
+
++++Hoe heb ik toegang tot mijn Adobe voucher?
+
+Nadat u een voucher hebt toegewezen, ontvangt u een e-mail van support@xvoucher.com met een vouchercode en instructies voor het inwisselen van de voucher. Controleer de spammap als u geen e-mail hebt ontvangen. Als u het e-mailbericht nog steeds niet kunt vinden, kunt u zich aanmelden bij uw Xvoucher-account.
+
++++
+
++++Kunnen vouchers worden geretourneerd voor creditering of terugbetaling?
+
+Alle verkopen zijn definitief. Retourzendingen en terugbetalingen worden niet geaccepteerd. De Vouchers van het Examen van de Adobe worden gekocht op een examenniveau, niet voor specifieke examens, die grote flexibiliteit verstrekt.
 
 +++
 
