@@ -5,9 +5,9 @@ solution: Workfront
 role: Developer
 badge: label="Examen AD0-E907" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 9a00f28ae304479db525eb88677f0bfe582e2589
 workflow-type: tm+mt
-source-wordcount: '1639'
+source-wordcount: '1685'
 ht-degree: 0%
 
 ---
@@ -160,19 +160,19 @@ U moet minstens 18-24 maanden ervaring hebben met Adobe [!DNL Workfront]en moet 
 
 **Sectie 1: Kernsysteembeheer en -installatie**
 
-* [Systeeminstellingen: groepen en gebruikers](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html){target="_blank"}
+* [Groepsstatussen beheren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/manage-group-statuses.html){target="_blank"}
 * [Hoe de toegangsniveaus en de toestemmingen samenwerken](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/legacy-access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
-* [Systeemprojectstatussen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html){target="_blank"}
+* [Groepbeheerders](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-roles/group-administrators.html){target="_blank"}
 * [Kick-start](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/kick-starts.html){target="_blank"}
 * [Kenmerken van gebruikers toewijzen en nieuwe gebruikers automatisch instellen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/map-user-attributes.html){target="_blank"}
 * [Groepen en subgroepen maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/organizational-setup/user-organization-groups.html){target="_blank"}
-* [Projecten bewerken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html){target="_blank"}
-* [Verpletterende regels maken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-routing-rules.html){target="_blank"}
+* [Gebruikers beheren in de Adobe Admin Console](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console.html){target="_blank"}
+* [Borden in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html){target="_blank"}
 
-**Sectie 2: Inname, aangepaste formulieren en projectbeheer**
+**Sectie 2: Inname, douaneformulieren en projectinitiatie**
 
 * [Algemene standaardprojectinstellingen configureren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/create-and-manage-object-statuses.html){target="_blank"}
-* [Mijn instellingen configureren](https://experienceleague.adobe.com/docs/workfront/using/basics/manage-account-profile/configure-user-profile/configure-my-settings.html){target="_blank"}
+* [Aangepaste formulieren - Formulierontwerper](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/form-designer/form-designer-toc.html){target="_blank"}
 * [Berekende gegevens toevoegen aan een aangepast formulier](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-calculated-data-to-custom-form.html){target="_blank"}
 * [Fout bij afhandeling van analyse](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/error-handling-walkthrough.html){target="_blank"}
 * [Beste praktijken - de malplaatjes van het Project](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/project-templates-bp.html){target="_blank"}
@@ -186,15 +186,16 @@ U moet minstens 18-24 maanden ervaring hebben met Adobe [!DNL Workfront]en moet 
 * [Prioriteit geven aan en werk beheren met portfolio&#39;s](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html){target="_blank"}
 * [Risico&#39;s maken en bewerken voor projecten](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/create-edit-risks-on-projects.html){target="_blank"}
 * [De projectprioriteiten begrijpen en bijwerken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-priority.html){target="_blank"}
-* [Weergave: details over de oorsprong van taken en projecten](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-originating-issue-details-tasks-projects.html){target="_blank"}
+* [Resourcebeheer](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-management/get-started-resource-management.html){target="_blank"}
 * [Projectbasislijnen maken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-projects/create-baselines.html){target="_blank"}
 * [Overzicht van Portfolio optimaliseren](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html){target="_blank"}
 
 **Afdeling 4: Documentbeheer en bewijsmiddelen**
 
+* [Proofingoverzicht](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proofing-basics.html){target="_blank"}
 * [Begrijp het verschil tussen een document en een proef](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html%3Flang%3Dzh-Hant){target="_blank"}
 * [Best practices - Proofing](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/proofing-bp.html){target="_blank"}
-* [Projecten bewerken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html){target="_blank"}
+* [Overzicht van AEM Assets-integratie](https://experienceleague.adobe.com/docs/workfront/using/documents/wf-aem-integrations/wf-aem-essentials/aem-asset-integrations.html){target="_blank"}
 * [Documenten van externe toepassingen koppelen](https://experienceleague.adobe.com/docs/workfront/using/documents/add-new-documents-to-workfront/link-documents-from-external-apps.html){target="_blank"}
 * [Documentmappen maken](https://experienceleague.adobe.com/docs/workfront/using/documents/organize-documents/create-documents-folder.html){target="_blank"}
 * [De as a Cloud Service integratie met Experience Manager Assets configureren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-aacs-integration.html){target="_blank"}
@@ -205,18 +206,20 @@ U moet minstens 18-24 maanden ervaring hebben met Adobe [!DNL Workfront]en moet 
 * [Filters maken met jokertekens op basis van gebruiker](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html){target="_blank"}
 * [Weergave: de relatie bovenliggend-onderliggend item in een taak weergeven door de taken in te springen](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-parent-child-relationship-by-indenting-tasks-with-custom-view.html){target="_blank"}
 * [Rapporten en dashboards](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports-and-dashboards-overview.html){target="_blank"}
-* [Beste praktijken - Onboarding en adoptie](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
+* [Rapportage tekstmodus](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/text-mode/text-mode-resources.html){target="_blank"}
 * [Een aangepast rapport maken](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
 * [Variabelen van jokerfilter](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html){target="_blank"}
 
 **Sectie 6: Methodologie/beste praktijken/gebruiksgevallen**
 
+* [Beste praktijken - Onboarding en adoptie](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 * [Voortgang bijhouden vanaf de projecttijdlijn](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
-* [Prioriteit geven aan uw werk in [!DNL Workfront] Home](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home/prioritize-your-work-in-workfront-home.html){target="_blank"}
+* [Prioriteit geven aan uw werk in [!DNL Workfront] Home](https://experienceleague.adobe.com/docs/workfront/using/basics/home/new-home/get-started-with-new-home.html){target="_blank"}
 * [Overzicht van facturering en inkomsten](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/billing-and-revenue-overview.html){target="_blank"}
 * [Informatie over bronnengebruik weergeven](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html){target="_blank"}
 * [Een goedkeuringsproces voor werkitems maken](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
 * [Geautomatiseerd workflowoverzicht](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html){target="_blank"}
+* [Borden in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html)
 * [Overzicht van kalenderrapporten](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calendars/calendar-reports-overview.html){target="_blank"}
 * [Projecten beheren in Portfolio optimaliseren](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/manage-projects-in-portfolio-optimizer.html){target="_blank"}
 
@@ -230,6 +233,7 @@ U moet minstens 18-24 maanden ervaring hebben met Adobe [!DNL Workfront]en moet 
 * [Beste praktijken - de Planner van het Middel](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html){target="_blank"}
 * [Overzicht van &quot;Kan starten&quot; voor taken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/can-start-task-overview.html){target="_blank"}
 * [Beste praktijken - Onboarding en adoptie](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
+* [Overzicht van goedkeuringsproces](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approval-process-in-workfront.html)
 
 +++
 
