@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
+source-git-commit: 454d5ffed9f3442674df989145e33d50c0994b27
 workflow-type: tm+mt
 source-wordcount: '1804'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!TAB Expert]
 
-U moet momenteel zijn gecertificeerd (niet verlopen) in:
+## U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 * Adobe Marketo Engage Business Practitioner Expert
 
