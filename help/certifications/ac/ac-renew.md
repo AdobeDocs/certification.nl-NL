@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 454d5ffed9f3442674df989145e33d50c0994b27
+source-git-commit: b67862a7cbbb13b49ac0298d4bde9b231203cd44
 workflow-type: tm+mt
 source-wordcount: '2462'
 ht-degree: 0%
@@ -248,54 +248,54 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1**
 
-[Creeer een toegangsbeheerlijst (ACL) regel](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
-[Een beheerderraster toevoegen](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
-[system.xml reference](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-systemxml.html){target="_blank"}
+* [Creeer een toegangsbeheerlijst (ACL) regel](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
+* [Een beheerderraster toevoegen](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
+* [system.xml reference](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-systemxml.html){target="_blank"}
 
 **Sectie 2**
 
-[Routering](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
-[URL herschrijft](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
-[Cachetypeconfiguratie](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
-[Reeks-, opslag- en weergavebereik](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
-[Gereedschap Command-lijn](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
-[Configuratie van afhankelijke inspuiting](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
-[Een module maken](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html){target="_blank"}
-[Indexeren](https://developer.adobe.com/commerce/php/development/components/indexing/){target="_blank"}
-[Vertalingen](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
-[Plug-ins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+* [Routering](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
+* [URL herschrijft](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
+* [Cachetypeconfiguratie](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
+* [Reeks-, opslag- en weergavebereik](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
+* [Gereedschap Command-lijn](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+* [Configuratie van afhankelijke inspuiting](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
+* [Een module maken](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html){target="_blank"}
+* [Indexeren](https://developer.adobe.com/commerce/php/development/components/indexing/){target="_blank"}
+* [Vertalingen](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
+* [Plug-ins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
 
 **Afdeling 3**
 
-[Kenmerksets](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html){target="_blank"}
-[EAV- en extensiekenmerken](https://developer.adobe.com/commerce/php/development/components/attributes/){target="_blank"}
-[declaratief schema configureren](https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration/){target="_blank"}
-[De structuur van het deelbestand maken](https://developer.adobe.com/commerce/php/development/build/component-file-structure/){target="_blank"}
+* [Kenmerksets](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html){target="_blank"}
+* [EAV- en extensiekenmerken](https://developer.adobe.com/commerce/php/development/components/attributes/){target="_blank"}
+* [declaratief schema configureren](https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration/){target="_blank"}
+* [De structuur van het deelbestand maken](https://developer.adobe.com/commerce/php/development/build/component-file-structure/){target="_blank"}
 
 **Sectie 4**
 
-[Inhoudsblokken](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
-[Modellen weergeven](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
-[Layout-instructies](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/){target="_blank"}
-[Themastructuur](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
-[JavaScript aanroepen en initialiseren](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
-[Persoonlijke inhoud](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
+* [Inhoudsblokken](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
+* [Modellen weergeven](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
+* [Layout-instructies](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/){target="_blank"}
+* [Themastructuur](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
+* [JavaScript aanroepen en initialiseren](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
+* [Persoonlijke inhoud](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
 
 **Afdeling 5**
 
-[Winkelconfiguratie](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
-[Een regel voor een winkelwagenprijs maken](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
-[Aangepaste velden toevoegen die invloed hebben op andere uitcheckvelden](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-checkbox/){target="_blank"}
-[Offertetabel](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-quote-table.html){target="_blank"}
-[De lijst met verzendmethoden aanpassen](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-shipping-methods/){target="_blank"}
-[Belastingconfiguratie-instellingen](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-settings-general.html){target="_blank"}
+* [Winkelconfiguratie](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
+* [Een regel voor een winkelwagenprijs maken](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
+* [Aangepaste velden toevoegen die invloed hebben op andere uitcheckvelden](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-checkbox/){target="_blank"}
+* [Offertetabel](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-quote-table.html){target="_blank"}
+* [De lijst met verzendmethoden aanpassen](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-shipping-methods/){target="_blank"}
+* [Belastingconfiguratie-instellingen](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-settings-general.html){target="_blank"}
 
 **Sectie 6**
 
-[Een catalogus wijzigen](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-modify.html){target="_blank"}
-[Een product maken](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}
-[Regels inzake catalogusprijzen](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html){target="_blank"}
-[Groepsprijzen](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/product-price-group.html){target="_blank"}
+* [Een catalogus wijzigen](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-modify.html){target="_blank"}
+* [Een product maken](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}
+* [Regels inzake catalogusprijzen](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html){target="_blank"}
+* [Groepsprijzen](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/product-price-group.html){target="_blank"}
 
 ### Uw certificering verlengen
 
