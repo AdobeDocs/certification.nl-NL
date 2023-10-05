@@ -1,31 +1,33 @@
 ---
-title: Adobe-certificeringsprogramma voor verlenging
+title: Adobe Certification Renewning Program
 description: Leer hoe u uw certificering vernieuwt voordat deze verloopt.
 solution: Real-Time Customer Data Platform
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
+source-git-commit: a568e3c5d837b5c92ebb4eefdde1f0504c41ab4d
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
 
 # Uw certificering verlengen {#renew}
 
-Om uw Adobe certificatie te handhaven, moet u het om de 24 maanden vernieuwen. Als u de certificering niet binnen de opgegeven tijd vernieuwt, verloopt de certificering. U moet dan het volledige certificeringsexamen opnieuw afleggen om opnieuw te worden gecertificeerd.
+Om uw certificatie van de Adobe te handhaven, moet u het om de twee jaar vernieuwen. Als u uw certificering niet vernieuwt voordat deze verloopt, moet u het volledige certificeringsexamen opnieuw afleggen om opnieuw te worden gecertificeerd.
 
-Als u verstoringen van uw certificeringsstatus wilt voorkomen, houdt u de vernieuwingsdatum van de certificering bij en zorgt u ervoor dat u het vernieuwingsproces voor de vervaldatum voltooit.
-
-Zie de huidige en verlopen certificeringen op het tabblad Certificeringen in het dialoogvenster [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
+Bekijk uw huidige en verlopen certificeringen onder de **Certificeringen** tabblad, in de [Systeem voor het beheer van de Adobe](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
 
 ## Hoe kan ik mijn certificering vernieuwen?
 
-U kunt uw Adobe-certificering eenvoudig vernieuwen! Afhankelijk van uw certificatieniveau, oplossing, of baanrol, zult u uw vernieuwing voltooien door het werken door ononderbroken het leren activiteiten en het overgaan van beoordelingen, of door een niet-geproctoriseerd, baanrolexamen over te gaan.
+Het vernieuwen van uw certificatie voor Adoben is eenvoudig! Afhankelijk van welke certificatie u bezit, zult u uw vernieuwing door het werken door ononderbroken het leren activiteiten en het overgaan van beoordelingen voltooien, of door een niet-geproctoriseerd, baanrolexamen over te gaan op bestelling.
 
-Adobe biedt verschillende bronnen en hulpmiddelen om u te helpen uw certificering te vernieuwen, waaronder:
+## Onderzoeksbronnen
+
+Met de steun van de Adobe, is het vernieuwen van een Certificatie van Adobe Experience Cloud een ongecompliceerd proces dat u toelaat om uw deskundigheid te handhaven en concurrerend op de digitale markt te blijven.
+
+Adobe biedt verschillende bronnen en hulpmiddelen om u te helpen uw certificering te vernieuwen, zoals:
 
 * Toegang tot online cursussen
 * Lesbestanden
@@ -33,24 +35,21 @@ Adobe biedt verschillende bronnen en hulpmiddelen om u te helpen uw certificerin
 
 ## Hoeveel kost het?
 
-U kunt uw certificering vernieuwen **kosteloos**. Dit voorziet u van een rendabele manier om uw certificatie te handhaven, en uw oplossingsvaardigheden bijgewerkt te houden.
+De meeste certificeringen kunnen worden vernieuwd **kosteloos**. Sommige certificeringen hebben nog geen optie voor gratis verlenging. Om die certificatie te vernieuwen, zult u het volledige certificatieexamen moeten hernemen.
 
-Met Adobe-ondersteuning en middelen is het vernieuwen van een Adobe Experience Cloud-certificering een eenvoudig proces dat u in staat stelt uw expertise te behouden en concurrerend te blijven op de digitale markt.
+## Opties voor gratis verlenging
 
-## Beschikbare vernieuwingsopties
+De certificeringen die onder de onderstaande koppelingen worden gevonden, kunnen gratis worden vernieuwd, hetzij door voortdurend leren, hetzij door het afnemen van een nieuw examen op aanvraag. Als u uw certificatie hier niet vindt, zult u moeten vernieuwen door het volledige certificatieexamen opnieuw te nemen.
 
-U kunt uw certificatie nu vernieuwen door voortdurend te leren of door op verzoek een vernieuwingsexamen te nemen. Om te leren hoe te om uw huidige certificatie te vernieuwen alvorens het verloopt, selecteer hieronder een oplossing.
 
-### Oplossingen
-
-* [Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/at/at-renew.html){target="_blank"}
 * [Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aa/aa-renew.html){target="_blank"}
-* [Adobe [!DNL Experience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aem/aem-renew.html){target="_blank"}
-* [Adobe [!DNL Commerce]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aam/aam-renew.html){target="_blank"}
 * [Adobe [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/acc/acc-renew.html){target="_blank"}
 * [Adobe [!DNL Campaign Standard]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/acs/acs-renew.html){target="_blank"}
+* [Adobe [!DNL Commerce]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html){target="_blank"}
+* [Adobe [!DNL Experience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aem/aem-renew.html){target="_blank"}
 * [Adobe [!DNL Marketo Engage]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ame/ame-renew.html){target="_blank"}
+* [Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/at/at-renew.html){target="_blank"}
 * [Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/aw/aw-renew.html){target="_blank"}
 
 ## Vragen
