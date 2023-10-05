@@ -4,9 +4,9 @@ description: Leer hoe u gecertificeerd kunt worden tijdens de Adobe. Zoek alle b
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
+source-git-commit: 84e304f413b4c0b33159203b9c55eda3a9776ac1
 workflow-type: tm+mt
-source-wordcount: '1414'
+source-wordcount: '1471'
 ht-degree: 1%
 
 ---
@@ -37,11 +37,17 @@ Voorbeeld:
 
 >[!TAB Uw examen nemen]
 
+**Je Adobe ID**
+
 Uw [profiel](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} De naam in het Credential Management System van de Adobe moet exact overeenkomen met uw Regering ID. Als er geen identieke of onjuiste informatie beschikbaar is, wordt het examen door de aannemer beëindigd en moet u uw afspraak opnieuw plannen en een extra examenvergoeding betalen.
+
+**Annuleren en opnieuw plannen**
 
 De annuleringen en het opnieuw plannen zijn mogelijk als in werking gesteld voorafgaand aan 48 uren vóór de geplande examenbenoeming. De kandidaten moeten deze benoeming zelf wijzigen.
 
 Geen van beide Adobe-ondersteuning of examen kan herplannings- en annuleringsverzoeken verwerken. Voor annuleringen onder de 48 uur geldt naast de examenkosten een herplanningsvergoeding.
+
+**Na uw examen**
 
 Zodra u een examen voltooit, ontvangt u een voorlopige pas of ontbreekt. De laatste score kan tot 72 uur duren om te vullen. U vindt het resultaat en de score op het tabblad Historie in het dialoogvenster [Adobe Credential Manager](https://www.certmetrics.com/adobe){target="_blank"}.
 
@@ -49,9 +55,19 @@ Als u er niet in slaagt om een Adobe certificatieexamen op uw eerste poging over
 
 >[!TAB Kosten voor Exams]
 
-Dit zijn de huidige kosten voor certificeringsexamens.
+**Certificeringsexamenprijzen**
 
-![Badge Examingkosten](/help/certifications/assets/exam_costs_new.png)
+| Adobe | Prijs (USD) | Prijs voor India (USD) |
+| ------- | ------- | ------- |
+| Adobe Certified Professional | $125 | $95 |
+| Adobe Certified Expert | $225 | $150 |
+| Adobe gecertificeerd origineel | $225 | $150 |
+
+**Verlengingsprijzen**
+
+De meeste certificatieverlengingen zijn **kosteloos**. Voor certificatie die geen vrije vernieuwingsoptie heeft, moet u het volledige certificatieexamen opnieuw nemen om uw certificatie te vernieuwen.
+
+**Voor uw examen betalen**
 
 U kunt voor uw certificatieexamen door bon of creditcard betalen. Ga naar: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
