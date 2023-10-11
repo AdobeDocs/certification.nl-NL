@@ -5,13 +5,13 @@ solution: Workfront
 role: Developer
 badge: label="Examen AD0-E907" type="neutral"
 mini-toc-levels: 1
-source-git-commit: 9a00f28ae304479db525eb88677f0bfe582e2589
+exl-id: dc74de79-c945-47a4-a13b-e027182919a5
+source-git-commit: d7fbe49828eebfab713b0ece434355543ce7f897
 workflow-type: tm+mt
-source-wordcount: '1685'
+source-wordcount: '1683'
 ht-degree: 0%
 
 ---
-
 
 # Certificeringsreis voor Adobe [!DNL Workfront] Core Developer Expert
 
@@ -193,7 +193,7 @@ U moet minstens 18-24 maanden ervaring hebben met Adobe [!DNL Workfront]en moet 
 **Afdeling 4: Documentbeheer en bewijsmiddelen**
 
 * [Proofingoverzicht](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proofing-basics.html){target="_blank"}
-* [Begrijp het verschil tussen een document en een proef](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html%3Flang%3Dzh-Hant){target="_blank"}
+* [Begrijp het verschil tussen een document en een proef](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html){target="_blank"}
 * [Best practices - Proofing](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/proofing-bp.html){target="_blank"}
 * [Overzicht van AEM Assets-integratie](https://experienceleague.adobe.com/docs/workfront/using/documents/wf-aem-integrations/wf-aem-essentials/aem-asset-integrations.html){target="_blank"}
 * [Documenten van externe toepassingen koppelen](https://experienceleague.adobe.com/docs/workfront/using/documents/add-new-documents-to-workfront/link-documents-from-external-apps.html){target="_blank"}
