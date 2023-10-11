@@ -5,7 +5,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 94ee089f972ff95b8ca75c08668e4b5cbacc77ea
+source-git-commit: 5a884e40f89a53c9348359f65b8fd1ac8190b85c
 workflow-type: tm+mt
 source-wordcount: '3097'
 ht-degree: 1%
@@ -327,7 +327,7 @@ Het programma heeft een looptijd van zes maanden, van 24 april tot 20 oktober 20
 
 +++Zal de Adobe dit soort programma in de toekomst opnieuw aanbieden?
 
-Op dit moment zijn we niet van plan dit opnieuw aan te bieden. Dit is slechts een eenmalige aanbieding.
+We zijn niet van plan dit programma opnieuw aan te bieden. Dit is slechts een eenmalige aanbieding.
 
 +++
 
