@@ -6,13 +6,13 @@ product: Marketo
 role: Data Architect
 badge: label="Examen AD0-E560" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
+source-git-commit: 7473424c80c0df6d796910b18f1d770b2a30fe1c
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '848'
 ht-degree: 0%
 
 ---
-
 
 # Certificeringsreis voor Adobe [!DNL Marketo Engage] Architect Master
 
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dit is de nieuwste [!DNL Adobe Marketo Engage] Architect Master examen. Als u al bent begonnen met studeren of de [oudere versie](ame-m-architect.md), moet u het examen vóór 31 oktober 2023 voltooien.
+>Dit is de nieuwste Adobe [!DNL Marketo Engage] Architect Master examen. Als u al bent begonnen met studeren of de [oudere versie](ame-m-architect.md), moet u het examen vóór 31 oktober 2023 voltooien.
 
 ## Beschrijving van examen {#exam-description}
 
@@ -30,7 +30,11 @@ ht-degree: 0%
 
 ### Details van examen {#exam-details}
 
-* Vereiste: huidige (niet verlopen) Adobe [!DNL Marketo Engage] Professionele certificering voor zakelijke gebruikers
+>[!IMPORTANT]
+>
+>Deze certificering is een voorwaarde. U MOET een actieve (niet verlopen) Adobe hebben [!DNL Marketo Engage] Zakelijke praktiserer **Expert** Certificering om de Adobe te nemen [!DNL Marketo Engage] Architect Master examen.
+
+* Vereiste: actieve (niet verlopen) Adobe [!DNL Marketo Engage] Professionele certificering voor zakelijke gebruikers
 * Niveau: master (3-5 jaar ervaring)
 * Praktijkcertificering
 * Voldoende score: 30/50
@@ -209,6 +213,10 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 {{about-certification-exam}}
 
 ## Plan of neem examen AD0-E560
+
+>[!IMPORTANT]
+>
+>Deze certificering is een voorwaarde. U MOET een actieve (niet verlopen) Adobe hebben [!DNL Marketo Engage] Zakelijke praktiserer **Expert** Certificering om de Adobe te nemen [!DNL Marketo Engage] Architect Master examen.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
