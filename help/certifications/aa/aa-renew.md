@@ -7,14 +7,14 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
+source-git-commit: 5d6ce2be3c7db142840cc67bc0f7054e25fff951
 workflow-type: tm+mt
-source-wordcount: '2061'
+source-wordcount: '2067'
 ht-degree: 1%
 
 ---
 
-# Verleng uw [!DNL Adobe Analytics] certificatie
+# De Adobe verlengen [!DNL Analytics] certificatie
 
 Uw Adobe is twee jaar geldig. Als u dit merk van twee jaar nadert, is het tijd om uw certificatie te vernieuwen om het actief te houden.
 
@@ -32,7 +32,7 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!TAB Professional]
 
-+++[!DNL Adobe Analytics] Developer Professional
++++Adobe [!DNL Analytics] Developer Professional
 
 ## Instructies voor het vernieuwen van uw certificering:
 
@@ -146,6 +146,8 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 >Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 +++
+
++++Adobe [!DNL Analytics] Professioneel als bedrijf
 
 ## Instructies voor het vernieuwen van uw certificering:
 
