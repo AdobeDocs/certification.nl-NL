@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Examen AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
 workflow-type: tm+mt
-source-wordcount: '1541'
+source-wordcount: '1470'
 ht-degree: 8%
 
 ---
@@ -17,10 +17,6 @@ ht-degree: 8%
 # Certificeringsreis voor Adobe [!DNL Experience Manager Sites] Architect Master
 
 {{intro}}
-
->[!NOTE]
->
->Dit examen (AD0-E117/AD0-E117-J) ondergaat onderhoud en is tijdelijk niet beschikbaar. Onze oprechte excuses voor het ongemak. [Aanmelden voor kennisgeving](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wanneer deze weer beschikbaar is.<br><br>**Vragen?** Zie onze [Veelgestelde vragen](#AEM-FAQ) onder aan deze pagina.
 
 ## Beschrijving van examen {#exam-description}
 
@@ -253,11 +249,25 @@ Bovendien, zou u de capaciteit moeten hebben om de volgende taken uit te voeren:
 
 {{about-certification-exam}}
 
-## Plan of neem examen AD0-E117/AD0-E117-J
+## Plan of neem examen AD0-E117 (Engels)
 
->[!NOTE]
->
->Dit examen (AD0-E117/AD0-E117-J) ondergaat onderhoud en is tijdelijk niet beschikbaar. Onze oprechte excuses voor het ongemak. [Aanmelden voor kennisgeving](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wanneer deze weer beschikbaar is.<br><br>**Vragen?** Zie onze [Veelgestelde vragen](#AEM-FAQ) onder aan deze pagina.
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ga naar examenportaal - Engels examen
+</span>
+</a>
+
+## Plan of neem examen AD0-E117-J (Japans)
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ga naar examenportal - Japans examen
+</span>
+</a>
+
+[Japanse instructies voor planning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 

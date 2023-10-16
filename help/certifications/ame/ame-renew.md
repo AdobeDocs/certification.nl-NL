@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: 454d5ffed9f3442674df989145e33d50c0994b27
+source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
 workflow-type: tm+mt
-source-wordcount: '1804'
+source-wordcount: '2812'
 ht-degree: 0%
 
 ---
@@ -32,15 +32,157 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!TAB Professional]
 
+## U moet momenteel zijn gecertificeerd (niet verlopen) in:
+
+* Adobe [!DNL Marketo Engage] Professioneel als bedrijf
+
+## Instructies voor het vernieuwen van uw certificering:
+
+* **Stap 1**: Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
+* **Stap 3**: Neem het examen over en ga door
+
+### Klaar
+
+**Details van examen:**
+
+* Niveau: Expert (0-12 maanden ervaring)
+* Voldoende score: 27/36
+* Tijd: 71 minuten
+* Levering: Op aanvraag/niet-afgehandeld
+* Beschikbare talen: Engels
+* Kosten: GRATIS
+* Examen-id: AD5-E836 - Adobe [!DNL Marketo Engage] Bedrijfs Praktijkdeskundige Verlengingsexamen
+
+**Toepassingsgebied en doelstellingen:**
+
+Sectie 1: Bouwen en beheren van programma&#39;s (39%)
+
+* Identificeer wanneer om elk van de 4 programmatypes te gebruiken
+* Bepaal waarom/wanneer u het gebeurtenisprogramma wilt gebruiken
+* Bepalen waarom/wanneer het standaardprogramma wordt gebruikt
+* De speciale kenmerken van het betrokkenheidsprogramma identificeren
+* Speciale functies van e-mailprogramma identificeren
+* Erkennen wat kan worden gekloond
+* De voordelen van aangepaste tags identificeren
+* Omgaan met het doel van kanalen
+* Beschrijf het belang van de kosten van de periode
+* Erken hoe u scoring in leads gebruikt
+* Communicatielimieten
+* Erkennen van het lidmaatschap en de overname van programma&#39;s
+* Klantvoorkeuren begrijpen (abonnement, communicatie)
+* Beste werkwijzen toepassen voor revisie voordat u de toepassing start
+
+Sectie 2: Gebouwen (19%)
+
+* Bestanden bewerken in Design Studio (afbeeldingen en bestanden uploaden/vervangen)
+* Een formulier maken/wijzigen met de formuliereditor
+* Een e-mail maken/bewerken met de e-maileditor
+* Een openingspagina maken/bewerken met de landingspagina-editor
+* Een fragment maken/bewerken in de fragmenteditor
+* Verschil onderscheiden tussen concept en goedgekeurde elementen
+* Verschil onderscheiden tussen lokale en globale elementen
+
+Sectie 3: Bepaling en doelgroepen (33%)
+
+* Slimme lijsten maken/wijzigen
+* Stappen voor slimme campagnestroom begrijpen
+* Begrijp hoe u slimme campagnes kunt plannen en/of activeren
+* De resultaten van slimme campagnes interpreteren
+* Beschrijf het doel van een segmentatie en het gebruik ervan
+* De database identificeren en navigeren
+* Uitleggen hoe u privacy-instellingen kunt instellen in Adobe Marketo Engage (binnen een context van gemaakte campagnes)
+* Verschil tussen slimme lijsten en statische lijsten (wanneer elk gebruiken)
+* Slimme systeemlijsten definiëren
+* Verschillende typen campagnes vergelijken en contrasteren
+* Begrijp hoe de Slimme campagneretriggers en filters werken
+* Verschil de verschillende List-importen
+
+Sectie 4: Analyse- en bouwrapporten (9%)
+
+* De Core Adobe Marketo Engage-rapporten uitleggen
+* Prestaties van e-mailkoppelingen
+* E-mailprestaties
+* Prestaties van bestemmingspagina
+* Prestaties van mensen
+* Programmaprestaties
+* Activiteit webpagina
+* Wanneer trekt u een lijst versus een rapport
+* Gegevens en metriek van het dashboard comprimeren
+* E-mailinzichten
+
+### Vooraf ingesteld
+
+U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+
+Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+
+AFDELING 1
+
+[Betrokkenheidsprogramma&#39;s](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html){target="_blank"}
+[Eenvoudige scores](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring.html){target="_blank"}
+[Communicatiekoppelingen inschakelen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html){target="_blank"}
+[Werken met het lidmaatschap van het programma](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
+[Een e-mail operationeel maken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.html){target="_blank"}
+[Beste praktijken voor Slimme Lijsten](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.html){target="_blank"}
+[Gebeurtenisprogramma&#39;s](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
+[De flexibiliteit van standaardprogramma&#39;s benutten](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/leverage-the-flexibility-of-default-programs.html){target="_blank"}
+[E-mailprogramma&#39;s met tijdzone voor ontvangers plannen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.html){target="_blank"}
+[Een programma klonen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html){target="_blank"}
+[Tags gebruiken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html){target="_blank"}
+[Een programmakanaal maken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html){target="_blank"}
+[Kosten voor tijdrekening](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.html){target="_blank"}
+
+AFDELING 2
+
+[Afbeeldingen en bestanden toevoegen aan Marketo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.html){target="_blank"}
+[De zichtbaarheid van een formulierveld dynamisch in-/uitschakelen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.html){target="_blank"}
+[Overzicht E-maileditor v2.0](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.html){target="_blank"}
+[Een bestemmingspagina goedkeuren, goedkeuren of verwijderen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.html){target="_blank"}
+[Fragmenten bewerken met dynamische inhoud](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.html){target="_blank"}
+
+AFDELING 3
+
+[Advanced Smart List Rule Logic gebruiken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.html){target="_blank"}
+[Meer informatie over het samenstellen van een e-mailprogramma voor bepaalde inhoud](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/gated-content-offer-learn.html){target="_blank"}
+[Een standaardprogramma maken en meten](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs.html){target="_blank"}
+[Slimme campagnes in batch en trigger](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
+[Een lijst met personen importeren](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people.html){target="_blank"}
+[Gebruik een specifieke Datum in een Stap van de Stroom van de Wacht](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.html){target="_blank"}
+[Persoonlijke beperkingen in een slimme campagne negeren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.html){target="_blank"}
+[Resultaten van slimme campagnes filteren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.html){target="_blank"}
+[Een segmentatie maken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
+[Databasedashboard](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html){target="_blank"}
+[Privacy-instellingen begrijpen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/understanding-privacy-settings.html){target="_blank"}
+[Lijst of slimme lijst vernieuwen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/refresh-a-list-or-smart-list.htm){target="_blank"}
+[Ingebouwde/systeemslimme lijsten gebruiken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.html){target="_blank"}
+
+AFDELING 4
+
+[Overzicht rapporttype](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
+[Prestatierapport voor bestemmingspagina](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.html){target="_blank"}
+[Aangepaste Dimensionen voor e-mailinzichten](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.html){target="_blank"}
+
+### Uw certificering verlengen
+
+Controleer eerst of u zich hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Vervolgens kunt u uw Adobe vernieuwen [!DNL Marketo Engage] De professionele certificatie van de Beroeps van de Praktijk, klik op de hieronder verbinding.
+
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E836" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Neem examen AD5-E836
+</span>
+</a>
+
 >[!NOTE]
 >
->Professionele vernieuwing komt binnenkort.
+>Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 >[!TAB Expert]
 
 ## U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
-* Adobe Marketo Engage Business Practitioner Expert
+* Adobe [!DNL Marketo Engage] Expert aan de praktijk van bedrijven
 
 ## Instructies voor het vernieuwen van uw certificering:
 
@@ -155,9 +297,9 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 ### Uw certificering verlengen
 
-Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Dan, om uw certificatie te vernieuwen, klik op de hieronder verbinding van de Verlenging van de Expert van de Praktijk van het Marketo Engage.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de Adobe om de certificering te vernieuwen [!DNL Marketo Engage] Koppeling Vernieuwen van expert bij Business Practitioner hieronder.
 
-[!BADGE Neem de Adobe [!DNL Marketo Engage] Business Practitioner Expert-uitbreidingsexamen AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+[!BADGE Neem de Adobe [!DNL Marketo Engage] Business Practitioner Expert-uitbreidingsexamen AD5-E836]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
 
 >[!NOTE]
 >

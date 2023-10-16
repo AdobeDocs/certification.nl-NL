@@ -7,9 +7,9 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
+source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
 workflow-type: tm+mt
-source-wordcount: '1298'
+source-wordcount: '2061'
 ht-degree: 1%
 
 ---
@@ -147,11 +147,96 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 
 +++
 
-+++[!DNL Adobe Analytics] Professioneel als bedrijf
+## Instructies voor het vernieuwen van uw certificering:
+
+* **Stap 1**: Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
+* **Stap 3**: Neem het examen over en ga door
+
+### Klaar
+
+**Details van examen:**
+
+* Voldoende score: 26/35
+* Tijd: 70 minuten
+* Kosten: VRIJ/niet-aangeworven
+* Aflevering: Op aanvraag
+* Beschikbare talen: Engels
+* Vereiste: huidige (niet verlopen) Adobe Analytics Business Practitioner Professional-certificering
+* Examen-id: AD5-E832
+
+**Toepassingsgebied en doelstellingen**
+
+Sectie 1: Bedrijfsanalyse
+
+1.1 Gezien een bedrijfsbehoefte/vraag, identificeer de meest aangewezen rapporteringsstrategie om een analyse 4% uit te voeren 1.2 gegevens analyseren om bedrijfsvragen te beantwoorden en nieuwe optimalisatiehypothesen 4% 1.3 Identificeer omzettingskanalen (als concept om bedrijfsanalyse te begrijpen) 4% 1.4 de Referentie van het Ontwerp van de Oplossing van de Interpret (SDR) om te bepalen welke gegevens in rapporten 4% beschikbaar zijn 1.5 analyseert rapportgegevens om samen te vatten 6 1,6 Onderzoek uitschieters en anomalieën in rapporten 4%
+
+Sectie 2: Rapportage en dashboarding voor projecten
+
+2.1 Overweeg de voordelen van het gebruik van een rapporteringsinstrument op een gegeven scenario 2% 2.2 vergelijkt fallout en stroom visualisatie en de aangewezen veranderlijke types voor rapportering 4% 2.3 Pas het proces toe om Projecten te plannen, en Data Warehouse 2% 2.4 Pas het proces toe om Projecten en het Rapporteren en Analytische dashboards voor verschillende gebruikers en/of groepen (het delen is veranderd) te delen 2.5 6 Pas het proces toe om de (vooraf bepaalde en douane) afmetingen/componenten 4% 2.7 te raadplegen het proces toe om tot een visualisatie 6% 2.8 te leiden Gezien een scenario, bepaal het aangewezen punt om 6% 2.9 te gebruiken past het proces toe om, mobiele scorecards 2% tot stand te brengen te vormen en te gebruiken
+
+Sectie 3: Segmentering en berekende cijfers
+
+3.1 Bepaal hoe te om segmenten te ontwikkelen en te vormen gebruikend beste praktijken 6% 3.2 Pas het proces toe om segmenten met anderen in de organisatie te delen 4% 3.3 Vergelijk segmenten 4% 3.4 toepassen segmenten op Projecten en Componenten 4% 3.5 Pas het proces toe om berekende en/of gesegmenteerde metriek 4% te produceren
+
+Sectie 4: Algemene kennis van gereedschappen en probleemoplossing
+
+4.1 Rapporten analyseren en een onderscheid maken tussen een probleem met betrekking tot de gegevenskwaliteit en een implementatiekwestie 4% 4.2 Verschillende soorten dimensies en parameters in Adobe Analytics (gebeurtenissen, props en gebeurtenissen) 4% 4.3 Bepalen hoe gegevens in en uit Adobe Analytics 2% kunnen worden geplaatst 4.4 Informatie uit marketing-URL&#39;s identificeren 2%
+
+Afdeling 5: Administratie
+
+5.1 Pas het proces toe om de rapporten van het Kanaal van de Marketing met de verwerkingsregels 2% van het Kanaal van de Marketing te vormen 5.2 Pas het proces toe om de Indeler van de Classificatie te vormen en Bouwer van de Regel 2% 5.3 Pas het proces toe om een virtuele rapportreeks te vormen die op een bestaand segment 2% 5.4 wordt gebaseerd Gebruik de Manager van de Diervoeders van Gegevens UI 2%
+
+## Vooraf ingesteld
+
+U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+
+Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+
+Sectie 1
+
+[Overzicht van de bijdrageanalyse](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html)
+[Analysis Workspace-overzicht](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html)
+[Conversietrechter](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
+[Invoerafmetingen](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
+
+Sectie 2
+
+[Projecten delen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
+[Overzicht van componenten](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
+[Alert Builder](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/alert-builder.html)
+[Een mobiele scorecard maken](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
+
+Afdeling 3
+
+[Segmentvergelijking](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html)
+[Metrische gegevens samenstellen](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html)
+[Vervolgkeuzefilters gebruiken in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html)
+[Tagsegmenten](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
+
+Sectie 4
+
+[Problemen met spikes en druppels in gegevens oplossen](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
+[Aangepaste gebeurtenissen](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html)
+[PDF- of CSV-bestanden downloaden](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
+[Een handleiding voor beginners van URL-parameters](https://www.semrush.com/blog/url-parameters/)
+
+Afdeling 5
+
+[Verwerkingsregels voor distributiekanalen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
+[Overzicht van classificaties](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
+[Virtuele rapportsuites maken](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html)
+[Veelgestelde vragen over privacyregels](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
+
+## Uw certificering verlengen
+
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de koppeling AD5-E832 Adobe Analytics Business Practitioner Professional Renewal Exam (AD5-E832) hieronder om uw certificering te vernieuwen.
+
+* [AD5-E832 Adobe Analytics Business Practitioner Professional Renewal Examen](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E832){target="_blank"}
 
 >[!NOTE]
 >
->Verlenging komt binnenkort.
+>Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 +++
 

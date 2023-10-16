@@ -2,11 +2,11 @@
 title: Overzicht van Experience Manager-certificering
 description: Overzicht van certificeringsopties voor Adobe Experience Manager
 solution: Experience Manager
-exl-id: 75f283b8-017d-464d-b7d4-a6bd2d20b90c
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
+source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 2%
+source-wordcount: '101'
+ht-degree: 7%
 
 ---
 
@@ -34,31 +34,6 @@ Als u informatie zoekt over het vernieuwen van uw bestaande certificering, gaat 
 
 **Master**
 
->[!NOTE]
->
->De **Adobe Experience Manager Architect Sites Master-examen (AD0-E117)** ondergaat en tijdelijk niet beschikbaar is. Onze oprechte excuses voor het ongemak. [Aanmelden voor kennisgeving](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wanneer deze weer beschikbaar is.
->
->**Vragen?** Zie onze [Veelgestelde vragen](#AEM-FAQ) onder aan deze pagina.
-
 * [Architect (sites)](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
-
-
-## Veelgestelde vragen voor basisexamen Adobe Experience Manager Sites Architect (AD0-E117) {#AEM-FAQ}
-
-Het certificatieexamen AD0-E117 ondergaat onderhoud en is tijdelijk niet beschikbaar. Onze oprechte excuses voor het ongemak. [Aanmelden voor kennisgeving](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wanneer deze weer beschikbaar is.
-
-**Wat gebeurt er als ik al mijn examen heb gepland?**
-
-Alle geplande AD0-E117 examens zijn geannuleerd. De kandidaten die worden beïnvloed zullen het examen opnieuw moeten plannen wanneer de nieuwe versie beschikbaar is.
-
-**Ik heb al voor het examen betaald. Zal ik een terugbetaling ontvangen?**
-
-* Als u voor uw examen met een creditcard via Onderzoek hebt betaald, zult u volledig worden terugbetaald.  
-* Als u met een bon hebt betaald, zal uw code terugstellen en u zult het op uw nieuwe examenbenoeming kunnen toepassen.  
-* Als uw voucher vervalt voordat u deze kunt gebruiken, geven we u een nieuwe voucher uit zodra u klaar bent om te plannen.
-
-**Ik moet mijn certificering vóór oktober vernieuwen. Zal dit gevolgen hebben voor mijn verlenging?**
-
-Nee. U kunt vernieuwen door voortdurend te leren. Volg de instructies en het proces die onder [Uw certificering verlengen](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
-
+Ga naar [Uw certificering verlengen](/help/certifications/renew.md) pagina om te zien of is een vernieuwingsoptie beschikbaar voor dit product.
