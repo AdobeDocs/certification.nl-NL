@@ -2,9 +2,9 @@
 user-guide-title: Certificering bij Adobe
 breadcrumb-title: Certificering bij Adobe
 user-guide-description: Meer informatie over  [!DNL Experience Cloud] -certificering bij Adobe. Ontdek wat certificeren voor u kan doen.
-source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
+source-git-commit: 09935ec498e3e56ee7efc52e974080e63334862e
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '260'
 ht-degree: 29%
 
 ---
@@ -125,6 +125,7 @@ ht-degree: 29%
       + [Journey Optimizer - Overzicht](/help/certifications/ajo/ajo-overview.md)
       + Expert {#ajo-expert}
          + [Ontwikkelaar](/help/certifications/ajo/ajo-e-developer.md)
+         + [Ontwikkelaar - NIEUW](/help/certifications/ajo/ajo-e-developer-23-10.md)
       + [Verlenging](/help/certifications/ajo/ajo-renew.md)
    + Adobe [!DNL Target] {#at}
       + [Doeloverzicht](/help/certifications/at/at-overview.md)
