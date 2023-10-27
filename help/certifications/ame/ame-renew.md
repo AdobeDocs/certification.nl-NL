@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: b6f4b0796e4d67efe7457f582fb97f9b4d5727db
+source-git-commit: 63a6ec27ef65f9c5a68539d1d8ffcd3395cef753
 workflow-type: tm+mt
 source-wordcount: '2812'
 ht-degree: 0%
@@ -299,7 +299,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de Adobe om de certificering te vernieuwen [!DNL Marketo Engage] Koppeling Vernieuwen van expert bij Business Practitioner hieronder.
 
-[!BADGE Neem de Adobe [!DNL Marketo Engage] Business Practitioner Expert-uitbreidingsexamen AD5-E836]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+[!BADGE Neem de Adobe [!DNL Marketo Engage] Business Practitioner Expert-uitbreidingsexamen AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
 
 >[!NOTE]
 >
