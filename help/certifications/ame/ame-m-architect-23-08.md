@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Examen AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 7473424c80c0df6d796910b18f1d770b2a30fe1c
+source-git-commit: 954e46f77812963518b858e75669cf98183c4a44
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '821'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,6 @@ ht-degree: 0%
 # Certificeringsreis voor Adobe [!DNL Marketo Engage] Architect Master
 
 {{intro}}
-
->[!NOTE]
->
->Dit is de nieuwste Adobe [!DNL Marketo Engage] Architect Master examen. Als u al bent begonnen met studeren of de [oudere versie](ame-m-architect.md), moet u het examen vóór 31 oktober 2023 voltooien.
 
 ## Beschrijving van examen {#exam-description}
 
