@@ -1,10 +1,10 @@
 ---
 title: Professionele technische certificeringen
 description: Overzicht van certificeringsopties voor professionele gebruikers
-source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
+source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 28%
+ht-degree: 41%
 
 ---
 
@@ -17,28 +17,28 @@ ht-degree: 28%
 
 **Analytics**
 
-* [Zakelijke praktiserer](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
+* [Business Practitioner](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
 * [Ontwikkelaar](/help/certifications/aa/aa-p-developer.md) <!--AD0-E213-->
 
 
 **Audience Manager**
 
-* [Zakelijke praktiserer](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
+* [Business Practitioner](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
 
 **Campaign Classic**
 
-* [Zakelijke praktiserer](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
+* [Business Practitioner](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
 * [Ontwikkelaar](/help/certifications/acc/acc-p-developer.md) <!--AD0-E331-->
 
 **Commerce**
 
-* [Zakelijke praktiserer](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
+* [Business Practitioner](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
 * [Ontwikkelaar](/help/certifications/ac/ac-p-developer.md) <!--AD0-E717-->
 * [Ontwikkelaar](/help/certifications/ac/ac-p-fedeveloper.md) <!--AD0-E719-->
 
 **Experience Manager**
 
-* [Zakelijke praktiserer](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
+* [Business Practitioner](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
 * [Ontwikkelaar (sites)](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
 * [Ontwikkelaar (middelen)](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
 * [Back-end Developer (Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
@@ -65,5 +65,4 @@ ht-degree: 28%
 >[!MORELIKETHIS]
 >
 >* [Deskundige technische certificeringen](expert.md)
->* [Master technische certificeringen](master.md)
-
+>* [Technische basiscertificeringen](master.md)
