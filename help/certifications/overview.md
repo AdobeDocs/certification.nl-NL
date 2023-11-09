@@ -4,9 +4,9 @@ description: Meer informatie over  [!DNL Experience Cloud] -certificering bij Ad
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: bc8d85db13a643ee737c5443d9124fc6492c4831
+source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '402'
 ht-degree: 8%
 
 ---
@@ -17,7 +17,7 @@ Meer informatie over certificering bij Adobe en over wat u kunt doen als u gecer
 
 ![Banner](/help/certifications/assets/home_banner_smallwide.png)
 
-Het Adobe-certificatieprogramma is gemaakt om u te helpen uw vaardigheden op het gebied van Adobe te bewijzen [!DNL Experience Cloud] producten. Door Adobe Certified te worden kunt u uw expertise tonen en zowel klanten als werkgevers onder de aandacht brengen.
+Het Adobe Digital Experience Credential-programma is gemaakt om u te helpen uw vaardigheden op het gebied van Adobe te bewijzen [!DNL Experience Cloud] producten. Door Adobe Certified te worden kunt u uw expertise tonen en zowel klanten als werkgevers onder de aandacht brengen.
 
 Adobe [!DNL Experience Cloud] is een reeks oplossingen voor digitale marketing waarmee bedrijven gepersonaliseerde klantervaringen kunnen bieden via verschillende kanalen, zoals web, mobiele apparatuur, e-mail en sociale media. Adobe [!DNL Experience Cloud] omvat een reeks producten, zoals Adobe [!DNL Real-Time CDP], ADOBE [!DNL Experience Manager], ADOBE [!DNL Commerce], ADOBE [!DNL Journey Optimizer], ADOBE [!DNL Customer Analytics]en meer.
 
@@ -35,11 +35,11 @@ Een Adobe ophalen [!DNL Experience Cloud] certificatie heeft veel voordelen :
 * **Tests met vrije praktijk:** De Adobe biedt vrije praktijkexamens aan helpen ervoor zorgen dat u volledig voor uw certificatieexamen wordt voorbereid.
 * **Vrije verlengingen van certificering:** De certificeringen van de Adobe zijn twee jaar geldig, en de meeste certificatie kunnen kosteloos worden vernieuwd door of een on-demand, niet-geproctoriseerd examen te nemen of een reeks van ononderbroken het leren activiteiten te voltooien.
 
-Het Adobe Certificeringsprogramma wordt ontworpen voor beroeps op een verscheidenheid van gebieden, met inbegrip van ontwikkelaars, bedrijfsartsen, en architecten. Of je nu een ervaren of een gewoon startende expert bent, certificering helpt je je carrière vooruit te helpen en de wedstrijd voor te houden.
+Het Digital Experience Credential-programma voor Adoben is ontworpen voor professionals op verschillende gebieden, waaronder ontwikkelaars, praktijkmensen en architecten. Of je nu een ervaren of een gewoon startende expert bent, certificering helpt je je carrière vooruit te helpen en de wedstrijd voor te houden.
 
 ## Aan de slag
 
-Ontgrendel vandaag uw professionele mogelijkheden door meer te leren over het Adobe Certification Program.
+Ontgrendel vandaag nog uw professionele mogelijkheden door meer te leren over het Adobe Digital Experience Credential-programma.
 
 <a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">Aan de slag</span></a>
 
