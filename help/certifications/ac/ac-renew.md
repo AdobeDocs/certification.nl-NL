@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
+source-git-commit: 5bd6a4adbb5bc4317af1a500c3216b056a5328f9
 workflow-type: tm+mt
-source-wordcount: '2490'
+source-wordcount: '2044'
 ht-degree: 0%
 
 ---
@@ -32,73 +32,19 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!TAB Professional]
 
->[!NOTE]
->
->De methode voor permanente leervernieuwing voor alle Adobe Commerce Professional-certificeringen wordt **stopgezet op 10 november 2023**. De gratis verlenging zal voor deze certificatie via vernieuwingsexamens nog beschikbaar zijn.
++++ Adobe [!DNL Commerce] Professioneel als bedrijf
 
-## Er is een gratis verlenging van het permanente leerproces beschikbaar voor:
+## U moet het volgende hebben: **actief** certificatie voor vernieuwing met behulp van deze methode:
 
-[!DNL Adobe Commerce] Professioneel als bedrijf
-[!DNL Adobe Commerce] Developer Professional
-[!DNL Adobe Commerce] Front End Developer Professional
+* Adobe [!DNL Commerce] Professioneel als bedrijf
 
-+++Bekijk de details voor continu leren
-
-### U moet ten minste een van de volgende opties hebben **actief** te vernieuwen certificaten:
-
-* [!DNL Adobe Commerce] Professioneel als bedrijf
-* [!DNL Adobe Commerce] Developer Professional
-* [!DNL Adobe Commerce] Front End Developer Professional
-
-### Instructies voor het vernieuwen van uw [!DNL Adobe Commerce] certificatie
-
-* **Stap 1:** Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
-* **Stap 2:** Studeer de cursussen in Experience League
-* **Stap 3:** Kies uit de onderstaande opties om de vernieuwing te voltooien.
-
-  **Optie A:**
-Selecteren **drie cursussen** om elke beoordeling van een cursus met een score van 80% of hoger te voltooien en te voltooien. Cursusbeoordelingen zijn gratis, op aanvraag, niet-afgehandeld en open boek. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
-
-  **Optie B:**
-Eerst selecteert u **twee cursussen** om elke beoordeling van een cursus met een score van 80% of hoger te voltooien en te voltooien. Cursusbeoordelingen zijn gratis, op aanvraag, niet-afgehandeld en open boek. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
-
-  Tweede, **een klantverwijzingsformulier indienen** valideren van uw ononderbroken werk als een door de Adobe gecertificeerde individuele leider, beheerder en/of deelnemer aan een Adobe Experience Cloud-implementatieproject. In dit formulier wordt bevestigd dat u gedurende een periode van twee jaar voor certificaatvernieuwing hebt deelgenomen aan ten minste 100 uur aangetoonde projectbetrokkenheid.
-
-  [Referentieformulier van de klant voor [!DNL Adobe Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA711){target="_blank"}
-
-  U zal door het Credentieel Team van de Adobe op de hoogte worden gebracht wanneer uw klantenverwijzing is herzien. Als uw verwijzing niet wordt geaccepteerd, kunt u het opnieuw verzenden totdat u succes hebt, zolang het duurt voordat uw certificering verloopt.
-
->[!NOTE]
->
->Als u meerdere [!DNL Adobe Commerce] Expert- en Master-certificeringen voldoen aan de vereisten voor vernieuwing voor slechts één certificering en de rest wordt automatisch vernieuwd.
-
-### Cursussen en cursusbeoordelingen voor professionals:
-
-| Cursussen voor professionals | Cursusbeoordeling |
-| ------- | ------- |
-| [Adobe [!DNL Commerce] E-Commerce-trends](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA714](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA714){target="_blank"} |
-| [Adobe [!DNL Commerce] Personalisatie](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA715](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA715){target="_blank"} |
-| [Adobe [!DNL Commerce] AI-automatisering](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html){target="_blank"} | [ADR-EA716](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA716){target="_blank"} |
-| [[!DNL Commerce]: Integratie van gegevens in Experience Platform en verder](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA720](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA720){target="_blank"} |
-| [[!DNL Commerce]: Composable Commerce on Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA721](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA721){target="_blank"} |
-
-+++
-
-## De vrije, op bestelling examenvernieuwing is beschikbaar voor Adobe [!DNL Commerce] Professioneel als bedrijf
-
-+++Details van het examen van de Mening
-
-### U moet het volgende hebben: **actief** certificatie voor vernieuwing met behulp van deze methode:
-
-Adobe Commerce Business Practice Professional
-
-### Instructies voor het vernieuwen van uw certificering:
+## Instructies voor het vernieuwen van uw certificering:
 
 * **Stap 1**: Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
 * **Stap 3**: Neem het examen over en ga door
 
-### Klaar
+## Klaar
 
 **Details van examen:**
 
@@ -112,21 +58,36 @@ Adobe Commerce Business Practice Professional
 
 **Toepassingsgebied en doelstellingen:**
 
-**Sectie 1: Magento Open Source kernfuncties (54%)**
+Sectie 1: Magento Open Source kernfuncties (54%)
 
-Identificeer de eigenschappen van Magento Open Source onderscheiden het correcte werkingsgebied en wanneer om elke aantoonbare kennis van het Manipulate van het Beheer van de Catalogus te gebruiken door de eigenschappen van de Magento Open Source te gebruiken Beschrijf de standaardklantenreis beschrijft de standaardcyclus van het orderleven betrokken de dagelijkse taken in het onderhoud van de Opslag verklaren de verschillende soorten inhoudselementen en wanneer om te gebruiken
+* De kenmerken van Magento Open Source identificeren
+* Bepaal het correcte werkingsgebied en wanneer om elk te gebruiken
+* Kennis van catalogusbeheer aantonen
+* Prijsbepaling manipuleren met behulp van Magento Open Source-functies
+* Beschrijf de standaardreis van de klant
+* Beschrijf de standaard levenscyclus van de orde
+* Beschrijf de dagelijkse taken betrokken bij het onderhoud van de winkel
+* Verklaar de verschillende soorten inhoudselementen en wanneer om te gebruiken
 
-**Sectie 2: Basisprincipes van Adobe Commerce (14%)**
+Sectie 2: Basisprincipes van Adobe Commerce (14%)
 
-Identificeer de belangrijkste eigenschappen beschikbaar in Adobe Commerce Identificeer de diensttoevoegingen in Adobe Commerce identificeer het ontvangen opties voor Adobe Commerce
+* Belangrijkste functies van Adobe Commerce identificeren
+* Invoegtoepassingen voor services identificeren in Adobe Commerce
+* Hostopties voor Adobe Commerce identificeren
 
-**Sectie 3: Basisprincipes van digitale marketing en e-handel (22%)**
+Sectie 3: Basisprincipes van digitale marketing en e-handel (22%)
 
-Identificeer de belangrijkste eigenschappen beschikbaar in Adobe Commerce Identificeer dienst toe:voegen-ons in Adobe Commerce Identificeer het ontvangen opties voor Adobe Commerce identificeer de belangrijkste eigenschappen van een website eCommerce Identificeer de basisconcepten eCommerce
+* Belangrijkste functies van Adobe Commerce identificeren
+* Invoegtoepassingen voor services identificeren in Adobe Commerce
+* Hostopties voor Adobe Commerce identificeren
+* Belangrijkste kenmerken van een eCommerce-website identificeren
+* Identificeer de basisconcepten van eCommerce
 
-**Sectie 4: Basisprincipes van compatibiliteit/beveiliging (10%)**
+Sectie 4: Basisprincipes van compatibiliteit/beveiliging (10%)
 
-Begrijpen van de grondbeginselen van naleving van privacywetten en betalingsbeveiliging Gemeenschappelijke beveiligingsaspecten van een Adobe Commerce-project identificeren Beste praktijken en wettelijke vereisten van toegankelijkheidsnaleving
+* Begrijp de grondbeginselen van naleving van privacywetten en betalingsbeveiliging
+* Gemeenschappelijke veiligheidsaspecten van een Adobe Commerce-project identificeren
+* Aanwijzen van beste praktijken en wettelijke vereisten van toegankelijkheids naleving
 
 ### Vooraf ingesteld
 
@@ -136,10 +97,10 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1**
 
-* [Adobe Commerce-handleiding voor inhoud en ontwerp](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html){target="_blank"}
+* [Adobe [!DNL Commerce] Inhoud- en ontwerphandleiding](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html){target="_blank"}
 * [Widgets](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
-* [Adobe Commerce Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html){target="_blank"}
-* [Handleiding voor Adobe Commerce-winkels en -aankopen](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/guide-overview.html){target="_blank"}
+* [Adobe [!DNL Commerce] Catalogusbeheergids](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html){target="_blank"}
+* [Adobe [!DNL Commerce] Handleiding voor winkels en aanschaf](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/guide-overview.html){target="_blank"}
 * [Storefront Branding](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/storefront-branding.html){target="_blank"}
 * [Klantvariabelen toevoegen](https://experienceleague.adobe.com/docs/commerce-admin/systems/variables/variables-custom.html){target="_blank"}
 * [Prijsregels voor winkelwagentjes](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart.html){target="_blank"}
@@ -168,10 +129,10 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 **Sectie 4**
 
 * [GDPR](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/privacy/gdpr.html){target="_blank"}
-* [Aanbevolen werkwijzen voor Adobe Commerce-beveiliging](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-best-practices-guide.pdf){target="_blank"}
+* [Adobe [!DNL Commerce] Aanbevolen werkwijzen voor beveiliging](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-best-practices-guide.pdf){target="_blank"}
 * [Hoe te om Uw Website ADA in overeenstemming te maken Ecommerce](https://business.adobe.com/blog/perspectives/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
 
-### Uw certificering verlengen
+## Uw certificering verlengen
 
 De Adobe vernieuwen [!DNL Commerce] Bedrijfs Praktijkgerichte Beroeps certificatie:
 
@@ -192,21 +153,19 @@ De Adobe vernieuwen [!DNL Commerce] Bedrijfs Praktijkgerichte Beroeps certificat
 
 +++
 
-## De vrije, op bestelling examenvernieuwing is beschikbaar voor Adobe [!DNL Commerce] Developer Professional
++++Adobe [!DNL Commerce] Developer Professional
 
-+++Details van het examen van de Mening
-
-### U moet momenteel zijn gecertificeerd (niet verlopen) in:
+## U moet het volgende hebben: **actief** certificatie voor vernieuwing met behulp van deze methode:
 
 Adobe [!DNL Commerce] Developer Professional
 
-### Instructies voor het vernieuwen van uw certificering:
+## Instructies voor het vernieuwen van uw certificering:
 
 * **Stap 1**: Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
 * **Stap 3**: Neem het examen over en ga door
 
-### Klaar
+## Klaar
 
 **Details van examen:**
 
@@ -222,29 +181,60 @@ Adobe [!DNL Commerce] Developer Professional
 
 **Sectie 1: Werken met Admin (7%)**
 
-Beschrijf hoe ACL met rollen en middelen werkt identificeer de componenten om te gebruiken wanneer het creëren van of het wijzigen van het admin net/de vorm identificeer de dossiers om te gebruiken wanneer het creëren van een opslag/admin config en menupunten
+* Beschrijf hoe ACL met rollen en middelen werkt
+* Identificeer de componenten om te gebruiken wanneer het creëren van of het wijzigen van het admin net/de vorm
+* Identificeer de dossiers om te gebruiken wanneer het creëren van een opslag/admin config en menupunten
 
 **Sectie 2: Architectuur (36%)**
 
-Beschrijf het dossierstructuur van het Magento beschrijf Magento CLI bevelen beschrijven kroonfunctionaliteit Op een scenario, beschrijf gebruik van di.xml Op basis van een scenario, creeer controlemechanismen beschrijf modulestructuur beschrijf indexfunctionaliteit Beschrijf localisatie beschrijf stop, voorkeur, gebeurteniswaarnemers, en onderscheppers beschrijven de routes van de douanemodule herschrijft URL beschrijft het Magento in het voorgeheugen onderbrengend systeem beschrijft beschrijf opslag, websites, en opslagmeningen (basisbegrip)
+* De bestandsstructuur van een Magento beschrijven
+* Beschrijf Magento CLI bevelen
+* Beschrijf de functionaliteit voor uitsnijden
+* Beschrijf op basis van een scenario het gebruik van de di.xml
+* Op basis van een scenario controllers maken
+* Beschrijf de modulestructuur
+* Beschrijf de indexfunctionaliteit
+* Beschrijf lokalisatie
+* Beschrijf insteekmodule, voorkeur, gebeurteniswaarnemers, en interceptors
+* Beschrijf de routes van de douanemodule
+* Herschrijvingen van URL beschrijven
+* Beschrijf het Magento caching systeem
+* Beschrijf winkels, websites en winkelweergaven (basiskennis)
 
 **Sectie 3: EAV/database (17%)**
 
-Op basis van een scenario, wijzigt/toevoegt/verwijdert u kenmerksets en/of kenmerken beschrijven verschillende typen kenmerken Gezien een scenario, gebruikt u een databaseschema om een databasetabel te wijzigen. Beschrijf modellen, bronmodellen en verzamelingen de grondbeginselen van de waarde van het kenmerk Entiteit (EAV).
+* Op basis van een scenario kunt u kenmerksets en/of kenmerken wijzigen/toevoegen/verwijderen
+* Verschillende typen kenmerken beschrijven
+* Op basis van een scenario gebruikt u een databasetabel met een databaseschema
+* Beschrijf modellen, middelmodellen, en inzamelingen
+* Beschrijf de grondbeginselen van de Waarde van het Attribuut van de Entiteit (EAV)
 
 **Sectie 4: Lay-out/gebruikersinterface (18%)**
 
-Beschrijf gebruik van CMS pagina&#39;s en blokken Op basis van een scenario, wijzig lay-out Op basis van een scenario, wijzig paginastijl Beschrijf themastructuur Op basis van een scenario, werk met (basis) JavaScript-bestanden Beschrijf front-end gebruik van klantgegevens
+* Beschrijf het gebruik van CMS-pagina&#39;s en -blokken
+* Op basis van een scenario de layout wijzigen
+* Wijzig de paginastijl op basis van een scenario
+* Themastructuur beschrijven
+* Werken met JavaScript-bestanden (basis)
+* Beschrijf front-end gebruik van klantengegevens
 
 **Sectie 5: Afhandeling en verkoop (12%)**
 
-Beschrijf de componenten van het karretje beschrijf een regel van de kartpromo Op basis van een scenario, beschrijf basiscontroleregelingen Op basis van een scenario, beschrijf basisgebruik van prijsgegevens Op basis van een scenario, vorm de betaling en verzendingsmethodes Op basis van een scenario, vorm belastingregels, valuta&#39;s, kar, en/of controle
+* Kartonderdelen beschrijven
+* Beschrijf een regel van de kartpromo
+* Op basis van een scenario de basisafrekenwijzigingen beschrijven
+* Op basis van een scenario het basisgebruik van prijsgegevens beschrijven
+* Op basis van een scenario de betalings- en verzendmethoden configureren
+* Op basis van een scenario belastingregels, valuta&#39;s, winkelwagen en/of uitchecken configureren
 
 **Sectie 6: Catalogus (10%)**
 
-Identificeer de grondbeginselen van categoriebeheer en productmanager Beschrijf productsoorten Beschrijf prijsregels Beschrijf prijstypen
+* Identificeer de grondbeginselen van categoriebeheer en productmanager
+* Producttypen beschrijven
+* Beschrijf de prijsregels
+* Beschrijf prijstypen
 
-### Vooraf ingesteld
+## Vooraf ingesteld
 
 U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
 
@@ -301,7 +291,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Regels inzake catalogusprijzen](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html){target="_blank"}
 * [Groepsprijzen](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/product-price-group.html){target="_blank"}
 
-### Uw certificering verlengen
+## Uw certificering verlengen
 
 De Adobe vernieuwen [!DNL Commerce] Certificering ontwikkelaar Professional:
 
