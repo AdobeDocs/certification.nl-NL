@@ -6,9 +6,9 @@ role: Developer
 badge: label="Examen AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: d7fbe49828eebfab713b0ece434355543ce7f897
+source-git-commit: 65828a4b55f95eccede714c831790d56fc8c694f
 workflow-type: tm+mt
-source-wordcount: '1683'
+source-wordcount: '1656'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 0%
 # Certificeringsreis voor Adobe [!DNL Workfront] Core Developer Expert
 
 {{intro}}
-
->[!NOTE]
->
->Dit is de nieuwste Adobe [!DNL Workfront] Expert-examen voor kernontwikkelaars. Als u al bent begonnen met studeren of de [oudere versie](aw-core-e-developer.md), moet u het voor 6 november 2023 voltooien.
 
 ## Beschrijving van examen {#exam-description}
 
