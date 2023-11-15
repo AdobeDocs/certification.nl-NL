@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: ac78ed0e7e27acd7c206d23fe5dda80ff0435208
+source-git-commit: 46fc51ee1e293ba63d09ad2fb39c0763ce9a45b0
 workflow-type: tm+mt
-source-wordcount: '3755'
+source-wordcount: '3753'
 ht-degree: 0%
 
 ---
@@ -148,12 +148,12 @@ Deel 1: Inname en planning (29%)
 Sectie 2: Uitvoeren (59%)
 
 * Maak Workfront-goedkeuringen voor eenmalig gebruik en wanneer een goedkeuring wordt gebruikt. (Overweeg de Goedkeuringen van het Project en van de Taak, Multipath Goedkeuringen, en Multistage Goedkeuringen.)
-* Gezien een scenario, identificeer de informatie die datatypes aan een projectmanager overbrengen. (Overweeg geplande datums, werkelijke datums, handmatige datums, Vastlegdatums, Schatingdata)
+* Gezien een scenario, identificeer de informatie die datatypes aan een projectmanager overbrengen. (Overweeg geplande data, werkelijke data, vaste data, geschatte data)
 * Gezien een scenario, bepaal hoe de verschillende Beperkingen van de Taak de projectchronologie wanneer gebruikt beïnvloeden. (Overweeg het begrip wat de verschillende taakbeperkingen doen, wetend wat de verschillende taakbeperkingen zijn, en wanneer om de verschillende taakbeperkingen te gebruiken)
 * Gezien een scenario, toon aan hoe te om projectteams te vinden en hoe te om hen van werktaken, updates, of voltooiing van het werkpunten op de hoogte te brengen. (Overweeg berichttypes, de berichten van het projectteam, het lusje van Mensen, Updates aan projecten/taken, wanneer en waarom aan een het werkvoorwerp in te schrijven, en hoe te om individuele e-mailberichten te wijzigen)
 * Identificeer de verschillende manieren om een project te beheren. (Overweeg waterval, Agile, SCRUM en Kanban.)
 * Beschrijf op basis van een scenario hoe u de belanghebbenden de vereiste informatie kunt verschaffen. (Overweeg rapporten te exporteren, bestanden te exporteren, leveringen te herhalen, enz.)
-* Gezien een scenario, bepaal hoe de datatypes en de duur projectvoorwaarden beïnvloeden. (Overweeg geplande start, voorspelde start, vastleggen van datum door individuen, enz.)
+* Gezien een scenario, bepaal hoe de datatypes en de duur projectvoorwaarden beïnvloeden. (Overweeg geplande start, voorspelde start, vastleggen datum van individu, enz.)
 * Op basis van een scenario bepalen hoe wijzigingen in aangepaste statussen op systeemniveau of op groepsniveau moeten worden geïmplementeerd of gewijzigd
 * Gezien een scenario, beschrijf de stappen om een rapport te bouwen en het type van nodig rapport te bepalen.
 * Gezien een scenario, bepaal wanneer een kwestie op een project zou moeten worden gebruikt.
