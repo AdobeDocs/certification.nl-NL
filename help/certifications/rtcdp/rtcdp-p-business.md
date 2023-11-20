@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="Examen AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 356c671e5ce6d780eb367bfe3dadc64d02aad2d2
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '565'
 ht-degree: 3%
 
 ---
@@ -151,12 +151,11 @@ Ervaring met taken zoals:
 
 <br>
 
-**Voorbeeldvragen**
+**Een praktijktest uitvoeren**
 
-{{sample-questions}}
+{{practice-test}}
 
-[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
-
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad4-e602-adobe-real-time-cdp-business-practitioner-professional-practice-exam){target="_blank"}
 
 +++
 
