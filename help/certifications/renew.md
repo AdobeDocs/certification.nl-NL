@@ -6,9 +6,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: a568e3c5d837b5c92ebb4eefdde1f0504c41ab4d
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,9 @@ De meeste certificeringen kunnen worden vernieuwd **kosteloos**. Sommige certifi
 
 De certificeringen die onder de onderstaande koppelingen worden gevonden, kunnen gratis worden vernieuwd, hetzij door voortdurend leren, hetzij door het afnemen van een nieuw examen op aanvraag. Als u uw certificatie hier niet vindt, zult u moeten vernieuwen door het volledige certificatieexamen opnieuw te nemen.
 
+>[!NOTE]
+>
+>Als u de verbinding aan een het vernieuwingsexamen of beoordeling met een collega wilt delen, gelieve verbinding aan de algemene pagina van de examenvernieuwing, niet URL van het examen zelf, om login kwesties te vermijden.
 
 * [Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aa/aa-renew.html){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aam/aam-renew.html){target="_blank"}

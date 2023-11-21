@@ -7,16 +7,16 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '1130'
+source-wordcount: '1171'
 ht-degree: 0%
 
 ---
 
 # De Adobe verlengen [!DNL Audience Manager] certificatie
 
-Uw Adobe-certificering is twee jaar geldig. Als u dit merk van twee jaar nadert, is het tijd om uw certificatie te vernieuwen om het actief te houden.
+Uw Adobe is twee jaar geldig. Als u dit merk van twee jaar nadert, is het tijd om uw certificatie te vernieuwen om het actief te houden.
 
 Selecteer eerst het juiste niveau op het onderstaande tabblad (Professional, Expert of Master). Controleer vervolgens zorgvuldig wat u moet doen om uw certificering te vernieuwen.
 
@@ -26,7 +26,11 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Aanmelden eerst:** De volgende koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**Een koppeling delen:** Als u de verbinding aan een het vernieuwingsexamen of beoordeling met een collega wilt delen, gelieve verbinding aan de algemene pagina van de examenvernieuwing, niet URL van het examen zelf, om login kwesties te vermijden.
 
 >[!BEGINTABS]
 
@@ -40,25 +44,25 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
-* Adobe Audience Manager Business Practice-expert
+* Adobe Audience Manager Business Practiter-expert
 
 ## Instructies voor het vernieuwen van uw certificering:
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
-* **Stap 2**: Herzie de examendoelstellingen en de middelen
-* **Stap 3**: Neem en ga het examen over
+* **Stap 1**: Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
+* **Stap 3**: Neem het examen over en ga door
 
 ### Klaar
 
-**Details examen:**
+**Details van examen:**
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 03-23-30
-* Tijd: 68 minuten
-* Aflevering: Op aanvraag/niet-afgehandeld
+* Voldoende score: 23/30
+* Tijd: 68 min
+* Levering: Op aanvraag/niet-afgehandeld
 * Beschikbare talen: Engels
 * Kosten: GRATIS
-* Examen-id: AD5-E826 - Verlenging door deskundige van Adobe Audience Manager Business Practitioner
+* Id van examen: AD5-E826 - de deskundige van de Praktijk van Adobe Audience Manager vernieuwing
 
 **Doelstellingen en toepassingsgebied van examen**
 
@@ -73,7 +77,7 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 * Aanbevolen kenmerken voor een bepaalde publieksstrategie
 * Bepaal de correcte methode om op regel-gebaseerde en/of onboard eigenschappen tot stand te brengen en bij te werken
 
-**Deel 3: Rapportage en metingen (21%)**
+**Sectie 3: Rapportage en metingen (21%)**
 
 * Op basis van een scenario, analyseert u rapporten om de volgende stappen te ondernemen om aan de bedrijfsdoelstellingen te voldoen
 * Op basis van een scenario de optimalisatie voor het publiek analyseren
@@ -83,9 +87,9 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 * Gezien een scenario, verifieer de informatie van de publiekslevering om geplande leveringsbehoeften te verzekeren
 * Bepaal de aangewezen praktijk om off-line binnenkomende dossiers te bevestigen
 * Gezien een scenario, bepaal de correcte methode om QA tegen de synchronisatie van identiteitskaart uit te voeren
-* Bepaal de aangewezen methode om van de Audience Marketplace van de Adobe te navigeren en te activeren
+* Bepaal de aangewezen methode om van het Audience Marketplace van de Adobe te navigeren en te activeren
 
-**Sectie 5: Taxonomie (11%)**
+**Afdeling 5: Taxonomie (11%)**
 
 * Bepaal de aangewezen structuur om eigenschappen en segmenten tot stand te brengen die een duidelijke en verenigbare nomenclatuur gebruiken
 * De juiste techniek bepalen om een georganiseerd platform te onderhouden met behulp van een duidelijke mapstructuur
@@ -102,19 +106,19 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 **Bronnen:**
 
 * [Adobe [!DNL Audience Manager] Productdocumentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
-* [Adobe-ondersteuning - Experience Cloud publiek](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
+* [Ondersteuning van Adoben - publiek Experience Cloud](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
 * [Adobe Experience Cloud - Meer informatie en ondersteuning](https://helpx.adobe.com/nl/support/experience-cloud.html){target="_blank"}
 * [Experience League [!DNL Audience Manager]](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}
 
 **De certificering opnieuw starten**
 
-Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de koppeling Adobe Audience Manager Business Practitioner - AD5-E826 hieronder om uw certificering te vernieuwen.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de koppeling Adobe Audience Manager Business Practitioner - AD5-E826 hieronder om uw certificering te vernieuwen.
 
 [!BADGE Neem het Adobe Audience Manager Business Practitioner Expert-vernieuwingsexamen AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
 
 >[!NOTE]
 >
->Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+>Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 
 >[!TAB Master]
@@ -131,15 +135,15 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 ### Klaar
 
-**Details examen:**
+**Details van examen:**
 
-* Niveau: Master (3-5 jaar ervaring)
-* Voldoende score: 29-22-29
+* Niveau: master (3-5 jaar ervaring)
+* Voldoende score: 22/29
 * Tijd: 58 minuten
-* Aflevering: Op aanvraag/niet-afgehandeld
+* Levering: Op aanvraag/niet-afgehandeld
 * Beschikbare talen: Engels
 * Kosten: GRATIS
-* Examen-id: AD5-E825 - Master vernieuwing van de architect van Adobe Audience Manager
+* Examen-id: AD5-E825 - Hoofdvernieuwing Adobe Audience Manager Architect
 
 **Toepassingsgebied en doelstellingen:**
 
@@ -158,10 +162,10 @@ Sectie 2: Oplossingsontwerp en Recommendations (17%)
 * Kenmerken en gedragsgegevens identificeren en deze toewijzen aan specifieke gevallen van zakelijk gebruik
 * Procedureconcepten toepassen op de ontwerpmappentaxonomie en naamgevingsconventie
 
-Deel 3: Segmentering en activering (31%)
+Sectie 3: Segmentering en activering (31%)
 
 * Pas procedureconcepten toe om bestemmingen tot stand te brengen in [!DNL Audience Manager]
-* Identificeer signalen om op regel-Gebaseerde, Onboard, en Algorithmic Traits tot stand te brengen
+* Identificeer signalen om op regel-Gebaseerde, Onboard, en Algorithmic Traits te creëren
 * Procedurele concepten toepassen om segmenten te maken met behulp van frequentie/recentie
 * Bepaal hoe u segmenten maakt met behulp van de samenvoegregels voor profielen
 * Procedurele concepten toepassen om een algoritmisch of voorspellend model te maken
@@ -183,19 +187,19 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
 * [AAM: Technische stichtingen](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
-* [AAM: Integratiereeks](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
+* [AAM: integratiereeks](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
 * [AAM: Geavanceerde functies](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
-* [ Training en bronnen starten](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
+* [Training en bronnen starten](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
 ### Uw certificering verlengen
 
-Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de Master vernieuwing van de Adobe Audience Manager Architect - AD5-E825-koppeling hieronder om uw certificering te vernieuwen.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de koppeling AD5-E825 hieronder op de Adobe Audience Manager Architect Master-vernieuwing - als u uw certificering wilt vernieuwen.
 
-[!BADGE Neem het Master vernieuwingsexamen AD5-E825 voor de Adobe Audience Manager Architect]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+[!BADGE Neem het Adobe Audience Manager Architect Master-verlengexamen AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
 
 >[!NOTE]
 >
->Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+>Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 
 >[!ENDTABS]

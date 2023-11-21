@@ -7,16 +7,16 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '1404'
+source-wordcount: '1445'
 ht-degree: 11%
 
 ---
 
 # De Adobe verlengen [!DNL Campaign Standard] certificatie
 
-Uw Adobe-certificering is twee jaar geldig. Als u dit merk van twee jaar nadert, is het tijd om uw certificatie te vernieuwen om het actief te houden.
+Uw Adobe is twee jaar geldig. Als u dit merk van twee jaar nadert, is het tijd om uw certificatie te vernieuwen om het actief te houden.
 
 Selecteer eerst het juiste niveau op het onderstaande tabblad (Professional, Expert of Master). Controleer vervolgens zorgvuldig wat u moet doen om uw certificering te vernieuwen.
 
@@ -26,7 +26,11 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Aanmelden eerst:** De volgende koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**Een koppeling delen:** Als u de verbinding aan een het vernieuwingsexamen of beoordeling met een collega wilt delen, gelieve verbinding aan de algemene pagina van de examenvernieuwing, niet URL van het examen zelf, om login kwesties te vermijden.
 
 >[!BEGINTABS]
 
@@ -46,17 +50,17 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 ## Instructies voor het vernieuwen van uw certificering:
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
-* **Stap 2**: Herzie de examendoelstellingen en de middelen
-* **Stap 3**: Neem en ga het examen over
+* **Stap 1**: Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
+* **Stap 3**: Neem het examen over en ga door
 
 ### Klaar
 
-**Details examen:**
+**Details van examen:**
 
-* Voldoende score: 03-23-30
+* Voldoende score: 23/30
 * Tijd: 110 minuten
-* Kosten: VRIJ/niet-afgewikkeld
+* Kosten: VRIJ/niet-aangeworven
 * Aflevering: Op aanvraag
 * Beschikbare talen: Engels
 * Vereiste: huidige (niet verlopen) Adobe [!DNL Campaign Standard] Bedrijfs Praktijkdeskundige certificatie
@@ -64,25 +68,25 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 **Toepassingsgebied en doelstellingen**
 
-Sectie 1: Campagnebeheer
+Afdeling 1: Campagnebeheer
 
 * Hiërarchieën ordenen op basis van een bepaalde gebruikscase
 * Bepaal op basis van voorbeeldzakelijke vereisten waaraan OOTB-functies kunnen voldoen
 * Op basis van een scenario kunt u best practices toepassen om een campagne met meerdere of meerdere kanalen te ontwerpen
 * Kanalen identificeren (pushmelding, e-mail, SMS, direct mail, in-app) in [!DNL Campaign Standard]
 
-Sectie 2: Leveringsbeheer
+Afdeling 2: Leveringsbeheer
 
 * Gezien steekproefvereisten, ontwerp en vorm een levering
 * Beste werkwijzen toepassen in het leveringsontwerp
 
-Deel 3: Workflowontwerp en -uitvoering
+Sectie 3: Workflowontwerp en -uitvoering
 
 * Gegevens manipuleren voor gebruik in een campagne, gericht gebruik configureren, verrijken
-* Doelstellingen identificeren: gegevensverzameling, segmentering, publiek, lijsten, filteren
+* Doelstellingen identificeren: gegevensverzameling, segmentatie, publiek, lijsten, filteren
 * Vermeld op basis van een gebruiksgeval het gebruik van de belangrijkste marketinggerelateerde tabellen
 
-Sectie 4: Beheer, toezicht en rapportage
+Afdeling 4: Beheer, toezicht en rapportage
 
 * Logboeken van leveringsfouten interpreteren en workflowfouten identificeren en oplossen
 * Het succes van leveringen en campagnes bepalen en meten
@@ -94,31 +98,31 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
-**Sectie 1: Campagnebeheer**
+**Afdeling 1: Campagnebeheer**
 
 * [Adobe [!DNL Campaign Standard] Documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl){target="_blank"} (werken met marketingactiviteiten, e-mailinhoud samenstellen, communicatiekanalen, leveringen, kanalen configureren)
 
-**Sectie 2: Leveringsbeheer**
+**Afdeling 2: Leveringsbeheer**
 
 * [Adobe [!DNL Campaign Standard] Documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl){target="_blank"} (e-mailinhoud samenstellen, berichten voorbereiden en testen, communicatiekanalen — e-mail, toepassingsinstellingen)
 
-**Deel 3: Workflowontwerp en -uitvoering**
+**Sectie 3: Workflowontwerp en -uitvoering**
 
 * [Adobe [!DNL Campaign Standard] Documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl){target="_blank"} (processen en gegevens beheren, publiek beheren, berichten plannen, een bron toevoegen of uitbreiden)
 
-**Sectie 4: Beheer, bewaking en rapportage**
+**Sectie 4: Beheer, toezicht en rapportage**
 
 * [Adobe [!DNL Campaign Standard] Documentatie](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=nl){target="_blank"} (uitvoeren van een workflow, testen en verzenden, rapporten, profielen en publiek aanpassen, gebruikers en beveiliging)
 
 ## Uw certificering verlengen
 
-Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} eerst. Dan, om uw examen te vernieuwen klik [!DNL Campaign Standard] Verlenging van de Business Practitioner - link AD5-822 hieronder.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Dan, om uw examen te vernieuwen klik [!DNL Campaign Standard] Verlenging van de Business Practitioner - link AD5-822 hieronder.
 
 * [[!DNL Campaign Standard] Verlenging van de beroepsbeoefenaar - AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
 
 >[!NOTE]
 >
->Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+>Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 +++
 
@@ -130,17 +134,17 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 ## Instructies voor het vernieuwen van uw certificering:
 
-* **Stap 1**: Aanmelden bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
-* **Stap 2**: Herzie de examendoelstellingen en de middelen
-* **Stap 3**: Neem en ga het examen over
+* **Stap 1**: Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
+* **Stap 3**: Neem het examen over en ga door
 
 ### Klaar
 
-**Details examen:**
+**Details van examen:**
 
-* Voldoende score: 03-23-30
+* Voldoende score: 23/30
 * Tijd: 60 minuten
-* Kosten: VRIJ/niet-afgewikkeld
+* Kosten: VRIJ/niet-aangeworven
 * Aflevering: Op aanvraag
 * Beschikbare talen: Engels
 * Vereiste: huidige (niet verlopen) Adobe [!DNL Campaign Standard] Certificering ontwikkelaarsexpert
@@ -165,7 +169,7 @@ Sectie 2: Campaign Management (40%)
 * In een scenario, los werkschemafouten en integratie problemen op
 * Gebruiksgevallen voor nieuwe campagnefuncties identificeren
 
-Deel 3: Administratie (30%)
+Afdeling 3: Administratie (30%)
 
 * Privacybeheer configureren
 * Identificeer de lijst van activiteiten om een subdomein aan Adobe (met inbegrip van merkconfiguratie) te delegeren
@@ -181,7 +185,7 @@ U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en 
 
 Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
 
-**Sectie 1: Gegevensmodellering en -beheer**
+**Deel 1: Modellering en beheer van gegevens**
 
 * [Een aangepaste bron maken](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
 * [De bron maken of uitbreiden](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
@@ -193,7 +197,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [De databasestructuur bijwerken](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
 * [Technische workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=nl){target="_blank"}
 
-**Sectie 2: Campaign Management**
+**Deel 2: Campaign Management**
 
 * [Programma’s en campagnes](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=nl#getting-started){target="_blank"}
 * [Best practices voor workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=nl){target="_blank"}
@@ -210,7 +214,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Email Designer in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
 * [Aan de slag met dynamische rapportage](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
 
-**Deel 3: Beheer**
+**Afdeling 3: Administratie**
 
 * [Groepen en gebruikers beheren](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html){target="_blank"}
 * [Organisatorische eenheden](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html){target="_blank"}
@@ -226,13 +230,13 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 ## Uw certificering verlengen
 
-Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de knop [!DNL Campaign Standard] Verlenging van ontwikkelaar - koppeling AD5-821.
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de knop [!DNL Campaign Standard] Verlenging van ontwikkelaar - koppeling AD5-821.
 
 * [[!DNL Campaign Standard] Hernieuwde ontwikkeling van ontwikkelaars - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 
 >[!NOTE]
 >
->Dit examen is vrij, open boek, en niet-geproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **30 dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+>Dit examen is vrij, open boek, en niet-geproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 +++
 
@@ -240,6 +244,6 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 
 ## Vragen
 
-Heb je een vraag over Adobe-certificering? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Heb je een vraag over Adobe certificatie? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
 
 De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.

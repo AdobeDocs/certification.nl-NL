@@ -1,5 +1,5 @@
 ---
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
 source-wordcount: '1741'
 ht-degree: 0%
@@ -218,3 +218,5 @@ Uw badge is een tastbaar bewijs van uw ervaring met Adobe Experience Cloud-produ
 ## Uw certificering vernieuwen {#renewing-intro}
 
 Certificeringen verlopen na twee jaar. Als u uw certificering wilt behouden, moet u deze vernieuwen voordat deze verloopt. Ga naar [Uw certificering verlengen](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} voor meer informatie.
+
+<!--divider-->

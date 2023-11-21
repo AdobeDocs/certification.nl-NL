@@ -7,9 +7,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: d140af31151206451febdfc3aa108b728e772cd6
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '1480'
+source-wordcount: '1521'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,11 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt alvorens u uw
 
 >[!IMPORTANT]
 >
->De volgende koppelingen voor cursusbeoordeling functioneren **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Aanmelden eerst:** De volgende koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**Een koppeling delen:** Als u de verbinding aan een het vernieuwingsexamen of beoordeling met een collega wilt delen, gelieve verbinding aan de algemene pagina van de examenvernieuwing, niet URL van het examen zelf, om login kwesties te vermijden.
 
 >[!BEGINTABS]
 

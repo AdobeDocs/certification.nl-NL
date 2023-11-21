@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 hidefromtoc: true
 exl-id: 393255d0-dff1-4a49-93cd-e767b9b14fc5
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,15 @@ ht-degree: 0%
 
 Wanneer u een certificatieexamen overgaat, is uw certificatie geldig voor twee jaar.
 
-We zijn blij om aan te kondigen dat u nu uw certificering kunt vernieuwen via een nieuwe, gratis indeling. Het impliceert het gebruiken van cursussen en zelfstudies van het Experience League op bestelling-voltooit eenvoudig drie activiteiten om uw certificatie tegen geen kosten te vernieuwen. U moet vernieuwen alvorens uw certificatie verloopt, of u zult het volledige examen moeten nemen om opnieuw verklaard te worden.
+We zijn blij om aan te kondigen dat u nu in staat bent om uw certificering te vernieuwen via een nieuwe, gratis indeling. Het impliceert het gebruiken van cursussen en zelfstudies van het Experience League op bestelling-voltooit eenvoudig drie activiteiten om uw certificatie tegen geen kosten te vernieuwen. U moet vernieuwen alvorens uw certificatie verloopt, of u zult het volledige examen moeten nemen om opnieuw verklaard te worden.
 
 >[!IMPORTANT]
 >
->De volgende secties en koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Referentiemanagementsysteem](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Aanmelden eerst:** De volgende koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**Een koppeling delen:** Als u de verbinding aan een het vernieuwingsexamen of beoordeling met een collega wilt delen, gelieve verbinding aan de algemene pagina van de examenvernieuwing, niet URL van het examen zelf, om login kwesties te vermijden.
 
 >[!NOTE]
 >De verlenging van experts komt binnenkort.
