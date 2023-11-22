@@ -4,7 +4,7 @@ description: Meer informatie over  [!DNL Experience Cloud] -certificering bij Ad
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 15435019e7b63e6aae44aee347559ecc939d10c1
+source-git-commit: 0c411dc840fd962875f2937aa84e522758527286
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 8%
@@ -22,7 +22,6 @@ Het Adobe Digital Experience Credential-programma is gemaakt om u te helpen uw v
 Adobe [!DNL Experience Cloud] is een reeks oplossingen voor digitale marketing waarmee bedrijven gepersonaliseerde klantervaringen kunnen bieden via verschillende kanalen, zoals web, mobiele apparatuur, e-mail en sociale media. Adobe [!DNL Experience Cloud] omvat een reeks producten, zoals Adobe [!DNL Real-Time CDP], ADOBE [!DNL Experience Manager], ADOBE [!DNL Commerce], ADOBE [!DNL Journey Optimizer], ADOBE [!DNL Customer Analytics]en meer.
 
 Toon uw vaardigheid aan en neem uw carrière naar het volgende niveau door Adobe verklaard te worden.
-
 
 ## Waarom worden gecertificeerd?
 
