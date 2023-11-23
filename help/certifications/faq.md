@@ -1,6 +1,6 @@
 ---
 title: Veelgestelde vragen
-description: U krijgt antwoorden op vragen over het Digital Experience Credential Program van de Adobe. Meer informatie over de voordelen van certificering, hoe u zich kunt registreren en met wie u contact kunt opnemen.
+description: Krijg antwoorden op vragen over het Digital Experience Credential-programma van Adobe. Meer informatie over de voordelen van certificering, hoe u zich kunt registreren en met wie u contact kunt opnemen.
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
@@ -8,7 +8,7 @@ exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
 source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
 workflow-type: tm+mt
 source-wordcount: '2348'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
