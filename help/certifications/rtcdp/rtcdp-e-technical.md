@@ -8,14 +8,18 @@ recommendations: disable, exclude
 badge: label="Examen AD0-E600 &amp; AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
+source-git-commit: 5a0bc9f9f59df83d1f430807962374acb3d231ab
 workflow-type: tm+mt
-source-wordcount: '1385'
+source-wordcount: '1601'
 ht-degree: 3%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Real-Time Customer Data Platform] Expert
+
+>[!IMPORTANT]
+>
+>De Adobe [!DNL Experience Platform] Voor certificering door experts zijn momenteel twee examens vereist: **Adobe [!DNL Experience Platform] Technische stichtingen (AD0-E600)** en **Adobe [!DNL Real-Time CDP] Technisch deskundige (AD7-E601)**. Met ingang van 15 januari 2024 wordt een nieuw examen gestart en dat is alleen examen vereist voor deze certificering.
 
 {{intro}}
 
@@ -62,6 +66,14 @@ U zou moeten hebben:
 <br>
 
 ## Vereiste nr. 1: Informatie voor Adobe [!DNL Experience Platform] Technische stichtingen (AD0-E600) {#req-1}
+
+>[!IMPORTANT]
+>
+>Het plannen voor examen AD0-E600 is opgeschort. Dit examen wordt momenteel bijgewerkt en zal op vrijgeven **15 januari 2024**. Na die datum, zal deze certificatie slechts het overgaan van één examen vereisen, eerder dan de twee momenteel vereiste examens.
+>
+><br>
+>
+>**Als u reeds examen AD0-E600 hebt gepland**, adviseren wij sterk uw benoeming te annuleren en opnieuw te plannen wanneer het nieuwe examen wordt vrijgegeven. Voor vragen kunt u contact opnemen met [Certificeringsondersteuning](mailto:certif@adobe.com){target="_blank"}.
 
 Het examen AD0-E600 bevestigt vaardigheden en kennis die de basiseigenschappen en vaak uitgevoerde taken van Adobe behandelen [!DNL Experience Platform] op het niveau van de deskundigen.
 
@@ -204,6 +216,18 @@ Het examen AD0-E600 bevestigt vaardigheden en kennis die de basiseigenschappen e
 <br>
 
 ## Vereiste nr. 2: Informatie voor Adobe [!DNL Real-Time CDP] Technisch deskundige (AD7-E601) {#req-2}
+
+>[!IMPORTANT]
+>
+>Dit examen wordt momenteel bijgewerkt en zal op vrijgeven **15 januari 2024**. Na die datum, zal deze certificatie slechts het overgaan van één examen vereisen, eerder dan de twee momenteel vereiste examens.
+>
+><br>
+>
+>**Als u geen van de momenteel vereiste examens hebt genomen,** wij adviseren sterk dat u op het bijgewerkte examen wacht. Op die manier kun je één examen nemen in plaats van twee.
+>
+><br>
+>
+>**Als u reeds de Adobe AD0-E600 hebt overgegaan [!DNL Experience Platform] Het technische onderzoek van de Stichting en is voorbereidingen getroffen voor het onderzoek AD7-E601**, stellen wij u voor uw benoeming te handhaven, aangezien het overgaan tot het examen AD7-E601 u de Adobe zal gunnen [!DNL Experience Platform] Expert Certification van de Technische Stichting. Voor vragen kunt u contact opnemen met [Certificeringsondersteuning](mailto:certif@adobe.com){target="_blank"}.
 
 Het examen AD7-E601 behandelt de verwezenlijking, het beheer en het begrip van klantenprofiel, de segmentatie, de bestemmingen over bronnen, en andere onderwerpen. Het examen bevestigt de grondvaardigheden en de kennis nodig om in real time CDP voor publiekssegmentatie, bestemmingsuitvoer, en activering op een basis in real time voor verenigde profielen aan gegevens en privacyverordeningen aan te wenden. Kandidaten moeten ervaring hebben met CDP (Customer Data Platforms) en kennis hebben van Adobe [!DNL Experience Platform].
 
