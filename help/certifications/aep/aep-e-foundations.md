@@ -7,13 +7,13 @@ role: Developer
 badge: label="Examen AD0-E600 &amp; AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
+source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
 workflow-type: tm+mt
-source-wordcount: '1424'
-ht-degree: 3%
+source-wordcount: '1318'
+ht-degree: 4%
 
 ---
-
 
 # Certificeringsreis voor Adobe [!DNL Experience Platform] Expert
 
@@ -23,9 +23,7 @@ ht-degree: 3%
 
 {{exam-description}}
 
->[!IMPORTANT]
->
->De Adobe [!DNL Experience Platform] Voor certificering door experts zijn momenteel twee examens vereist: **Adobe [!DNL Experience Platform] Technische stichtingen (AD0-E600)** en **Adobe [!DNL Real-Time CDP] Technisch deskundige (AD7-E601)**. Met ingang van 1 november 2023 wordt een nieuw examen gestart, en dat is alleen examen vereist voor deze certificering.
+
 
 <br>
 
@@ -208,8 +206,6 @@ Het examen AD0-E600 bevestigt vaardigheden en kennis die de basiseigenschappen e
 <br>
 
 ## Vereiste nr. 2: Informatie voor Adobe [!DNL Real-Time CDP] Technisch deskundige (AD7-E601) {#req-2}
-
-Het examen AD7-E601 behandelt de verwezenlijking, het beheer en het begrip van klantenprofiel, de segmentatie, de bestemmingen over bronnen, en andere onderwerpen. Het examen bevestigt de grondvaardigheden en de kennis nodig om in real time CDP voor publiekssegmentatie, bestemmingsuitvoer, en activering op een basis in real time voor verenigde profielen aan gegevens en privacyverordeningen aan te wenden. Kandidaten moeten ervaring hebben met CDP (Customer Data Platforms) en kennis hebben van Adobe [!DNL Experience Platform].
 
 <br>
 

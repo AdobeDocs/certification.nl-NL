@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="Examen AD0-E600 &amp; AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
 workflow-type: tm+mt
-source-wordcount: '1404'
+source-wordcount: '1385'
 ht-degree: 3%
 
 ---
@@ -22,10 +22,6 @@ ht-degree: 3%
 ## Beschrijving van examen {#exam-description}
 
 {{exam-description}}
-
->[!IMPORTANT]
->
->De Adobe [!DNL Real-Time Customer Data Platform] Voor certificering door experts zijn twee examens vereist: **Adobe [!DNL Experience Platform] Technische stichtingen (AD0-E600)** en **Adobe [!DNL Real-Time CDP] Technisch deskundige (AD7-E601)**.
 
 <br>
 

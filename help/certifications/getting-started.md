@@ -4,9 +4,9 @@ description: Ga aan de slag met  [!DNL Experience Cloud] -certificeringen. Meer 
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: 9c08c3f3b8f9571c70118cb4d23de01b019a4162
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '814'
 ht-degree: 2%
 
 ---
@@ -14,6 +14,14 @@ ht-degree: 2%
 # Aan de slag {#getting-started}
 
 De certificeringen van de Adobe zijn ontworpen om de kennis en vaardigheden te valideren van professionals die werken met onze oplossingen voor digitale marketing. Gebruik de volgende tabbladen om te leren over het certificeringsprogramma.
+
+>[!TIP]
+>
+>**Onze jaareindverkoop begint op Cyber Maandag!** Ontvang 50% van certificatieexamenvouchers van het Digitale Programma van de Ervaring van de Adobe, die 27 November door 31 December begint.
+><br>
+>Dit voorstel is alleen geldig als je het object koopt via de [Adobe Certification Voucher Center](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}. Gebruik de promotiecode Holiday2023 bij het afrekenen.
+><br>
+>Dit aanbod is alleen beschikbaar voor het vermelde tijdsbestek en geldt alleen voor nieuwe bestellingen en kan niet worden toegepast op eerder geplaatste aankopen. Vouchercodes zijn geldig voor een jaar vanaf de aankoopdatum.
 
 >[!BEGINTABS]
 
