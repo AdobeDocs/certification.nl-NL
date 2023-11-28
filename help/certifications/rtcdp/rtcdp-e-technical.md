@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="Examen AD0-E600 &amp; AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 5a0bc9f9f59df83d1f430807962374acb3d231ab
+source-git-commit: 20f5c9e848d9fdcbadfe02e9880d121a5b3ceba7
 workflow-type: tm+mt
-source-wordcount: '1601'
+source-wordcount: '1599'
 ht-degree: 3%
 
 ---
@@ -227,7 +227,7 @@ Het examen AD0-E600 bevestigt vaardigheden en kennis die de basiseigenschappen e
 >
 ><br>
 >
->**Als u reeds de Adobe AD0-E600 hebt overgegaan [!DNL Experience Platform] Het technische onderzoek van de Stichting en is voorbereidingen getroffen voor het onderzoek AD7-E601**, stellen wij u voor uw benoeming te handhaven, aangezien het overgaan tot het examen AD7-E601 u de Adobe zal gunnen [!DNL Experience Platform] Expert Certification van de Technische Stichting. Voor vragen kunt u contact opnemen met [Certificeringsondersteuning](mailto:certif@adobe.com){target="_blank"}.
+>**Als u reeds de Adobe AD0-E600 hebt overgegaan [!DNL Experience Platform] Het technische onderzoek van de Stichting en is voorbereidingen getroffen voor het onderzoek AD7-E601**, stellen wij u voor uw benoeming te handhaven, aangezien het overgaan tot het examen AD7-E601 u de Adobe zal gunnen [!DNL Real-Time Customer Data Platform] Expert Certification. Voor vragen kunt u contact opnemen met [Certificeringsondersteuning](mailto:certif@adobe.com){target="_blank"}.
 
 Het examen AD7-E601 behandelt de verwezenlijking, het beheer en het begrip van klantenprofiel, de segmentatie, de bestemmingen over bronnen, en andere onderwerpen. Het examen bevestigt de grondvaardigheden en de kennis nodig om in real time CDP voor publiekssegmentatie, bestemmingsuitvoer, en activering op een basis in real time voor verenigde profielen aan gegevens en privacyverordeningen aan te wenden. Kandidaten moeten ervaring hebben met CDP (Customer Data Platforms) en kennis hebben van Adobe [!DNL Experience Platform].
 
