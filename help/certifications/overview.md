@@ -4,7 +4,7 @@ description: Meer informatie over  [!DNL Experience Cloud] -certificering bij Ad
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 4de79881e1a06c70a2759b7397f87335cbe8a77c
+source-git-commit: f3c825b8306646b870970f767db9060435865815
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 7%
@@ -19,9 +19,7 @@ Meer informatie over certificering bij Adobe en over wat u kunt doen als u gecer
 
 >[!TIP]
 >
->**Onze jaareindverkoop begint op Cyber Maandag!**<br>
->Ontvang 50% van certificatieexamenvouchers van het Digitale Programma van de Ervaring van de Adobe, die 27 November door 31 December begint. Dit voorstel is alleen geldig als je het object koopt via de [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Promo-code gebruiken **Feestdag 2023** bij uitchecken.<br>
-><i>Dit aanbod is alleen beschikbaar voor het vermelde tijdsbestek en geldt alleen voor nieuwe bestellingen en kan niet worden toegepast op eerder geplaatste aankopen. Vouchercodes zijn geldig voor een jaar vanaf de aankoopdatum.</i>
+>**Onze jaareindverkoop begint op Cyber Maandag!** <br><br> Ontvang 50% van certificatieexamenvouchers van het Digitale Programma van de Ervaring van de Adobe, die 27 November door 31 December begint. Dit voorstel is alleen geldig als je het object koopt via de [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Promo-code gebruiken **Feestdag 2023** bij uitchecken. <br><br> <i>Dit aanbod is alleen beschikbaar voor het vermelde tijdsbestek en geldt alleen voor nieuwe bestellingen en kan niet worden toegepast op eerder geplaatste aankopen. Vouchercodes zijn geldig voor een jaar vanaf de aankoopdatum.</i>
 
 Het Adobe Digital Experience Credential-programma is gemaakt om u te helpen uw vaardigheden op het gebied van Adobe te bewijzen [!DNL Experience Cloud] producten. Door Adobe Certified te worden kunt u uw expertise tonen en zowel klanten als werkgevers onder de aandacht brengen.
 
