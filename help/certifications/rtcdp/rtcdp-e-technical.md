@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="Examen AD0-E600 &amp; AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 20f5c9e848d9fdcbadfe02e9880d121a5b3ceba7
+source-git-commit: 7d13d115cb8de666444f96b9dc21a55e5124f6e3
 workflow-type: tm+mt
-source-wordcount: '1599'
+source-wordcount: '1748'
 ht-degree: 3%
 
 ---
@@ -73,7 +73,7 @@ U zou moeten hebben:
 >
 ><br>
 >
->**Als u reeds examen AD0-E600 hebt gepland**, adviseren wij sterk uw benoeming te annuleren en opnieuw te plannen wanneer het nieuwe examen wordt vrijgegeven. Voor vragen kunt u contact opnemen met [Certificeringsondersteuning](mailto:certif@adobe.com){target="_blank"}.
+>**Als u reeds examen AD0-E600 hebt gepland**, adviseren wij sterk om uw benoeming in het portaal van het Onderzoek (zie stap 3 hieronder) te annuleren en opnieuw te plannen wanneer het nieuwe examen wordt vrijgegeven. Voor vragen kunt u contact opnemen met [Certificeringsondersteuning](mailto:certif@adobe.com){target="_blank"}.
 
 Het examen AD0-E600 bevestigt vaardigheden en kennis die de basiseigenschappen en vaak uitgevoerde taken van Adobe behandelen [!DNL Experience Platform] op het niveau van de deskundigen.
 
@@ -176,6 +176,14 @@ Het examen AD0-E600 bevestigt vaardigheden en kennis die de basiseigenschappen e
 
 +++Stap 3: Planning en betaal voor examen
 
+>[!IMPORTANT]
+>
+>Het plannen voor examen AD0-E600 is opgeschort. Dit examen wordt momenteel bijgewerkt en zal op vrijgeven **15 januari 2024**. Na die datum, zal deze certificatie slechts het overgaan van één examen vereisen, eerder dan de twee momenteel vereiste examens.
+>
+><br>
+>
+>**Als u reeds examen AD0-E600 hebt gepland**, adviseren wij sterk om uw benoeming in het portaal van het Onderzoek te annuleren en opnieuw te plannen wanneer het nieuwe examen wordt vrijgegeven. Voor vragen kunt u contact opnemen met [Certificeringsondersteuning](mailto:certif@adobe.com){target="_blank"}.
+
 {{schedule-and-pay}}
 
 +++
@@ -195,6 +203,14 @@ Het examen AD0-E600 bevestigt vaardigheden en kennis die de basiseigenschappen e
 {{about-certification-exam}}
 
 ## Plan of neem examen AD0-E600
+
+>[!IMPORTANT]
+>
+>Het plannen voor examen AD0-E600 is opgeschort. Dit examen wordt momenteel bijgewerkt en zal op vrijgeven **15 januari 2024**. Na die datum, zal deze certificatie slechts het overgaan van één examen vereisen, eerder dan de twee momenteel vereiste examens.
+>
+><br>
+>
+>**Als u reeds examen AD0-E600 hebt gepland**, adviseren wij sterk om uw benoeming in het portaal van het Onderzoek te annuleren en opnieuw te plannen wanneer het nieuwe examen wordt vrijgegeven. Voor vragen kunt u contact opnemen met [Certificeringsondersteuning](mailto:certif@adobe.com){target="_blank"}.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
