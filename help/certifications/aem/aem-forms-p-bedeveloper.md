@@ -7,10 +7,10 @@ role: Developer
 badge: label="Examen AD0-E127" type="neutral"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '645'
-ht-degree: 6%
+source-wordcount: '567'
+ht-degree: 0%
 
 ---
 
@@ -132,30 +132,30 @@ U zou met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 
 **Sectie 1: Oprichting en beheer van Forms**
 
-* [Adobe Experience Manager 6.5 Handleiding voor formulieren](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
+* [Adobe Experience Manager 6.5 Forms Guide](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
 * [AEM Forms-gegevensintegratie](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html#data-integration-overview){target="_blank"}
 * [Zelfstudies en video&#39;s voor AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html){target="_blank"}
-* [AEM 6.5 Gebruikershandleiding voor ontwikkeling](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
+* [AEM 6.5 Handboek voor het ontwikkelen van toepassingen](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
 
 **Sectie 2: Processen en workflows**
 
-* [Adobe Experience Manager 6.5 Handleiding voor formulieren](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
-* [Adobe Experience Manager 6.4 Handleiding voor formulieren](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
+* [Adobe Experience Manager 6.5 Forms Guide](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
+* [Adobe Experience Manager 6.4 Forms Guide](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
 * [Eindpunten beheren](https://help.adobe.com/en_US/AEMForms/6.1/AdminHelp/WS92d06802c76abadb-5145d5d12905ce07e7-7ff6.2.html#WS92d06802c76abadb1c01fa7512905cdf2c9-7fd9.2){target="_blank"}
 
 **Sectie 3: Beheer en probleemoplossing**
 
 * [Installatieproblemen met logbestanden oplossen | CREATIVE CLOUD](https://helpx.adobe.com/creative-cloud/kb/troubleshoot-install-logs-cc.html){target="_blank"}
-* [AEM 6.4 Beheerdershandleiding](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
+* [AEM 6.4 Gebruikershandleiding voor het beheer](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
 * [Opmerkingen bij de release Adobe Experience Manager 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/home.html){target="_blank"}
-* [Adobe Experience Manager 6.5 Handleiding voor formulieren](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
+* [Adobe Experience Manager 6.5 Forms Guide](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
 * [Overzicht van verzending](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
-* [AEM 6.5 Gebruikersgids voor authoring](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
+* [AEM 6.5 Handboek voor ontwerpen](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 
 **Sectie 4: API-eindpunten en -integratie**
 
-* [as a Cloud Service documentatie Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=nl){target="_blank"}
-* [Adobe Experience Manager 6.4 Handleiding voor formulieren](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
+* [as a Cloud Service documentatie Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [Adobe Experience Manager 6.4 Forms Guide](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
 
 <br>
 
@@ -163,7 +163,7 @@ U zou met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 
 {{sample-questions}}
 
-[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad0-e127-adobe-experience-manager-backend-forms-developer-professional-copy-7s2acv){target="_blank"}
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad4-e127-adobe-experience-manager-backend-forms-developer-practice-exam){target="_blank"}
 
 +++
 

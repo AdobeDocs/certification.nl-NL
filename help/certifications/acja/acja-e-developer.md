@@ -7,14 +7,14 @@ product: Customer Journey Analytics
 badge: label="Examen AD0-E604" type="neutral"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '488'
-ht-degree: 1%
+source-wordcount: '431'
+ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Customer Journey Analytics] Expert
+# Certificeringsreis voor Adobe [!DNL Customer Journey Analytics] Ontwikkelaarsexpert
 
 {{intro}}
 
@@ -139,7 +139,7 @@ U moet 12-24 maanden ervaring hebben met Adobe [!DNL Customer Journey Analytics]
 **Sectie 4: Rapportage en activering**
 
 * [Overzicht van visualisaties](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [Overzicht van Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
+* [Analysis Workspace-overzicht](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
 * [Overzicht van gegevensweergaven](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html){target="_blank"}
 
 <br>

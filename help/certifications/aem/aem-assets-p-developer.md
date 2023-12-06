@@ -7,10 +7,10 @@ role: Developer
 badge: label="Examen AD0-E129" type="neutral"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '630'
-ht-degree: 4%
+source-wordcount: '525'
+ht-degree: 0%
 
 ---
 
@@ -144,25 +144,25 @@ Bovendien, zou u ervaring met de volgende technologieën en milieu&#39;s moeten 
 **Sectie 1: Workflows voor bedrijfsmiddelen**
 
 * [Workflowmodellen maken](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html#sync-your-workflow-generate-a-runtime-model){target="_blank"}
-* [Handleiding voor assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
+* [Hulplijn voor middelen](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
 
 **Sectie 2: Organisatie van bedrijfsmiddelen en de middelenconsole**
 
 * [AEM Assets - video&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
-* [Facetten doorzoeken](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html#restoring-default-search-facets){target="_blank"}
-* [Rapporten over assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html){target="_blank"}
+* [Zoeken in facetten](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html#restoring-default-search-facets){target="_blank"}
+* [Elementen rapporteren](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html){target="_blank"}
 
 **Deel 3: Metagegevens van activa**
 
-* [Metadataschema&#39;s](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html#default-metadata-schema-forms){target="_blank"}
+* [Metagegevensschema&#39;s](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html#default-metadata-schema-forms){target="_blank"}
 * [Metagegevensconcepten begrijpen](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html){target="_blank"}
-* [Metadataprofielen](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html#:~:text=Add%20a%20metadata%20profile.%20Tap%20of%20click%20the,and%20configure%20its%20properties%20in%20the%20Settings%20tab.){target="_blank"}
+* [Metagegevensprofielen](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html#:~:text=Add%20a%20metadata%20profile.%20Tap%20of%20click%20the,and%20configure%20its%20properties%20in%20the%20Settings%20tab.){target="_blank"}
 
 **Sectie 4: Elementen**
 
-* [Videoassets beheren](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html#uploading-and-previewing-video-assets){target="_blank"}
-* [Modellen van contentfragmenten](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html#creating-a-content-fragment-model){target="_blank"}
-* [Variaties - Authoring van content voor fragmenten](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html#managing-variations){target="_blank"}
+* [Video-elementen beheren](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html#uploading-and-previewing-video-assets){target="_blank"}
+* [Modellen van inhoudsfragmenten](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html#creating-a-content-fragment-model){target="_blank"}
+* [Variaties - Fragmentinhoud ontwerpen](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html#managing-variations){target="_blank"}
 
 **Sectie 5: Elementenfunctiesets en -mogelijkheden**
 
@@ -176,7 +176,7 @@ Bovendien, zou u ervaring met de volgende technologieën en milieu&#39;s moeten 
 
 {{sample-questions}}
 
-[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad4-e129-adobe-experience-manager-assets-developer-professional-practice-exam){target="_blank"}
 
 +++
 

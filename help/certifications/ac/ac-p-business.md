@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '595'
 ht-degree: 0%
 
 ---
@@ -182,7 +182,7 @@ Bovendien moet u een basiskennis hebben van de eCommerce-ervaring en kennis hebb
 
 {{sample-questions}}
 
-[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad4-e712-adobe-commerce-business-practitioner-professional-practice-exam){target="_blank"}
 
 +++
 
