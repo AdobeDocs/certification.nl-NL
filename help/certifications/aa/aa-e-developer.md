@@ -8,10 +8,10 @@ level: Experienced
 badge: label="Examen AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '809'
-ht-degree: 3%
+source-wordcount: '707'
+ht-degree: 0%
 
 ---
 
@@ -53,7 +53,7 @@ Als Analytics Developer implementeert u zelden de labels op de pagina. In plaats
 
 U moet bekend zijn met de volgende gereedschappen en omgevingen:
 
-Tools:
+Gereedschappen:
 
 * Adobe Experience Platform Launch (Adobe starten)
 * Foutopsporingsgereedschappen die relevant zijn voor [!DNL Adobe Analytics] (De monitor van het pakket zoals Adobe Debugger, browser ontwikkelaarshulpmiddelen, Karel)
@@ -150,7 +150,7 @@ Omgevingen:
 **Deel 1: Analyse in het ecosysteem van Adobe Experience Cloud**
 
 * [Technische notities voor Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/home.html){target="_blank"}
-* [Analytics en Experience Cloud ID&#39;s instellen](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html){target="_blank"}
+* [Analyse- en Experience Cloud-id&#39;s instellen](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html){target="_blank"}
 * [Analysevideo&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
 
 **Sectie 2: Strategie en ontwerp op basis van een referentie voor het ontwerp van oplossingen (SDR)**
@@ -172,7 +172,7 @@ Omgevingen:
 
 **Deel 5: Mobiele diensten**
 
-* [Analytics voor mobiele apparaten](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
+* [Analyses implementeren voor mobiele apparaten](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
 * [De verwerkingsregels voor mobiele services migreren naar [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/technotes/migrate-mobile.html){target="_blank"}
 
 **Sectie 6: Testen, valideren en problemen oplossen**
@@ -222,14 +222,14 @@ Omgevingen:
 
 ## Plan of neem examen AD0-E209-J (Japans)
 
+{{Japanese-exam-details}}
+
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Ga naar examenportal - Japans examen
 </span>
 </a>
-
-[Japanse instructies voor planning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 

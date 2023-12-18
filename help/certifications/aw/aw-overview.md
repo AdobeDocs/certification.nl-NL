@@ -3,7 +3,7 @@ title: Overzicht van Workfront-certificering
 description: Overzicht van certificeringsopties voor Adobe Workfront
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
+source-git-commit: 922961fcab8c3cf6745d3239d112625d717b1b82
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 7%
@@ -20,7 +20,7 @@ De huidige versie is: [Adobe Marketo Engage (AD0-E 905)](/help/certifications/aw
 
 Als u reeds hebt gepland of begonnen te bestuderen voor het huidige examen, te verzekeren u plant en voltooit het examen **vóór 26 februari 2024**.
 
-Als u echter nog maar aan de slag gaat met uw certificering, raden we u aan de **NIEUW** versie van het examen: [Adobe Marketo Engage (AD0-E 908)](help/certifications/aw/aw-core-p-developer-23-12.md)
+Als u echter nog maar aan de slag gaat met uw certificering, raden we u aan de **NIEUW** versie van het examen: [Adobe Marketo Engage (AD0-E 908)](/help/certifications/aw/aw-core-p-developer-23-12.md)
 
 ## Alle beschikbare Exams voor Adobe [!DNL Workfront]
 
@@ -29,7 +29,7 @@ Als u echter nog maar aan de slag gaat met uw certificering, raden we u aan de *
 * [Ontwikkelaar (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
 * [Projectmanager](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
 * [Ontwikkelaar (Core) - vervalt op 26 februari 2024](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
-* [Ontwikkelaar (Core) - NIEUW](help/certifications/aw/aw-core-p-developer-23-12.md) <!--AD0-E908-->
+* [Ontwikkelaar (Core) - NIEUW](/help/certifications/aw/aw-core-p-developer-23-12.md) <!--AD0-E908-->
 
 **Expert**
 

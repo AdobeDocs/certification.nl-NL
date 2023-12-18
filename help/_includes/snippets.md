@@ -1,7 +1,7 @@
 ---
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '1741'
+source-wordcount: '1746'
 ht-degree: 0%
 
 ---
@@ -220,3 +220,9 @@ Uw badge is een tastbaar bewijs van uw ervaring met Adobe Experience Cloud-produ
 Certificeringen verlopen na twee jaar. Als u uw certificering wilt behouden, moet u deze vernieuwen voordat deze verloopt. Ga naar [Uw certificering verlengen](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} voor meer informatie.
 
 <!--divider-->
+
+## Details Japans examen {#Japanese-exam-details}
+
+Plan uw examen tussen zondag - Donderdag 5pm - 2am ET om ervoor te zorgen wij een Japans-sprekende aannemer kunnen toewijzen. Als u buiten deze uren plant, kunnen wij geen Japans-sprekende aannemer waarborgen.
+
+[Japanse instructies voor planning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
