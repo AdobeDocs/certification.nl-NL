@@ -6,9 +6,9 @@ role: Developer
 badge: label="Examen AD0-E905" type="neutral"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
 workflow-type: tm+mt
-source-wordcount: '819'
+source-wordcount: '736'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Certificeringsreis voor Adobe [!DNL Workfront] Core Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>Dit examen, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905) is bijgewerkt. Als u al bent begonnen met studeren of deze versie wilt gebruiken, moet u deze voor 26 februari 2024 voltooien. Als u nog maar aan de slag gaat, raden we u aan de [nieuwste versie van dit examen (AD0-E908)](aw-core-p-developer-23-12.md).
 
 ## Beschrijving van examen {#exam-description}
 
@@ -211,6 +215,10 @@ En u moet:
 {{about-certification-exam}}
 
 ## Plan of neem examen AD0-E905
+
+>[!NOTE]
+>
+>Dit examen, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905) is bijgewerkt. Als u al bent begonnen met studeren of deze versie wilt gebruiken, moet u deze voor 26 februari 2024 voltooien. Als u nog maar aan de slag gaat, raden we u aan de [nieuwste versie van dit examen (AD0-E908)](aw-core-p-developer-23-12.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 

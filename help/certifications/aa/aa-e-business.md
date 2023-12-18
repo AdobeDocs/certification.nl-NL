@@ -7,10 +7,10 @@ role: User
 badge: label="Examen AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: dfbd769d7fabb91f4f3e019d1a5c7c81cb6d120d
 workflow-type: tm+mt
-source-wordcount: '877'
-ht-degree: 3%
+source-wordcount: '773'
+ht-degree: 0%
 
 ---
 
@@ -157,8 +157,8 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 **Sectie 1: Bedrijfsanalyse**
 
 * [Welke [!DNL Adobe Analytics] te gebruiken?](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html){target="_blank"}
-* Documentatie voor [[!DNL Adobe Analytics] ](https://helpx.adobe.com/nl/support/analytics.html){target="_blank"}
-* [Over dataverzameling](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html){target="_blank"}
+* [[!DNL Adobe Analytics] Documentatie](https://helpx.adobe.com/nl/support/analytics.html){target="_blank"}
+* [Over gegevensverzameling](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html){target="_blank"}
 * [Overzicht van gegevensinvoer voor analyse](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html){target="_blank"}
 
 **Sectie 2: Rapportage en dashboarding voor projecten**
@@ -167,23 +167,23 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * [[!DNL Adobe Analytics] dashboards - Overzicht](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html){target="_blank"}
 * [Overzicht van projecten](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html){target="_blank"}
 * [Overzicht van visualisaties](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [Overzicht van intelligente waarschuwingen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html){target="_blank"}
+* [Overzicht van intelligente waarschuwingen](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
 
 **Sectie 3: Segmentering en berekende metrische waarde**
 
-* [Analytics-segmentatie](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html){target="_blank"}
+* [Segmentatie van analyse](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html){target="_blank"}
 * [Berekende en geavanceerde berekende (afgeleide) cijfers](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html){target="_blank"}
 
 **Sectie 4: Algemene kennis van gereedschappen en probleemoplossing**
 
-* [Handleiding Analytics-tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [Analysis Workspace - Overzicht](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html){target="_blank"}
+* [Handleiding Analysehulpmiddelen](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [Analysis Workspace - Overzicht](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
 
 **Afdeling 5: Administratie**
 
-* [Handleiding Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
+* [Handleiding Analysebeheer](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 * [Veelgestelde vragen](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
-* [Workflow van de Builder voor classificatieregels](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html){target="_blank"}
+* [Workflow van de opbouwfunctie voor classificatieregels](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html){target="_blank"}
 
 **Een praktijktest uitvoeren**
 

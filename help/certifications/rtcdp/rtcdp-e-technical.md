@@ -8,10 +8,10 @@ recommendations: disable, exclude
 badge: label="Examen AD0-E600 &amp; AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 7d13d115cb8de666444f96b9dc21a55e5124f6e3
+source-git-commit: dfbd769d7fabb91f4f3e019d1a5c7c81cb6d120d
 workflow-type: tm+mt
-source-wordcount: '1748'
-ht-degree: 3%
+source-wordcount: '1464'
+ht-degree: 0%
 
 ---
 
@@ -150,13 +150,13 @@ Het examen AD0-E600 bevestigt vaardigheden en kennis die de basiseigenschappen e
 
 **Sectie 2: Gegevensinvoer**
 
-* [Gegevensopname](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html){target="_blank"}
+* [Gegevensinname](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html){target="_blank"}
 
 **Sectie 3: Vergelijkende profielen**
 
 * [Identiteitsgrafiek en identiteitsgrafiek](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html){target="_blank"}
 * [Identiteiten toewijzen](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html){target="_blank"}
-* [Identiteitsgegevens labelen, opnemen en verifiëren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html){target="_blank"}
+* [Identiteitsgegevens labelen, samenvoegen en verifiëren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html){target="_blank"}
 * [Een dataset maken voor het exporteren van een publiekssegment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html){target="_blank"}
 * [Gemaakte segmenten maken met behulp van realtime klantprofiel](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html){target="_blank"}
 
@@ -322,7 +322,6 @@ Deel 3: Doelen (27%)
 * [Aan de slag met Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html){target="_blank"}
 * [Real-time Customer Data Platform-startpagina en -dashboards](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
 * [Dataflows voor doelen in de UI controleren](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html){target="_blank"}
-* [Segmenten maken en activeren in Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 * [Privacyoverzicht](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html){target="_blank"}
 * [Gegevensbeheer in real time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
 * [Gegevensbeheerkader toepassen](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html){target="_blank"}
@@ -349,7 +348,6 @@ Deel 3: Doelen (27%)
 * [Meerdere instapsegmenten maken](https://video.tv.adobe.com/v/32179/){target="_blank"}
 * [Segmenten maken met B2B-gegevens](https://video.tv.adobe.com/v/338252/){target="_blank"}
 * [Demo van streamingsegmentatie](https://video.tv.adobe.com/v/36184){target="_blank"}
-* [Segmenten maken en activeren in Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 * [Een segment evalueren](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html){target="_blank"}
 
 **Deel 3: Doelen**

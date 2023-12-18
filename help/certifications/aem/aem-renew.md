@@ -6,10 +6,10 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: 0ed57ea2810ffabed39e9bfd9612b3df43c4cea4
 workflow-type: tm+mt
-source-wordcount: '2107'
-ht-degree: 2%
+source-wordcount: '2111'
+ht-degree: 0%
 
 ---
 
@@ -122,15 +122,15 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Beheer product, hulp en steun inhoud van creatie aan levering.](https://business.adobe.com/products/experience-manager/guides/aem-guides.html){target="_blank"}
 * [Overzicht van Experience Manager Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html){target="_blank"}
 * [Projectrollen en -verantwoordelijkheden](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/roles-responsibilities.html){target="_blank"}
-* [Pagina-annotaties toevoegen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/annotations.html){target="_blank"}
-* [Handleiding Snel aan de slag met de authoring van pagina&#39;s](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/getting-started/quick-start.html){target="_blank"}
+* [Paginaannotaties toevoegen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/annotations.html){target="_blank"}
+* [Handleiding Snel aan de slag voor het ontwerpen van pagina&#39;s](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/getting-started/quick-start.html){target="_blank"}
 * [Connected Assets gebruiken met AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/connected-assets.html){target="_blank"}
 * [Planning](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/planning.html#before-you-start){target="_blank"}
 * [De testcase definiëren](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/test-cases.html){target="_blank"}
 
 **Sectie 4**
 
-* [Lanceringen](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html){target="_blank"}
+* [Starten](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html){target="_blank"}
 * [De Workfloweditor gebruiken](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/workflow/use-the-workflow-editor.html){target="_blank"}
 * [Elementenbeheerder zoekrails](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/assets-admin-search-rail.html#:~:text=The%20Assets%20admin%20search%20rail,using%20custom%20criteria%20in%20Omnisearch.&amp;text=The%20asset%20set%20in%20Search,Rail%20configuration%20for%20AEM%20assets.){target="_blank"}
 
@@ -146,11 +146,11 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 
 +++
 
-+++Adobe [!DNL Experience Manager] Developer Professional
++++Adobe [!DNL Experience Manager] Sites Developer Professional
 
 ## U hebt de volgende mogelijkheden: **actief** certificering:
 
-* Adobe [!DNL Experience Manager] Developer Professional
+* Adobe [!DNL Experience Manager] Sites Developer Professional
 
 ## Instructies voor het vernieuwen van uw certificering:
 
@@ -172,7 +172,7 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 
 **Toepassingsgebied en doelstellingen:**
 
-**Sectie 1: Configuraties (26%)**
+Sectie 1: Configuraties (26%)
 
 * Erken het doel van AEM verzendersconfiguraties en caching
 * Bepaal de correcte stappen om multi-site in AEM te vormen
@@ -180,19 +180,19 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 * Bepaal de correcte stappen om de indexen van douaneOAK te beheren
 * Bepaal de correcte stappen om integratie te vormen OTB SAML of IMS
 
-**Sectie 2: AEM ontwikkeling (40%)**
+Sectie 2: AEM ontwikkeling (40%)
 
 * Bepaal de correcte stappen om op kern-gebaseerde componenten uit te voeren
 * Functionaliteit van Connect-componenten, waaronder HTML, modellen en services
 * Op basis van een scenario de juiste stappen bepalen om workflows te ontwikkelen
 * Geef bij een scenario het doel van inhoudsfragmenten of ervaringsfragmenten weer
 
-**Sectie 3: Bouw en Plaatsing (12%)**
+Sectie 3: Bouw en Plaatsing (12%)
 
 * Maven-projectstructuur definiëren
 * Projecten configureren van archetypen
 
-**Sectie 4: Milieu-onderhoud (22%)**
+Sectie 4: Milieu-onderhoud (22%)
 
 * Gezien een scenario, bepaal de stappen die worden vereist om kwesties in AEM milieu&#39;s te zuiveren
 * Verklaar AEM onderhoudsversies
@@ -225,21 +225,21 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Levenscyclus van OSGi-component](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/osgi-services/lifecycle.html){target="_blank"}
 * [De HTML-specificatie](https://experienceleague.adobe.com/docs/experience-manager-htl/content/specification.html){target="_blank"}
 * [Workflows ontwikkelen en uitbreiden](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/workflows.html){target="_blank"}
-* [Modellen van contentfragmenten](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html){target="_blank"}
-* [Ervaringsfragmenten](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/experience-fragments.html){target="_blank"}
+* [Modellen van inhoudsfragmenten](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html){target="_blank"}
+* [Ervaar fragmenten](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/experience-fragments.html){target="_blank"}
 * [GraphQL API AEM voor gebruik met inhoudsfragmenten](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/content-fragments.html){target="_blank"}
 
 **Afdeling 3**
 
-* [AEM-projectstructuur](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html){target="_blank"}
+* [AEM projectstructuur](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html){target="_blank"}
 * [Werkruimtefilter](https://jackrabbit.apache.org/filevault/filter.html){target="_blank"}
-* [AEM Project-archetype](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/using.html){target="_blank"}
+* [Projectarchetype AEM](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/using.html){target="_blank"}
 
 **Sectie 4**
 
 * [Servicegegevens](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials.html){target="_blank"}
 * [Problemen met replicatiewachtrij](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-17467.html){target="_blank"}
-* [Aanvullende informatie](https://docs.mktossl.com/docs/experience-manager-cloud-service/content/release-notes/home.html){target="_blank"}
+* [Gegevens vrijgeven](https://docs.mktossl.com/docs/experience-manager-cloud-service/content/release-notes/home.html){target="_blank"}
 * [Aanbevolen implementaties](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/recommended-deploys.html){target="_blank"}
 * [Aan de slag met de migratiereis om as a Cloud Service te AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
 * [Analyse van best practices gebruiken](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/best-practices-analyzer/using-best-practices-analyzer.html){target="_blank"}
@@ -249,6 +249,114 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de onderstaande knop om de certificering te vernieuwen.
 
 [!BADGE Neem de Adobe [!DNL Experience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true"}
+
+>[!NOTE]
+>
+>Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+
++++
+
++++Adobe [!DNL Experience Manager] Assets Developer Professional
+
+## U hebt de volgende mogelijkheden: **actief** certificering:
+
+* Adobe [!DNL Experience Manager] Assets Developer Professional
+
+## Instructies voor het vernieuwen van uw certificering:
+
+* **Stap 1**: Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
+* **Stap 3**: Neem het examen over en ga door
+
+## Klaar
+
+**Details van examen:**
+
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 26/34
+* Tijd: 68 minuten
+* Levering: Op aanvraag/niet-afgehandeld
+* Beschikbare talen: Engels
+* Kosten: GRATIS
+* Examen-id: AD5-E850-Adobe [!DNL Experience Manager] Assets Developer Professional
+
+**Toepassingsgebied en doelstellingen:**
+
+Sectie 1: Werkstromen van activa 25,44%
+
+* Uitleg over het proces om OOBT-workflows aan te passen
+* Identificeer wanneer om de werkschema&#39;s van Activa te creëren of aan te passen om klantenvereisten uit te voeren
+* Beschrijf het doel van werkstroomlanceerinrichtingen en hoe te om hen te vormen
+* Verschil tussen cloud- en on-premise workflows
+* Beschrijf hoe te om de console van het Werkschema te gebruiken om status en vooruitgang te controleren
+
+Sectie 2: Organisatie van activa en de Asset Console 24,46%
+
+* Toon aan hoe te om Activa in Inzamelingen tot stand te brengen en te organiseren
+* Toon hoe te om Activa te organiseren gebruikend Markeringen
+* Omgaan met OTB-zoekfilters en -facetten
+* Beschrijf hoe te om AEM de Rapporten van Activa te vormen en te produceren
+* Beschrijf hoe u gebruikersmachtigingen in de mappen Middelen beheert
+
+Sectie 3: Metagegevens activa 22,61%
+
+* Metagegevensschema&#39;s definiëren
+* Bepaal op basis van een scenario hoe u het juiste metagegevensschema aanpast
+* Op basis van een scenario bepalen hoe metagegevensprofielen kunnen worden gebruikt om aan de vereisten te voldoen
+* Begrijpen hoe trapsgewijze metagegevensschema&#39;s werken
+
+Sectie 4: Activatypen 16,21%
+
+* Beschrijf de OOTB-functies die beschikbaar zijn voor middelentypen
+* Inhoudsfragmenten en modellen van inhoudsfragmenten uitleggen
+* Toon hoe en wanneer om de variaties van het inhoudsfragment te gebruiken
+
+Sectie 5: Elementen en mogelijkheden
+
+* Beschrijf de algemene gebruiksgevallen en voordelen van het gebruik van Brand Portal
+* Beschrijf de algemene gebruiksgevallen en voordelen van het gebruik van Dynamic Media
+* Beschrijf opties om AEM te gebruiken Creative Cloud
+
+## Vooraf ingesteld
+
+U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+
+Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+
+**Sectie 1**
+
+* [Locaties - workflowmodellen](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-best-practices.html#locations){target="_blank"}
+* [Referentie workflowproces](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/workflows-process-ref.html){target="_blank"}
+* [Workflowinstanties beheren](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/workflows-administering.html){target="_blank"}
+
+**Sectie 2**
+
+* [Opgeslagen zoekopdrachten](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-collections-touch-ui.html#saved-searches){target="_blank"}
+* [Slimme tags toepassen inschakelen in de DAM Update Asset-workflow (optioneel)](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/config-smart-tagging.html#enable-smart-tagging-in-the-update-asset-workflow-optional){target="_blank"}
+* [Een voorspelling toevoegen](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html#adding-a-predicate){target="_blank"}
+* [Elementen rapporteren](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html){target="_blank"}
+
+**Afdeling 3**
+
+* [Metagegevensconcepten begrijpen](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html){target="_blank"}
+* [Formulieren met metagegevensschema bewerken](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html#editing-metadata-schema-forms){target="_blank"}
+* [Metagegevensprofielen](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html#:~:text=Add%20a%20metadata%20profile.%20Tap%20of%20click%20the,and%20configure%20its%20properties%20in%20the%20Settings%20tab.){target="_blank"}
+* [Trapsgewijze metagegevens](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html#cascading-metadata){target="_blank"}
+
+**Sectie 4**
+
+* [Ondersteunde indelingen in Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/assets-formats.html){target="_blank"}
+
+**Afdeling 5**
+
+* [Overzicht van Experience Manager Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html){target="_blank"}
+* [Slim uitsnijden gebruiken met AEM Assets Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/smart-crop-feature-video-use.html){target="_blank"}
+
+## Uw certificering verlengen
+
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de onderstaande knop om de certificering te vernieuwen.
+
+[!BADGE Neem de Adobe [!DNL Experience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E850 newtab=true"}
 
 >[!NOTE]
 >
@@ -298,7 +406,7 @@ Eerst selecteert u **twee cursussen** om elke beoordeling van een cursus met een
 | [Inleiding tot de Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"} | [ADR-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA103){target="_blank"} |
 | [Beheer van inhoud zonder hoofd met GraphQL API&#39;s](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html){target="_blank"} | [ADR-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA104){target="_blank"} |
 | [Ervaringen met Adobe personaliseren [!DNL Experience Manager] en [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html){target="_blank"} | [ADR-EA105](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA105){target="_blank"} |
-| [ [!DNL Experience Manager Forms Cloud Service] Integreren met [!DNL Salesforce]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html){target="_blank"} | [ADR-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA106){target="_blank"} |
+| [Integreren [!DNL Experience Manager Forms Cloud Service] with [!DNL Salesforce]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html){target="_blank"} | [ADR-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA106){target="_blank"} |
 | [Adobe [!DNL Experience Manager Cloud Manager] Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html){target="_blank"} | [ADR-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA107){target="_blank"} |
 | [Adobe [!DNL Experience Manager Sites] voor architecten](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADR-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA108){target="_blank"} |
 

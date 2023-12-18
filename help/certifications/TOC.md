@@ -1,11 +1,11 @@
 ---
 user-guide-title: Certificering bij Adobe
 breadcrumb-title: Certificering bij Adobe
-user-guide-description: Meer informatie over  [!DNL Experience Cloud] -certificering bij Adobe. Ontdek wat certificeren voor u kan doen.
-source-git-commit: c6d68f61d64619341f7ccdfb4e887993ac2cfbc2
+user-guide-description: Meer informatie over [!DNL Experience Cloud] Certificering bij Adobe. Ontdek wat certificeren voor u kan doen.
+source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 29%
+ht-degree: 27%
 
 ---
 
@@ -141,6 +141,7 @@ ht-degree: 29%
          + [Ontwikkelaar (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md)
          + [Projectmanager](/help/certifications/aw/aw-p-project-manager.md)
          + [Ontwikkelaar (Core)](/help/certifications/aw/aw-core-p-developer.md)
+         + [Ontwikkelaar (Core) - NIEUW](/help/certifications/aw/aw-core-p-developer-23-12.md)
       + Expert {#aw-expert}
          + [Ontwikkelaar (Core)](/help/certifications/aw/aw-core-e-developer-23-08.md)
          + [AEM verbeterde aansluiting](/help/certifications/aw/aw-aem-e-connector.md)

@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: d8759508e4f618a8c66c91c9ebce0478f2bd5168
 workflow-type: tm+mt
-source-wordcount: '2139'
-ht-degree: 2%
+source-wordcount: '1862'
+ht-degree: 1%
 
 ---
 
@@ -133,7 +133,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Afdeling 5**
 
-* [Handleiding voor Analytics exporteren](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
+* [Handleiding voor exporteren van analysemogelijkheden](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
 * [De werking van verwerkingsregels](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
 * [Adobe Analytics API&#39;s](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
 
@@ -141,7 +141,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 * [JavaScript-implementatie problemen oplossen](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
 * [Tagomgevingen wisselen met het Experience Cloud Debugger](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/switch-environments.html){target="_blank"}
-* [Queryparameters voor dataverzameling](https://experienceleague.adobe.com/docs/analytics/implementation/validate/query-parameters.html){target="_blank"}
+* [Query-parameters voor gegevensverzameling](https://experienceleague.adobe.com/docs/analytics/implementation/validate/query-parameters.html){target="_blank"}
 
 ## Uw certificering verlengen
 
@@ -234,7 +234,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 **Sectie 1**
 
 * [Overzicht van bijdrageanalyse](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html)
-* [Overzicht van Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html)
+* [Analysis Workspace-overzicht](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html)
 * [Conversiefunnel](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
 * [Invoerafmetingen](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
 
@@ -242,7 +242,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 * [Projecten delen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
 * [Overzicht van onderdelen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
-* [Alert Builder](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/alert-builder.html)
+* [Alert Builder](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html)
 * [Een mobiele scorecard maken](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
 
 **Afdeling 3**
