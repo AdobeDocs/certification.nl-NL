@@ -4,7 +4,7 @@ description: Leer hoe u gecertificeerd kunt worden tijdens de Adobe. Zoek alle b
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
+source-git-commit: fa645594bc1c3996182282abfede63267de5d238
 workflow-type: tm+mt
 source-wordcount: '1503'
 ht-degree: 0%
@@ -20,8 +20,13 @@ Leer hoe u gecertificeerd kunt worden tijdens de Adobe. Zoek alle bronnen die u 
 >De Adobe wordt gesloten van 22 december 2023 tot 1 januari 2024. Verwacht een vertraging bij het beantwoorden van de steunaanvragen gedurende deze periode. Wij waarderen uw geduld.
 
 >[!BEGINSHADEBOX]
->
->**50% korting op voucherverkoop!** <br><br> Ontvang 50% van certificatieexamenvouchers van het Digitale Programma van de Ervaring van de Adobe, die 27 November door 31 December begint. Dit voorstel is alleen geldig als je het object koopt via de [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Promo-code gebruiken **Feestdag 2023** bij uitchecken. <br><br> <i>Dit aanbod is alleen beschikbaar voor het vermelde tijdsbestek en geldt alleen voor nieuwe bestellingen en kan niet worden toegepast op eerder geplaatste aankopen. Vouchercodes zijn geldig voor een jaar vanaf de aankoopdatum.</i>
+
+**50% korting op voucherverkoop!**
+
+Ontvang 50% van certificatieexamenvouchers van het Digitale Programma van de Ervaring van de Adobe, die 27 November door 31 December begint. Dit voorstel is alleen geldig als je het object koopt via de [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Promo-code gebruiken **Feestdag 2023** bij uitchecken.
+
+<i>Dit aanbod is alleen beschikbaar voor het vermelde tijdsbestek en geldt alleen voor nieuwe bestellingen en kan niet worden toegepast op eerder geplaatste aankopen. Vouchercodes zijn geldig voor een jaar vanaf de aankoopdatum.</i>
+
 >[!ENDSHADEBOX]
 
 >[!BEGINTABS]
