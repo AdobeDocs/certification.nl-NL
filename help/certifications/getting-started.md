@@ -4,9 +4,9 @@ description: Aan de slag met [!DNL Experience Cloud] certificeringen. Meer infor
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: fa645594bc1c3996182282abfede63267de5d238
+source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '724'
 ht-degree: 1%
 
 ---
@@ -14,20 +14,6 @@ ht-degree: 1%
 # Aan de slag {#getting-started}
 
 De certificeringen van de Adobe zijn ontworpen om de kennis en vaardigheden te valideren van professionals die werken met onze oplossingen voor digitale marketing. Gebruik de volgende tabbladen om te leren over het certificeringsprogramma.
-
->[!NOTE]
->
->De Adobe wordt gesloten van 22 december 2023 tot 1 januari 2024. Verwacht een vertraging bij het beantwoorden van de steunaanvragen gedurende deze periode. Wij waarderen uw geduld.
-
->[!BEGINSHADEBOX]
-
-**50% korting op voucherverkoop!**
-
-Ontvang 50% van certificatieexamenvouchers van het Digitale Programma van de Ervaring van de Adobe, die 27 November door 31 December begint. Dit voorstel is alleen geldig als je het object koopt via de [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Promo-code gebruiken **Feestdag 2023** bij uitchecken.
-
-<i>Dit aanbod is alleen beschikbaar voor het vermelde tijdsbestek en geldt alleen voor nieuwe bestellingen en kan niet worden toegepast op eerder geplaatste aankopen. Vouchercodes zijn geldig voor een jaar vanaf de aankoopdatum.</i>
-
->[!ENDSHADEBOX]
 
 >[!BEGINTABS]
 

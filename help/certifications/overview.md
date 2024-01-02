@@ -4,10 +4,10 @@ description: Meer informatie over [!DNL Experience Cloud] Certificering bij Adob
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: fa645594bc1c3996182282abfede63267de5d238
+source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 5%
+source-wordcount: '397'
+ht-degree: 6%
 
 ---
 
@@ -16,20 +16,6 @@ ht-degree: 5%
 Meer informatie over certificering bij Adobe en over wat u kunt doen als u gecertificeerd bent.
 
 ![Banner](/help/certifications/assets/home_banner_smallwide.png)
-
->[!NOTE]
->
->De Adobe wordt gesloten van 22 december 2023 tot 1 januari 2024. Verwacht een vertraging bij het beantwoorden van de steunaanvragen gedurende deze periode. Wij waarderen uw geduld.
-
->[!BEGINSHADEBOX]
-
-**50% korting op voucherverkoop!**
-
-Ontvang 50% van certificatieexamenvouchers van het Digitale Programma van de Ervaring van de Adobe, die 27 November door 31 December begint. Dit voorstel is alleen geldig als je het object koopt via de [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Promo-code gebruiken **Feestdag 2023** bij uitchecken.
-
-<i>Dit aanbod is alleen beschikbaar voor het vermelde tijdsbestek en geldt alleen voor nieuwe bestellingen en kan niet worden toegepast op eerder geplaatste aankopen. Vouchercodes zijn geldig voor een jaar vanaf de aankoopdatum.</i>
-
->[!ENDSHADEBOX]
 
 Het Adobe Digital Experience Credential-programma is gemaakt om u te helpen uw vaardigheden op het gebied van Adobe te bewijzen [!DNL Experience Cloud] producten. Door Adobe Certified te worden kunt u uw expertise tonen en zowel klanten als werkgevers onder de aandacht brengen.
 

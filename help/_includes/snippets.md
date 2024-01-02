@@ -1,7 +1,7 @@
 ---
-source-git-commit: fa645594bc1c3996182282abfede63267de5d238
+source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
 workflow-type: tm+mt
-source-wordcount: '1769'
+source-wordcount: '1746'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,6 @@ ht-degree: 0%
 ## Intro {#intro}
 
 Deze pagina bevat informatie over hoe u deze certificering kunt bereiken. Het omvat een beschrijving van het examen, studiematerialen, geleidelijke instructies over het certificatieproces, en hoe te om uw certificatie te vernieuwen.
-
->[!NOTE]
->
->De Adobe wordt gesloten van 22 december 2023 tot 1 januari 2024. Verwacht een vertraging bij het beantwoorden van de steunaanvragen gedurende deze periode. Wij waarderen uw geduld.
 
 <!--divider-->
 
