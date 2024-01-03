@@ -5,9 +5,9 @@ solution: Workfront
 role: Developer
 badge: label="Examen AD0-E908" type="neutral"
 mini-toc-levels: 1
-source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
+source-git-commit: 87f0c3b4ff24d750cd528009001012b6e4f5724c
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dit is de nieuwste Adobe [!DNL Workfront] Core Developer Professional-examen (ADO-E908). Als u al bent begonnen met studeren of de [oudere versie (ADO-E905)](aw-core-p-developer.md), moet u deze voor 26 februari 2024 voltooien.
+>Dit is de nieuwste Adobe [!DNL Workfront] Core Developer Professional-examen (ADO-E908). Als u al bent begonnen met studeren of de [oudere versie (ADO-E905)](aw-core-p-developer.md), moet u deze voor 26 februari 2024 voltooien. Als u moet opnieuw plannen, moet u het nieuwe examen nemen.
 
 ## Beschrijving van examen {#exam-description}
 
