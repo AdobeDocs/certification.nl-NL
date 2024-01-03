@@ -5,9 +5,10 @@ solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="Examen AD0-E606" type="neutral"
-source-git-commit: 2181390cb00114540230097e9d21fbc2602aad9c
+exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
+source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '591'
 ht-degree: 0%
 
 ---
@@ -15,10 +16,6 @@ ht-degree: 0%
 # Certificeringsreis voor Adobe [!DNL Journey Optimizer] Ontwikkelaarsexpert
 
 {{intro}}
-
->[!NOTE]
->
->Dit is de nieuwste Adobe [!DNL Journey Optimizer] Expert-examen voor ontwikkelaars (AD0-E606). Als u al bent begonnen met studeren of de [oudere versie](ajo-e-developer.md), moet u deze voor 22 december 2023 voltooien.
 
 ## Beschrijving van examen {#exam-description}
 
@@ -143,7 +140,7 @@ Adobe Journey Optimizer wordt aangedreven door Experience Platform. Kandidaten d
 **Sectie 4: Inhoud ontwerpen**
 
 * [AJO Guide, SMS-kanaal, Privacy, Configuration, Joursions, Expressions, Content Management, Track and Monitor, Push Notification Channel](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-* [Lesbestanden voor Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"}
+* [Journey Optimizer Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"}
 
 **Deel 5: Gegevensmodellering**
 
@@ -175,10 +172,6 @@ Adobe Journey Optimizer wordt aangedreven door Experience Platform. Kandidaten d
 {{about-certification-exam}}
 
 ## Plan of neem examen AD0-E606
-
->[!NOTE]
->
->Dit is de nieuwste Adobe [!DNL Journey Optimizer] Expert-examen voor ontwikkelaars (AD0-E606). Als u al bent begonnen met studeren of de [oudere versie](ajo-e-developer.md), moet u deze voor 22 december 2023 voltooien.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 

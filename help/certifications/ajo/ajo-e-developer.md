@@ -6,10 +6,11 @@ product: Journey Optimizer
 role: Developer
 badge: label="Examen AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: 1b8b15e7cb9db45cfa7400617a66a8f5e8f4f30e
+hidefromtoc: true
+source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
 workflow-type: tm+mt
-source-wordcount: '673'
-ht-degree: 5%
+source-wordcount: '628'
+ht-degree: 2%
 
 ---
 
@@ -143,7 +144,7 @@ U moet minstens één jaar ervaring hebben met het werken met verschillende CDP-
 
    * Toegangsbeheer
    * Berichten configureren
-   * Configuratie van gebeurtenissen
+   * Gebeurtenisconfiguratie
    * Guardrails
    * Journeys
 
@@ -166,7 +167,7 @@ U moet minstens één jaar ervaring hebben met het werken met verschillende CDP-
 * [Inleiding tot de Adobe [!DNL Experience Platform] cursus](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"}
 * [Aan de slag met Adobe [!DNL Experience Platform] voor de cursus Gegevensingenieurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"}
 * [Gegevensinname voor cursus Data Engineers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"}
-* [Digital Experience-blauwdrukken](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html){target="_blank"}
+* [Digitale beleving blauwdrukken](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html){target="_blank"}
 
 **Deel 3: Offer decisioning**
 
@@ -176,13 +177,13 @@ U moet minstens één jaar ervaring hebben met het werken met verschillende CDP-
 
 * [Adobe [!DNL Journey Optimizer] Video&#39;s en Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"}
 
-   * Journeys maken
+   * Reizen maken
 
 **Sectie 4: Inhoud ontwerpen**
 
 * [Adobe [!DNL Journey Optimizer] Documentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
-   * Ontwerpcontent
+   * Inhoud ontwerpen
    * Journeys
    * Berichten
    * Personalisatie
@@ -193,7 +194,7 @@ U moet minstens één jaar ervaring hebben met het werken met verschillende CDP-
 * [Adobe [!DNL Journey Optimizer] Documentatie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
    * Journeys
-   * Bijhouden en bewaken
+   * Track en monitor
    * Segmenten
    * Profielen en identiteit
 
