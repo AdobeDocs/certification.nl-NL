@@ -2,9 +2,9 @@
 user-guide-title: Certificering bij Adobe
 breadcrumb-title: Certificering bij Adobe
 user-guide-description: Meer informatie over [!DNL Experience Cloud] Certificering bij Adobe. Ontdek wat certificeren voor u kan doen.
-source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
+source-git-commit: bb24587d80c6607219d36fca9dd63a578ccf08d6
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '254'
 ht-degree: 27%
 
 ---
@@ -118,6 +118,7 @@ ht-degree: 27%
       + Professional {#rtcdp-professional}
          + [Business Practitioner](/help/certifications/rtcdp/rtcdp-p-business.md)
       + Expert {#rtcdp-expert}
+         + [Ontwikkelaar](/help/certifications/rtcdp/rtcdp-e-developer.md)
          + [Technisch praktiserend](/help/certifications/rtcdp/rtcdp-e-technical.md)
       + [Verlenging](/help/certifications/rtcdp/rtcdp-renew.md)
    + Adobe [!DNL Journey Optimizer] {#ajo}
