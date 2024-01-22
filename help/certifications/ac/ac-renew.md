@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: dcad25077afd7883333326939ce8751eee191f36
 workflow-type: tm+mt
-source-wordcount: '2085'
+source-wordcount: '1657'
 ht-degree: 0%
 
 ---
@@ -122,7 +122,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Pro-architectuur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
 * [Beveiliging](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/infrastructure/cloud/security.html){target="_blank"}
 
-**Section3**
+**Sectie 3**
 
 * [Googles Analytics](https://experienceleague.adobe.com/docs/commerce-admin/marketing/google-tools/google-analytics.html){target="_blank"}
 * [Overzicht SEO](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/seo-overview.html){target="_blank"}
@@ -174,7 +174,7 @@ Adobe [!DNL Commerce] Developer Professional
 **Details van examen:**
 
 * Niveau: Professional (0-12 maanden ervaring)
-* Voldoende score: 228/37
+* Voldoende score: 28/37
 * Tijd: 74 minuten
 * Levering: Op aanvraag/niet-afgehandeld
 * Beschikbare talen: Engels
