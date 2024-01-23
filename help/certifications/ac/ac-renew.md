@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: b8ef42ca081201940034bc1a2129aecf086d4ed5
+source-git-commit: e966c384d1b08ceecfa02aca78a246beadcd6bc2
 workflow-type: tm+mt
 source-wordcount: '2241'
 ht-degree: 0%
@@ -313,6 +313,8 @@ De Adobe vernieuwen [!DNL Commerce] Certificering ontwikkelaar Professional:
 >[!NOTE]
 >
 >Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+
++++
 
 +++Adobe [!DNL Commerce] Front-end Developer Professional
 
