@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: dcad25077afd7883333326939ce8751eee191f36
+source-git-commit: b8ef42ca081201940034bc1a2129aecf086d4ed5
 workflow-type: tm+mt
-source-wordcount: '1657'
+source-wordcount: '2241'
 ht-degree: 0%
 
 ---
@@ -304,6 +304,138 @@ De Adobe vernieuwen [!DNL Commerce] Certificering ontwikkelaar Professional:
 2. Klik op de knop hieronder om naar het examenportaal te gaan en uw examen af te leggen (AD5-E839)
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ga naar examenportal
+</span>
+</a>
+
+>[!NOTE]
+>
+>Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+
++++Adobe [!DNL Commerce] Front-end Developer Professional
+
+## U moet het volgende hebben: **actief** certificatie voor vernieuwing met behulp van deze methode:
+
+Adobe [!DNL Commerce] Front-end Developer Professional
+
+## Instructies voor het vernieuwen van uw certificering:
+
+* **Stap 1**: Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
+* **Stap 3**: Neem het examen over en ga door
+
+## Klaar
+
+**Details van examen:**
+
+* Niveau: Professional (0-12 maanden ervaring)
+* Voldoende score: 26/34
+* Tijd: 68 min
+* Levering: Op aanvraag/niet-afgehandeld
+* Beschikbare talen: Engels
+* Kosten: GRATIS
+* Examen-id: AD5-E844-Adobe [!DNL Commerce] Front-endvernieuwing voor ontwikkelaars
+
+**Toepassingsgebied en doelstellingen:**
+
+**Sectie 1: Themabeheer (Themahiërarchie, beeldconfiguratie, vertalingen) (14%)**
+
+* Beschrijf Adobe [!DNL Commerce] themamastructuur
+* Toon capaciteit aan om nieuwe of uitbreiding bestaande thema&#39;s tot stand te brengen
+* Toon capaciteit aan om douanevertaaluitdrukkingen toe te voegen
+
+**Sectie 2: XML en sjablonen van layout (30%)**
+
+* Toon de capaciteit aan om met basislay-outXML instructies te werken
+* Toon de capaciteit aan om bestaande paginalay-outs te gebruiken
+* Beschrijf de stappen voor het uitbreiden van en het met voeten treden van XML
+* Toon capaciteit aan om malplaatjes tot stand te brengen en aan te passen
+* Beschrijf malplaatjeveiligheid (het ontsnappen aan output)
+
+**Sectie 3: Stijlen (22%)**
+
+* Beschrijf het doel van styles-m.less, styles-l.less, print.less
+* Beschrijf het verschil tussen specifieke gedeeltelijke dossiers (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less,)
+* Op basis van een scenario de mogelijkheid aantonen om Magento LESS te overschrijven of uit te breiden
+* Beschrijf de basisconcepten van LESS
+* Verklaar de hiërarchie van stijlen (lib, modules, thema&#39;s)
+* Klant- en servercompilatie uitleggen
+
+**Sectie 4: JavaScript (18%)**
+
+* Toon de capaciteit aan initialiseren en componenten te roepen JavaScript
+* Het gebruik van RequireJS aantonen
+* Beschrijf het gebruik van mengsels
+* Beschrijven hoe u een vertaling in JS kunt toevoegen
+* Beschrijf het gebruik van Knockout JS
+* Beschrijf het gebruik van jQuery-widgets
+
+**Sectie 5: Admin Configuration and PageBuilder (8%)**
+
+* Toon de capaciteit aan om de Inhoud van de Bouwer van de Pagina en van CMS aan te passen
+* Beschrijf stappen om transactie-e-mails aan te passen
+
+**Sectie 6: Gereedschappen (CLI en Grunt) (8%)**
+
+* Beschrijf het gebruik van basisbak/Magento bevelen
+* Beschrijf het gebruik van Composer-opdrachten (installeren, bijwerken, vereisen, verwijderen)
+* Verschil het aangewezen gebruiksgeval voor plaatsingswijzen
+* Beschrijf extra hulpmiddelen die de wolk verstrekt (snel, downloadend gegevensbestand, plaatsing van inhoud)
+
+## Vooraf ingesteld
+
+U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+
+Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+
+**Sectie 1**
+
+* [Voorbeeld van themavertaalwoordenboek](https://developer.adobe.com/commerce/frontend-core/guide/translations/practice/)
+* [Themastructuur](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/)
+* [Themaeigenschappen configureren](https://developer.adobe.com/commerce/frontend-core/guide/themes/configure/)
+* [Een woordenboek gebruiken om tekenreeksen aan te passen](https://developer.adobe.com/commerce/frontend-core/guide/translations/dictionary/)
+
+**Sectie 2**
+
+* [referenceBlock en referenceContainer](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#referenceblock-and-referencecontainer)
+* [Layout-instructies](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/)
+* [Een lay-out overschrijven](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/)
+* [argument](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#argument)
+* [Een nieuwe lay-out maken](https://developer.adobe.com/commerce/frontend-core/guide/layouts/create/)
+* [Hoe te om een lay-out met voeten te treden](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/#how-to-override-a-layout)
+* [Analyse van sjabloonaanpassing](https://developer.adobe.com/commerce/frontend-core/guide/templates/walkthrough/)
+* [magento2/app/design/frontend/Magento/luma/Magento_LayeredNavigation/templates/layer/](https://github.com/magento/magento2/tree/2.4.6/app/design/frontend/Magento/luma/Magento_LayeredNavigation/templates/layer)
+* [Themaovererving](https://developer.adobe.com/commerce/frontend-core/guide/themes/inheritance/)
+* [XSS (Cross-site scripting)](https://developer.adobe.com/commerce/php/development/security/cross-site-scripting/)
+
+**Afdeling 3**
+
+* [CSS in responsief ontwerp](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/css/)
+* [Themastijlen aanpassen](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/)
+* [Bovenliggende stijlen uitbreiden](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#extend-parent-styles)
+* [Bovenliggende stijlen overschrijven](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#override-parent-styles)
+* [Compilatiemodus](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/compilation-mode/)
+
+**Sectie 4**
+
+* [JavaScript aanroepen en initialiseren](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+* [mixen](https://developer.adobe.com/commerce/frontend-core/javascript/requirejs/#shim)
+* [Mengbereik](https://developer.adobe.com/commerce/frontend-core/javascript/mixins/#mixin-scope)
+* [Thematekenreeksen](https://developer.adobe.com/commerce/frontend-core/guide/translations/theory/)
+* [Bindingskaart](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax/#binding-map)
+* [De accordeonwidget initialiseren](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/accordion/#initialize-the-accordion-widget)
+
+## Uw certificering verlengen
+
+De Adobe vernieuwen [!DNL Commerce] Front-endcertificering voor ontwikkelaars:
+
+1. Aanmelden bij de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}
+
+2. Klik op de knop hieronder om naar het examenportaal te gaan en uw examen af te leggen (AD5-E844)
+
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Ga naar examenportal
