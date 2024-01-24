@@ -8,10 +8,10 @@ level: Experienced
 badge: label="Examen AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: a299ce43944bab736c2b0c86e9be80225d4c681d
 workflow-type: tm+mt
-source-wordcount: '804'
-ht-degree: 8%
+source-wordcount: '588'
+ht-degree: 0%
 
 ---
 
@@ -120,38 +120,38 @@ U zou een basisbegrip van gegevensstromen, bedrijfsdoelstellingen en KPIs, met w
 * [[!DNL Audience Manager] zelfstudies](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=tr){target="_blank"}
 * [GDPR-gereedheidsrichtlijnen voor [!DNL Audience Manager] Klanten (gegevenscontrollers)](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-reference/aam-gdpr-readiness.html){target="_blank"}
 * [Pagina Segmentdetails](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-summary-view.html){target="_blank"}
-* [Tips voor klanten - aanbevolen procedures voor kenmerken en segmenten](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.html%3Flang%3Dja){target="_blank"}
+* [Tips voor klanten - aanbevolen procedures voor kenmerken en segmenten](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.html){target="_blank"}
 
 **Sectie 2: Aanmaken van sporen**
 
-* [Signalen, eigenschappen en segmenten](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html){target="_blank"}
-* [Segmenten: doel, samenstelling en regels](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html){target="_blank"}
+* [Signalen, Traits en Segmenten](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html){target="_blank"}
+* [Segmenten: Doel, Samenstelling en Regels](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html){target="_blank"}
 * [Experience Platform segment delen met [!DNL Audience Manager] en andere oplossingen voor Experience Cloud](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html){target="_blank"}
-* [Referenties voor eigenschap- en segmentkwalificaties](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html){target="_blank"}
-* [Populatiedata van eigenschappen en segmenten in Segment Builder](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-builder-data.html){target="_blank"}
+* [Verwijzing naar de kwalificatie van het spoor en het segment](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html){target="_blank"}
+* [Behandelings- en segmentpopulatiegegevens in Segment Builder](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-builder-data.html){target="_blank"}
 
 **Sectie 3: Rapportage en metingen**
 
 * [De prestaties van Audiencen Optimization begrijpen met behulp van rapporten](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
 * [Experience Platform segment delen met [!DNL Audience Manager] en andere oplossingen voor Experience Cloud](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html){target="_blank"}
 * [Overeenstemmen met tarieven](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html){target="_blank"}
-* [Een gegevensbron maken voor Analytics-gegevens](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/data-sources/create-a-data-source-for-analytics-data.html?lang=ru){target="_blank"}
+* [Een gegevensbron maken voor analysegegevens](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/data-sources/create-a-data-source-for-analytics-data.html?lang=ru){target="_blank"}
 
 **Sectie 4: Problemen oplossen**
 
-* [Algemene databronnen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/global-data-sources.html#:~:text=Global%20data%20sources%20are%20accessible,by%20manufacturers%20for%20advertising%20purposes.){target="_blank"}
-* [Lijst met databronnen en -instellingen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html){target="_blank"}
+* [Algemene gegevensbronnen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/global-data-sources.html#:~:text=Global%20data%20sources%20are%20accessible,by%20manufacturers%20for%20advertising%20purposes.){target="_blank"}
+* [Lijst met gegevensbronnen en instellingen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html){target="_blank"}
 * [Gegevensbronnen beheren](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/manage-datasources.html){target="_blank"}
-* [Content van binnenkomende databestanden: syntaxis, ongeldige tekens, variabelen en voorbeelden](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html){target="_blank"}
-* [Opname van binnenkomende realtimedata](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/real-time-inbound-data-integration/real-time-data-transfer.html){target="_blank"}
-* [Id-synchronisatie voor overdracht van binnenkomende data](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-http.html){target="_blank"}
+* [Inbound Data File Contents: Syntax, Invalid Characters, Variables en Examples](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html){target="_blank"}
+* [Real-Time Inbound van Gegevens](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/real-time-inbound-data-integration/real-time-data-transfer.html){target="_blank"}
+* [ID-synchronisatie voor binnenkomende gegevensoverdrachten](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-http.html){target="_blank"}
 
 **Afdeling 5: Taxonomie**
 
-* [Mapeigenschappen: Info](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
-* [Opslag van eigenschappen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-storage.html){target="_blank"}
+* [Maptraits: informatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
+* [Trait-opslag](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-storage.html){target="_blank"}
 * [Een taxonomie maken](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html){target="_blank"}
-* [Inzicht in segmentering](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/personalization/segmentation.html){target="_blank"}
+* [Segmentering begrijpen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/personalization/segmentation.html){target="_blank"}
 
 **Sectie 6: Profielsamenvoeging, ID-synchronisatie en Audience Marplace**
 

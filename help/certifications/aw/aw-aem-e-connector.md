@@ -6,9 +6,9 @@ role: Developer
 badge: label="Examen AD0-E906" type="neutral"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: d7fbe49828eebfab713b0ece434355543ce7f897
+source-git-commit: a299ce43944bab736c2b0c86e9be80225d4c681d
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '541'
 ht-degree: 0%
 
 ---
@@ -146,7 +146,7 @@ En u moet:
 **Sectie 4: Installatie en configuratie van de connector**
 
 * [Installeren [!DNL Workfront] for [!DNL Experience Manager] verbeterde aansluiting](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html){target="_blank"}
-* [[!DNL Workfront] verbeterde verbindingsgrondbeginselen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html%3Flang%3Den){target="_blank"}
+* [[!DNL Workfront] verbeterde verbindingsgrondbeginselen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html){target="_blank"}
 * [Configureren [!DNL Workfront] for [!DNL Experience Manager] verbeterde aansluiting](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html){target="_blank"}
 * [Adobe [!DNL Experience Manager Assets] integratie met Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
 
