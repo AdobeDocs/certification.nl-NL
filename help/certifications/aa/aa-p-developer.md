@@ -8,10 +8,10 @@ level: Experienced
 badge: label="Examen AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 7e8e35f64fad7e82c6560eac5ba04d1e9ebbd937
+source-git-commit: 63240c83879075315fb13635e06d9c1cbcf2a37d
 workflow-type: tm+mt
-source-wordcount: '958'
-ht-degree: 3%
+source-wordcount: '824'
+ht-degree: 0%
 
 ---
 
@@ -143,14 +143,14 @@ U moet ook ervaring hebben met de volgende taken:
 **Sectie 1: Analyse in het ecosysteem van Adobe Experience Cloud**
 
 * [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
-* [Veelgestelde vragen ](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
-* [AEM 6.5 Gebruikersgids voor authoring](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
+* [Veelgestelde vragen](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
+* [AEM 6.5 Handboek voor ontwerpen](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [Overzicht van codes](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=nl){target="_blank"}
 
 **Sectie 2: Analytische strategie en ontwerp gebaseerd op een verwijzing naar het ontwerp van een oplossing**
 
 * [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [Handleiding Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
+* [Handleiding Analysebeheer](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 * [Lijstvariabelen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/list-var-admin.html){target="_blank"}
 * [Verkoop- en productzoekmethoden](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/merchandising-evars.html){target="_blank"}
 
@@ -173,7 +173,7 @@ U moet ook ervaring hebben met de volgende taken:
 * [[!DNL Adobe Analytics]: E-mailmarketing (ESP) - Casestudy over integratie](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003848112-Adobe-Analytics-Email-Marketing-ESP-Integration-Case-Study){target="_blank"}
 * [[!DNL Adobe Analytics] API&#39;s](https://adobedocs.github.io/analytics-2.0-apis/#/){target="_blank"}
 * [Welkom bij de beheergids voor ondernemingen en teams](https://helpx.adobe.com/nl/enterprise/admin-guide.html){target="_blank"}
-* [Analytics Rapportage-API](https://experienceleague.adobe.com/docs/analytics/analyze/reporting-api.html){target="_blank"}
+* [API voor analyserapportage](https://experienceleague.adobe.com/docs/analytics/analyze/reporting-api.html){target="_blank"}
 * [De werking van verwerkingsregels](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
 
 **Sectie 6: Testen, valideren en problemen oplossen**
@@ -191,6 +191,12 @@ U moet ook ervaring hebben met de volgende taken:
 {{sample-questions}}
 
 [Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
+
+<br>
+
+**Een praktijktest uitvoeren**
+
+{{practice-test}}
 
 <br>
 
