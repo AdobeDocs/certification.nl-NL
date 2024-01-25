@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: e966c384d1b08ceecfa02aca78a246beadcd6bc2
+source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
 workflow-type: tm+mt
 source-wordcount: '2241'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!TAB Professional]
 
-+++ Adobe [!DNL Commerce] Professioneel als bedrijf
++++Adobe [!DNL Commerce] Professioneel als bedrijf
 
 ## U moet het volgende hebben: **actief** certificatie voor vernieuwing met behulp van deze methode:
 

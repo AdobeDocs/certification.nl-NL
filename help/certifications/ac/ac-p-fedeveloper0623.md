@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
+source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '686'
 ht-degree: 0%
 
 ---
@@ -180,6 +180,12 @@ Bovendien, zou u kennis van de volgende technologieën moeten tonen:
 * [Configuratiegids](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
 * [Variabelen samenstellen](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
 * [Handel in Cloud-infrastructuur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
+
+<br>
+
+**Een praktijktest uitvoeren**
+
+{{practice-test}}
 
 +++
 
