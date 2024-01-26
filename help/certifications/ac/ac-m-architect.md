@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Examen AD0-E722" type="neutral"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4a1f0a422dca8343b690d9ed7b1d22f8a319d659
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '568'
 ht-degree: 0%
 
 ---
@@ -160,7 +160,7 @@ Bovendien, zou u zeer vertrouwd met de volgende activiteiten en de technologieë
 * [Een aangepast tekstveldkenmerk toevoegen](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html){target="_blank"}
 * [Introductie van de handleiding voor het testen van toepassingen](https://devdocs.magento.com/guides/v2.4/test/testing.html){target="_blank"}
 * [Componentontwikkeling](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
-* [Best practices voor](https://support.magento.com/hc/en-us/categories/360002582351-Best-Practices-){target="_blank"}
+* [Aanbevolen procedures](https://support.magento.com/hc/en-us/categories/360002582351-Best-Practices-){target="_blank"}
 * [Varnish configureren](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
 
 **Sectie 3: Vorm en Implementeer**
@@ -171,6 +171,12 @@ Bovendien, zou u zeer vertrouwd met de volgende activiteiten en de technologieë
 * [Valuta](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
 * [Overzicht van initialisatie en bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
 * [Overzicht van snelle services](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
+
+<br>
+
+**Een praktijktest uitvoeren**
+
+{{practice-test}}
 
 +++
 
