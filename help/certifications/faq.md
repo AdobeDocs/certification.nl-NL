@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
+source-git-commit: 9802690f29bce27e1e65666d9abe66b4baf0a1e6
 workflow-type: tm+mt
-source-wordcount: '2348'
+source-wordcount: '2341'
 ht-degree: 1%
 
 ---
@@ -84,8 +84,8 @@ Voor kandidaten die bij hun eerste poging het certificatieexamen van de Adobe na
 +++Hoe kan ik een kopie van mijn score-rapport krijgen?
 
 * Stap 1: Log in bij de [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Meld u aan met uw id of e-mailadres en wachtwoord.
-* Stap 2: klik op Transcripties.
-* Stap 3: De rol door uw transcripthistorie en selecteert het rapport u zou willen bekijken. Het rapport kan naar u worden gemaild of op het scherm worden weergegeven.
+* Stap 2: klik op Historie.
+* Stap 3: De rol door uw geschiedenis en selecteert het rapport u zou willen bekijken. Het rapport kan naar u worden gemaild of op het scherm worden weergegeven.
 
 +++
 
