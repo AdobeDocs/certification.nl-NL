@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 9802690f29bce27e1e65666d9abe66b4baf0a1e6
+source-git-commit: c28e1098bf6fd6e7b60bdc02372300e4969f3722
 workflow-type: tm+mt
-source-wordcount: '2341'
+source-wordcount: '2342'
 ht-degree: 1%
 
 ---
@@ -85,7 +85,7 @@ Voor kandidaten die bij hun eerste poging het certificatieexamen van de Adobe na
 
 * Stap 1: Log in bij de [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Meld u aan met uw id of e-mailadres en wachtwoord.
 * Stap 2: klik op Historie.
-* Stap 3: De rol door uw geschiedenis en selecteert het rapport u zou willen bekijken. Het rapport kan naar u worden gemaild of op het scherm worden weergegeven.
+* Stap 3: De rol door uw transcripthistorie en selecteert het rapport u zou willen bekijken. Het rapport kan naar u worden gemaild of op het scherm worden weergegeven.
 
 +++
 
