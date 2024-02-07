@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
+source-git-commit: 8d59047bbea28438b655b98296ae19e0c281098b
 workflow-type: tm+mt
-source-wordcount: '2241'
+source-wordcount: '2293'
 ht-degree: 0%
 
 ---
@@ -140,16 +140,9 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 De Adobe vernieuwen [!DNL Commerce] Bedrijfs Praktijkgerichte Beroeps certificatie:
 
-1. Aanmelden bij de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de Adobe om de certificering te vernieuwen [!DNL Commerce] Onderstaande link Bedrijfspraktijk Professional Verlengingsexamen (AD5-E840).
 
-2. Klik op de knop hieronder om naar het examenportaal te gaan en uw examen af te leggen (AD5-E840)
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ga naar examenportal
-</span>
-</a>
+[!BADGE Neem de Adobe [!DNL Commerce] Professioneel en zakelijk beroep Verlengingsexamen (AD5-E840)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840 newtab=true"}
 
 >[!NOTE]
 >
@@ -299,16 +292,9 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 De Adobe vernieuwen [!DNL Commerce] Certificering ontwikkelaar Professional:
 
-1. Aanmelden bij de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de Adobe om de certificering te vernieuwen [!DNL Commerce] Koppeling Developer Professional Renewal Exam (AD5-E839) hieronder.
 
-2. Klik op de knop hieronder om naar het examenportaal te gaan en uw examen af te leggen (AD5-E839)
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ga naar examenportal
-</span>
-</a>
+[!BADGE Neem de Adobe [!DNL Commerce] Verlengingsexamen voor ontwikkelaars Professional (AD5-E839)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839 newtab=true"}
 
 >[!NOTE]
 >
@@ -433,16 +419,9 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 De Adobe vernieuwen [!DNL Commerce] Front-endcertificering voor ontwikkelaars:
 
-1. Aanmelden bij de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}
+Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de Adobe om de certificering te vernieuwen [!DNL Commerce] Koppeling naar front-end Developer Professional Renewal Exam (AD5-E844) hieronder.
 
-2. Klik op de knop hieronder om naar het examenportaal te gaan en uw examen af te leggen (AD5-E844)
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ga naar examenportal
-</span>
-</a>
+[!BADGE Neem de Adobe [!DNL Commerce] Front-End Developer Professional Renewal Exam (AD5-E844)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844 newtab=true"}
 
 >[!NOTE]
 >

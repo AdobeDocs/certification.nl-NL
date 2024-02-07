@@ -4,9 +4,9 @@ description: Meer informatie over [!DNL Experience Cloud] Certificering bij Adob
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: 8d59047bbea28438b655b98296ae19e0c281098b
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '403'
 ht-degree: 6%
 
 ---
@@ -22,6 +22,8 @@ Het Adobe Digital Experience Credential-programma is gemaakt om u te helpen uw v
 Adobe [!DNL Experience Cloud] is een reeks oplossingen voor digitale marketing waarmee bedrijven gepersonaliseerde klantervaringen kunnen bieden via verschillende kanalen, zoals web, mobiele apparatuur, e-mail en sociale media. Adobe [!DNL Experience Cloud] omvat een reeks producten, zoals Adobe [!DNL Real-Time CDP], ADOBE [!DNL Experience Manager], ADOBE [!DNL Commerce], ADOBE [!DNL Journey Optimizer], ADOBE [!DNL Customer Analytics]en meer.
 
 Toon uw vaardigheid aan en neem uw carrière naar het volgende niveau door Adobe verklaard te worden.
+
+[**Lijst met certificeringen per programma weergeven**](#view-all-certifications)
 
 ## Waarom worden gecertificeerd?
 
@@ -42,8 +44,7 @@ Ontgrendel vandaag nog uw professionele mogelijkheden door meer te leren over he
 
 <a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">Aan de slag</span></a>
 
-
-## Alle certificaten weergeven
+## Alle certificaten weergeven {#view-all-certifications}
 
 Alle details over elke beschikbare productcertificatie zijn vermeld in de inhoudstafel aan de linkerzijde en in de hieronder lijst:
 
