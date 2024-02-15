@@ -7,9 +7,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: 5d8842eefd4c61966743d52e3eb843890d92648c
 workflow-type: tm+mt
-source-wordcount: '1521'
+source-wordcount: '1209'
 ht-degree: 0%
 
 ---
@@ -159,7 +159,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de Adobe om de certificering te vernieuwen [!DNL Target] De professionele Beroeps van de Praktijk vernieuwt hieronder verbinding van het Examen.
 
-[!BADGE Neem de Adobe [!DNL Target]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E838 newtab=true"}
+[!BADGE Neem de Adobe [!DNL Target] Bedrijfs Praktijkdeskundige Verlengingsexamen AD5-E838]{type=Informative url="https://scorpion.caveon.com/launchpad/ad5-e838-adobe-target-business-practitioner-professional-renewal newtab=true"}
 
 >[!NOTE]
 >
