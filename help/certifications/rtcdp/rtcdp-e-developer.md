@@ -7,9 +7,9 @@ role: Developer,Data Architect
 badge: label="Examen AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
+source-git-commit: 16ffac2b0619d0cdce85e6f73a45cff84a5e306b
 workflow-type: tm+mt
-source-wordcount: '958'
+source-wordcount: '877'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,6 @@ ht-degree: 0%
 # Certificeringsreis voor Adobe [!DNL Real-Time Customer Data Platform] Ontwikkelaarsexpert
 
 {{intro}}
-
->[!TIP]
->
->Ga als volgt te werk **50% korting** dit examen, aankoop en planning uw examen door **Exemplaar** voor **15 februari 2024**. De korting wordt automatisch toegepast. Zie Stap 3 voor de aankoop- en planningsinstructies. <br><br><i>Dit voorstel is niet van toepassing op aankopen via een andere site.</i>
 
 ## Beschrijving van examen {#exam-description}
 
@@ -251,10 +247,6 @@ U dient comfortabel te zijn in deze omgevingen:
 <br>
 
 +++Stap 3: Planning en betaal voor examen
-
->[!TIP]
->
->Ga als volgt te werk **50% korting** dit examen, aankoop en planning uw examen door **Exemplaar** voor **15 februari 2024**. De korting wordt automatisch toegepast. <br><br><i>Dit voorstel is niet van toepassing op aankopen via een andere site.</i>
 
 {{schedule-and-pay}}
 
