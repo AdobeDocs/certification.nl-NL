@@ -4,9 +4,9 @@ description: Leer hoe u gecertificeerd kunt worden tijdens de Adobe. Zoek alle b
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1494'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,7 @@ Voorbeeld:
 
 * [Registreren voor een online geproctored examen](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
 * [Hoe te om examen te lanceren en met de aannemer te verbinden](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
+* [Voorschriften voor het systeem van de testbank](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!TAB Uw examen nemen]
 
@@ -43,9 +44,11 @@ Uw [profiel](https://www.certmetrics.com/adobe/candidate/demographics.aspx){targ
 
 **Annuleren en opnieuw plannen**
 
-De annuleringen en het opnieuw plannen zijn mogelijk als in werking gesteld voorafgaand aan 48 uren vóór de geplande examenbenoeming. De kandidaten moeten deze benoeming zelf wijzigen.
+De annuleringen en het opnieuw plannen zijn gewoonlijk mogelijk als in werking gesteld voorafgaand aan 48 uur vóór de geplande examenbenoeming. De kandidaten moeten deze benoeming zelf wijzigen.
 
 Geen van beide Adobe-ondersteuning of examen kan herplannings- en annuleringsverzoeken verwerken. Voor annuleringen onder de 48 uur geldt naast de examenkosten een herplanningsvergoeding.
+
+Als u uw examen niet kunt opnieuw plannen, alhoewel het meer dan 48 uren vóór uw examen is, kan dat omdat er een nieuwe versie van het examen is. Als uw benoeming voor de vorige versie van het examen was, zult u uw examenbenoeming niet kunnen opnieuw plannen. Wij adviseren dat u uw examenbenoeming houdt als helemaal mogelijk. Als u niet kunt, zult u uw examen moeten annuleren en een nieuwe benoeming plannen om het nieuwe examen te nemen.
 
 **Na uw examen**
 

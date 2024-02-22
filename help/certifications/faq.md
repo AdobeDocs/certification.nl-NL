@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: c28e1098bf6fd6e7b60bdc02372300e4969f3722
+source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
 workflow-type: tm+mt
-source-wordcount: '2342'
+source-wordcount: '2485'
 ht-degree: 1%
 
 ---
@@ -62,6 +62,16 @@ Zie voor meer informatie de [!DNL Examity] pagina voor het beheren van examens e
 +++Who kan ik met certificatievragen of problemen contacteren?
 
 Voor vragen over examenregistratie, examenbetalingen, testlevering, testcentra, commentaren op examenvragen, examenvragen, testervaring, testaccommodatie, of vragen over het certificatieportaal, reiken uit `certif@adobe.com`.
+
++++
+
++++Kan ik mijn examenbenoeming annuleren of opnieuw plannen?
+
+De annuleringen en het opnieuw plannen zijn gewoonlijk mogelijk als in werking gesteld voorafgaand aan 48 uur vóór de geplande examenbenoeming. De kandidaten moeten deze benoeming zelf wijzigen.
+
+Geen van beide Adobe-ondersteuning of examen kan herplannings- en annuleringsverzoeken verwerken. Voor annuleringen onder de 48 uur geldt naast de examenkosten een herplanningsvergoeding.
+
+Als u uw examen niet kunt opnieuw plannen, alhoewel het meer dan 48 uren vóór uw examen is, kan dat omdat er een nieuwe versie van het examen is. Als uw benoeming voor de vorige versie van het examen was, zult u uw examenbenoeming niet kunnen opnieuw plannen. Wij adviseren dat u uw examenbenoeming houdt als helemaal mogelijk. Als u niet kunt, zult u uw examen moeten annuleren en een nieuwe benoeming plannen om het nieuwe examen te nemen.
 
 +++
 
