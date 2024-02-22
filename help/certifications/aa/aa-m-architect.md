@@ -8,10 +8,10 @@ role: Data Architect,Developer
 badge: label="Examen AD0-E207" type="neutral"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
 workflow-type: tm+mt
-source-wordcount: '573'
-ht-degree: 6%
+source-wordcount: '436'
+ht-degree: 0%
 
 ---
 
@@ -114,7 +114,7 @@ Bovendien, bent u verantwoordelijk voor het omzetten van bedrijfsvereisten in he
 **Sectie 1: Detectie**
 
 * [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [[!DNL Analytics] Handleiding voor componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
+* [[!DNL Analytics] Hulplijn voor onderdelen](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
 * [Overzicht van codes](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=nl){target="_blank"}
 * [[!DNL Analytics] Technische notities](https://experienceleague.adobe.com/docs/analytics/technotes/home.html){target="_blank"}
 * [Data Layer Manager](https://exchange.adobe.com/apps/ec/101462/data-layer-manager){target="_blank"}
@@ -122,10 +122,10 @@ Bovendien, bent u verantwoordelijk voor het omzetten van bedrijfsvereisten in he
 **Sectie 2: Oplossingsontwerp**
 
 * [[!DNL Analytics] Beheerdershandleiding](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
-* [[!DNL Analytics] Handleiding voor componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
-* [[!DNL Analytics] Handleiding Tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [[!DNL Analytics] Hulplijn voor onderdelen](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
+* [[!DNL Analytics] Hulplijn](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
 * [iOS SDK 4.x voor Experience Cloud-oplossingen](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html){target="_blank"}
-* [[!DNL Analytics] Handleiding importeren](https://experienceleague.adobe.com/docs/analytics/import/home.html){target="_blank"}
+* [[!DNL Analytics] Hulplijn importeren](https://experienceleague.adobe.com/docs/analytics/import/home.html){target="_blank"}
 * [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
 * [[!DNL Analytics] Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
 * [Administratieve rollen](https://helpx.adobe.com/in/enterprise/using/admin-roles.html){target="_blank"}
@@ -135,24 +135,22 @@ Bovendien, bent u verantwoordelijk voor het omzetten van bedrijfsvereisten in he
 **Sectie 3: Uitvoering na de implementatie**
 
 * [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [[!DNL Analytics] Handleiding voor componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
+* [[!DNL Analytics] Hulplijn voor onderdelen](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
 * [[!DNL Analytics] Beheerdershandleiding](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 * [De door gebeurtenissen gestuurde gegevenslaag](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
-* [[!DNL Analytics] Handleiding exporteren](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
+* [[!DNL Analytics] Hulplijn exporteren](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
 * [Adobe [!DNL Target] Handelspraktijken](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [Adobe [!DNL Experience Cloud] Identiteitsservice](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
-* [[!DNL Analytics] Handleiding importeren](https://experienceleague.adobe.com/docs/analytics/import/home.html){target="_blank"}
-* [[!DNL Analytics] Handleiding Tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [[!DNL Analytics] Hulplijn importeren](https://experienceleague.adobe.com/docs/analytics/import/home.html){target="_blank"}
+* [[!DNL Analytics] Hulplijn](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
 * [Gegevensinvoegingsproces](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
 * [Het Experience Cloud implementeren op websites met zelfstudie over tags](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
 
 <br>
 
-**Voorbeeldvragen**
+**Een praktijktest uitvoeren**
 
-{{sample-questions}}
-
-[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
+{{practice-test}}
 
 +++
 
