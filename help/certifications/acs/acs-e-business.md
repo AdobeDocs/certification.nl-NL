@@ -7,10 +7,10 @@ role: User
 badge: label="Examen AD0-E307" type="neutral"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 12006135c8d8805012b1a406630e39e46b08caa3
 workflow-type: tm+mt
-source-wordcount: '637'
-ht-degree: 11%
+source-wordcount: '518'
+ht-degree: 0%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 11%
 * Voldoende score: 30/50
 * Tijd: 100 min
 * Aflevering: online geprocoreerd (cameratoegang vereist)
-* Beschikbare talen: Engels en Japans
+* Beschikbare talen: Engels
 * Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E307
 
@@ -134,15 +134,15 @@ Bovendien moet u:
 **Afdeling 1: Leveringsbeheer**
 
 * [Beheer van Portfolio&#39;s](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&amp;_LANG=en){target="_blank"}
-* [Informatie over kanaalconfiguratie](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
-* [Een verzending controleren](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/monitoring-messages/monitoring-a-delivery.html?lang=nl){target="_blank"}
-* [Email Designer in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html){target="_blank"}
+* [Kanaalconfiguratie](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
+* [Toezicht op de levering](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/monitoring-messages/monitoring-a-delivery.html?lang=nl){target="_blank"}
+* [Campagne voor e-mailontwerper](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html){target="_blank"}
 
 **Sectie 2: Campagnebeheer**
 
-* [Informatie over workflowuitvoering](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/about-workflow-execution.html){target="_blank"}
+* [Workflowuitvoering](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/about-workflow-execution.html){target="_blank"}
 * [Aangepaste bronnen voor privacyverzoeken wijzigen](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/privacy/custom-resources-for-privacy-requests.html){target="_blank"}
-* [Doelgroepen maken](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-audiences/creating-audiences.html){target="_blank"}
+* [Soorten publiek maken](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-audiences/creating-audiences.html){target="_blank"}
 
 **Deel 3: Eisen en analyse**
 
@@ -159,12 +159,12 @@ Bovendien moet u:
 
 **Sectie 5: Problemen oplossen**
 
-* [Best practices voor workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=nl){target="_blank"}
-* [Problemen met API oplossen](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/troubleshooting.html){target="_blank"}
+* [Aanbevolen werkstromen](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=nl){target="_blank"}
+* [API-problemen](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/troubleshooting.html){target="_blank"}
 
 **Afdeling 6: Gegevensbeheer en -beheer**
 
-* [ [!DNL Campaign Standard] Aan de slag met het datamodel](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
+* [Aan de slag met [!DNL Campaign Standard] gegevensmodel](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
 * [Aan de slag met [!DNL Campaign Standard] administratie](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 
 <br>
