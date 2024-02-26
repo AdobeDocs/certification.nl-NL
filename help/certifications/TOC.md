@@ -2,7 +2,7 @@
 user-guide-title: Certificering bij Adobe
 breadcrumb-title: Certificering bij Adobe
 user-guide-description: Meer informatie over [!DNL Experience Cloud] Certificering bij Adobe. Ontdek wat certificeren voor u kan doen.
-source-git-commit: 9da619a40b8ebfdee7c9940cc56138f84ae76e8d
+source-git-commit: 4ff319790c8be6b9f66f95dcd18709b3536d62d7
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 28%
@@ -16,9 +16,6 @@ ht-degree: 28%
 + [Aan de slag](getting-started.md)
 + [Hoe wordt gecertificeerd?](how-to-get-certified.md)
 + [Uw certificering verlengen](renew.md)
-+ [Programma opnieuw starten](restart-program.md)
-+ [Mijn profiel](my-profile.md)
-+ [Veelgestelde vragen](faq.md)
 + Technische certificeringen per oplossing {#technical-certifications}
    + Adobe [!DNL Advertising] {#aac}
       + [Overzicht van advertenties](/help/certifications/aac/aac-overview.md)
@@ -146,7 +143,10 @@ ht-degree: 28%
          + [AEM verbeterde aansluiting](/help/certifications/aw/aw-aem-e-connector.md)
       + [Verlenging](/help/certifications/aw/aw-renew.md)
    + [Gekwalificeerde examens verstrekt door ADLS](https://learning.adobe.com/certification/credentials)
++ [Veelgestelde vragen](faq.md)
 + Verborgen {#hidden}
    + [Certificering subsidiabiliteitstest opnieuw starten](exam-eligibility-check.md)
    + [Overzicht van Experience Platform](/help/certifications/aep/aep-overview.md)
    + [Ontwikkelaar)](/help/certifications/aep/aep-e-foundations.md)
+   + [Programma opnieuw starten](restart-program.md)
+   + [Mijn profiel](my-profile.md)
