@@ -6,9 +6,9 @@ role: Developer
 badge: label="Examen AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
+source-git-commit: 1ce319897956f6f83a541d11e60f8003b6dd37e4
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 0%
 # Certificeringsreis voor Adobe [!DNL Workfront] Core Developer Professional
 
 {{intro}}
-
->[!NOTE]
->
->Dit is de nieuwste Adobe [!DNL Workfront] Core Developer Professional-examen (ADO-E908). Als u al bent begonnen met studeren of de [oudere versie (ADO-E905)](aw-core-p-developer.md), moet u deze voor 26 februari 2024 voltooien. Als u moet opnieuw plannen, moet u het nieuwe examen nemen.
 
 ## Beschrijving van examen {#exam-description}
 
@@ -239,10 +235,6 @@ De Adobe [!DNL Workfront] Core Developer Certified Professional heeft:
 {{about-certification-exam}}
 
 ## Plan of neem examen AD0-E908
-
->[!NOTE]
->
->Dit is de nieuwste Adobe [!DNL Workfront] Core Developer Professional-examen (ADO-E908). Als u al bent begonnen met studeren of de [oudere versie (ADO-E905)](aw-core-p-developer.md), moet u deze voor 26 februari 2024 voltooien.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E908" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
