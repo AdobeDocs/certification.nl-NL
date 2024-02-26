@@ -7,10 +7,10 @@ role: Developer
 badge: label="Examen AD0-E124" type="neutral"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: b85f78f953bf07135a2c77680b9015f7a8d17990
 workflow-type: tm+mt
-source-wordcount: '769'
-ht-degree: 1%
+source-wordcount: '686'
+ht-degree: 0%
 
 ---
 
@@ -30,9 +30,9 @@ ht-degree: 1%
 * Voldoende score: 30/50
 * Tijd: 100 min
 * Aflevering: online geprocoreerd (cameratoegang vereist)
-* Beschikbare talen: Engels
+* Beschikbare talen: Engels, Japans
 * Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E124
+* Examen-id: AD0-E124 (Engels), AD0-E124-J (Japans)
 
 <br>
 
@@ -159,7 +159,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * [Codeimplementatie](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html){target="_blank"}
 * [Productiepijpleidingen configureren](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html){target="_blank"}
 * [Hoe te met Pakketten werken](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html){target="_blank"}
-* [AEM-projectstructuur](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html){target="_blank"}
+* [AEM projectstructuur](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html){target="_blank"}
 
 **Sectie 5: Toezicht op en rapportage over metrische kwaliteitsinformatie**
 
@@ -197,12 +197,23 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 {{about-certification-exam}}
 
-## Plan of neem examen AD0-E124
+## Plan of neem examen AD0-E124 (Engels)
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Ga naar examenportal
+   Ga naar examenportaal - Engels examen
+</span>
+</a>
+
+## Plan of neem examen AD0-E124-J (Japans)
+
+{{Japanese-exam-details}}
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ga naar examenportal - Japans examen
 </span>
 </a>
 
