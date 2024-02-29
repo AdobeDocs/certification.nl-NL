@@ -6,9 +6,10 @@ product: Magento
 role: Developer
 badge: label="Examen AD0-E720" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
+source-git-commit: 231b3e61d7135dadfdc04be56bdb7f855d7c0112
 workflow-type: tm+mt
-source-wordcount: '924'
+source-wordcount: '794'
 ht-degree: 0%
 
 ---
@@ -26,7 +27,7 @@ ht-degree: 0%
 ### Details van examen {#exam-details}
 
 * Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 33/50
+* Voldoende score: 29/50
 * Tijd: 100 min
 * Aflevering: online geprocoreerd (cameratoegang vereist)
 * Beschikbare talen: Engels
