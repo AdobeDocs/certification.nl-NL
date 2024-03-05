@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E134" type="neutral"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: 8d50d5574c0f9066acc58272e44994e2771cbefc
+source-git-commit: dddfd2d13bd27666a4a17e4c8002b91b555381ee
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '561'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,9 @@ ht-degree: 0%
 * Voldoende score: 26/50
 * Tijd: 100 min
 * Aflevering: online geprocoreerd (cameratoegang vereist)
-* Beschikbare talen: Engels
+* Beschikbare talen: Engels, Japans
 * Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E134
+* Examen-id: AD0-E134 (Engels), AD0-E134-J (Japans)
 
 <br>
 
@@ -191,9 +191,20 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 {{about-certification-exam}}
 
-## Plan of neem examen AD0-E134
+## Plan of neem examen AD0-E134 (Engels)
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Ga naar examenportal
+</span>
+</a>
+
+## Plan of neem examen AD0-E134-J (Japans)
+
+{{Japanese-exam-details}}
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Ga naar examenportal
