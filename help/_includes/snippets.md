@@ -1,5 +1,5 @@
 ---
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: 8c00f88b9fd291a179c8c6fc1a6b251464e85438
 workflow-type: tm+mt
 source-wordcount: '1746'
 ht-degree: 0%
@@ -123,7 +123,7 @@ Betalen via voucher: Ga naar: Adobe Certification Voucher Center om een examenvo
 
 **Een voucher aanschaffen**
 
-U kunt voor een examen met een bon betalen. Als u een examenvoucher wilt kopen, gaat u naar de [Adobe Certification Voucher Center](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}.
+U kunt voor een examen met een bon betalen. Als u een examenvoucher wilt kopen, gaat u naar de [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
 U kunt de vouchercode toepassen wanneer u uw examen plant. Zie hieronder voor informatie over bonkorting.
 
