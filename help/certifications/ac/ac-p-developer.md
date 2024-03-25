@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '715'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,16 @@ ht-degree: 0%
 # Certificeringsreis voor Adobe [!DNL Commerce] Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
+>
+>* **Cursus:** Neem een [trainingscursus](https://app.rockinfo.com/courses/106) Dit omvat uitleg over belangrijke concepten, praktijkdemonstraties en kenniscontroles.
+>
+>* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/382) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de diepgaande studiematerialen u op uw examen zult moeten succesvol zijn.
+>
+>Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID.
 
 ## Beschrijving van examen {#exam-description}
 
@@ -172,94 +182,31 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 {{study-materials-intro}}
 
-**Sectie 1: Werken met Admin**
-
-* [Indelingen](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
-* [Gebruikersrollen](https://docs.magento.com/user-guide/system/permissions-user-roles.html){target="_blank"}
-* [Inleiding tot UI-componenten](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/bk-ui_comps.html){target="_blank"}
-* [Configuratiebestanden voor implementatie](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [Uitbreidbaarheid en modulariteit](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html){target="_blank"}
-
-**Sectie 2: Architectuur**
-
-* [Uitbreidbaarheid en modulariteit](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html){target="_blank"}
-* [Configuratiebestanden voor implementatie](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [Gereedschap Command-lijn](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
-* [Gebeurtenissen en waarnemers](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
-* [Inleiding tot beheersystemen](https://docs.magento.com/user-guide/system/tools.html){target="_blank"}
-* [Sjablonen](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
-* [Vertalingen](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
-* [URL herschrijft](https://docs.magento.com/user-guide/marketing/url-rewrite.html){target="_blank"}
-* [Caching configureren](https://devdocs.magento.com/guides/v2.4/config-guide/cache.html){target="_blank"}
-* [Varnish configureren en gebruiken](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
-* [Webwinkels en -weergaven](https://docs.magento.com/user-guide/stores/websites-stores-views.html){target="_blank"}
-* [Bereik van site, winkel en weergave](https://docs.magento.com/user-guide/configuration/scope.html){target="_blank"}
-* [Categorieën maken](https://docs.magento.com/user-guide/catalog/category-create.html){target="_blank"}
-* [Winkel- en sitestructuur](https://docs.magento.com/user-guide/stores/stores-all-stores.html){target="_blank"}
-
-**Deel 3: Basisbegrippen voor digitale marketing en e-handel**
-
-* [[!DNL Commerce] Tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
-* [Gebeurtenissen en waarnemers](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
-* [Gelaagde navigatie](https://docs.magento.com/user-guide/catalog/navigation-layered.html){target="_blank"}
-* [Overzicht van productkenmerken](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
-* [Overzicht van declaratief schema](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/){target="_blank"}
-
-**Sectie 4: Lay-out/gebruikersinterface**
-
-* [Pagina&#39;s](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
-* [Indelingen](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
-* [Cascading Style Sheets](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-overview.html){target="_blank"}
-* [Thema&#39;s](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [Inleiding tot JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/javascript/js_overview.html){target="_blank"}
-* [Codeerstandaarden](https://devdocs.magento.com/guides/v2.4/coding-standards/bk-coding-standards.html){target="_blank"}
-* [Pagina in cache plaatsen](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/page-caching.html){target="_blank"}
-
-**Afdeling 5: Afhandeling en verkoop**
-
-* [Orderbeheer en -activiteiten](https://docs.magento.com/user-guide/sales/order-management.html){target="_blank"}
-* [Winkelwagentje](https://docs.magento.com/user-guide/sales/cart.html){target="_blank"}
-* [Prijsregels voor winkelwagentjes](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"}
-* [Afhandeling aanpassen](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_overview.html){target="_blank"}
-* [Vaak [!DNL Commerce] Tabellen](https://docs.magento.com/mbi/data-analyst/data-warehouse-mgr/common-mage-tables.html){target="_blank"}
-* [Een nieuwe integratie in de betalingsmethode toevoegen](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
-* [Valuta](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
-
-**Sectie 6: Catalogus**
-
-* [Overzicht van rubrieken](https://docs.magento.com/user-guide/catalog/categories.html){target="_blank"}
-* [Een product maken](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
-* [Aanbiedingen](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [Dynamische blokken](https://docs.magento.com/user-guide/cms/dynamic-blocks.html){target="_blank"}
-* [Regels inzake catalogusprijzen](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){target="_blank"}
-* [Geavanceerde prijzen](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
-
-**Deel 7: Adobe [!DNL Commerce] Cloudarchitectuur**
-
-* [[!DNL Commerce] over Cloud-infrastructuur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html){target="_blank"}
-* [Cloudarchitectuur voor [!DNL Commerce]](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html){target="_blank"}
-* [Starter-architectuur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/starter-architecture.html){target="_blank"}
-* [Pro-architectuur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
-* [Schaalbare architectuur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/scaled-architecture.html){target="_blank"}
-
-**Sectie 8: Adobe instellen/configureren [!DNL Commerce] Wolk**
-
-* [Overzicht van configuratiebestanden](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html){target="_blank"}
-* [Eigenschappen voor toepassingsconfiguratie](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html){target="_blank"}
-* [Omgevingsvariabelen voor implementatie configureren](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/configure-env-yaml.html){target="_blank"}
-* [Adobe [!DNL Commerce] over productomschrijving in cloud](https://helpx.adobe.com/legal/product-descriptions/adobe-commerce-on-cloud.html){target="_blank"}
-
-**Sectie 9: [!DNL Commerce] Cloud CLI (onderdeel beheren)**
-
-* [Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli.html){target="_blank"}
-* [De takken met CLI beheren](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/cli-branches.html){target="_blank"}
-* [Services configureren](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/services-yaml.html){target="_blank"}
-
-<br>
-
 **Een praktijktest uitvoeren**
 
 {{practice-test}}
+
+**Een cursus volgen**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Cursus volgen
+</span>
+</a>
+
+**Handleiding voor voorinstelling van examen**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/382" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Handleiding voor voorinstelling van examen weergeven
+</span>
+</a>
 
 +++
 

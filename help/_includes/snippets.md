@@ -1,7 +1,7 @@
 ---
-source-git-commit: 8c00f88b9fd291a179c8c6fc1a6b251464e85438
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '1746'
+source-wordcount: '1800'
 ht-degree: 0%
 
 ---
@@ -226,3 +226,11 @@ Certificeringen verlopen na twee jaar. Als u uw certificering wilt behouden, moe
 Plan uw examen tussen zondag - Donderdag 5pm - 2am ET om ervoor te zorgen wij een Japans-sprekende aannemer kunnen toewijzen. Als u buiten deze uren plant, kunnen wij geen Japans-sprekende aannemer waarborgen.
 
 [Japanse instructies voor planning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
+
+## Een gratis cursus volgen {#take-course}
+
+Deze vrije, op bestelling cursus helpt u voor uw examen met verklaringen van zeer belangrijke concepten, hands-on demonstraties, en kenniscontroles voorbereiden.
+
+## Handleiding voor voorinstelling van examen {#exam-prep-guide}
+
+De vrije Gids van de Prep van het Examen verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de diepgaande onderzoeksmaterialen u op uw examen zult moeten succesvol zijn.

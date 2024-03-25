@@ -7,16 +7,20 @@ role: User
 badge: label="Examen AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '582'
-ht-degree: 5%
+source-wordcount: '505'
+ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Analytics] Professioneel als bedrijf
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/391) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -125,37 +129,27 @@ U dient minimaal 3 maanden ervaring te hebben met [!DNL Adobe Analytics] en de v
 
 {{study-materials-intro}}
 
-**Sectie 1: Bedrijfsanalyse**
+**Handleiding voor voorinstelling van examen**
 
-* [Handleiding Analytics-tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [Handleiding voor Analytics-componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
-* [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [Help bij Data Workbench](https://experienceleague.adobe.com/docs/data-workbench/using/home.html){target="_blank"}
+{{exam-prep-guide}}
 
-**Sectie 2: Rapportage en dashboarding voor projecten**
+<a href="https://app.rockinfo.com/courses/playScorm/391" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* [Handleiding Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
-* [Handleiding Analytics-tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [Overzicht van visualisatie](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html#quick-viz){target="_blank"}
-* [Handleiding voor Analytics-componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
-* [Handleiding voor Customer Journey Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}
-
-**Sectie 3: Segmentering en berekende cijfers**
-
-* [Handleiding voor Analytics-componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
-
-**Sectie 4: Algemene kennis van gereedschappen en probleemoplossing**
-
-* [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [Handleiding voor Analytics-componenten](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
-
-<br>
+<span class="spectrum-Button-label has-no-wrap">
+   Handleiding voor voorinstelling van examen weergeven
+</span>
+</a>
 
 **Voorbeeldvragen**
 
 {{sample-questions}}
 
-[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
+<a href="https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Voorbeeldvragen weergeven
+</span>
+</a>
 
 +++
 

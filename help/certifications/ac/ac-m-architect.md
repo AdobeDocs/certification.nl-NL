@@ -8,17 +8,20 @@ level: Experienced
 badge: label="Examen AD0-E722" type="neutral"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 4a1f0a422dca8343b690d9ed7b1d22f8a319d659
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
 
 # Certificeringsreis voor Adobe [!DNL Commerce] Architect Master
 
-
 {{intro}}
+
+>[!NOTE]
+>
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/388) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -141,42 +144,20 @@ Bovendien, zou u zeer vertrouwd met de volgende activiteiten en de technologieë
 
 {{study-materials-intro}}
 
-**Sectie 1: Ontwerp**
-
-* [Een product maken](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
-* [Pagina in cache plaatsen](https://developer.adobe.com/commerce/php/development/cache/page/){target="_blank"}
-* [Inleiding tot [!DNL Commerce] Klantenbeheer](https://docs.magento.com/user-guide/customers/customers-menu.html){target="_blank"}
-* [Gebeurtenissen en waarnemers](https://developer.adobe.com/commerce/php/development/components/events-and-observers/){target="_blank"}
-* [Overzicht van SEO](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
-* [Winkeldetails](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
-* [Pagina&#39;s](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
-* [Een nieuwe integratie in de betalingssector toevoegen (betalingsmethode)](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
-* [Verificatie](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"}
-* [GraphQL-overzicht](https://devdocs.magento.com/guides/v2.4/graphql/index.html){target="_blank"}
-
-**Afdeling 2: Herziening**
-
-* [Inleiding](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-* [Een aangepast tekstveldkenmerk toevoegen](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html){target="_blank"}
-* [Introductie van de handleiding voor het testen van toepassingen](https://devdocs.magento.com/guides/v2.4/test/testing.html){target="_blank"}
-* [Componentontwikkeling](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
-* [Aanbevolen procedures](https://support.magento.com/hc/en-us/categories/360002582351-Best-Practices-){target="_blank"}
-* [Varnish configureren](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
-
-**Sectie 3: Vorm en Implementeer**
-
-* [Referentiehandleiding voor configuratie](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
-* [Configuratiebestanden voor implementatie](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [Redis configureren](https://devdocs.magento.com/guides/v2.4/config-guide/redis/config-redis.html){target="_blank"}
-* [Valuta](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
-* [Overzicht van initialisatie en bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
-* [Overzicht van snelle services](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
-
-<br>
-
 **Een praktijktest uitvoeren**
 
 {{practice-test}}
+
+**Handleiding voor voorinstelling van examen**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/388" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Handleiding voor voorinstelling van examen weergeven
+</span>
+</a>
 
 +++
 
