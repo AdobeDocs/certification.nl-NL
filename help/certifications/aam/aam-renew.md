@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 408319cc7072f063cbcdfdda84a019075defbc72
+source-git-commit: 4259d28b4cb603fe1d0aa1d184b9f27ad1b8bd03
 workflow-type: tm+mt
 source-wordcount: '1729'
 ht-degree: 0%
@@ -36,17 +36,17 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!TAB Professional]
 
+## Instructies voor het vernieuwen van uw certificering:
+
+* **Stap 1**: Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
+* **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
+* **Stap 3**: Neem het examen over en ga door
+
 ### Adobe [!DNL Audience Manager] Bedrijfs Praktijkdeskundige Verlengingsexamen
 
 U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 * Adobe [!DNL Audience Manager] Professioneel als bedrijf
-
-### Instructies voor het vernieuwen van uw certificering:
-
-* **Stap 1**: Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
-* **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
-* **Stap 3**: Neem het examen over en ga door
 
 ### Klaar
 
@@ -163,15 +163,15 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 
 >[!TAB Expert]
 
-U moet momenteel zijn gecertificeerd (niet verlopen) in:
-
-* Adobe Audience Manager Business Practitioner Expert
-
-### Instructies voor het vernieuwen van uw certificering:
+## Instructies voor het vernieuwen van uw certificering:
 
 * **Stap 1**: Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
 * **Stap 3**: Neem het examen over en ga door
+
+### U moet momenteel zijn gecertificeerd (niet verlopen) in:
+
+* Adobe Audience Manager Business Practitioner Expert
 
 ### Klaar
 
@@ -244,15 +244,15 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 
 >[!TAB Master]
 
-### U moet momenteel zijn gecertificeerd (niet verlopen) in:
-
-* Adobe Audience Manager Architect master
-
-### Instructies voor het vernieuwen van uw certificering
+## Instructies voor het vernieuwen van uw certificering
 
 * **Stap 1** - De examendoelstellingen evalueren
 * **Stap 2** - De middelen evalueren
 * **Stap 3** - Neem het examen in en laat het
+
+### U moet momenteel zijn gecertificeerd (niet verlopen) in:
+
+* Adobe Audience Manager Architect master
 
 ### Klaar
 
