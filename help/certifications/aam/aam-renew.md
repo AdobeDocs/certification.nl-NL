@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 856946800cb9911550c2c79555350e1f250d1665
+source-git-commit: 408319cc7072f063cbcdfdda84a019075defbc72
 workflow-type: tm+mt
-source-wordcount: '1714'
+source-wordcount: '1729'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!TAB Professional]
 
-## Adobe [!DNL Audience Manager] Bedrijfs Praktijkdeskundige Verlengingsexamen
+### Adobe [!DNL Audience Manager] Bedrijfs Praktijkdeskundige Verlengingsexamen
 
 U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
@@ -60,9 +60,9 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 * Kosten: GRATIS
 * Examen-id: AD5-E852-Adobe [!DNL Audience Manager] Bedrijfs Praktijkdeskundige Verlengingsexamen
 
-### Doelstellingen en reikwijdte van examen*
+### Doelstellingen en toepassingsgebied van examen
 
-**Segment maken en synchroniseren 32%**
+**Sectie 1: Segment maken en synchroniseren (32%)**
 
 * Identificeer manieren om eerste, tweede, en derdegegevens voor gerichte en analytische doeleinden te gebruiken
 * Beschrijf het basisproces voor de activering van zaken of campagnedoelstellingen
@@ -70,27 +70,27 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 * Identificeer de verschillende soorten bestemmingen
 * De verschillende typen bronnen identificeren
 
-**Trait Creation 16%**
+**Sectie 2: Trait Creation (16%)**
 
 * Op basis van een scenario signalen, kenmerken, segmenten en doelgroepen identificeren
 * Identificeer het gebruik van verschillende types van eigenschappen
 
-**Rapportage en metingen 16%**
+**Sectie 3: Rapportage en metingen (16%)**
 
 * Op basis van een scenario rapporten genereren om activering of campagnedoelstellingen te meten
 * Vergelijk, in een scenario, het publiek op basis van gelijke tarieven
 
-**Problemen met 10% oplossen**
+**Sectie 4: Problemen oplossen (10%)**
 
 * Gezien een scenario, los binnenkomende gegevens van verschillende bronnen en brontypes problemen op
 * Indeling voor inkomende gegevensbestanden valideren
 
-**Taxonomie 12%**
+**Afdeling 5: Taxonomie (12%)**
 
 * Tips en trucs identificeren voor de structuur van georganiseerde mappen met behulp van duidelijke en consistente nomenclatuur
 * Kenmerken en segmenten in mappen indelen met een consistente en duidelijke nomenclatuur
 
-**Profielsamenvoeging, ID-synchronisatie en Audience Marketplace 14%**
+**Sectie 6: Profiel samenvoegen, ID synchroniseren en Audience Marketplace (14%)**
 
 * Gebruikerseigenschappen indelen in één uniform profiel om een publiek in een huishouden of op een apparaat te maken
 * Activering identificeren met Audience Marketplace
@@ -161,18 +161,13 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 >
 >Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
-
-
-
-<!--divider-->
-
 >[!TAB Expert]
 
 U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 * Adobe Audience Manager Business Practitioner Expert
 
-## Instructies voor het vernieuwen van uw certificering:
+### Instructies voor het vernieuwen van uw certificering:
 
 * **Stap 1**: Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
 * **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
@@ -188,9 +183,9 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 * Levering: Op aanvraag/niet-afgehandeld
 * Beschikbare talen: Engels
 * Kosten: GRATIS
-* Id van examen: AD5-E826 - de deskundige van de Praktijk van Adobe Audience Manager vernieuwing
+* Examen-id: AD5-E826 - Adobe Audience Manager Business Practitioner Expert Renewal Exam
 
-**Doelstellingen en toepassingsgebied van examen**
+### Doelstellingen en toepassingsgebied van examen
 
 **Sectie 1: Segment maken en synchroniseren (25%)**
 
@@ -229,7 +224,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 [!BADGE Voorbeeldvragen]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
 
-**Bronnen:**
+### Bronnen:
 
 * [Adobe [!DNL Audience Manager] Productdocumentatie](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Ondersteuning van Adoben - publiek Experience Cloud](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
@@ -249,11 +244,11 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 
 >[!TAB Master]
 
-U moet momenteel zijn gecertificeerd (niet verlopen) in:
+### U moet momenteel zijn gecertificeerd (niet verlopen) in:
 
 * Adobe Audience Manager Architect master
 
-## Instructies voor het vernieuwen van uw certificering
+### Instructies voor het vernieuwen van uw certificering
 
 * **Stap 1** - De examendoelstellingen evalueren
 * **Stap 2** - De middelen evalueren
@@ -269,11 +264,11 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 * Levering: Op aanvraag/niet-afgehandeld
 * Beschikbare talen: Engels
 * Kosten: GRATIS
-* Examen-id: AD5-E825 - Hoofdvernieuwing Adobe Audience Manager Architect
+* Examen-id: AD5-E825 - Adobe Audience Manager Architect Master Renewal Exam
 
-**Toepassingsgebied en doelstellingen:**
+## Doelstellingen en toepassingsgebied van examen:
 
-Sectie 1: Implementatieanalyse (28%)
+**Sectie 1: Implementatieanalyse (28%)**
 
 * Bepaal hoe u de implementatie van AAM als een zelfstandig product of als onderdeel van een cloudoplossing kunt begeleiden en ondersteunen
 * Analyseer uitgaande bestemmingsopties en adviseer een AAM implementatiebenadering
@@ -281,14 +276,14 @@ Sectie 1: Implementatieanalyse (28%)
 * Omgaan met functies zoals viewer voor bezoekersprofielen, tags, RBAC enzovoort, om deze uit te lijnen op bedrijfsdoelen
 * Bepaal hoe u pixels ontwerpt en test die nodig zijn om segmenten en kenmerken te maken
 
-Sectie 2: Oplossingsontwerp en Recommendations (17%)
+**Sectie 2: Oplossingsontwerp en Recommendations (17%)**
 
 * AAM mogelijkheden bepalen op basis van het gebruiksscenario van de klant voor publiek en activering
 * Pas procedureconcepten toe om oplossingen voor publieksidentiteit te gebruiken om ontwerparchitectuur aan te vullen
 * Kenmerken en gedragsgegevens identificeren en deze toewijzen aan specifieke gevallen van zakelijk gebruik
 * Procedureconcepten toepassen op de ontwerpmappentaxonomie en naamgevingsconventie
 
-Sectie 3: Segmentering en activering (31%)
+**Sectie 3: Segmentering en activering (31%)**
 
 * Pas procedureconcepten toe om bestemmingen tot stand te brengen in [!DNL Audience Manager]
 * Identificeer signalen om op regel-Gebaseerde, Onboard, en Algorithmic Traits te creëren
@@ -297,12 +292,12 @@ Sectie 3: Segmentering en activering (31%)
 * Procedurele concepten toepassen om een algoritmisch of voorspellend model te maken
 * Segmentatielogica bepalen op basis van gebruiksgevallen
 
-Sectie 4: Privacy en gegevensbeheer (7%)
+**Sectie 4: Privacy en gegevensbeheer (7%)**
 
 * Aanbevelen [!DNL Audience Manager] capaciteiten op het gebied van bestuur, privacy en beveiliging
 * Identificeer het beleid van klantengegevens dat in overeenstemming met overheidsverordeningen is
 
-Sectie 5: Prestaties en rapportage (17%)
+**Sectie 5: Prestaties en rapportage (17%)**
 
 * Bepaal hoe te om rapporten in AAM te vormen om signaal, eigenschappen, en segmentprestaties per bedrijfsvereisten te verzamelen
 
