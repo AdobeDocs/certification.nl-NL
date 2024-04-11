@@ -1,5 +1,5 @@
 ---
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
 source-wordcount: '1800'
 ht-degree: 0%
@@ -227,9 +227,13 @@ Plan uw examen tussen zondag - Donderdag 5pm - 2am ET om ervoor te zorgen wij ee
 
 [Japanse instructies voor planning](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
+<!--divider-->
+
 ## Een gratis cursus volgen {#take-course}
 
 Deze vrije, op bestelling cursus helpt u voor uw examen met verklaringen van zeer belangrijke concepten, hands-on demonstraties, en kenniscontroles voorbereiden.
+
+<!--divider-->
 
 ## Handleiding voor voorinstelling van examen {#exam-prep-guide}
 
