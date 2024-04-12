@@ -7,7 +7,7 @@ role: Developer
 badge: label="Examen AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: a2b143073ab26b3667a7c82243607e713595c92e
 workflow-type: tm+mt
 source-wordcount: '754'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
 >
->* **Cursussen:** Neem de [Adobe Commerce Developer Professional Cursus](https://app.rockinfo.com/courses/106) Dit omvat uitleg over belangrijke concepten, praktijkdemonstraties en kenniscontroles. Als je net begint, [Adobe Commerce-oprichtingscursus](https://app.rockinfo.com/courses/148) biedt een basis van kennis waarop u kunt voortbouwen tijdens uw certificeringsreis.
+>* **Cursussen:** Neem de [Adobe Commerce Developer Professional Cursus](https://app.rockinfo.com/courses/92) Dit omvat uitleg over belangrijke concepten, praktijkdemonstraties en kenniscontroles. Als je net begint, [Adobe Commerce-oprichtingscursus](https://app.rockinfo.com/courses/148) biedt een basis van kennis waarop u kunt voortbouwen tijdens uw certificeringsreis.
 >
 >* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/382) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de diepgaande studiematerialen u op uw examen zult moeten succesvol zijn.
 >
@@ -197,7 +197,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 </span>
 </a>
 
-<a href="https://app.rockinfo.com/courses/106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://app.rockinfo.com/courses/92" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    De Adobe Commerce Developer Professional-cursus volgen
