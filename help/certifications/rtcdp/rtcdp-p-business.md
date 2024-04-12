@@ -8,7 +8,7 @@ recommendations: disable, exclude
 badge: label="Examen AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: 60d6f81f208b1b4257ab5f808870a473328aec5f
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
@@ -23,9 +23,9 @@ ht-degree: 0%
 >
 >De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
 >
->**Cursus:** Als u net begint, of een verfrisser nodig hebt, neem onze [Adobe Experience Platform-oprichtingscursus](https://app.rockinfo.com/courses/216) toegang tot verklaringen van zeer belangrijke concepten, productlooptijden, en kenniscontroles. Deze cursus zal een basis van kennis verstrekken u op in uw certificatiereis kunt voortbouwen.
+>* **Cursus:** Als u net begint, of een verfrisser nodig hebt, neem onze [Adobe Experience Platform-oprichtingscursus](https://app.rockinfo.com/courses/216) toegang tot verklaringen van zeer belangrijke concepten, productlooptijden, en kenniscontroles. Deze cursus zal een basis van kennis verstrekken u op in uw certificatiereis kunt voortbouwen.
 >
->**Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/377) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
+>* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/377) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
 >
 >_Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
 
