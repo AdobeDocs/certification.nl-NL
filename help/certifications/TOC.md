@@ -2,9 +2,9 @@
 user-guide-title: Certificering bij Adobe
 breadcrumb-title: Certificering bij Adobe
 user-guide-description: Meer informatie over [!DNL Experience Cloud] Certificering bij Adobe. Ontdek wat certificeren voor u kan doen.
-source-git-commit: 1ce319897956f6f83a541d11e60f8003b6dd37e4
+source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '253'
 ht-degree: 28%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 28%
          + [Ontwikkelaar](/help/certifications/acs/acs-e-developer.md)
       + [Verlenging](/help/certifications/acs/acs-renew.md)
    + Adobe [!DNL Commerce] {#ac}
-      + [Overzicht van handel](/help/certifications/ac/ac-overview.md)
+      + [Commerce - Overzicht](/help/certifications/ac/ac-overview.md)
       + Professional {#ac-professional}
          + [Business Practitioner](/help/certifications/ac/ac-p-business.md)
          + [Ontwikkelaar](/help/certifications/ac/ac-p-developer.md)
@@ -119,6 +119,8 @@ ht-degree: 28%
       + [Verlenging](/help/certifications/rtcdp/rtcdp-renew.md)
    + Adobe [!DNL Journey Optimizer] {#ajo}
       + [Journey Optimizer - Overzicht](/help/certifications/ajo/ajo-overview.md)
+      + Professional {#ajo-professional}
+         + [Business Practitioner](/help/certifications/ajo/ajo-p-business.md)
       + Expert {#ajo-expert}
          + [Ontwikkelaar](/help/certifications/ajo/ajo-e-developer-23-10.md)
       + [Verlenging](/help/certifications/ajo/ajo-renew.md)

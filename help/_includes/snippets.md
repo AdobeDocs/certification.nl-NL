@@ -1,7 +1,7 @@
 ---
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
-source-wordcount: '1800'
+source-wordcount: '1804'
 ht-degree: 0%
 
 ---
@@ -231,7 +231,7 @@ Plan uw examen tussen zondag - Donderdag 5pm - 2am ET om ervoor te zorgen wij ee
 
 ## Een gratis cursus volgen {#take-course}
 
-Deze vrije, op bestelling cursus helpt u voor uw examen met verklaringen van zeer belangrijke concepten, hands-on demonstraties, en kenniscontroles voorbereiden.
+Onze gratis cursussen op aanvraag helpen u voor te bereiden op uw examen. De cursussen kunnen verklaringen van zeer belangrijke concepten, productlooptijden, hands-on demonstraties, en kenniscontroles omvatten.
 
 <!--divider-->
 
