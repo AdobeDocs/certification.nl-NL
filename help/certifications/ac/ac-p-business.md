@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
 >
->**Cursus**: Als je net begint, [Adobe Commerce-oprichtingscursus](https://app.rockinfo.com/courses/148) biedt een basis van kennis waarop u kunt voortbouwen tijdens uw certificeringsreis.
+>* **Cursussen**: Neem de [Adobe Commerce Business Practitioner Professional-cursus](https://app.rockinfo.com/courses/105) voor uitleg over belangrijke concepten, praktijkdemonstraties en kenniscontroles. Als je net begint, [Adobe Commerce-oprichtingscursus](https://app.rockinfo.com/courses/148) biedt een basis van kennis waarop u kunt voortbouwen tijdens uw certificeringsreis.
 >
->**Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/383) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
+>* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/383) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
 >
 >_Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
 
@@ -148,23 +148,15 @@ Bovendien moet u een basiskennis hebben van de eCommerce-ervaring en kennis hebb
 
 {{take-course}}
 
-<a href="https://app.rockinfo.com/courses/148" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+[De cursus Adobe Commerce-stichtingen volgen](https://app.rockinfo.com/courses/148)
 
-<span class="spectrum-Button-label has-no-wrap">
-   De cursus Adobe Commerce-stichtingen volgen
-</span>
-</a>
+[De Adobe Commerce Business Practitioner Professional-cursus volgen](https://app.rockinfo.com/courses/105)
 
 **Handleiding voor voorinstelling van examen**
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/383" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Handleiding voor voorinstelling van examen weergeven
-</span>
-</a>
+[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/playScorm/383)
 
 +++
 

@@ -7,7 +7,7 @@ role: Developer,Data Architect
 badge: label="Examen AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 16ffac2b0619d0cdce85e6f73a45cff84a5e306b
+source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
 workflow-type: tm+mt
 source-wordcount: '877'
 ht-degree: 0%
@@ -21,6 +21,18 @@ ht-degree: 0%
 ## Beschrijving van examen {#exam-description}
 
 {{exam-description}}
+
+<br>
+
+### Details van examen {#exam-details}
+
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 45/68
+* Tijd: 136 minuten
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Taal: Engels
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E605
 
 <br>
 
@@ -66,18 +78,6 @@ U dient comfortabel te zijn in deze omgevingen:
 
 * AEP
 * Edge-netwerk
-
-<br>
-
-### Details van examen {#exam-details}
-
-* Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 45/68
-* Tijd: 136 minuten
-* Aflevering: online geprocoreerd (cameratoegang vereist)
-* Taal: Engels
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E605
 
 <br>
 
@@ -178,7 +178,7 @@ U dient comfortabel te zijn in deze omgevingen:
 **Afdeling 3**
 
 * [Een gegevensstroom configureren om batchgegevens van een bron voor cloudopslag in de gebruikersinterface in te voeren](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/dataflow/cloud-storage.html#activate-inbound-data-for-profile-population){target="_blank"}
-* [Overzicht van Edge Network Server API](https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/overview.html){target="_blank"}
+* [API-overzicht van Edge Network](https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/overview.html){target="_blank"}
 * [Gegevens invoeren via de Adobe Experience Platform Web SDK](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-data-ingestion/ingest-use-guides/edge-network/aepwebsdk.html){target="_blank"}
 * [Gegevens streamen met HTTP-API](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-http-api.html){target="_blank"}
 * [Aan de slag met het doorsturen van gebeurtenissen](https://experienceleague.adobe.com/docs/experience-platform/tags/event-forwarding/getting-started.html){target="_blank"}
