@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Examen AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: d50dfa88269e422b67613528efaa9057205a8a44
+source-git-commit: cbb1cccdcf51f5d5ac7635e558fcf7e9dd012842
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '1116'
 ht-degree: 0%
 
 ---
@@ -115,14 +115,14 @@ Kandidaten moeten ook in staat zijn:
 
 {{exam-objectives}}
 
-**Sectie 1: Campagne en Reisoptimalisatie**
+**Sectie 1: Campagne en Reisoptimalisatie (48%)**
 
 * Op basis van een scenario bepalen hoe een reis van de Klant kan worden gebouwd
 * Op basis van een scenario bepalen hoe een reis van de Klant moet worden gevalideerd
 * Op basis van een scenario na de uitvoering van een reis bepalen hoe de reis van de klant moet worden geëvalueerd
 * Op basis van een scenario bepalen wanneer eenheidsgebeurtenis of bedrijfsgebeurtenis wordt gebruikt
 
-**Deel 2: Offer decisioning**
+**Sectie 2: Offer decisioning (12%)**
 
 * Identificeer hoe te om een inzameling van aanbieding te creëren
 * De fasen van de offer decisioning identificeren
@@ -131,7 +131,7 @@ Kandidaten moeten ook in staat zijn:
 * Op basis van een scenario bepalen wanneer offer decisioning of personalisatie op schaal moet worden gebruikt
 * Op basis van een scenario onderscheid maken tussen statische en dynamische aanbiedingen
 
-**Sectie 3: Inhoud ontwerpen**
+**Sectie 3: Inhoud schrijven (20%)**
 
 * Omgaan met essentiële elementen van bedrijfsmiddelen
 * Geef aan hoe u gepersonaliseerde velden kunt toevoegen aan e-mailberichten
@@ -141,7 +141,7 @@ Kandidaten moeten ook in staat zijn:
 * De typen fragmenten identificeren
 * Bepalen hoe u een e-mailsjabloon maakt
 
-**Afdeling 4: Stichting AEP**
+**Afdeling 4: Stichting AEP (20%)**
 
 * Op basis van een scenario bepalen wanneer verschillende typen gegevens moeten worden gebruikt
 * Bepaal waar u de kenmerken van profielen en het lidmaatschap van het publiek wilt controleren
