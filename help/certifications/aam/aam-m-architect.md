@@ -8,10 +8,10 @@ level: Experienced
 badge: label="Examen AD0-E454" type="neutral"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 0664d9332c10fb8beb16c830b639677a5b540244
 workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 2%
+source-wordcount: '557'
+ht-degree: 0%
 
 ---
 
@@ -38,8 +38,6 @@ ht-degree: 2%
 <br>
 
 ### Beoogd publiek {#intended-audience}
-
-**Beoogd publiek:**
 
 * [!DNL Audience Manager] Consultant
 * Architect met meerdere oplossingen
@@ -139,26 +137,26 @@ Bovendien, zou u de volgende taken moeten kunnen voltooien:
 
 **Sectie 1: Implementatieanalyse**
 
-* [[!DNL Audience Manager] Handleiding](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
-* [Analytics Integration](https://experienceleague.adobe.com/docs/analytics/integration/home.html){target="_blank"}
+* [[!DNL Audience Manager] Hulplijn](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [Analyseintegratie](https://experienceleague.adobe.com/docs/analytics/integration/home.html){target="_blank"}
 * [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
 
 **Sectie 2: Oplossingsontwerp en Recommendations**
 
-* [[!DNL Audience Manager] Handleiding](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [[!DNL Audience Manager] Hulplijn](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [[!DNL Audience Manager] zelfstudies](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
 **Sectie 3: Segmentering en activering**
 
-* [[!DNL Audience Manager] Handleiding](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [[!DNL Audience Manager] Hulplijn](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community){target="_blank"}
 * [[!DNL Audience Manager] zelfstudies](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
 
 **Afdeling 4: Privacy en gegevensbeheer**
 
-* [[!DNL Audience Manager] Handleiding](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [[!DNL Audience Manager] Hulplijn](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [[!DNL Audience Manager] REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
-* [Handleiding Analytics Admin](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
+* [Handleiding Analysebeheer](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 
 **Afdeling 5: Prestaties en rapportage**
 
