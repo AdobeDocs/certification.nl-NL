@@ -6,9 +6,9 @@ role: Developer
 badge: label="Examen AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
+source-git-commit: 511f30e814c2e1ab112f9abef9fef76338a2d1a4
 workflow-type: tm+mt
-source-wordcount: '779'
+source-wordcount: '823'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Certificeringsreis voor Adobe [!DNL Workfront] Projectmanager Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nieuwe beschikbare cursus:** De [Adobe Workfront Project Manager - Professionele cursus](https://app.rockinfo.com/courses/230) bevat uitleg over belangrijke concepten, praktijkdemonstraties en kenniscontroles. _Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -181,6 +185,12 @@ U zou moeten hebben:
 **Een praktijktest uitvoeren**
 
 {{practice-test}}
+
+**Een cursus volgen**
+
+{{take-course}}
+
+[Neem de Adobe Workfront Project Manager - Professionele cursus](https://app.rockinfo.com/courses/230)
 
 +++
 

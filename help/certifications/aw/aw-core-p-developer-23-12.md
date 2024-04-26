@@ -6,9 +6,9 @@ role: Developer
 badge: label="Examen AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: 1ce319897956f6f83a541d11e60f8003b6dd37e4
+source-git-commit: 511f30e814c2e1ab112f9abef9fef76338a2d1a4
 workflow-type: tm+mt
-source-wordcount: '842'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Certificeringsreis voor Adobe [!DNL Workfront] Core Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nieuwe beschikbare cursus:** De [Adobe Workfront Core Developer - Professionele cursus](https://app.rockinfo.com/courses/231) bevat uitleg over belangrijke concepten, praktijkdemonstraties en kenniscontroles. _Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -51,10 +55,10 @@ ht-degree: 0%
 
 ### Minimale ervaring {#minimum-experience}
 
-De Adobe [!DNL Workfront] Core Developer Certified Professional heeft:
+Hoewel dit examen coderings/programmeringskennis niet vereist, vereist het minstens 3 tot 6 maanden praktijkervaring gebruikend Adobe [!DNL Workfront]
 
-* Nota: Terwijl dit examen coderings/programmeringskennis niet vereist.
-* Minstens 3 - 6 maanden praktijkervaring met Adobe [!DNL Workfront]
+Gekwalificeerde kandidaten moeten ook:
+
 * Ervaring met Adobe [!DNL Workfront] functionaliteit en connectiviteit via inname, goedkeuring, planning, uitvoering en rapportage
 * Uitgebreid inzicht in de Adobe [!DNL Workfront] objecttypen, waaronder aangepaste formulieren en goedkeuringswerkstromen, sjablonen, duur, werkinspanning/geplande uren
 * Uitgebreid inzicht in de Adobe [!DNL Workfront] Opstelling, met inbegrip van toegangsniveaus, lay-outmalplaatjes, projectvoorkeur, en andere methodes om eenvoud van eindgebruikerontwerp te bereiken
@@ -69,19 +73,19 @@ De Adobe [!DNL Workfront] Core Developer Certified Professional heeft:
 
 {{exam-objectives}}
 
-**Deel 1: Strategie en opname 23%**
+**Deel 1: Strategie en opname (23%)**
 
 * Portfolio&#39;s en programma&#39;s gebruiken
 * Aanvraagwachtrijen gebruiken
 * Aangepaste Forms gebruiken
 * Basisgoedkeuringen gebruiken
 
-**Afdeling 2: Begroting en planning 11%**
+**Afdeling 2: Begroting en planning (11%)**
 
 * Bronnen gebruiken
 * Op basis van een scenario/reeks vereisten past u de configuraties toe op het instellen van een projectsjabloon
 
-**Sectie 3: Gebruikerservaring 25%**
+**Sectie 3: Gebruikerservaring (25%)**
 
 * De beste werkwijzen illustreren voor gebruikersbeheer bij het creëren van de juiste gebruikerservaring
 * Op basis van een scenario de juiste instelling toepassen voor het delen en toegangsrechten in het hele systeem
@@ -89,13 +93,13 @@ De Adobe [!DNL Workfront] Core Developer Certified Professional heeft:
 * Toon hoe te om timesheets tot stand te brengen en te gebruiken
 * Beschrijf het doel en de waarde van schakelaars, stop-ins, en toe:voegen-ons
 
-**Sectie 4: Metriek en rapportage 16%**
+**Sectie 4: Metriek en rapportage (16%)**
 
 * Beschrijf basisconcepten voor het bouwen, verzenden, en het aanpassen van rapporten
 * Uitleggen hoe u dashboards kunt maken en aanpassen
 * Toon aan hoe te om functionele meningen van rapporten te vormen
 
-**Sectie 5: Uitvoering 24%**
+**Sectie 5: Uitvoering (24%)**
 
 * Demonstreer hoe te opstellings goedkeuring en proefdrukken werkschema&#39;s
 * Het doel van het maken van een uitgave voor een project herkennen
@@ -209,6 +213,12 @@ De Adobe [!DNL Workfront] Core Developer Certified Professional heeft:
 **Een praktijktest uitvoeren**
 
 {{practice-test}}
+
+**Een cursus volgen**
+
+{{take-course}}
+
+[Neem de Adobe Workfront Core Developer - Professionele cursus](https://app.rockinfo.com/courses/231)
 
 +++
 
