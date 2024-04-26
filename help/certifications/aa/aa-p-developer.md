@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Examen AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '717'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 # Certificeringsreis voor [!DNL Adobe Analytics] Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/532) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -140,49 +144,11 @@ U moet ook ervaring hebben met de volgende taken:
 
 {{study-materials-intro}}
 
-**Sectie 1: Analyse in het ecosysteem van Adobe Experience Cloud**
+**Handleiding voor voorinstelling van examen**
 
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
-* [Veelgestelde vragen](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
-* [AEM 6.5 Handboek voor ontwerpen](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [Overzicht van codes](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=nl){target="_blank"}
+{{exam-prep-guide}}
 
-**Sectie 2: Analytische strategie en ontwerp gebaseerd op een verwijzing naar het ontwerp van een oplossing**
-
-* [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [Handleiding Analysebeheer](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
-* [Lijstvariabelen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/list-var-admin.html){target="_blank"}
-* [Verkoop- en productzoekmethoden](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/merchandising-evars.html){target="_blank"}
-
-**Sectie 3: Implementatie en configuratie van analyses**
-
-* [Handleiding Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [Snelle uiteinde - Gegevens doorgeven in opstartregels](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
-* [transactionID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
-* [Hoe analytische gegevens worden verzameld](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/how-analytics-data-is-collected.html){target="_blank"}
-
-**Sectie 4: Labelbeheersystemen**
-
-* [Overzicht van codes](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=nl){target="_blank"}
-* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [Pakketanalysatoren](https://experienceleague.adobe.com/docs/analytics/implementation/validate/packet-monitor.html){target="_blank"}
-* [Verwijzing naar satellietobject](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html){target="_blank"}
-
-**Sectie 5: Mobiele diensten en API**
-
-* [[!DNL Adobe Analytics]: E-mailmarketing (ESP) - Casestudy over integratie](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003848112-Adobe-Analytics-Email-Marketing-ESP-Integration-Case-Study){target="_blank"}
-* [[!DNL Adobe Analytics] API&#39;s](https://adobedocs.github.io/analytics-2.0-apis/#/){target="_blank"}
-* [Welkom bij de beheergids voor ondernemingen en teams](https://helpx.adobe.com/nl/enterprise/admin-guide.html){target="_blank"}
-* [API voor analyserapportage](https://experienceleague.adobe.com/docs/analytics/analyze/reporting-api.html){target="_blank"}
-* [De werking van verwerkingsregels](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
-
-**Sectie 6: Testen, valideren en problemen oplossen**
-
-* [JavaScript-foutverwijzing](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors){target="_blank"}
-* [Technische notities voor Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/home.html){target="_blank"}
-* [linkDownloadFileTypes](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linkdownloadfiletypes.html){target="_blank"}
-* [Aangeklikte component bijhouden met [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/track-clicked-component.html){target="_blank"}
-* [[!DNL Adobe Analytics] Foutopsporing bij implementatie—Tools](https://www.thelearningproject.in/posts/adobe-analytics-implementation-debugging-tools/){target="_blank"}
+[De handleiding Examen voorinstelling weergeven](https://app.rockinfo.com/courses/playScorm/532)
 
 <br>
 

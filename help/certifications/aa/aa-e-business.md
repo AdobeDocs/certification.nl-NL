@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Certificeringsreis voor [!DNL Adobe Analytics] Expert aan de praktijk van bedrijven
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/533) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -26,13 +30,13 @@ ht-degree: 0%
 
 ### Details van examen {#exam-details}
 
-* **Niveau:** Expert (1-3 jaar ervaring)
-* **Voldoende score:** 05-31-50
-* **Tijd:** 120 minuten
-* **Aflevering:** Online geproctoreerd (cameratoegang vereist)
-* **Beschikbare talen:** Engels, Japans
-* **Kosten:** $ 225 (wereldwijd) / $ 150 (India)
-* **Examen-id:** AD0-E208 (Engels), AD0-E208-J (Japans)
+* Niveau: Expert (1-3 jaar ervaring)
+* Voldoende score: 31/50
+* Tijd: 120 minuten
+* Aflevering: online geprocoreerd (cameratoegang vereist)
+* Beschikbare talen: Engels, Japans
+* Kosten: $225 (wereldwijd) / $150 (India)
+* Examen-id: AD0-E208 (Engels), AD0-E208-J (Japans)
 
 <br>
 
@@ -154,36 +158,11 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 {{study-materials-intro}}
 
-**Sectie 1: Bedrijfsanalyse**
+**Handleiding voor voorinstelling van examen**
 
-* [Welke [!DNL Adobe Analytics] te gebruiken?](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html){target="_blank"}
-* [[!DNL Adobe Analytics] Documentatie](https://helpx.adobe.com/nl/support/analytics.html){target="_blank"}
-* [Over gegevensverzameling](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html){target="_blank"}
-* [Overzicht van gegevensinvoer voor analyse](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html){target="_blank"}
+{{exam-prep-guide}}
 
-**Sectie 2: Rapportage en dashboarding voor projecten**
-
-* [Aan de slag met rapporten en analyses](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
-* [[!DNL Adobe Analytics] dashboards - Overzicht](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html){target="_blank"}
-* [Overzicht van projecten](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html){target="_blank"}
-* [Overzicht van visualisaties](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [Overzicht van intelligente waarschuwingen](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
-
-**Sectie 3: Segmentering en berekende metrische waarde**
-
-* [Segmentatie van analyse](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html){target="_blank"}
-* [Berekende en geavanceerde berekende (afgeleide) cijfers](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html){target="_blank"}
-
-**Sectie 4: Algemene kennis van gereedschappen en probleemoplossing**
-
-* [Handleiding Analysehulpmiddelen](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [Analysis Workspace - Overzicht](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
-
-**Afdeling 5: Administratie**
-
-* [Handleiding Analysebeheer](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
-* [Veelgestelde vragen](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
-* [Workflow van de opbouwfunctie voor classificatieregels](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html){target="_blank"}
+[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/playScorm/533)
 
 **Een praktijktest uitvoeren**
 

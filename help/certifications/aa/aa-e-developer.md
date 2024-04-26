@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Examen AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '707'
+source-wordcount: '647'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 # Certificeringsreis voor Adobe [!DNL Analytics] Ontwikkelaarsexpert
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/530) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -147,39 +151,11 @@ Omgevingen:
 
 {{study-materials-intro}}
 
-**Deel 1: Analyse in het ecosysteem van Adobe Experience Cloud**
+**Handleiding voor voorinstelling van examen**
 
-* [Technische notities voor Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/home.html){target="_blank"}
-* [Analyse- en Experience Cloud-id&#39;s instellen](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html){target="_blank"}
-* [Analysevideo&#39;s en zelfstudies](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
+{{exam-prep-guide}}
 
-**Sectie 2: Strategie en ontwerp op basis van een referentie voor het ontwerp van oplossingen (SDR)**
-
-* [Bronnen beheren](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
-* [[!DNL Adobe Analytics] Documentatie](https://experienceleague.adobe.com/docs/analytics.html)
-
-**Sectie 3: Implementatie en configuratie van analyses**
-
-* [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [Werken met en maken van rapportsuites](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html){target="_blank"}
-* [Koppeling bijhouden configureren voor [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html){target="_blank"}
-
-**Sectie 4: Labelbeheersystemen**
-
-* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [Overzicht van codes](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=nl){target="_blank"}
-* [Overzicht](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
-
-**Deel 5: Mobiele diensten**
-
-* [Analyses implementeren voor mobiele apparaten](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
-* [De verwerkingsregels voor mobiele services migreren naar [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/technotes/migrate-mobile.html){target="_blank"}
-
-**Sectie 6: Testen, valideren en problemen oplossen**
-
-* [Overzicht van Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html){target="_blank"}
-* [Het toelaten van, het Zuiveren, en het Aanpassen van het [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
-* [Analysis Workspace-prestaties optimaliseren](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html){target="_blank"}
+[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/playScorm/530)
 
 <br>
 

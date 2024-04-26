@@ -8,9 +8,9 @@ role: Data Architect,Developer
 badge: label="Examen AD0-E207" type="neutral"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 # Certificeringsreis voor [!DNL Adobe Analytics] Architect Master
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/541) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -111,40 +115,11 @@ Bovendien, bent u verantwoordelijk voor het omzetten van bedrijfsvereisten in he
 
 {{study-materials-intro}}
 
-**Sectie 1: Detectie**
+**Handleiding voor voorinstelling van examen**
 
-* [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [[!DNL Analytics] Hulplijn voor onderdelen](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
-* [Overzicht van codes](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=nl){target="_blank"}
-* [[!DNL Analytics] Technische notities](https://experienceleague.adobe.com/docs/analytics/technotes/home.html){target="_blank"}
-* [Data Layer Manager](https://exchange.adobe.com/apps/ec/101462/data-layer-manager){target="_blank"}
+{{exam-prep-guide}}
 
-**Sectie 2: Oplossingsontwerp**
-
-* [[!DNL Analytics] Beheerdershandleiding](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
-* [[!DNL Analytics] Hulplijn voor onderdelen](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
-* [[!DNL Analytics] Hulplijn](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [iOS SDK 4.x voor Experience Cloud-oplossingen](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html){target="_blank"}
-* [[!DNL Analytics] Hulplijn importeren](https://experienceleague.adobe.com/docs/analytics/import/home.html){target="_blank"}
-* [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [[!DNL Analytics] Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
-* [Administratieve rollen](https://helpx.adobe.com/in/enterprise/using/admin-roles.html){target="_blank"}
-* [Overzicht van Admin Console](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"}
-* [Gebruikers individueel beheren](https://helpx.adobe.com/in/enterprise/using/manage-users-individually.html){target="_blank"}
-
-**Sectie 3: Uitvoering na de implementatie**
-
-* [Implementeren [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [[!DNL Analytics] Hulplijn voor onderdelen](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
-* [[!DNL Analytics] Beheerdershandleiding](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
-* [De door gebeurtenissen gestuurde gegevenslaag](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
-* [[!DNL Analytics] Hulplijn exporteren](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
-* [Adobe [!DNL Target] Handelspraktijken](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
-* [Adobe [!DNL Experience Cloud] Identiteitsservice](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
-* [[!DNL Analytics] Hulplijn importeren](https://experienceleague.adobe.com/docs/analytics/import/home.html){target="_blank"}
-* [[!DNL Analytics] Hulplijn](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [Gegevensinvoegingsproces](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
-* [Het Experience Cloud implementeren op websites met zelfstudie over tags](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
+[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/playScorm/541)
 
 <br>
 
