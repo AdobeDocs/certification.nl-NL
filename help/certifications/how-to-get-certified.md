@@ -4,9 +4,9 @@ description: Leer hoe u gecertificeerd kunt worden tijdens de Adobe. Zoek alle b
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
+source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
 workflow-type: tm+mt
-source-wordcount: '1494'
+source-wordcount: '1496'
 ht-degree: 0%
 
 ---
@@ -96,7 +96,7 @@ Opmerking: Bulkkortingen kunnen niet worden gecombineerd met een andere aanbiedi
 
 >[!TAB Verkopers van certificaten]
 
-De partners van het team van de Credentials van de Adobe met verkopers helpen de initiatieven en de doelstellingen van het programma steunen.  Hier zijn de verkopers en hun contactinformatie:
+Het Adobe Digital Experience Certification Program werkt samen met leveranciers om de initiatieven en doelstellingen van het programma te ondersteunen. Hier zijn de verkopers en hun contactinformatie:
 
 | Naam leverancier | Beschrijving | Ondersteuningspagina/e-mail |
 | ------- | ------- | ------- |

@@ -6,9 +6,9 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
+source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
 workflow-type: tm+mt
-source-wordcount: '2123'
+source-wordcount: '2125'
 ht-degree: 0%
 
 ---
@@ -390,7 +390,7 @@ Eerst selecteert u **twee cursussen** om elke beoordeling van een cursus met een
 
   [Referentieformulier voor de klant voor Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA100){target="_blank"}
 
-  U zal door het Credentieel Team van de Adobe op de hoogte worden gebracht wanneer uw klantenverwijzing is herzien. Als uw verwijzing niet wordt geaccepteerd, kunt u het opnieuw verzenden totdat u succes hebt, zolang het duurt voordat uw certificering verloopt.
+  U wordt op de hoogte gesteld door het Adobe Digital Experience Certification Program wanneer uw klantreferentie is gecontroleerd. Als uw verwijzing niet wordt geaccepteerd, kunt u het opnieuw verzenden totdat u succes hebt, zolang het duurt voordat uw certificering verloopt.
 
 >[!NOTE]
 >

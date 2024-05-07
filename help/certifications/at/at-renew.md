@@ -7,9 +7,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: f4aa50b8d3121567589fb94139bd01b833a6bd04
+source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
 workflow-type: tm+mt
-source-wordcount: '1209'
+source-wordcount: '1211'
 ht-degree: 0%
 
 ---
@@ -190,7 +190,7 @@ Eerst selecteert u **twee cursussen** om elke beoordeling van een cursus met een
 
   [Referentieformulier van de klant voor [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
-  U zal door het Credentieel Team van de Adobe op de hoogte worden gebracht wanneer uw klantenverwijzing is herzien. Als uw verwijzing niet wordt geaccepteerd, kunt u het opnieuw verzenden totdat u succes hebt, zolang het duurt voordat uw certificering verloopt.
+  U wordt op de hoogte gesteld door het Adobe Digital Experience Certification Program wanneer uw klantreferentie is gecontroleerd. Als uw verwijzing niet wordt geaccepteerd, kunt u het opnieuw verzenden totdat u succes hebt, zolang het duurt voordat uw certificering verloopt.
 
 >[!NOTE]
 >
