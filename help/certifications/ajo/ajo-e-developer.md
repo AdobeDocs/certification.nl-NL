@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
 hidefromtoc: true
-source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '633'
 ht-degree: 2%
 
 ---
@@ -132,7 +132,7 @@ U moet minstens één jaar ervaring hebben met het werken met verschillende CDP-
 
 <br>
 
-+++Stap 2: Bereid voor uw examen voor
++++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
 
 **Materialen onderzoeken**
 

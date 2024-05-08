@@ -8,9 +8,9 @@ role: Data Architect,Developer
 badge: label="Examen AD0-E207" type="neutral"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -109,7 +109,7 @@ Bovendien, bent u verantwoordelijk voor het omzetten van bedrijfsvereisten in he
 
 <br>
 
-+++Stap 2: Bereid voor uw examen voor
++++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
 
 **Materialen onderzoeken**
 

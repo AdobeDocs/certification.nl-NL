@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E330" type="neutral"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: 6196ca57b04cb2c197db3c3dc96eedb89fbf9ccc
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '727'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -136,7 +136,7 @@ U zou moeten hebben:
 
 <br>
 
-+++Stap 2: Bereid voor uw examen voor
++++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
 
 **Materialen onderzoeken**
 
@@ -165,7 +165,7 @@ U zou moeten hebben:
 **Deel 3: Toegangsbeheer**
 
 * [Aan de slag met machtigingen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
-* [Belangrijkste kenmerken](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/key-features.html){target="_blank"}
+* [Belangrijkste kenmerken](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/key-features.html?lang=nl){target="_blank"}
 * [Servercapaciteit bewaken](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/sftp-management/monitor-server-capacity.html){target="_blank"}
 * [Schema-editie](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/about-schema-edition.html){target="_blank"}
 

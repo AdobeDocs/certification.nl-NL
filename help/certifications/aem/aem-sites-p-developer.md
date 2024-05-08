@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: 9ba37a3c2970eddc0c397c353bc7adc41e8c54ab
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
@@ -109,7 +109,7 @@ U zou een toepassingsontwikkelaar moeten zijn en hebben:
 
 <br>
 
-+++Stap 2: Bereid voor uw examen voor
++++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
 
 **Materialen onderzoeken**
 

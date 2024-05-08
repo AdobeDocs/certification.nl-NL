@@ -8,10 +8,10 @@ badge: label="Examen AD0-E600 &amp; AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
-source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '1318'
-ht-degree: 4%
+source-wordcount: '1069'
+ht-degree: 0%
 
 ---
 
@@ -125,7 +125,7 @@ Het examen AD0-E600 bevestigt vaardigheden en kennis die de basiseigenschappen e
 
 <br>
 
-+++Stap 2: Bereid voor uw examen voor
++++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
 
 **Materialen onderzoeken**
 
@@ -140,13 +140,13 @@ Het examen AD0-E600 bevestigt vaardigheden en kennis die de basiseigenschappen e
 
 **Sectie 2: Gegevensinvoer**
 
-* [Gegevensopname](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html){target="_blank"}
+* [Gegevensinname](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html){target="_blank"}
 
 **Sectie 3: Vergelijkende profielen**
 
 * [Identiteitsgrafiek en identiteitsgrafiek](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html){target="_blank"}
 * [Identiteiten toewijzen](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html){target="_blank"}
-* [Identiteitsgegevens labelen, opnemen en verifiëren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html){target="_blank"}
+* [Identiteitsgegevens labelen, samenvoegen en verifiëren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html){target="_blank"}
 * [Een dataset maken voor het exporteren van een publiekssegment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html){target="_blank"}
 * [Gemaakte segmenten maken met behulp van realtime klantprofiel](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html){target="_blank"}
 
@@ -265,7 +265,7 @@ Deel 3: Doelen (27%)
 
 <br>
 
-+++Stap 2: Bereid voor uw examen voor
++++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
 
 **Materialen onderzoeken**
 

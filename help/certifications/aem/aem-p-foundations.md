@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E132" type="neutral"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
@@ -122,7 +122,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 <br>
 
-+++Stap 2: Bereid voor uw examen voor
++++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
 
 **Materialen onderzoeken**
 

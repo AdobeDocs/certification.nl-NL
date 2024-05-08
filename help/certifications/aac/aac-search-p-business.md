@@ -8,10 +8,10 @@ role: User
 badge: label="Examen AD0-E501" type="neutral"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '732'
-ht-degree: 1%
+source-wordcount: '585'
+ht-degree: 0%
 
 ---
 
@@ -130,7 +130,7 @@ U moet ook ervaring hebben met het werken met de volgende functies:
 
 <br>
 
-+++Stap 2: Bereid voor uw examen voor
++++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
 
 **Materialen onderzoeken**
 
@@ -147,7 +147,7 @@ U moet ook ervaring hebben met het werken met de volgende functies:
 
 **Sectie 2: Rapporten, inzichten en gereedschappen**
 
-* [[!DNL Analytics] Handleiding Tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [[!DNL Analytics] Hulplijn](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
 * [Aan de slag met [!DNL Reports & Analytics]](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
 * [[!DNL Campaign] Rapportage](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
 * [Maken [!DNL Analytics] Profielen voor Adobe [!DNL Advertising] Activering en rapportage](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html){target="_blank"}

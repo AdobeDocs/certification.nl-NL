@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Examen AD0-E606" type="neutral"
 exl-id: null
-source-git-commit: b114bb411e6881bea4fc3f8cd90720fe0f695bc1
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '650'
 ht-degree: 0%
 
 ---
@@ -122,7 +122,7 @@ Adobe Journey Optimizer wordt aangedreven door Experience Platform. Kandidaten d
 
 <br>
 
-+++Stap 2: Bereid voor uw examen voor
++++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
 
 **Materialen onderzoeken**
 
@@ -145,7 +145,7 @@ Adobe Journey Optimizer wordt aangedreven door Experience Platform. Kandidaten d
 **Sectie 4: Inhoud ontwerpen**
 
 * [AJO Guide, SMS-kanaal, Privacy, Configuration, Joursions, Expressions, Content Management, Track and Monitor, Push Notification Channel](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-* [Lesbestanden voor Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"}
+* [Journey Optimizer Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"}
 
 **Deel 5: Gegevensmodellering**
 
