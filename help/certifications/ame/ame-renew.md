@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: e8af3d80437671df62f99a60f80eecc31c5976bf
 workflow-type: tm+mt
-source-wordcount: '2843'
+source-wordcount: '2421'
 ht-degree: 0%
 
 ---
@@ -303,7 +303,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de Adobe om de certificering te vernieuwen [!DNL Marketo Engage] Koppeling Vernieuwen van expert bij Business Practitioner hieronder.
 
-[!BADGE Neem de Adobe [!DNL Marketo Engage]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
+[!BADGE Neem de Adobe [!DNL Marketo Engage] Het professionele deskundige vernieuwingsexamen AD5-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
 
 >[!NOTE]
 >
@@ -326,7 +326,7 @@ U moet momenteel zijn gecertificeerd (niet verlopen) in:
 **Details van examen:**
 
 * Niveau: Expert (3-5 jaar ervaring)
-* Voldoende score: 27/36
+* Voldoende score: 23/36
 * Tijd: 72 min
 * Levering: Op aanvraag/niet-afgehandeld
 * Beschikbare talen: Engels
