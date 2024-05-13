@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Cursus:** Neem een [trainingscursus](https://app.rockinfo.com/courses/105) Dit omvat uitleg over belangrijke concepten, praktijkdemonstraties en kenniscontroles.
 >
->* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/381) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de diepgaande studiematerialen u op uw examen zult moeten succesvol zijn.
+>* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/381) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de diepgaande studiematerialen u op uw examen moet succesvol zijn.
 >
 >Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID.
 
@@ -70,10 +70,10 @@ U zou een toepassingsontwikkelaar moeten zijn en hebben:
 
 **Sectie 1: Configuraties (26%)**
 
-* Erken het doel van AEM verzendersconfiguraties en caching
+* Erken het doel van AEM Dispatcher-configuraties en caching
 * Bepaal de correcte stappen om multi-site in AEM te vormen
 * Verklaar hoe te om configuraties te creëren en te beheren OSGi
-* Bepaal de correcte stappen om de indexen van douaneOAK te beheren
+* De juiste stappen bepalen voor het beheer van aangepaste eiken-indexen
 * Bepaal de correcte stappen om integratie te vormen OTB SAML of IMS
 
 **Sectie 2: AEM ontwikkeling (40%)**
@@ -109,7 +109,7 @@ U zou een toepassingsontwikkelaar moeten zijn en hebben:
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

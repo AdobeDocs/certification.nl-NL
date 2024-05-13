@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E124" type="neutral"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '605'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/370) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/370) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie moet succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 * Oplossingsarchitecten
 * Individuen in partnerorganisaties en freelancers die een analist-baanrol voor AEM oplossingen uitvoeren
 * Marketing specialisten die de eigenschappen en de mogelijkheden kennen nodig om ontwikkelaars in dienst te nemen om een oplossing voor bedrijfsbehoeften te bepalen
-* Klanten die het product gebruiken (dat wil zeggen, stroomgebruikers)
+* Klanten die het product gebruiken (dat wil zeggen, energiegebruikers)
 
 <br>
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 U zou moeten hebben:
 
-* Ervaring van minimaal 1-3 jaar met het gebruik en configureren van Adobe Cloud Manager
+* Ten minste 1-3 jaar ervaring met het gebruik en configureren van Adobe Cloud Manager
 * Ten minste twee jaar ervaring met het configureren, implementeren en beheren van taken voor continue integratie/continue implementatie
 
 U zou op zijn gemak moeten werken in Adobe Managed Services en Adobe Experience Manager as a Cloud Service, en kunt Adobe Experience Manager milieu&#39;s en infrastructuur opzetten.
@@ -135,7 +135,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

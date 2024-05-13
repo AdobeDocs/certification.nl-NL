@@ -7,7 +7,7 @@ role: User
 badge: label="Examen AD0-E502" type="neutral"
 mini-toc-levels: 1
 exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
 workflow-type: tm+mt
 source-wordcount: '474'
 ht-degree: 0%
@@ -112,7 +112,7 @@ U zou ook met de volgende hulpmiddelen en de technologieën vertrouwd moeten zij
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

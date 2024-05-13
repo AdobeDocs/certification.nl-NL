@@ -7,7 +7,7 @@ level: Experienced
 badge: label="Examen AD0-E716" type="neutral"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '858'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/387) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/387) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie moet succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -97,7 +97,7 @@ U moet minstens 1-3 jaar ervaring hebben met Adobe [!DNL Commerce] ontwikkeling 
 
 * EAV-kenmerken en kenmerksets programmatisch bewerken
 * Toon de capaciteit aan om het gegevensbestandschema uit te breiden
-* Toon de capaciteit aan om gegevens van Adobe Commerce in te voeren/uit te voeren
+* Toon de capaciteit aan om gegevens uit Adobe Commerce in te voeren/uit te voeren
 * Beschrijf hoe te om flarden en terugkomende reeksen te gebruiken om het gegevensbestand te wijzigen
 
 **Sectie 3: Ontwikkeling met Admin (6%)**
@@ -148,14 +148,14 @@ U moet minstens 1-3 jaar ervaring hebben met Adobe [!DNL Commerce] ontwikkeling 
 * Beschrijf hoe te om wolkenvariabelen bij te werken gebruikend UI
 * Omgevingsbeheer beschrijven met UI
 * Toon inzicht in vertakking gebruikend UI aan
-* Mogelijkheden van het Cloud Plan voor Adobe-handel identificeren
+* Mogelijkheden van Adobe Commerce Cloud-abonnementen identificeren
 
 **Sectie 9: [!DNL Commerce] Cloud CLI-gereedschap (onderdeel beheren) (6%)**
 
 * Toon inzicht in het bijwerken van wolkenvariabelen gebruikend CLI
-* Toon inzicht in milieubeheer gebruikend CLI (exclusieve eigenschappen CLI:activeer e-mails, rebase milieu&#39;s, momentopname, db stortplaats, lokale milieu opstelling)
+* Toon inzicht in milieubeheer gebruikend CLI (exclusieve eigenschappen CLI: activeer e-mail, herbase milieu&#39;s, momentopname, db stortplaats, lokale milieu opstelling)
 * Toon inzicht in vertakking gebruikend CLI aan
-* Toon hoe te om met de diensten van de wolk problemen op te lossen? (Mijn SQL, Redis, tunnel:info)
+* Toon hoe te om de clouddiensten problemen op te lossen? (Mijn SQL, Redis, tunnel:info)
 
 <br>
 
@@ -179,7 +179,7 @@ U moet minstens 1-3 jaar ervaring hebben met Adobe [!DNL Commerce] ontwikkeling 
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

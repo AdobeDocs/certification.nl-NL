@@ -7,7 +7,7 @@ role: User
 badge: label="Examen AD0-E329" type="neutral"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '836'
 ht-degree: 0%
@@ -61,7 +61,7 @@ U zou moeten hebben:
 * Handmatige ervaring met kanaaloverschrijdende, gepersonaliseerde workflows en het verzenden van leveringen
 * Ervaring met het analyseren en controleren van logbestanden en fouten
 * Kennis van concepten en tactieken voor digitale marketing
-* Basisbegripsautomatisering, metriek en campagnetactiek (mogelijkheden rond gegevensbeheer, cloudservices, goedkeuringen, enzovoort)
+* Basisbegrip van automatisering, metriek, en campagnetactiek (mogelijkheden rond gegevensbeheer, wolkendiensten, goedkeuringen, etc.)
 * Een goed begrip van de fundamentele relationele databases en van de vraag in een campagne
 * Ervaring met elementaire HTML en personalisatie
 * Abonnementsservicebeheer (opt-in/opt-out)
@@ -142,7 +142,7 @@ U zou moeten hebben:
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

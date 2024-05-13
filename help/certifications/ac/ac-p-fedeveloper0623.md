@@ -1,15 +1,15 @@
 ---
 title: Nieuwe certificering voor front-end Developer Professional
-description: Leer hoe u een gecertificeerde Adobe Developer professional voor Adobe kunt worden [!DNL Commerce] .
+description: Leer hoe u een gecertificeerde Adobe Developer professional voor Adobe kunt worden [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
 badge: label="Examen AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
 >
->* **Cursus**: Als u net bent begonnen, of een verfrisser nodig hebt, neemt u onze [Adobe Commerce-oprichtingscursus](https://app.rockinfo.com/courses/148) toegang tot verklaringen van zeer belangrijke concepten, productlooptijden, en kenniscontroles. Deze cursus zal een basis van kennis verstrekken u op in uw certificatiereis kunt voortbouwen.
+>* **Cursus**: Als u net bent begonnen, of een verfrisser nodig hebt, neemt u de [Adobe Commerce-oprichtingscursus](https://app.rockinfo.com/courses/148) toegang tot verklaringen van zeer belangrijke concepten, productlooptijden, en kenniscontroles. Dit verstrekt een basis van kennis u op in uw certificatiereis kunt voortbouwen.
 >
->* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/384) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
+>* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/384) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie moet succesvol zijn.
 >
 >_Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
 
@@ -118,7 +118,7 @@ Bovendien, zou u kennis van de volgende technologieën moeten tonen:
 * Beschrijf het gebruik van Knockout JS
 * Beschrijf het gebruik van jQuery-widgets
 
-**Sectie 5: Admin-configuratie en PageBuilder (6%)**
+**Sectie 5: Admin-configuratie en Page Builder (6%)**
 
 * Toon de capaciteit aan om de Inhoud van de Bouwer van de Pagina en van CMS aan te passen&quot;
 * Een thema toepassen/plannen op een specifiek bereik (website, winkel, winkel-weergave)
@@ -127,7 +127,7 @@ Bovendien, zou u kennis van de volgende technologieën moeten tonen:
 
 **Sectie 6: Gereedschappen (CLI en Grunt) (8%)**
 
-* Beschrijf het gebruik van basisbak/magento bevelen
+* Beschrijf het gebruik van basisbak/Magento bevelen
 * Beschrijf het gebruik van Composer-opdrachten (installeren, bijwerken, vereisen, verwijderen)
 * Verschil het aangewezen gebruiksgeval voor plaatsingswijzen
 * Beschrijf extra hulpmiddelen die de wolk verstrekt (snel, downloadend gegevensbestand, plaatsing van inhoud)
@@ -146,7 +146,7 @@ Bovendien, zou u kennis van de volgende technologieën moeten tonen:
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

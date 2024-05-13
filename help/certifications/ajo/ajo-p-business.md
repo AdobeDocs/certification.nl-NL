@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Examen AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '934'
+source-wordcount: '933'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,10 @@ ht-degree: 0%
 >
 >Gratis cursussen op aanvraag zijn nu beschikbaar om u te helpen zich voor te bereiden op uw examen. Begin vandaag met uw leerreis door de cursus te kiezen die het beste aansluit bij uw ervaringsniveau!
 >
->* De [Adobe Experience Platform-oprichtingscursus](https://app.rockinfo.com/courses/216) introduceert u aan Adobe Experience Cloud, een end-to-end suite met digitale marketingtools die is gebaseerd op het enige platform dat is ontworpen voor verpersoonlijking op schaal.
+>* De [Adobe Experience Platform-oprichtingscursus](https://app.rockinfo.com/courses/216) introduceert Adobe Experience Cloud, een end-to-end suite met digitale marketingtools die is gebaseerd op het enige platform dat is ontworpen voor personalisatie op schaal.
 >* De [Adobe Journey Optimizer-oprichtingscursus](https://app.rockinfo.com/courses/113) biedt een basis voor kennis over deze specifieke toepassing.
 >* De [Adobe Journey Optimizer Business Practitioner Professional-cursus](https://app.rockinfo.com/courses/107) bouwt op de cursus van Stichting voort en helpt u voor het professionele niveau certificatieexamen voorbereidingen treffen.
->* De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/588) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de diepgaande studiematerialen u op uw examen zult moeten succesvol zijn.
+>* De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/588) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de diepgaande studiematerialen u op uw examen moet succesvol zijn.
 >
 >_Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
 
@@ -84,8 +84,8 @@ Kandidaten moeten in staat zijn:
 * Begrijp en gebruik verschillende Activiteiten in Reis
 * Basisfoutopsporing - Via testmodus of rapportage (geen queryservice vereist)
 * de reisvereisten van het bedrijf verzamelen en documenteren
-* Kennis van de beste praktijken op het gebied van reizen en kanalen (bv. beste tijd om te verzenden, beste kanaal om te gebruiken, beste patronen van reisontwerp voor verschillende gebruiksgevallen, wanneer om transactie en marketing bericht te gebruiken)
-* Begrijpen wat u moet doen (bijvoorbeeld verschillende stemmen, opwarmen)
+* Kennis van de beste praktijken rond reizen en kanalen (bijvoorbeeld beste tijd om te verzenden, beste kanaal aan gebruik, beste patronen van het reisontwerp voor verschillende gebruiksgevallen, wanneer om transactie en marketing bericht te gebruiken)
+* Begrijp de concepten van de Leverbaarheid (bijvoorbeeld verschillende Stuitingen, opwarmen)
 * Begrijp Frequentie, Vermoeidsregels
 * Gegevenssets voorvertonen
 * Basisbegrip van identiteiten
@@ -99,7 +99,7 @@ Kandidaten moeten ook in staat zijn:
 * HTML uploaden en automatisch converteren voor e-mail (nieuwe HTML-converter)
 * Een inhoudexperiment maken
 * De resultaten van een inhoudexperiment meten
-* Tags / filter / zoek, campagnes en nog veel meer
+* Trajecten, campagnes en meer voor tags/filters/zoekopdrachten
 * Een fragment maken op basis van een sjabloon
 * Aangepaste actie
 * Inhoud maken in essentiële elementen
@@ -167,7 +167,7 @@ Kandidaten moeten ook in staat zijn:
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

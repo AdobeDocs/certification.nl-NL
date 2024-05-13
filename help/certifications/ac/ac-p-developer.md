@@ -7,7 +7,7 @@ role: Developer
 badge: label="Examen AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '759'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Cursussen:** Neem de [Adobe Commerce Developer Professional Cursus](https://app.rockinfo.com/courses/92) Dit omvat uitleg over belangrijke concepten, praktijkdemonstraties en kenniscontroles. Als je net begint, [Adobe Commerce-oprichtingscursus](https://app.rockinfo.com/courses/148) biedt een basis van kennis waarop u kunt voortbouwen tijdens uw certificeringsreis.
 >
->* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/382) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de diepgaande studiematerialen u op uw examen zult moeten succesvol zijn.
+>* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/382) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de diepgaande studiematerialen u op uw examen moet succesvol zijn.
 >
 >Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID.
 
@@ -146,7 +146,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * Basiskennis van gebruikersbeheer in de cloud en onboarding UI herkennen
 * Omgevingsbeheer beschrijven met UI
 * Vertakking beschrijven met UI
-* Mogelijkheden van het Cloud Plan voor Adobe-handel identificeren
+* Mogelijkheden van Adobe Commerce Cloud-abonnementen identificeren
 
 **Sectie 9: [!DNL Commerce] Cloud CLI-gereedschap (onderdeel beheren) (6%)**
 
@@ -176,7 +176,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

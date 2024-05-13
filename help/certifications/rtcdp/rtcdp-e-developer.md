@@ -7,9 +7,9 @@ role: Developer,Data Architect
 badge: label="Examen AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 8e20ec297693b463b2065e70c6f057e03c3cee60
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/617) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/617) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie moet succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 U zou moeten hebben:
 
 * Begrip van verschillen in segmentbeoordeling (stroom, partij, rand)
-* Inzicht in gebruiksgevallen voor API&#39;s (hoe u ontwikkelaarsproject bouwt, hoe auth werkt)
+* Inzicht in gebruiksgevallen voor API&#39;s (hoe u een ontwikkelaarsproject bouwt, hoe auth werkt)
 * Inzicht in de identiteitsdienst
 * Werken met gegevensstroom
 * Begrip van Adobe I/O
@@ -66,7 +66,7 @@ U zou moeten hebben:
 * Kennis van de grenzen van het gegevenspatroon
 * Begrijpen van bestemmingen en welke
 * Werken met het raamwerk voor het verzamelen van Edge-gegevens
-* Capaciteit om te bepalen welke toestemmingen AEP moeten worden gevormd (d.w.z. de toestemmingen van het attributenniveau) (doe aanbevelingen aan cliënten)
+* Capaciteit om te bepalen welke toestemmingen AEP moeten worden gevormd (namelijk de toestemmingen van het attributenniveau) (doe aanbevelingen aan cliënten)
 * Fundamenteel inzicht in de gebruiksgevallen van de vraagdienst
 * Basisbegrip van bronnen/bestemmingen SDK
 
@@ -112,7 +112,7 @@ U dient comfortabel te zijn in deze omgevingen:
 
 * Beschrijf verschillende manieren om publiek &amp; segmenten binnen CDP te bouwen
 * Verklaar de diverse segmentatietypen en hoe zij werken
-* Toon inzicht in hoe te om gebruiks geval(en) op segment/publieksactivering toe te passen
+* Toon een inzicht in hoe te om gebruiksgevallen op segment toe te passen/publieksactivering
 
 **Activering (12%)**
 
@@ -146,7 +146,7 @@ U dient comfortabel te zijn in deze omgevingen:
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

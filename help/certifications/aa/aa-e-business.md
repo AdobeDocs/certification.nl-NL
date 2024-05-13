@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '737'
+source-wordcount: '738'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/533) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/533) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie moet succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 * Gegevensanalisten
 * Webanalisten
 * Digitale analisten
-* Media-/marketinganalisten
+* Media/marketinganalisten
 * Eigenaars en managers van producten
 * UI-analisten
 * Conversie-/optimalisatiespecialisten
@@ -59,16 +59,16 @@ ht-degree: 0%
 
 U zou moeten hebben:
 
-* 2 jaar ervaring met digitale analyses met een marketingachtergrond
-* Uitgebreid inzicht in de meetwaarden en afmetingen van digitale analyses
-* Kennis van de bedrijfswaarde van webtechnologieën
+* 2 jaar ervaring met Digital Analytics met een marketingachtergrond
+* Uitgebreid inzicht in de meetwaarden en dimensies van Digital Analytics
+* inzicht in de bedrijfswaarde van webtechnologieën
 * De capaciteit om bedrijfsvereisten in metriek of KPIs te vertalen
 * De capaciteit om rapporten te bouwen en te interpreteren
 * De mogelijkheid om resultaten mee te delen en een actiemethode voor te stellen op basis van een analyse van rapporten
 * Helpte klanten begrijpen hoe ze de gewenste informatie kunnen ophalen/ophalen (zodat ze bijvoorbeeld hun bedrijfsvragen kunnen definiëren)
 * Begrijpen hoe de technologie werkt en de implementatie van een client begrijpt (bijvoorbeeld waar de gegevens zich bevinden, hoe ze kunnen worden verzameld, hoe ze worden bijgehouden) vanuit een functioneel oogpunt
 * Ten minste één jaar [!DNL Adobe Analytics] praktijkervaring
-* Basiskennis van de manier waarop digitale analyses gegevens filteren/structureren
+* Basiskennis van de manier waarop Digital Analytics gegevens filtert/structureert
 * Een bewustzijn van de integratie van [!DNL Adobe Analytics] met andere oplossingen voor Adobe
 
 Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
@@ -76,7 +76,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * FTP-client
 * Huidig [!DNL Adobe Analytics] Werkruimtemogelijkheden en andere rapportopties buiten Workspace (bijv. geplande projecten en planningsrapporten)
 * Foutopsporingsgereedschappen die relevant zijn voor [!DNL Adobe Analytics] (De monitor van het pakket zoals een Adobe Debugger, browser ontwikkelaarshulpmiddelen, Karel)
-* Admin Console (Analytics Reports Suite Admin Console en Experience Cloud Admin Console)
+* Admin Console (Admin Console van de Rapporten van de Reeks en Admin Console van het Experience Cloud)
 * Grondbeginselen/basisbeginselen van Adobe starten
 * Apps, SPA, basiskennis van websites
 * Gebruikersinterface voor mobiele services
@@ -152,7 +152,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

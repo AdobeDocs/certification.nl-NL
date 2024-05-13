@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Examen AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '722'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/532) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/532) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie moet succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -59,7 +59,7 @@ U zou moeten hebben:
 
 U moet ook ervaring hebben met de volgende taken:
 
-* Het interpreteren van een Document van het Ontwerp van Oplossingen (SDR) en het doel van allen begrijpen [!DNL Adobe Analytics] verzamelde variabelen
+* Het interpreteren van een Document van het Ontwerp van Oplossingen (SDR) en het begrip van het doel van allen [!DNL Adobe Analytics] verzamelde variabelen
 * Begrijpen en werken met Adobe (Experience Platform) Starten
 * Configuratie van basislijn [!DNL Adobe Analytics] afmetingen en gebeurtenissen Paginanaam, de Naam van de Verbinding, Activity Map, etc., maar zal met deskundige ontwikkelaars voor meer klantenimplementaties werken - de Variabele afbeelding wordt nog bezeten door de ontwikkelaars op het niveau van de Expert.
 * Het creëren van en het vormen van regels binnen Lancering na ontwerp dat door een deskundige van aa wordt verstrekt
@@ -138,7 +138,7 @@ U moet ook ervaring hebben met de volgende taken:
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Examen AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/530) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/530) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie moet succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ### Minimale ervaring {#minimum-experience}
 
-U moet ervaring hebben als implementatieconsultant in een hybride rol met ongeveer twee jaar ervaring in [!DNL Adobe Analytics] uitvoering. U fungeert als brug tussen IT en het bedrijf, vertaalt de bedrijfsvereisten in een technische oplossing (SDR), en gebaseerd op vereisten die door de analist worden verstrekt, begrijpt welk type variabele nodig is, waar en hoe te om de gegevens te verzamelen, het gegevensmodel (gegevenslaag) te ontwerpen, de oplossing van het markeringsbeheer te vormen en te handhaven.
+U moet ervaring hebben als implementatieconsultant in een hybride rol met ongeveer twee jaar ervaring in [!DNL Adobe Analytics] uitvoering. U fungeert als brug tussen IT en het bedrijf, vertaalt de bedrijfsvereisten in een technische oplossing (SDR), en, gebaseerd op de vereisten die door de analist worden verstrekt, begrijpt welk type variabele nodig is, waar en hoe te om de gegevens te verzamelen, het gegevensmodel (gegevenslaag) te ontwerpen, de oplossing van het markeringsbeheer te vormen en te handhaven.
 
 Als Analytics Developer implementeert u zelden de labels op de pagina. In plaats daarvan worden deze geïmplementeerd door de IT-afdeling of de systeemintegrator.
 
@@ -61,7 +61,7 @@ Gereedschappen:
 
 * Adobe Experience Platform Launch (Adobe starten)
 * Foutopsporingsgereedschappen die relevant zijn voor [!DNL Adobe Analytics] (De monitor van het pakket zoals Adobe Debugger, browser ontwikkelaarshulpmiddelen, Karel)
-* [!DNL Adobe Analytics] Rapportinstellingen voor beheerconsole
+* [!DNL Adobe Analytics] Instellingen voor rapportsuite voor Admin Console
 * Basiskennis van werkruimten
 * Gereedschappen voor webontwikkeling, code-editor en mobiele foutopsporingsprogramma&#39;s
 * Adobe controleur
@@ -121,7 +121,7 @@ Omgevingen:
 * JavaScript-fouten oplossen
 * Problemen oplossen [!DNL Adobe Analytics] variabelen
 * Aanbevelen het testen en het zuiveren beste praktijken
-* Los problemen op [!DNL Adobe Analytics] servervraag over zijn levenscyclus (d.w.z. van baken verzoek aan het tonen in het rapport)
+* Los problemen op [!DNL Adobe Analytics] servervraag over zijn levenscyclus (namelijk van baken verzoek aan het tonen in het rapport)
 
 <br>
 
@@ -145,7 +145,7 @@ Omgevingen:
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

@@ -7,7 +7,7 @@ role: User
 badge: label="Examen AD0-D106" type="neutral"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '453'
 ht-degree: 0%
@@ -48,9 +48,9 @@ ht-degree: 0%
 
 U zou moeten hebben:
 
-* ten minste 0-12 maanden ervaring binnen [!DNL Adobe Document Cloud]
+* Ten minste 0-12 maanden ervaring binnen [!DNL Adobe Document Cloud]
 * De bedrijfsbehoeften kunnen identificeren en meedelen
-* U kunt advies geven over [!DNL Adobe Document Cloud] oplossingen.
+* advies over productactivering kunnen geven op [!DNL Adobe Document Cloud] oplossingen.
 
 <br>
 
@@ -92,7 +92,7 @@ U zou moeten hebben:
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

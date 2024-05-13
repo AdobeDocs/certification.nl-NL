@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Examen AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '753'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/386) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
-
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/386) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie moet succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -88,10 +87,10 @@ Bovendien kunt u de volgende technologieën beter gebruiken:
 * Bepaal hoe te om producttypes en hun eigenschappen te gebruiken om aan klantenvereisten te voldoen
 * Vereisten en modellen interpreteren om te bepalen of aan deze vereisten kan worden voldaan met native functionaliteit
 * Toon kennis van het beheerpaneel en de plaats van gemeenschappelijke eigenschappen aan
-* De Adobe voor importeren/exporteren van bestanden aantonen [!DNL Commerce] entiteiten
+* Toon de capaciteit aan om Adobe in te voeren/uit te voeren [!DNL Commerce] entiteiten
 * Begrijp hoe te om kar en controle te vormen
 * Evalueer de native beschikbare verzendmethoden in de Adobe [!DNL Commerce] en de wijze waarop zij van toepassing zijn op algemene gebruiksgevallen
-* Gestileerde inhoud maken en publiceren met de Adobe [!DNL Commerce] CMS-functies waaronder PageBuilder
+* Gestileerde inhoud maken en publiceren met de Adobe [!DNL Commerce] CMS-functies waaronder Page Builder
 * Native tools gebruiken om de levenscyclus van uw bestelling te beheren
 * Toon de capaciteit aan om de diverse het giften opties (geschenkkaarten, gift het verpakken, geeft berichten) te vormen
 * E-mailberichten over transacties configureren en wijzigen
@@ -154,7 +153,7 @@ Bovendien kunt u de volgende technologieën beter gebruiken:
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

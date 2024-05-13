@@ -6,7 +6,7 @@ role: Developer
 badge: label="Examen AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '726'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >* **Cursus:** De [Adobe Workfront Project Manager - Professionele cursus](https://app.rockinfo.com/courses/230) bevat uitleg over belangrijke concepten, praktijkdemonstraties en kenniscontroles.
 >
->* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/609) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de diepgaande studiematerialen u op uw examen zult moeten succesvol zijn.
+>* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/609) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de diepgaande studiematerialen u op uw examen moet succesvol zijn.
 >
 >_Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 U zou moeten hebben:
 
-* inzicht in het werkproces van een eerste werkverzoek tot voltooiing of blootstelling aan project- of werkbeheer;
+* inzicht in het werkproces van een eerste aanvraag tot voltooiing van een werk of blootstelling aan project- of werkbeheer;
 * Voltooide zelfgeleide training of bootkamp of [!DNL Workfront] gebruiken voor 6-12 maanden zodat zij basisfunctionaliteit begrijpen
 * Een begrip van hoe te om, rapportgegevens te vormen te volgen en te controleren
 
@@ -133,7 +133,7 @@ U zou moeten hebben:
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Aanbevolen trainingscursus**
 

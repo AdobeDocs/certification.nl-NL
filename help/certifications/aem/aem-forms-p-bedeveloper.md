@@ -7,7 +7,7 @@ role: Developer
 badge: label="Examen AD0-E127" type="neutral"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '513'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/367) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/367) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie moet succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -86,7 +86,7 @@ U zou met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 * Op basis van een scenario de stappen identificeren die nodig zijn om AEM Forms te bouwen
 * Forms-gegevensmodel beschrijven
 * Stappen identificeren om AEM Forms aan te passen
-* Op basis van een scenario kunt u stappen identificeren voor het gebruik van de API van GuideBridge voor JavaScript ClientLib
+* In een scenario, identificeer stappen om JavaScript ClientLib te gebruiken leveraging GuideBridge API
 
 **Sectie 2: Processen en workflows (34%)**
 
@@ -128,7 +128,7 @@ U zou met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

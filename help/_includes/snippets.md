@@ -1,5 +1,5 @@
 ---
-source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '1804'
 ht-degree: 0%
@@ -237,4 +237,4 @@ Onze gratis cursussen op aanvraag helpen u voor te bereiden op uw examen. De cur
 
 ## Handleiding voor voorinstelling van examen {#exam-prep-guide}
 
-De vrije Gids van de Prep van het Examen verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de diepgaande onderzoeksmaterialen u op uw examen zult moeten succesvol zijn.
+De vrije Gids van de Prep van het Examen verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de diepgaande onderzoeksmaterialen u op uw examen moet succesvol zijn.

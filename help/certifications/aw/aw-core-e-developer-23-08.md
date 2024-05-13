@@ -6,7 +6,7 @@ role: Developer
 badge: label="Examen AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '950'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/611) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/611) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie moet succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -114,7 +114,7 @@ U moet minstens 18-24 maanden ervaring hebben met Adobe [!DNL Workfront]en moet 
 **Sectie 6: Methodologie/beste praktijken/gebruiksgevallen (22%)**
 
 * Op basis van een scenario [!DNL Workfront], functionaliteit tonen voor het instellen van tracering van te leveren items die deel uitmaken van één campagne.
-* Op basis van een scenario [!DNL Workfront], functionaliteit aan te tonen rond strategische prioriteitstelling en motivering van de werkzaamheden.
+* Op basis van een scenario [!DNL Workfront], functionaliteit aan te tonen rond strategische prioriteiten en rechtvaardiging van werkzaamheden.
 * Op basis van een scenario [!DNL Workfront], functionaliteit tonen rond financiële middelen, gebruik, prognoses, factureringscijfers/records
 * Op basis van een scenario [!DNL Workfront], functionaliteit tonen bij het instellen van de workflow en goedkeuringen.
 * Op basis van een scenario kunt u het beste een kader voor governance rond systeembeheer instellen wanneer u de instantie van een client uitbreidt.
@@ -152,7 +152,7 @@ U moet minstens 18-24 maanden ervaring hebben met Adobe [!DNL Workfront]en moet 
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

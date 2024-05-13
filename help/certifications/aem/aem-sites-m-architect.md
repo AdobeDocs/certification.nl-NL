@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Examen AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '644'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/374) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/374) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie moet succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -64,7 +64,7 @@ Bovendien, zou u de capaciteit moeten hebben om de volgende taken uit te voeren:
 * Een inhoudsmodel definiëren voor inhoud/elementen die aan toekomstige vereisten kunnen voldoen
 * Bepaalt de noodzakelijke malplaatjes en de componenten die op bedrijfsvereisten worden gebaseerd
 * Identificeer wanneer om uit-van-de-doos/functionaliteit/kerncomponenten versus douanecomponenten te gebruiken
-* Ontwerpcaching, taakverdeling en beveiligingsstrategieën (dispatcher, firewall, CDN,)
+* Ontwerpcaching, taakverdeling en beveiligingsstrategieën (Dispatcher, firewall, CDN)
 * Geef een schatting van de inspanning op hoog niveau voor de eerste installatie en de levering van de functie
 * Functie- en gebruiksgevallen van internationalisatie instellen
 * Definieer strategieën ter ondersteuning van meerdere sites en talen
@@ -137,7 +137,7 @@ Bovendien, zou u de capaciteit moeten hebben om de volgende taken uit te voeren:
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

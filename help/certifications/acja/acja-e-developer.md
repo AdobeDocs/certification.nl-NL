@@ -7,7 +7,7 @@ product: Customer Journey Analytics
 badge: label="Examen AD0-E604" type="neutral"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/376) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/376) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie moet succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -65,7 +65,7 @@ U moet 12-24 maanden ervaring hebben met Adobe [!DNL Customer Journey Analytics]
 * Een QC-script definiëren om aan AEP-engineer uit te leveren
 * Verbindingen met primaire identiteiten (persoon-id) configureren
 * Verbindingen met veelvoudige datasets vormen
-* Een gegevensweergave configureren (configuratie metrisch / dimensie)
+* Een gegevensweergave configureren (configuratie metrisch/dimensie)
 * Adobe configureren [!DNL Customer Journey Analytics]
 * Gegevens transformeren binnen de afmetingen en metriek
 * De grondbeginselen van de werkruimte analyseren (visualisaties, attributie-instellingen, filters, berekende metriek)
@@ -117,7 +117,7 @@ U moet 12-24 maanden ervaring hebben met Adobe [!DNL Customer Journey Analytics]
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

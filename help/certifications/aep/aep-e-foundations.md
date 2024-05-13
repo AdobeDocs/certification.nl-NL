@@ -8,7 +8,7 @@ badge: label="Examen AD0-E600 &amp; AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '1069'
 ht-degree: 0%
@@ -125,7 +125,7 @@ Het examen AD0-E600 bevestigt vaardigheden en kennis die de basiseigenschappen e
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 
@@ -134,7 +134,7 @@ Het examen AD0-E600 bevestigt vaardigheden en kennis die de basiseigenschappen e
 **Deel 1: Gegevensmodellering**
 
 * [Schemas begrijpen](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html){target="_blank"}
-* [Schema en XDM - Overzicht/Adobe [!DNL Experience Platform]: Gegevensmodellering en insluiting](https://video.tv.adobe.com/v/27105){target="_blank"}
+* [Schema en XDM Overzicht/Adobe [!DNL Experience Platform]: Gegevensmodellering en insluiting](https://video.tv.adobe.com/v/27105){target="_blank"}
 * [Modelgegevens in schema&#39;s](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
 * [Overzicht schema en XDM](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html){target="_blank"}
 
@@ -265,7 +265,7 @@ Deel 3: Doelen (27%)
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

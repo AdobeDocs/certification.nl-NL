@@ -7,7 +7,7 @@ role: User,Developer
 badge: label="Examen AD0-E457" type="neutral"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 0%
@@ -55,7 +55,9 @@ U zou moeten hebben:
 * 1-2 jaar ervaring op het gebied van marketingtechnologie
 * 3-6 maanden ervaring met publieksactivering
 * Ervaring met Booleaanse logica, jargon voor digitale marketing, gegevensanalyse en strategieën
-* Kennis van bedrijfsdoelstellingen en KPI&#39;s, kennis van digitale marketingtechnologiestapels en diverse platformintegratie, en inzicht in gegevensstromen (ID-typen, ID-syncs, pixeltracering, op mensen gebaseerde bestemmingen)
+* Kennis van bedrijfsdoelstellingen en KPI&#39;s
+* Kennis van digitale marketingtechnologiestapels en diverse platformintegratie
+* Kennis van gegevensstromen (ID-typen, ID-syncs, pixeltracking, op personen gebaseerde doelen)
 
 U zou met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 
@@ -63,7 +65,7 @@ Technologieën:
 
 * DSP Platform (handelsbureau, Dubbelklik Bodmanager, etc.)
 * Excel
-* Tableau en soortgelijke gereedschappen (PowerBI, Qlik)
+* Tableau en soortgelijke gereedschappen (Power BI, Qlik)
 * Advertentieserver (Dubbelklik op Campagnebeheer)
 * Adobe/Googles Analytics
 * Adobe Experience Platform
@@ -132,7 +134,7 @@ Omgevingen:
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

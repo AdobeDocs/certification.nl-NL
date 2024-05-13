@@ -7,7 +7,7 @@ role: User
 badge: label="Examen AD0-E126" type="neutral"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '480'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/366) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/366) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie moet succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -52,8 +52,8 @@ ht-degree: 0%
 
 U zou moeten hebben:
 
-* Ervaring van minimaal 0 tot 12 maanden met het gebruik en configureren van Adobe Cloud Manager
-* Ervaring van minstens 0 tot 12 maanden met AEM functies en mogelijkheden die nodig zijn om ontwikkelaars te betrekken bij het zoeken naar zakelijke oplossingen
+* Minder dan 0 tot 12 maanden ervaring met het gebruik en configureren van Adobe Cloud Manager
+* Minstens 0 tot 12 maanden ervaring met AEM functies en mogelijkheden die nodig zijn om ontwikkelaars te betrekken bij het zoeken naar zakelijke oplossingen
 * Minstens 0-12 maanden ervaring het vormen van, het uitvoeren van, en het beheren van Ononderbroken Integratie/Ononderbroken taken van de Plaatsing
 
 U zou moeten comfortabel werken in Adobe Managed Services en Adobe [!DNL Experience Manager] as a Cloud Service en in staat om Adobe in te stellen [!DNL Experience Manager] omgevingen en infrastructuur.
@@ -111,7 +111,7 @@ Bovendien moet u:
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

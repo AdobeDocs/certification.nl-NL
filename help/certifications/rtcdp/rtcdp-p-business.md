@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="Examen AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 >
 >De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
 >
->* **Cursus:** Als u net begint, of een verfrisser nodig hebt, neem onze [Adobe Experience Platform-oprichtingscursus](https://app.rockinfo.com/courses/216) toegang tot verklaringen van zeer belangrijke concepten, productlooptijden, en kenniscontroles. Deze cursus zal een basis van kennis verstrekken u op in uw certificatiereis kunt voortbouwen.
+>* **Cursus:** Als u net begint, of een verfrisser nodig hebt, neem onze [Adobe Experience Platform-oprichtingscursus](https://app.rockinfo.com/courses/216) toegang tot verklaringen van zeer belangrijke concepten, productlooptijden, en kenniscontroles. Deze cursus biedt een basis van kennis waarop u kunt voortbouwen tijdens uw certificeringsreis.
 >
->* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/377) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
+>* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/377) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie moet succesvol zijn.
 >
 >_Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
 
@@ -101,7 +101,7 @@ Ervaring met taken zoals:
 
 **Sectie 3: Bedrijfsanalyse (30%)**
 
-* Gebruiksgevallen identificeren die terugkoppelen aan KPI&#39;s voor bedrijven
+* Gebruiksgevallen identificeren die terugkoppelen aan zakelijke KPI&#39;s
 * Gegevensanalyse uitvoeren op klantsegmenten in platform
 * Toon een inzicht in de concepten van de gegevensstroom aan
 
@@ -124,7 +124,7 @@ Ervaring met taken zoals:
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

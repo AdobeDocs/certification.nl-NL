@@ -7,7 +7,7 @@ role: Developer
 badge: label="Examen AD0-E125" type="neutral"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/372) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/372) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie moet succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -73,7 +73,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * Mogelijkheid om met datadiensten te integreren
 * Workflowimplementatie
 * Basiskennis van AEM Forms Workbench (JEE) voor het maken van live - korte processen en services.
-* JavaScript-clientlibs ontwikkelen met de GuideBridge-API
+* JavaScript-clientlibs ontwikkelen met GuideBridge API
 * Gebaseerd op sign/government CAC weet welke AEM Forms-omgeving desktop of server gebaseerd is op gebruik
 * Basisbegrip van Java/J2EE en JavaScript om logica te schrijven en verschillende diensten te roepen.
 * Een adaptief formulier vooraf invullen
@@ -96,7 +96,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * Forms bouwen
 * Forms-gegevensmodel configureren
 * AEM Forms aanpassen
-* Ontwikkel en gebruik JavaScript ClientLib, die GuideBridge-API gebruikt
+* JavaScript ClientLib ontwikkelen en gebruiken via GuideBridge-API
 
 **Sectie 2: Processen en workflows (34%)**
 
@@ -146,7 +146,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

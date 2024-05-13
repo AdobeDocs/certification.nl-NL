@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '863'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/594) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/594) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie moet succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -74,9 +74,9 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 Technologieën:
 
-* Foutopsporing in de marketingcloud / ook wel Adobe Experience Cloud-foutopsporing genoemd
+* Foutopsporing in de marketingcloud of ook wel Adobe Experience Cloud Debugger genoemd
 * Adobe Analytics als rapporteringsbron voor specifiek doel-A4T-integratie
-* Browserconsole/Browser-ontwikkelaarsgereedschappen, zoals console, tabblad Netwerk
+* De console-/Browser van de browser ontwikkelt hulpmiddelen zoals console, netwerklusje
 * Netwerkgereedschappen in browser
 * Basiskennis van andere Adobe-gereedschappen
 * Ontwerpconsole (elke webbrowser)
@@ -90,8 +90,8 @@ Technologieën:
 
 Omgevingen:
 
-* Desktop / website, inclusief desktops en mobiele apparaten
-* Mobile App (basiskennis) / Use of Target for mobile devices
+* Desktop/website inclusief desktops en mobiele apparaten
+* Mobile App (basiskennis)/Use of Target for mobile devices
 * Staging-ontwikkeling
 * Productie
 * Productieomgevingen op mobiele apparaten, tablets en desktopapparaten
@@ -115,7 +115,7 @@ Omgevingen:
 * Een testhypothese analyseren op basis van een bepaald scenario en aspecten van een geldige hypothese identificeren
 * Bepaal op KPI-Gebaseerde primaire en secundaire succesmetriek
 * Vereisten voor het publiek beoordelen
-* Bepaal de relevante analytische rapporteringsbronnen (d.w.z. Target of Adobe Analytics)
+* Bepaal de juiste analytische rapporteringsbronnen (dat wil zeggen, Target of Adobe Analytics)
 
 **Sectie 2: Vormen, uitvoeren en beheren (42%)**
 
@@ -163,7 +163,7 @@ Omgevingen:
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 

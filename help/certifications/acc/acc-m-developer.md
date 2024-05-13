@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Examen AD0-E328" type="neutral"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '697'
 ht-degree: 0%
 
 ---
@@ -56,14 +56,14 @@ U zou moeten hebben:
 * De capaciteit om de technische roadmap met inbegrip van LEO en taakgebiedsdelen te verstrekken
 * De mogelijkheid om technische informatie te verstrekken met betrekking tot de reikwijdte en het tijdschema van het project
 * Ervaring met workshops over bedrijfsvereisten
-* Ervaar toonaangevende workshops over het ontwerpen van oplossingen
+* Ervaring met toonaangevende workshops voor het ontwerpen van oplossingen
 * De capaciteit om veelvoudige oplossingsbenaderingen te evalueren en aanbevelingen te verstrekken
 * De mogelijkheid om bestaande campagnes en processen op andere platforms te evalueren om de behoeften voor de Adobe Campaign-implementatie te bepalen
 * De capaciteit om producteigenschappen en mogelijkheden te beschrijven en aan te tonen
 * De mogelijkheid om productmogelijkheden toe te wijzen aan gevallen met veel gebruik
-* Ervaring die het pre-verkoopteam steunt
+* Ervaring met het ondersteunen van het pre-sales team
 * De mogelijkheid om decside coaching aan te bieden (best practices voor producten, meetgegevens voor rapportage, enzovoort)
-* Ervaring die de verschillen tussen plaatsingsmodellen beschrijft
+* Ervaring bij het beschrijven van de verschillen tussen plaatsingsmodellen
 
 <br>
 
@@ -129,7 +129,7 @@ U zou moeten hebben:
 
 <br>
 
-+++Stap 2: Bereid voor voor uw examen met ons vrije studiemateriaal
++++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
 **Materialen onderzoeken**
 
