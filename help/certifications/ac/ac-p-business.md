@@ -7,7 +7,7 @@ role: User
 badge: label="Examen AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 2848558a21682c15837c676bb2c1eb3d95c9bc48
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
 >
->* **Cursussen**: Neem de [Adobe Commerce Business Practitioner Professional-cursus](https://app.rockinfo.com/courses/105) voor uitleg over belangrijke concepten, praktijkdemonstraties en kenniscontroles. Als je net begint, [Adobe Commerce-oprichtingscursus](https://app.rockinfo.com/courses/148) biedt een basis van kennis waarop u kunt voortbouwen tijdens uw certificeringsreis.
+>* **Cursussen**: Neem de [Adobe Commerce Business Practitioner Professional-cursus](https://app.rockinfo.com/courses/playScorm/620) voor uitleg over belangrijke concepten, praktijkdemonstraties en kenniscontroles. Als je net begint, [Adobe Commerce-oprichtingscursus](https://app.rockinfo.com/courses/148) biedt een basis van kennis waarop u kunt voortbouwen tijdens uw certificeringsreis.
 >
 >* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/383) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
 >
@@ -156,7 +156,7 @@ Bovendien moet u een basiskennis hebben van de eCommerce-ervaring en kennis hebb
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/playScorm/383)
+[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/playScorm/620)
 
 +++
 

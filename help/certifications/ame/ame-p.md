@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: 2848558a21682c15837c676bb2c1eb3d95c9bc48
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Certificeringsreis voor Adobe [!DNL Marketo Engage] Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/618) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -147,42 +151,15 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 
 {{study-materials-intro}}
 
-**Deel 1: Opbouw en beheer van programma&#39;s**
-
-* [Programma&#39;s begrijpen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html){target="_blank"}
-* [E-mailprogramma&#39;s](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html){target="_blank"}
-* [Betrokkenheidsprogramma&#39;s](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html){target="_blank"}
-* [Gebeurtenisprogramma&#39;s](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
-* [Mijn tokens in een programma begrijpen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html){target="_blank"}
-* [Marketo Verklarende woordenlijst](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html){target="_blank"}
-* [Werken met het lidmaatschap van het programma](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
-
-**Sectie 2: Gebouwen**
-
-* [Een goed begrip van een lokaal element in een programma](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.html){target="_blank"}
-* [Een formulier maken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form.html){target="_blank"}
-* [Overzicht van tokens](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.html){target="_blank"}
-* [Openingspagina](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.html){target="_blank"}
-
-**Sectie 3: Doelgroepen definiëren en doelgroepen bepalen**
-
-* [Slimme campagnes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html){target="_blank"}
-* [Beste praktijken voor Slimme Lijsten](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.html){target="_blank"}
-* [Een segmentatie maken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
-* [Dynamische inhoud](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.html){target="_blank"}
-
-**Sectie 4: Analyseren en samenstellen van rapporten**
-
-* [Een rapport maken in een programma](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.html){target="_blank"}
-* [Slimme lijsten](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.html){target="_blank"}
-* [Overzicht rapporttype](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
-* [Rapportabonnementen beheren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html){target="_blank"}
-
-<br>
-
 **Een praktijktest uitvoeren**
 
 {{practice-test}}
+
+**Handleiding voor voorinstelling van examen**
+
+{{exam-prep-guide}}
+
+[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/playScorm/618)
 
 +++
 
