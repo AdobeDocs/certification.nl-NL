@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E559" type="neutral"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '701'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/390) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie moet succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/390) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 

@@ -6,9 +6,9 @@ role: Developer
 badge: label="Examen AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >* **Nieuwe beschikbare cursus:** De [Adobe Workfront Core Developer - Professionele cursus](https://app.rockinfo.com/courses/231) bevat uitleg over belangrijke concepten, praktijkdemonstraties en kenniscontroles.
 >
->* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/610) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de diepgaande studiematerialen u op uw examen moet succesvol zijn.
+>* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/610) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de materialen u op uw examen zult moeten succesvol zijn.
 >
 >_Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
 

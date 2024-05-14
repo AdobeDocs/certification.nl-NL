@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Cursussen**: Neem de [Adobe Commerce Business Practitioner Professional-cursus](https://app.rockinfo.com/courses/105) voor uitleg over belangrijke concepten, praktijkdemonstraties en kenniscontroles. Als je net begint, [Adobe Commerce-oprichtingscursus](https://app.rockinfo.com/courses/148) biedt een basis van kennis waarop u kunt voortbouwen tijdens uw certificeringsreis.
 >
->* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/383) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie moet succesvol zijn.
+>* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/383) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
 >
 >_Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
 
