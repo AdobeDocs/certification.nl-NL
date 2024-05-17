@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E127" type="neutral"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '579'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/367) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
+>
+>* **Cursus:** Als u net begint, of een verfrisser nodig hebt, neem [Adobe Experience Manager Foundations-cursus](https://app.rockinfo.com/courses/240) toegang tot verklaringen van zeer belangrijke concepten, productlooptijden, en kenniscontroles. Deze cursus zal een basis van kennis verstrekken u op in uw certificatiereis kunt voortbouwen.
+>
+>* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/367) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
+>
+>_Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -133,6 +139,12 @@ U zou met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 **Materialen onderzoeken**
 
 {{study-materials-intro}}
+
+**Een cursus volgen**
+
+{{take-course}}
+
+[De cursus Adobe Experience Manager-stichtingen volgen](https://app.rockinfo.com/courses/240)
 
 **Handleiding voor voorinstelling van examen**
 

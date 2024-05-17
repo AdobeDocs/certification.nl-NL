@@ -7,9 +7,9 @@ role: Developer
 badge: label="Examen AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
 >
->* **Cursus:** Neem een [trainingscursus](https://app.rockinfo.com/courses/105) Dit omvat uitleg over belangrijke concepten, praktijkdemonstraties en kenniscontroles.
+>* **Cursus:** Neem de [Adobe Experience Manager Sites for Developers - Professionele cursus](https://app.rockinfo.com/courses/105), die een toelichting op de belangrijkste concepten, praktijkdemonstraties en kenniscontroles omvat. Als u net begint, of een verfrisser nodig hebt, neem [Adobe Experience Manager Foundations-cursus](https://app.rockinfo.com/courses/240), die een basis van kennis biedt waarop u kunt voortbouwen in uw certificeringsreis.
 >
 >* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/381) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de materialen u op uw examen zult moeten succesvol zijn.
 >
@@ -119,34 +119,21 @@ U zou een toepassingsontwikkelaar moeten zijn en hebben:
 
 {{take-course}}
 
-<a href="https://app.rockinfo.com/courses/105" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+[De cursus Adobe Experience Manager-stichtingen volgen](https://app.rockinfo.com/courses/240)
 
-<span class="spectrum-Button-label has-no-wrap">
-   Cursus volgen
-</span>
-</a>
+[Neem de cursus Adobe Experience Manager Sites for Developers](https://app.rockinfo.com/courses/105)
 
 **Handleiding voor voorinstelling van examen**
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/381" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Handleiding voor voorinstelling van examen weergeven
-</span>
-</a>
+[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/playScorm/381)
 
 **Voorbeeldvragen**
 
 {{sample-questions}}
 
-<a href="https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Voorbeeldvragen weergeven
-</span>
-</a>
+[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions)
 
 +++
 
