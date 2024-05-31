@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 2848558a21682c15837c676bb2c1eb3d95c9bc48
+source-git-commit: 594ffcacc7c753515f39c42cb66373a3e2266e93
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '663'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/618) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/247) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -85,12 +85,20 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 
 **Deel 1: Opbouw en beheer van programma&#39;s (39%)**
 
-* Gezien een bedrijfsbehoefte/vraag, identificeer een aangewezen rapporteringsstrategie om een analyse uit te voeren
-* Gegevens analyseren om zakelijke vragen te beantwoorden
-* Conversietrechter identificeren (als concept om bedrijfsanalyse te begrijpen)
-* Raadpleeg de Verwijzing van het Ontwerp van de Oplossing (SDR) om te bepalen welke gegevens in rapporten beschikbaar zijn
-* Rapportgegevens analyseren om conclusies samen te vatten en te trekken
-* Uitstekers en anomalieën in rapporten herkennen
+* Bepaal wanneer u elk van de vier programmatypen wilt gebruiken.
+* Geef aan waarom/wanneer u het gebeurtenisprogramma wilt gebruiken.
+* Identificeer waarom/wanneer om het standaardprogramma te gebruiken.
+* De speciale kenmerken van het betrokkenheidsprogramma identificeren.
+* De speciale functies van e-mailprogramma identificeren.
+* Erken wat er gekloond kan worden.
+* De voordelen van aangepaste tags identificeren.
+* Identificeer het doel van kanalen.
+* Beschrijf het belang van de kosten van de periode.
+* Erken het concept van het gebruik van scoring in leads.
+* Communicatielimieten begrijpen.
+* Erkennen van het lidmaatschap en de verwerving van programma&#39;s.
+* Klantvoorkeuren (abonnement, communicatie) begrijpen.
+* Pas de aanbevolen procedures toe voor revisie voordat u de toepassing start.
 
 **Sectie 2: Gebouwen (19%)**
 
@@ -159,7 +167,7 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/playScorm/618)
+[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/247)
 
 +++
 
