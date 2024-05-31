@@ -6,7 +6,7 @@ product: Journey Optimizer
 role: Developer
 badge: label="Examen AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '931'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >* De [Adobe Experience Platform-oprichtingscursus](https://app.rockinfo.com/courses/216) introduceert Adobe Experience Cloud, een end-to-end suite met digitale marketingtools die is gebaseerd op het enige platform dat is ontworpen voor personalisatie op schaal.
 >* De [Adobe Journey Optimizer-oprichtingscursus](https://app.rockinfo.com/courses/113) biedt een basis voor kennis over deze specifieke toepassing.
 >* De [Adobe Journey Optimizer Business Practitioner Professional-cursus](https://app.rockinfo.com/courses/107) bouwt op de cursus van Stichting voort en helpt u voor het professionele niveau certificatieexamen voorbereidingen treffen.
->* De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/588) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de materialen u op uw examen zult moeten succesvol zijn.
+>* De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/232) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de materialen u op uw examen zult moeten succesvol zijn.
 >
 >_Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
 
@@ -189,7 +189,7 @@ Kandidaten moeten ook in staat zijn:
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/playScorm/588)
+[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/232)
 
 +++
 

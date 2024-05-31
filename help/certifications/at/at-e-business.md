@@ -7,7 +7,7 @@ role: User
 badge: label="Examen AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '861'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/594) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/236) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -97,7 +97,7 @@ Omgevingen:
 * Productieomgevingen op mobiele apparaten, tablets en desktopapparaten
 * Verwante hostplatforms
 * Doel gebruiken voor toepassingen van één pagina
-* Email
+* E-mail
 
 <br>
 
@@ -169,15 +169,15 @@ Omgevingen:
 
 {{study-materials-intro}}
 
+**Een praktijktest uitvoeren**
+
+{{practice-test}}
+
 **Handleiding voor voorinstelling van examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/playScorm/594)
-
-**Een praktijktest uitvoeren**
-
-{{practice-test}}
+[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/236)
 
 +++
 

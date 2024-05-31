@@ -7,7 +7,7 @@ role: Developer
 badge: label="Examen AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Cursus:** Neem de [Adobe Experience Manager Sites for Developers - Professionele cursus](https://app.rockinfo.com/courses/105), die een toelichting op de belangrijkste concepten, praktijkdemonstraties en kenniscontroles omvat. Als u net begint, of een verfrisser nodig hebt, neem [Adobe Experience Manager Foundations-cursus](https://app.rockinfo.com/courses/240), die een basis van kennis biedt waarop u kunt voortbouwen in uw certificeringsreis.
 >
->* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/381) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de materialen u op uw examen zult moeten succesvol zijn.
+>* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/121) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de materialen u op uw examen zult moeten succesvol zijn.
 >
 >Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID.
 
@@ -127,7 +127,7 @@ U zou een toepassingsontwikkelaar moeten zijn en hebben:
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/playScorm/381)
+[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/121)
 
 **Voorbeeldvragen**
 
