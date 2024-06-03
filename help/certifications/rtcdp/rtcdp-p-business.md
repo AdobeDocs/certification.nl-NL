@@ -8,7 +8,7 @@ recommendations: disable, exclude
 badge: label="Examen AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 368efd8497209e2342806f9cea6005c30ced306f
+source-git-commit: d2631442d3a4029453edbd532e9f52708c01c3f9
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 >
 >* **Cursus:** Als u net begint, of een verfrisser nodig hebt, neem onze [Adobe Experience Platform-oprichtingscursus](https://app.rockinfo.com/courses/216) toegang tot verklaringen van zeer belangrijke concepten, productlooptijden, en kenniscontroles. Deze cursus biedt een basis van kennis waarop u kunt voortbouwen tijdens uw certificeringsreis.
 >
->* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/637) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
+>* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/133) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
 >
 >_Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
 
@@ -130,10 +130,6 @@ Ervaring met taken zoals:
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
-
-{{practice-test}}
-
 **Een cursus volgen**
 
 {{take-course}}
@@ -145,16 +141,16 @@ Ervaring met taken zoals:
 </span>
 </a>
 
+**Een praktijktest uitvoeren**
+
+{{practice-test}}
+
 **Handleiding voor voorinstelling van examen**
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/637" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/133)
 
-<span class="spectrum-Button-label has-no-wrap">
-   Handleiding voor voorinstelling van examen weergeven
-</span>
-</a>
 
 +++
 

@@ -6,7 +6,7 @@ role: Developer
 badge: label="Examen AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: d2631442d3a4029453edbd532e9f52708c01c3f9
 workflow-type: tm+mt
 source-wordcount: '948'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/611) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/241) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -162,7 +162,7 @@ U moet minstens 18-24 maanden ervaring hebben met Adobe [!DNL Workfront]en moet 
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/playScorm/611)
+[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/241)
 
 <br>
 

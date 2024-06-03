@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Examen AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: d2631442d3a4029453edbd532e9f52708c01c3f9
 workflow-type: tm+mt
 source-wordcount: '717'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/619) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/248) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -163,7 +163,7 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/playScorm/619)
+[Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/248)
 
 +++
 
