@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Examen AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: b71b893b405e990b59d7e398f9f90339ec7418a1
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '595'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare cursus:** Gratis, op aanvraag [Adobe Journey Optimizer Developer Expert Cursus](https://app.rockinfo.com/courses/147) bevat uitleg over belangrijke concepten, praktijkdemonstraties en kenniscontroles. _Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
+>De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
+>
+>* **Cursus:** Gratis, op aanvraag [Adobe Journey Optimizer Developer Expert Cursus](https://app.rockinfo.com/courses/147) bevat uitleg over belangrijke concepten, praktijkdemonstraties en kenniscontroles.
+>
+>* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/143) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de diepgaande studiematerialen u op uw examen zult moeten succesvol zijn.
+>
+>_Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -131,44 +137,17 @@ Adobe Journey Optimizer wordt aangedreven door Experience Platform. Kandidaten d
 
 {{take-course}}
 
-<a href="https://app.rockinfo.com/courses/147" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   De Adobe Journey Optimizer Developer Expert Cursus volgen
-</span>
-</a>
-
-**Onderzoeksbronnen**
-
-**Sectie 1: Beheer en configuratie**
-
-* [Experience Platform, toegangsbeheer, handleiding voor sandboxen](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html){target="_blank"}
-* [AJO Guide, Configuratie, SMS-kanaal, Reizen](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-* [AJO-API&#39;s](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
-
-**Deel 2: Journey Orchestration**
-
-* [AJO-gids, reizen, expressies, volgen en bewaken](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-
-**Deel 3: Offer decisioning**
-
-* [AJO Guide, beslissingsbeheer, API-referentie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-
-**Sectie 4: Inhoud ontwerpen**
-
-* [AJO Guide, SMS-kanaal, Privacy, Configuration, Joursions, Expressions, Content Management, Track and Monitor, Push Notification Channel](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-* [Journey Optimizer Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"}
-
-**Deel 5: Gegevensmodellering**
-
-* [AJO-gids, configuratie, soorten publiek, profielen en identiteit, gegevensbeheer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-* [Experience Platform, Datasets, Source Connectors Guide, API-Tutorials, Platform Identity Service Guide, Segmentation UI, UI-Tutorials](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
-
-<br>
+[De Adobe Journey Optimizer Developer Expert Cursus volgen](https://app.rockinfo.com/courses/147)
 
 **Een praktijktest uitvoeren**
 
 {{practice-test}}
+
+**Handleiding voor voorinstelling van examen**
+
+{{exam-prep-guide}}
+
+[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/143)
 
 +++
 
