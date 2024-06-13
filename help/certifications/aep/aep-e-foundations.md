@@ -6,9 +6,10 @@ product: Experience Platform
 role: Developer
 badge: label="Examen AD0-E600 &amp; AD7-E601" type="neutral"
 hidefromtoc: true
+hide: true
 mini-toc-levels: 1
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 03d57783516ef0768e84393d09c97ae95fdd819e
 workflow-type: tm+mt
 source-wordcount: '1069'
 ht-degree: 0%
@@ -152,7 +153,7 @@ Het examen AD0-E600 bevestigt vaardigheden en kennis die de basiseigenschappen e
 
 **Sectie 4: Activering**
 
-* [Overzicht van doelen](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=nl){target="_blank"}
+* [Overzicht van doelen](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html){target="_blank"}
 
 <br>
 
@@ -277,7 +278,7 @@ Deel 3: Doelen (27%)
 * [Profieldashboard](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
 * [Standaardhulplijnen voor realtime klantprofielgegevens](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html)
 * [Klantprofiel in realtime inschakelen](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html){target="_blank"}
-* [Real-time Customer Data Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=nl){target="_blank"}
+* [Real-time Customer Data Platform - Overzicht](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html){target="_blank"}
 * [AEP Application Services: Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
 * [Aan de slag met Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html){target="_blank"}
 * [Real-time Customer Data Platform-startpagina en -dashboards](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
@@ -314,7 +315,7 @@ Deel 3: Doelen (27%)
 
 **Deel 3: Doelen**
 
-* [Overzicht van bestemming](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=nl){target="_blank"}
+* [Overzicht van bestemming](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html){target="_blank"}
 * [Doeltypen en -categorieën](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html){target="_blank"}
 * [Werkruimte Doel](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html){target="_blank"}
 * [Een nieuwe doelverbinding maken](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html){target="_blank"}
