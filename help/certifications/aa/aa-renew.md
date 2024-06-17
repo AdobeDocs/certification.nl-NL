@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: 2dccb15126e43c102ab9afdbd99f75c73e315deb
 workflow-type: tm+mt
 source-wordcount: '1864'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -171,7 +171,7 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 
 **Details van examen:**
 
-* Voldoende score: 26/35
+* Voldoende score: 27/35
 * Tijd: 70 minuten
 * Kosten: VRIJ/niet-aangeworven
 * Aflevering: Op aanvraag
@@ -233,15 +233,15 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1**
 
-* [Overzicht van bijdrageanalyse](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html)
+* [Overzicht van de bijdrageanalyse](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html)
 * [Analysis Workspace-overzicht](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html)
-* [Conversiefunnel](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
+* [Conversietrechter](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
 * [Invoerafmetingen](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
 
 **Sectie 2**
 
 * [Projecten delen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
-* [Overzicht van onderdelen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
+* [Overzicht van componenten](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
 * [Alert Builder](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html)
 * [Een mobiele scorecard maken](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
 
@@ -250,7 +250,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 * [Segmentvergelijking](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html)
 * [Metrische gegevens samenstellen](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html)
 * [Vervolgkeuzefilters gebruiken in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html)
-* [Segmenten een label geven](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
+* [Tagsegmenten](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
 
 **Sectie 4**
 
@@ -261,7 +261,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Afdeling 5**
 
-* [Verwerkingsregels voor marketingkanalen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
+* [Verwerkingsregels voor distributiekanalen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
 * [Overzicht van classificaties](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
 * [Virtuele rapportsuites maken](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html)
 * [Veelgestelde vragen over privacyregels](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
