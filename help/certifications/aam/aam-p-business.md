@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Examen AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: a12c353cfa46d2610a90cad52dbbd9ea125af16e
+source-git-commit: ca46b04aad617757ac7fa1c9089c5c40c6b6addc
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -121,16 +121,6 @@ U zou een basisbegrip van gegevensstromen, bedrijfsdoelstellingen en KPIs, met w
 {{exam-prep-guide}}
 
 [Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/245)
-
-**Een praktijktest uitvoeren**
-
-We raden u aan de test voor vrije praktijk uit te voeren voordat u begint. U zult onbeperkte toegang tot alle beschikbare praktijktests voor deskundige-vlakke onderzoeken van de Adobe hebben.
-
-Onze praktijktests worden allemaal ontwikkeld op basis van dezelfde blauwdruk als de live examens. De praktijktest zal u helpen de onderwerpen begrijpen die in het levende examen worden behandeld.
-
-Houd er rekening mee dat het slagen van een praktijktest niet garandeert dat u voor het certificeringsexamen slaagt.
-
-[Taaktest uitvoeren](https://scorpion.caveon.com/launchpad/ad4-e458-adobe-audience-manager-business-practitioner-professional-practice-exam)
 
 +++
 
