@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 594ffcacc7c753515f39c42cb66373a3e2266e93
+source-git-commit: 8102211f100b326a62f51081f34db145320fe231
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '727'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/247) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
+>
+>* **Cursus**: Als u net bent begonnen, of een verfrisser nodig hebt, neemt u de [Adobe Marketo Engage-oprichtingscursus](https://app.rockinfo.com/courses/261) toegang tot verklaringen van zeer belangrijke concepten, productlooptijden, en kenniscontroles. Dit verstrekt een basis van kennis u op in uw certificatiereis kunt voortbouwen.
+>
+>* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/247) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de diepgaande studiematerialen u op uw examen zult moeten succesvol zijn.
+>
+>_Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -162,6 +168,12 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 **Een praktijktest uitvoeren**
 
 {{practice-test}}
+
+**Een cursus volgen**
+
+{{take-course}}
+
+[De cursus Adobe Marketo Engage-stichtingen volgen](https://app.rockinfo.com/courses/261)
 
 **Handleiding voor voorinstelling van examen**
 
