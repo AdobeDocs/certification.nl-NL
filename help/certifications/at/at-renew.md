@@ -7,7 +7,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: 6fa02094101684e26a53d63f102bbdb7e6fdd570
 workflow-type: tm+mt
 source-wordcount: '1211'
 ht-degree: 0%
@@ -90,7 +90,7 @@ Sectie 2: Vormen, Uitvoerend en het Leiden 45%
 * Beschrijf procedures om activiteit QA te leiden
 * Beschrijf de procedures voor het beheer van activiteiten en soorten publiek in [!DNL Target]
 
-* Sectie 3: Analyseren en rapporteren 19%
+Sectie 3: Analyseren en rapporteren 19%
 
 * Beschrijf montages helpen plaatsen de elementen die in een rapport verschijnen
 * Beschrijf het verschil in Adobe [!DNL Target] Voorbeeldinstellingen voor calculator voor grootte tussen planning en validatie
@@ -201,8 +201,8 @@ Eerst selecteert u **twee cursussen** om elke beoordeling van een cursus met een
 | Cursussen voor expert en master | Cursusbeoordeling |
 | ------ | ------ |
 | [[!DNL Adobe Target] Overzicht van beslissingen op het apparaat](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA401){target="_blank"} |
-| [[!DNL Adobe Target] Innovaties in cursus Personalisatie](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA402){target="_blank"} |
-| [Implementatie- en persoonlijke cursus voor mobiele toepassingen](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA403){target="_blank"} |
+| [[!DNL Adobe Target] Innovaties in cursus Personalization](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA402){target="_blank"} |
+| [Implementatie van mobiele apps en cursus voor Personalization](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA403){target="_blank"} |
 | [Mobiele instructies en IoT-introductie voor ontwikkelaarscursus](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA404){target="_blank"} |
 | [Begeleide Starten van website voor ontwikkelaarscursus](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA405){target="_blank"} |
 
