@@ -7,7 +7,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 4faaca20-9d03-48b2-b3d7-0f964c63000e
-source-git-commit: 2b18ae63bce685f340fc7075519b7b61904f9056
+source-git-commit: f443d1012717ae90dea490d67595bfa5c879484b
 workflow-type: tm+mt
 source-wordcount: '692'
 ht-degree: 0%
@@ -140,19 +140,13 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de onderstaande knop om de certificering te vernieuwen.
 
-[!BADGE Neem de Adobe [!DNL Real-Time CDP]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E845 newtab=true"}
+[!BADGE Neem de Adobe [!DNL Real-Time CDP] Bedrijfs Praktijkdeskundige Verlengingsexamen AD5-E845]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E845 newtab=true"}
 
 >[!NOTE]
 >
 >Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 +++
-
->[!TAB Expert]
-
->[!NOTE]
->
->De verlenging van experts komt binnenkort.
 
 >[!ENDTABS]
 
