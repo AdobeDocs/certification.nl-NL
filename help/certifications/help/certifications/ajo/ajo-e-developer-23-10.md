@@ -1,6 +1,6 @@
 ---
 title: Expertcertificering
-description: Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Journey Optimizer] Ontwikkelaarsexpert.
+description: Leer hoe te om een verklaard deskundige van de Adobe  [!DNL Journey Optimizer]  Ontwikkelaar te worden.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Journey Optimizer] Ontwikkelaarsexpert
+# Certificatietraject voor Adobe [!DNL Journey Optimizer] Ontwikkelaarsexpert
 
 {{intro}}
 
 >[!NOTE]
 >
->Dit is de nieuwste Adobe [!DNL Journey Optimizer] Expert-examen voor ontwikkelaars (AD0-E606). Als u al bent begonnen met studeren of de [oudere versie](ajo-e-developer.md), moet u deze voor 22 december 2023 voltooien.
+>Dit is het nieuwste Adobe [!DNL Journey Optimizer] Expert examen ontwikkelaar (AD0-E606). Als u reeds begonnen bent te bestuderen of de [ oudere versie ](ajo-e-developer.md) gepland hebt, moet u het tegen 22 December, 2023 voltooien.
 
 
 ## Beschrijving van examen {#exam-description}
@@ -71,36 +71,36 @@ Adobe Journey Optimizer wordt aangedreven door Experience Platform. Kandidaten d
 
 {{exam-objectives}}
 
-**Sectie 1: Beheer en configuratie (20%)**
+**Sectie 1: Beleid en Configuratie (20%)**
 
 * Identificeer welke toestemmingen noodzakelijk zijn om diverse taken uit te voeren
 * Beschrijf het concept zandbak en hoe de gegevens over bedrijfseenheden kunnen worden gebruikt
 * Toon een inzicht in het Beleid van het Kanaal aan
 * Bepaal de aangewezen toepassing van Gebeurtenissen/Acties/Gegevensbronnen
-* Identificeer wanneer om AJO specifieke APIs-throttling te gebruiken, het aftappen, onderdrukking, objecten exemplaar, interactieve berichtuitvoering
+* Identificeer wanneer om AJO specifieke APIs-throttling, het maximum, onderdrukking, objecten exemplaar, interactieve berichtuitvoering te gebruiken
 
-**Deel 2: Journey Orchestration (22%)**
+**Sectie 2: Journey Orchestration (22%)**
 
 * Op basis van een scenario richten klanten zich op een meerkanaals-/meerstapsreis
 * Rapporten interpreteren en prestatiesmetriek zuiveren
 * Op basis van een scenario de juiste gebruiksgevallen voor een transporttype bepalen
 * Testgevallen voorbereiden (bv. experimenteren of meerkanaalsreizen)
 
-**Deel 3: Offer decisioning (16%)**
+**Sectie 3: Offer decisioning (16%)**
 
 * Toon een inzicht in het creëren van en het beheren van aanbiedingen en componenten aan
 * Toon hoe te om testprofielen te gebruiken om aanbiedingssimulatie in werking te stellen
-* Verklaar het verschil tussen de Hub van het Aanbod en Rand API
+* Verklaar het verschil tussen de Hub van het Aanbod en Edge API
 * Het proces toepassen om beslissingen te maken
 * Het proces toepassen om aanbiedingen toe te voegen op verschillende kanalen
 
-**Sectie 4: Inhoud schrijven (22%)**
+**Sectie 4: Inhoud Authoring (22%)**
 
 * Demonstreer hoe u e-mail, SMS, in app-berichten en pushberichten maakt
 * De functies en de personalisatiesyntaxis van de Helper interpreteren om te tonen wat zou worden getoond
 * Toon een inzicht in het bevestigen, het bewijs, zuivert, en het publiceren van een reis aan
 
-**Sectie 5: Gegevensmodellering (18%)**
+**Sectie 5: De Modellering van gegevens (18%)**
 
 * Verschil tussen schema&#39;s voor profiel en gebeurtenistype
 * Uitleggen hoe u gegevensbronnen en gegevensinvoer instelt
@@ -124,33 +124,33 @@ Adobe Journey Optimizer wordt aangedreven door Experience Platform. Kandidaten d
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Sectie 1: Beheer en configuratie**
+**Sectie 1: Beleid en Configuratie**
 
-* [Experience Platform, toegangsbeheer, handleiding voor sandboxen](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html){target="_blank"}
-* [AJO Guide, Configuratie, SMS-kanaal, Reizen](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-* [AJO-API&#39;s](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
+* [ Experience Platform, Toegangsbeheer, Gids van Sandboxes ](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html) {target="_blank"}
+* [ de Gids van AJO, Configuratie, het kanaal van SMS, Reizen ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) {target="_blank"}
+* [ AJO APIs ](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions) {target="_blank"}
 
-**Deel 2: Journey Orchestration**
+**Sectie 2: Journey Orchestration**
 
-* [AJO-gids, reizen, expressies, volgen en bewaken](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [ Gids van AJO, Reizen, Uitdrukkingen, Spoor en monitor ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) {target="_blank"}
 
-**Deel 3: Offer decisioning**
+**Sectie 3: Offer decisioning**
 
-* [AJO Guide, beslissingsbeheer, API-referentie](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
+* [ de Gids van AJO, Beslissingsbeheer, API verwijzing ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) {target="_blank"}
 
-**Sectie 4: Inhoud ontwerpen**
+**Sectie 4: Inhoud Authoring**
 
-* [AJO Guide, SMS-kanaal, Privacy, Configuration, Joursions, Expressions, Content Management, Track and Monitor, Push Notification Channel](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-* [Journey Optimizer Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"}
+* [ de Gids van AJO, het kanaal van SMS, Privacy, Configuratie, Reizen, Uitdrukkingen, het beheer van de Inhoud, Spoor en monitor, het kanaal van het pushbericht ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) {target="_blank"}
+* [ Tutorials van Journey Optimizer ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html) {target="_blank"}
 
-**Deel 5: Gegevensmodellering**
+**Sectie 5: De Modellering van gegevens**
 
-* [AJO-gids, configuratie, soorten publiek, profielen en identiteit, gegevensbeheer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-* [Experience Platform, Datasets, Source Connectors Guide, API-Tutorials, Platform Identity Service Guide, Segmentation UI, UI-Tutorials](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
+* [ de Gids van AJO, Configuratie, Soorten, profielen en identiteit, het beheer van Gegevens ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) {target="_blank"}
+* [ Experience Platform, Datasets, de Gids van de Verbindingen van Source, API Tutorials, de Gids van de Dienst van de Identiteit van het Platform, Segmentatie UI, Tutorials UI ](https://experienceleague.adobe.com/docs/experience-platform.html) {target="_blank"}
 
 +++
 
@@ -180,7 +180,7 @@ Adobe Journey Optimizer wordt aangedreven door Experience Platform. Kandidaten d
 
 >[!NOTE]
 >
->Dit is de nieuwste Adobe [!DNL Journey Optimizer] Expert-examen voor ontwikkelaars (AD0-E606). Als u al bent begonnen met studeren of de [oudere versie](ajo-e-developer.md), moet u deze voor 22 december 2023 voltooien.
+>Dit is het nieuwste Adobe [!DNL Journey Optimizer] Expert examen ontwikkelaar (AD0-E606). Als u reeds begonnen bent te bestuderen of de [ oudere versie ](ajo-e-developer.md) gepland hebt, moet u het tegen 22 December, 2023 voltooien.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -209,6 +209,6 @@ Adobe Journey Optimizer wordt aangedreven door Experience Platform. Kandidaten d
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

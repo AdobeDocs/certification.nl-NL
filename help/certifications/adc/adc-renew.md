@@ -1,6 +1,6 @@
 ---
 title: Verlenging van certificering
-description: Leer hoe u uw Adobe vernieuwt [!DNL Document Cloud] certificering voordat deze verloopt.
+description: Leer hoe te om uw Adobe  [!DNL Document Cloud]  certificatie te vernieuwen alvorens het verloopt.
 solution: Document Cloud
 product: Document Cloud
 role: User
@@ -9,12 +9,12 @@ hidefromtoc: true
 exl-id: d7b3688b-2ed8-4855-951b-80ac1be932eb
 source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-# De Adobe verlengen [!DNL Document Cloud] certificatie
+# De Adobe verlengen [!DNL Document Cloud]
 
 Uw Adobe is twee jaar geldig. Als u dit merk van twee jaar nadert, is het tijd om uw certificatie te vernieuwen om het actief te houden.
 
@@ -26,15 +26,15 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!IMPORTANT]
 >
->**Aanmelden eerst:** De volgende koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Login eerst:** De volgende verbindingen zullen **slechts** na a **succesvolle login** aan het [ Systeem van het Beheer van de Verantwoordelijkheid van de Adobe ](https://www.certmetrics.com/adobe) {target="_blank"} functioneren.
 >
 ><br>
 >
->**Een koppeling delen:** Als u de verbinding aan een het vernieuwingsexamen of beoordeling met een collega wilt delen, gelieve verbinding aan de algemene pagina van de examenvernieuwing, niet URL van het examen zelf, om login kwesties te vermijden.
+>**om een verbinding te delen:** als u de verbinding aan een het vernieuwingsexamen of beoordeling met een collega zou willen delen, gelieve met de algemene pagina van de examenvernieuwing, niet URL van het examen zelf te verbinden, om login kwesties te vermijden.
 
 >[!BEGINTABS]
 
->[!TAB Professional]
+>[!TAB  Beroeps ]
 
 >[!NOTE]
 >
@@ -44,6 +44,6 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Verlenging van certificering
-description: Leer hoe u uw [!DNL Adobe Target] certificering voordat deze verloopt.
+description: Leer hoe te om uw  [!DNL Adobe Target]  certificatie te vernieuwen alvorens het verloopt.
 solution: Target
 product: Target
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Verleng uw [!DNL Adobe Target] certificatie
+# Uw [!DNL Adobe Target] -certificering verlengen
 
 Uw Adobe is twee jaar geldig. Als u dit merk van twee jaar nadert, is het tijd om uw certificatie te vernieuwen om het actief te houden.
 
@@ -26,31 +26,31 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt alvorens u uw
 
 >[!IMPORTANT]
 >
->**Aanmelden eerst:** De volgende koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Login eerst:** De volgende verbindingen zullen **slechts** na a **succesvolle login** aan het [ Systeem van het Beheer van de Verantwoordelijkheid van de Adobe ](https://www.certmetrics.com/adobe) {target="_blank"} functioneren.
 >
 ><br>
 >
->**Een koppeling delen:** Als u de verbinding aan een het vernieuwingsexamen of beoordeling met een collega wilt delen, gelieve verbinding aan de algemene pagina van de examenvernieuwing, niet URL van het examen zelf, om login kwesties te vermijden.
+>**om een verbinding te delen:** als u de verbinding aan een het vernieuwingsexamen of beoordeling met een collega zou willen delen, gelieve met de algemene pagina van de examenvernieuwing, niet URL van het examen zelf te verbinden, om login kwesties te vermijden.
 
 >[!BEGINTABS]
 
->[!TAB Professional]
+>[!TAB  Beroeps ]
 
-+++Adobe [!DNL Target] Bedrijfs Praktijkdeskundige Verlengingsexamen
++++Adobe [!DNL Target] Professionele hernieuwing van de Praktijk van de BedrijfsBeroeps
 
-## U moet het volgende hebben: **actief** te vernieuwen certificaten:
+## U moet de volgende **actieve** certificaties hebben om te vernieuwen:
 
-* [!DNL Adobe Target] Professioneel als bedrijf
+* [!DNL Adobe Target] Professional
 
 ## Instructies voor het vernieuwen van uw certificering:
 
-* **Stap 1**: Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
-* **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
-* **Stap 3**: Neem het examen over en ga door
+* **Stap 1**: Succesvol login aan [ Systeem van het Beheer van de Referentie van de Adobe ](https://www.certmetrics.com/adobe) {target="_blank"}, dan terugkeer aan deze pagina
+* **Stap 2**: Herzie de doelstellingen en de middelen van het examen
+* **Stap 3**: Neem en ga het examen over
 
 ### Klaar
 
-**Details van examen:**
+**de details van het Examen:**
 
 * Niveau: Professional (0-12 maanden ervaring)
 * Voldoende score: 24/31
@@ -58,9 +58,9 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt alvorens u uw
 * Levering: Op aanvraag/niet-afgehandeld
 * Beschikbare talen: Engels
 * Kosten: GRATIS
-* Examen-id: AD5-E838 - Adobe [!DNL Target] Professioneel als bedrijf
+* Examen-id: AD5-E838 - Adobe [!DNL Target] Bedrijfs-praktiserer Professional
 
-**Toepassingsgebied en doelstellingen:**
+**Reikwijdte en doelstellingen:**
 
 Deel 1: Planning en strategie 26%
 
@@ -71,7 +71,7 @@ Deel 1: Planning en strategie 26%
 * Elementen van hypothesen identificeren
 * Beschrijf op KPI-Gebaseerde primaire en secundaire succesmetriek
 * Op basis van een scenario de publieksvereisten beoordelen
-* Beschrijf de geschikte bronnen voor analytische rapportage (d.w.z. [!DNL Target] of Adobe [!DNL Analytics])
+* Beschrijf de juiste analytische rapportbronnen (d.w.z. [!DNL Target] of Adobe [!DNL Analytics])
 
 Sectie 2: Vormen, Uitvoerend en het Leiden 45%
 
@@ -85,7 +85,7 @@ Sectie 2: Vormen, Uitvoerend en het Leiden 45%
 * Op basis van een scenario procedures toepassen om een MVT-activiteit te creëren
 * Identificeer hoe AP voor oplossingen wordt gebruikt
 * Identificeer wanneer om de activiteit van de Aanbeveling te gebruiken
-* Beschrijf procedures om een Publiek binnen tot stand te brengen [!DNL Target]
+* Beschrijf de procedures voor het maken van een publiek in [!DNL Target]
 * Beschrijf procedures om Doelstellingen en instellingen in te stellen
 * Beschrijf procedures om activiteit QA te leiden
 * Beschrijf de procedures voor het beheer van activiteiten en soorten publiek in [!DNL Target]
@@ -93,7 +93,7 @@ Sectie 2: Vormen, Uitvoerend en het Leiden 45%
 Sectie 3: Analyseren en rapporteren 19%
 
 * Beschrijf montages helpen plaatsen de elementen die in een rapport verschijnen
-* Beschrijf het verschil in Adobe [!DNL Target] Voorbeeldinstellingen voor calculator voor grootte tussen planning en validatie
+* Beschrijf het verschil tussen de instellingen voor de Adobe van de [!DNL Target] samplegroottecalculator voor planning en validatie
 * Beschrijf gemeenschappelijke problemen verbonden aan het testen A/B
 * Bepalen hoe Automated Personalization Summary-rapporten afwijken van andere rapporten
 * Beschrijf de eigenschappen van de Rapporten van de Prestaties van de Ervaring (MVT)
@@ -113,103 +113,103 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1**
 
-* [Succeswaarden](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html){target="_blank"}
-* [Criteria](https://experienceleague.adobe.com/docs/target/using/recommendations/criteria/algorithms.html){target="_blank"}
-* [QuickStart voor personalisatie testen en routekaart maken](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/create-personalization-roadmap-testing-plan.html){target="_blank"}
-* [Aanbevolen procedures voor optimalisatie met Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/target-best-practices-for-optimization.html){target="_blank"}
-* [Metrisch instellen](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-set-metrics.html){target="_blank"}
-* [Een alleen-activiteitpubliek maken](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
-* [Adobe Analytics als bron van rapportage voor Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html){target="_blank"}
-* [A4T-rapporten instellen in Analysis Workspace voor activiteiten voor automatisch toewijzen](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html){target="_blank"}
+* [ metriek van het Succes ](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html) {target="_blank"}
+* [ Criteria ](https://experienceleague.adobe.com/docs/target/using/recommendations/criteria/algorithms.html) {target="_blank"}
+* [ QuickStart voor verpersoonlijkings het testen en roadmap verwezenlijking ](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/create-personalization-roadmap-testing-plan.html) {target="_blank"}
+* [ Beste praktijken voor optimalisering met Adobe Target ](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/target-best-practices-for-optimization.html) {target="_blank"}
+* [ vastgestelde metriek ](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-set-metrics.html) {target="_blank"}
+* [ creeer een activiteit-slechts publiek ](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html) {target="_blank"}
+* [ Adobe Analytics als rapporteringsbron voor Adobe Target (A4T) ](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html) {target="_blank"}
+* [ opstelling A4T rapporten in Analysis Workspace voor auto-Wijs activiteiten ](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html) {target="_blank"} toe
 
 **Sectie 2**
 
-* [JSON-aanbiedingen maken](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
-* [Formuliergebaseerde Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
-* [Een alleen-activiteitpubliek maken](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
-* [Geavanceerde instellingen](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html#section_7CE95A2FA8F5438E936C365A6D43BC5B){target="_blank"}
-* [Activiteit QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-* [Stimuleer publiek in doel](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/create-audience.html){target="_blank"}
-* [Wijzigingen](https://experienceleague.adobe.com/docs/target/using/experiences/vec/modifications/vec-code-editor.html){target="_blank"}
-* [Formuliergebaseerde Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
-* [Dezelfde ervaring opnemen op vergelijkbare pagina&#39;s](https://experienceleague.adobe.com/docs/target/using/experiences/vec/temtest.html){target="_blank"}
-* [Doelstellingen en instellingen](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-goals-and-settings.html){target="_blank"}
-* [Een A/B-test maken](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html){target="_blank"}
-* [Gericht op ervaring (XT)](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/experience-target.html){target="_blank"}
-* [Schatting van het verkeer dat voor een succesvolle Multivariate activiteit van de Test wordt vereist](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/create-mvt/traffic-estimator.html){target="_blank"}
-* [Uitsluitingen beheren](https://experienceleague.adobe.com/docs/target/using/activities/automated-personalization/managing-exclusions.html){target="_blank"}
+* [ creeer JSON aanbiedingen ](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html) {target="_blank"}
+* [ vorm-Gebaseerde Composer van de Ervaring ](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html) {target="_blank"}
+* [ creeer een activiteit-slechts publiek ](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html) {target="_blank"}
+* [ Geavanceerde Montages ](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html#section_7CE95A2FA8F5438E936C365A6D43BC5B) {target="_blank"}
+* [ Activiteit QA ](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html) {target="_blank"}
+* [ bouwt publiek in Doel ](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/create-audience.html) {target="_blank"}
+* [ Wijzigingen ](https://experienceleague.adobe.com/docs/target/using/experiences/vec/modifications/vec-code-editor.html) {target="_blank"}
+* [ vorm-Gebaseerde Composer van de Ervaring ](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html) {target="_blank"}
+* [ omvat de zelfde ervaring op gelijkaardige pagina&#39;s ](https://experienceleague.adobe.com/docs/target/using/experiences/vec/temtest.html) {target="_blank"}
+* [ Doelen en montages ](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-goals-and-settings.html) {target="_blank"}
+* [ creeer een Test A/B ](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html) {target="_blank"}
+* [ Ervaring die (XT) richt ](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/experience-target.html) {target="_blank"}
+* [ schat het verkeer dat voor een succesvolle Multivariate activiteit van de Test wordt vereist ](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/create-mvt/traffic-estimator.html) {target="_blank"}
+* [ beheert uitsluitingen ](https://experienceleague.adobe.com/docs/target/using/activities/automated-personalization/managing-exclusions.html) {target="_blank"}
 
-**Afdeling 3**
+**Sectie 3**
 
-* [Rapportinstellingen](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
-* [Hoelang moet u een A/B test in werking stellen?](https://experienceleague.adobe.com/docs/target/using/activities/abtest/sample-size-determination.html){target="_blank"}
-* [Overzicht van automatisch toewijzen](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html#frequent-return-visitors-can-inflate-experience-conversion-rates.){target="_blank"}
-* [Samenvattingsrapporten van Automated Personalization](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/reports-ap.html){target="_blank"}
-* [Samenvattingsrapport voor automatisch doel](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/auto-target-summary-report.html){target="_blank"}
-* [Experience Performance Report (MVT)](https://experienceleague.adobe.com/docs/target/using/reports/multivariate-test-reports/experience-performance-report.html){target="_blank"}
-* [Tien gemeenschappelijke A/B-testvalkuilen en hoe deze te vermijden](https://experienceleague.adobe.com/docs/target/using/activities/abtest/common-ab-testing-pitfalls.html){target="_blank"}
+* [ montages van het Rapport ](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html) {target="_blank"}
+* [ hoe lang zou u een test A/B in werking moeten stellen?](https://experienceleague.adobe.com/docs/target/using/activities/abtest/sample-size-determination.html) {target="_blank"}
+* [ auto-Wijs overzicht ](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html#frequent-return-visitors-can-inflate-experience-conversion-rates.) toe {target="_blank"}
+* [ de Summiere rapporten van Automated Personalization ](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/reports-ap.html) {target="_blank"}
+* [ auto-Doel Samenvattingsrapport ](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/auto-target-summary-report.html) {target="_blank"}
+* [ het rapport van de Prestaties van de Ervaring (MVT) ](https://experienceleague.adobe.com/docs/target/using/reports/multivariate-test-reports/experience-performance-report.html) {target="_blank"}
+* [ Tien gemeenschappelijke A/B testende valkuilen en hoe te om hen te vermijden ](https://experienceleague.adobe.com/docs/target/using/activities/abtest/common-ab-testing-pitfalls.html) {target="_blank"}
 
 **Sectie 4**
 
-* [Activiteitsfouten oplossen](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
-* [Een Adobe Target-implementatie met Adobe Experience Platform Debugger testen](https://experienceleague.adobe.com/docs/experience-platform/debugger/solutions/target.html){target="_blank"}
-* [Rapportinstellingen](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
+* [ los activiteitenfouten ](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html) {target="_blank"} problemen op
+* [ Test een implementatie van Adobe Target met Adobe Experience Platform Debugger ](https://experienceleague.adobe.com/docs/experience-platform/debugger/solutions/target.html) {target="_blank"}
+* [ montages van het Rapport ](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html) {target="_blank"}
 
 ### Uw certificering verlengen
 
-Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de Adobe om de certificering te vernieuwen [!DNL Target] De professionele Beroeps van de Praktijk vernieuwt hieronder verbinding van het Examen.
+Zorg ervoor dat u stap 1 hierboven hebt gevolgd, en met succes het programma geopend aan [ Systeem van het Beheer van de Adobe Referentie ](https://www.certmetrics.com/adobe) {target="_blank"} eerst. Als u uw certificering vervolgens wilt vernieuwen, klikt u hieronder op de koppeling [!DNL Target] Business Practitioner Professional Renewal Exam.
 
-[!BADGE Neem de Adobe [!DNL Target] Bedrijfs Praktijkdeskundige Verlengingsexamen AD5-E838]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E838 newtab=true"}
+[!BADGE  neem de Adobe [!DNL Target] Professionele Vernieuwingsexamen AD5-E838 van de Beroeps van de Praktijk]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E838 newtab=true"}
 
 >[!NOTE]
 >
->Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+>Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging niet succesvol bent, moet u **30 dagen** wachten om opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 +++
 
->[!TAB Expert en master]
+>[!TAB  Expert en Hoofd ]
 
-## U moet ten minste een van de volgende opties hebben **actief** te vernieuwen certificaten:
+## U moet minstens één van de volgende **actieve** certificaties hebben om te vernieuwen:
 
-* [!DNL Adobe Target] Expert aan de praktijk van bedrijven
-* [!DNL Adobe Target] Architect Master
+* [!DNL Adobe Target] Expert zakelijke praktiserer
+* [!DNL Adobe Target] Origineel architect
 
-## Instructies voor het vernieuwen van uw [!DNL Adobe Target] certificatie
+## Instructies voor het vernieuwen van uw [!DNL Adobe Target] -certificering
 
-* **Stap 1:** Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
-* **Stap 2:** Studeer de cursussen in Experience League
-* **Stap 3:** Kies uit de onderstaande opties om de vernieuwing te voltooien.
+* **Stap 1:** met succes login aan [ Systeem van het Beheer van de Referentie van de Adobe ](https://www.certmetrics.com/adobe) {target="_blank"}, dan terugkeer aan deze pagina
+* **Stap 2:** Onderzoek de cursussen in Experience League
+* **Stap 3:** kies van de opties hieronder om uw vernieuwing te voltooien.
 
   **Optie A:**
-Selecteren **drie cursussen** om elke beoordeling van een cursus met een score van 80% of hoger te voltooien en te voltooien. Cursusbeoordelingen zijn gratis, op aanvraag, niet-afgehandeld en open boek. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
+Selecteer **drie cursussen** om elke cursusbeoordeling met een score van 80% of hoger te voltooien en over te gaan. Cursusbeoordelingen zijn gratis, op aanvraag, niet-afgehandeld en open boek. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
 
   **Optie B:**
-Eerst selecteert u **twee cursussen** om elke beoordeling van een cursus met een score van 80% of hoger te voltooien en te voltooien. Cursusbeoordelingen zijn gratis, op aanvraag, niet-afgehandeld en open boek. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
+Eerst, selecteer **twee cursussen** om elke cursusbeoordeling met een score van 80% of hoger te voltooien en over te gaan. Cursusbeoordelingen zijn gratis, op aanvraag, niet-afgehandeld en open boek. U kunt de cursussen herhalen tot u met succes de beoordelingen bij 80% hebt goedgekeurd.
 
-  Tweede, **een klantverwijzingsformulier indienen** valideren van uw ononderbroken werk als een door de Adobe gecertificeerde individuele leider, beheerder en/of deelnemer aan een Adobe Experience Cloud-implementatieproject. In dit formulier wordt bevestigd dat u gedurende een periode van twee jaar voor certificaatvernieuwing hebt deelgenomen aan ten minste 100 uur aangetoonde projectbetrokkenheid.
+  Ten tweede, **voorlegt een vorm van de klantenverwijzing** validerend uw voortgezet werk als Adobe verklaarde individuele het leiden, het leiden en/of het deelnemen aan een de implementatieproject van Adobe Experience Cloud. In dit formulier wordt bevestigd dat u gedurende een periode van twee jaar voor certificaatvernieuwing hebt deelgenomen aan ten minste 100 uur aangetoonde projectbetrokkenheid.
 
-  [Referentieformulier van de klant voor [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
+  [ Vorm van de Verwijzing van de Klant voor  [!DNL Adobe Target] ](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400) {target="_blank"}
 
   U wordt op de hoogte gesteld door het Adobe Digital Experience Certification Program wanneer uw klantreferentie is gecontroleerd. Als uw verwijzing niet wordt geaccepteerd, kunt u het opnieuw verzenden totdat u succes hebt, zolang het duurt voordat uw certificering verloopt.
 
 >[!NOTE]
 >
->Als u meerdere [!DNL Adobe Target] Expert- en Master-certificeringen voldoen aan de vereisten voor vernieuwing voor slechts één certificering en de rest wordt automatisch vernieuwd.
+>Als u meerdere [!DNL Adobe Target] Expert- en Master-certificeringen hebt, voldoet u aan de vereisten voor verlenging voor slechts één certificering. De rest wordt dan automatisch vernieuwd.
 
 ## Cursussen en cursusbeoordelingen voor expert en master:
 
 | Cursussen voor expert en master | Cursusbeoordeling |
 | ------ | ------ |
-| [[!DNL Adobe Target] Overzicht van beslissingen op het apparaat](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA401){target="_blank"} |
-| [[!DNL Adobe Target] Innovaties in cursus Personalization](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA402){target="_blank"} |
-| [Implementatie van mobiele apps en cursus voor Personalization](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA403){target="_blank"} |
-| [Mobiele instructies en IoT-introductie voor ontwikkelaarscursus](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA404){target="_blank"} |
-| [Begeleide Starten van website voor ontwikkelaarscursus](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA405){target="_blank"} |
+| [[!DNL Adobe Target]  op-Apparaat Beslissend Overzicht ](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html) {target="_blank"} | [ ADR.-EA401 ](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA401) {target="_blank"} |
+| [[!DNL Adobe Target]  Innovaties in de Cursus van Personalization ](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html) {target="_blank"} | [ ADR.-EA402 ](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA402) {target="_blank"} |
+| [ Mobiele Toepassing van de Toepassing en de Cursus van Personalization ](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile) {target="_blank"} | [ ADR.-EA403 ](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA403) {target="_blank"} |
+| [ Geleide Mobiele en Lancering IoT voor de Cursus van Ontwikkelaars ](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web) {target="_blank"} | [ ADR.-EA404 ](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA404) {target="_blank"} |
+| [ Geleide Starten van de Website voor de Cursus van Ontwikkelaars ](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web) {target="_blank"} | [ ADR.-EA405 ](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA405) {target="_blank"} |
 
 >[!ENDTABS]
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

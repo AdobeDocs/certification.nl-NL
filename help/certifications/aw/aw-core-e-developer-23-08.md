@@ -1,6 +1,6 @@
 ---
 title: Certificering door de Core Developer Expert
-description: Leer hoe u een gecertificeerde Adobe Developer-expert in Adobe kunt worden [!DNL Workfront].
+description: Leer hoe te om een verklaarde Deskundige van Adobe Developer in Adobe te worden  [!DNL Workfront].
 solution: Workfront
 role: Developer
 badge: label="Examen AD0-E907" type="neutral"
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Workfront] Core Developer Expert
+# Certificatietraject voor Adobe [!DNL Workfront] Core Developer Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/241) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/241) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -51,9 +51,9 @@ ht-degree: 0%
 
 ### Minimale ervaring {#minimum-experience}
 
-U moet minstens 18-24 maanden ervaring hebben met Adobe [!DNL Workfront]en moet in staat zijn:
+U moet minstens 18-24 maanden ervaring hebben met Adobe [!DNL Workfront] en de volgende taken uitvoeren:
 
-* Navigeren door de [!DNL Workfront] systeem, begrijpen waar zijn functionaliteit verblijft
+* Navigeren door het [!DNL Workfront] -systeem, waarbij u begrijpt waar de functionaliteit zich bevindt
 * Alle aspecten van het systeem configureren
 * Bespreek vereisten met klanten en vertaal deze in een haalbare oplossing
 * Bestaande processen voor verbetering in samenwerking kopiëren en wijzigen
@@ -66,17 +66,17 @@ U moet minstens 18-24 maanden ervaring hebben met Adobe [!DNL Workfront]en moet 
 
 {{exam-objectives}}
 
-**Sectie 1: Basissysteembeheer en -installatie (17%)**
+**Sectie 1: Het systeembeleid en opstelling van de kern (17%)**
 
 * Bij een scenario beschrijft u manieren om machtigingen en toegang effectief te delen.
 * Bij een scenario, identificeer wanneer een groepsstatus tegenover een systeemstatus zou moeten worden gebruikt.
 * Toon op basis van een gegevensset de mogelijkheden van kickstart.
 * Op basis van een scenario kunt u best practices voor gebruikers van automatische provisioning identificeren.
-* Op basis van een scenario demonstreren hoe Groepen en Teams in het profiel van een gebruiker invloed kunnen hebben op wat binnen kan worden gezien of gedaan [!DNL Workfront].
+* Toon op basis van een scenario aan hoe Groepen en Teams in het profiel van een gebruiker van invloed kunnen zijn op wat er binnen [!DNL Workfront] kan worden weergegeven of gedaan.
 * Gezien een scenario, adviseer een configuratie van Boards om aan een douanevereiste te voldoen.
 * Gezien een scenario, identificeer beste praktijken voor groepsbeleid.
 
-**Sectie 2: Inname, aangepaste formulieren en projectinitiatie (13%)**
+**Sectie 2: Inname, douaneformulieren, en projectinitiatie (13%)**
 
 * Gezien een scenario, identificeer de configuratiegebieden nodig om de werktoewijzingen te steunen.
 * Op basis van een scenario bepaalt u hoe een waarde wordt doorgegeven aan een aangepaste projectvorm.
@@ -85,7 +85,7 @@ U moet minstens 18-24 maanden ervaring hebben met Adobe [!DNL Workfront]en moet 
 * Bij een scenario met meerdere formulieren kunt u handelingen bepalen om toegang, zichtbaarheid en afhankelijkheid te beheren.
 * Als u een scenario hebt met berekende velden op formulieren met meerdere objecten, geeft u de juiste formule op.
 
-**Deel 3: Strategische functionaliteit: portefeuille- en programmamanagement, middelenbeheer (13%)**
+**Sectie 3: Strategische functionaliteit: portefeuille en programmabeheer, middelbeheer (13%)**
 
 * Gezien een scenario, bepaal hulpmiddelen om veranderingen in het projectwerkingsgebied te vangen.
 * Op basis van een scenario moet u een visie creëren die in een portefeuille aangeeft of een project voldoet aan het gemiddelde niveau van de vereiste criteria om te worden uitgevoerd.
@@ -94,40 +94,40 @@ U moet minstens 18-24 maanden ervaring hebben met Adobe [!DNL Workfront]en moet 
 * Gezien een scenario, verstrek een mechanisme om ervoor te zorgen dat de projecten volledig worden bemand door de hulpmiddelen van het Beheer van het Middel te gebruiken.
 * Gezien een scenario, gebruik de hulpmiddelen van het Beheer van het Middel om te bepalen waarom een gebruiker wordt oververdeeld.
 
-**Afdeling 4: Documentbeheer en bewijsmiddelen (13%)**
+**Sectie 4: Het beheer en de proef van het document (13%)**
 
 * Toon bij een scenario aan wanneer u documentbeheer of proefdrukken wilt gebruiken
 * In een scenario kunt u de beste werkwijzen identificeren voor het gebruik van de proefdrukviewer, instellingen en markeringsfunctionaliteit
 * Toon bij een scenario aan hoe u machtigingen voor een bestand kunt bewerken en instellen
 * Toon bij een scenario hoe u externe documentopslag met beveiligingsbeperkingen instelt
-* Stel op basis van een scenario een verbinding in met AEM as a Cloud Service of AEM Assets Essentials.
+* Stel bij een scenario een verbinding in met AEM as a Cloud Service of AEM Assets Essentials.
 
-**Sectie 5: Rapportage (11%)**
+**Sectie 5: Het melden (11%)**
 
 * Bij een scenario beschrijft u manieren om meerdere kolommen met gegevens te combineren tot één kolom.
 * Toon op basis van een rapport of filter de verdiensten aan van het gebruik van jokertekenwaarden.
 * Identificeer hoe te om over ouder-aan-kind verhoudingen te rapporteren gebruikend inheemse rapportering.
 * Beschrijf op basis van een scenario hoe rapportage een efficiënte uitvoering van het werk vergemakkelijkt.
-* Op basis van een scenario [!DNL Workfront] Rapportage om gebruikerstoepassing te controleren en te verbeteren.
+* Bij een scenario illustreert u [!DNL Workfront] Rapportage om de gebruikerstoepassing te controleren en te verbeteren.
 * Gezien een scenario, bepaal hoe een gebiedstype op een rapport zou teruggeven. (Veldtypen zijn onder andere: RTF-tekst, afbeeldingen, multi-select)
 
 **Sectie 6: Methodologie/beste praktijken/gebruiksgevallen (22%)**
 
-* Op basis van een scenario [!DNL Workfront], functionaliteit tonen voor het instellen van tracering van te leveren items die deel uitmaken van één campagne.
-* Op basis van een scenario [!DNL Workfront], functionaliteit aan te tonen rond strategische prioriteiten en rechtvaardiging van werkzaamheden.
-* Op basis van een scenario [!DNL Workfront], functionaliteit tonen rond financiële middelen, gebruik, prognoses, factureringscijfers/records
-* Op basis van een scenario [!DNL Workfront], functionaliteit tonen bij het instellen van de workflow en goedkeuringen.
+* Bij een scenario binnen [!DNL Workfront] moet u functionaliteit demonstreren voor het instellen van tracering van items die onderdeel zijn van één campagne.
+* Toon functionaliteit rond strategische prioritering en rechtvaardiging van werk aan als u een scenario binnen [!DNL Workfront] hebt gekozen.
+* Toon, in een scenario binnen [!DNL Workfront], functionaliteit rond financiën, gebruik, het voorspellen, het facturerings tarieven/verslagen
+* Toon functionaliteit rond het instellen van werkstroom en goedkeuringen op basis van een scenario binnen [!DNL Workfront] .
 * Op basis van een scenario kunt u het beste een kader voor governance rond systeembeheer instellen wanneer u de instantie van een client uitbreidt.
 * Gezien een scenario, identificeer gebieden voor overweging wanneer het uitbreiden van de instantie van een cliënt om extra teams toe te laten om samen te werken.
-* Op basis van een scenario [!DNL Workfront] Borden, identificeer inheemse eigenschappen om vooruitgang te tonen.
+* In een scenario met [!DNL Workfront] -borden kunt u native functies identificeren om de voortgang te tonen.
 * Gezien een scenario, adviseer een kader voor bestuur rond systeem en groepsbeleid.
 
-**Sectie 7: Zakelijk advies (11%)**
+**Sectie 7: Bedrijfs het raadplegen (11%)**
 
-* Beschrijf in een scenario het proces dat nodig is om de implementatie van [!DNL Workfront] in een kruisfunctionele afdeling.
+* Op basis van een scenario beschrijft u het proces dat nodig is om de implementatie van [!DNL Workfront] in een interfunctionele afdeling volledig te ondersteunen.
 * Gezien een scenario, verklaar hoe te om een bestaand Werkschema aan te passen om een recente verandering in een kritiek, lichte bedrijfsproces te ontmoeten.
 * Gezien een scenario, identificeer configuratiemontages die het moeilijkst zijn om in een bepaalde instantie te veranderen.
-* Gezien een scenario, identificeer de belangrijkste overwegingen van veranderingsbeheer voor [!DNL Workfront] uitvoering
+* In een scenario kunt u de belangrijkste aspecten van wijzigingsbeheer voor een [!DNL Workfront] -implementatie identificeren
 * Gezien een scenario waar een cliënt veelvoudige teams heeft, verstrek een aanbeveling om efficiency te verhogen.
 
 <br>
@@ -136,7 +136,7 @@ U moet minstens 18-24 maanden ervaring hebben met Adobe [!DNL Workfront]en moet 
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert) {target="_blank"}
 
 <br>
 
@@ -154,15 +154,15 @@ U moet minstens 18-24 maanden ervaring hebben met Adobe [!DNL Workfront]en moet 
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/241)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/241)
 
 <br>
 
@@ -219,6 +219,6 @@ U moet minstens 18-24 maanden ervaring hebben met Adobe [!DNL Workfront]en moet 
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

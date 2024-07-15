@@ -2,26 +2,26 @@
 title: Overzicht van doelcertificatie
 description: Overzicht van certificeringsopties voor Adobe Target
 solution: Target
-exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
+exl-id: 2e1ee659-e9be-429e-9fdb-1f5ba1976bae
+source-git-commit: 525cdd6d066c70c74246b1abb6df5c7a12f5e1d2
 workflow-type: tm+mt
 source-wordcount: '37'
-ht-degree: 29%
+ht-degree: 18%
 
 ---
 
 # [!DNL Adobe Target] Overzicht van certificering
 
-**Professional**
+**Beroeps**
 
-* [Certified Professional](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
+* [ Verklaarde Beroeps ](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
 
-**Expert**
+**Deskundige**
 
-* [Business Practitioner](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
+* [ Bedrijfs Praktijk ](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
 
-**Master**
+**Meester**
 
-* [Architect](/help/certifications/at/at-m-architect0623.md) <!--AD0-E409-->
+* [ Architect ](/help/certifications/at/at-m-architect0623.md) <!--AD0-E409-->
 
-Ga naar [Uw certificering verlengen](/help/certifications/renew.md) pagina om te zien of is een vernieuwingsoptie beschikbaar voor dit product.
+Bezoek [ vernieuwt uw certificatie ](/help/certifications/renew.md) pagina om te zien of is een vernieuwingsoptie beschikbaar voor dit product.

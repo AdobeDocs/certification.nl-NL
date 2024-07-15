@@ -1,6 +1,6 @@
 ---
 title: Professionele certificering
-description: Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager] Professional.
+description: Leer hoe te om een verklaarde Beroeps van de Adobe  [!DNL Experience Manager]  te worden.
 solution: Experience Manager, Experience Manager Assets
 product: Experience Manager
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Experience Manager] Assets Developer Professional
+# Certification trip for Adobe [!DNL Experience Manager] Assets Developer Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
 >
->* **Cursus:** Als u net begint, of een verfrisser nodig hebt, neem [Adobe Experience Manager Foundations-cursus](https://app.rockinfo.com/courses/240) toegang tot verklaringen van zeer belangrijke concepten, productlooptijden, en kenniscontroles. Deze cursus zal een basis van kennis verstrekken u op in uw certificatiereis kunt voortbouwen.
+>* **Cursus:** als u enkel begint, of een verfrisser nodig hebt, neem de [ cursus van de Stichting van Adobe Experience Manager ](https://app.rockinfo.com/courses/240) om tot verklaringen van zeer belangrijke concepten, productloops, en kenniscontroles toegang te hebben. Deze cursus zal een basis van kennis verstrekken u op in uw certificatiereis kunt voortbouwen.
 >
->* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/120) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
+>* **Gids van de Prep van het Examen van het Examen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/120) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
 >
->_Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>_als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### Minimale ervaring {#minimum-experience}
 
-U zou moeten comfortabel werken in Adobe Managed Services en Adobe [!DNL Experience Manager as a Cloud Service]en in staat zijn Adobe in te stellen [!DNL Experience Manager] omgevingen en infrastructuur.
+U kunt beter goed werken in Adobe Managed Services en Adobe [!DNL Experience Manager as a Cloud Service] en u kunt Adobe [!DNL Experience Manager] -omgevingen en -infrastructuur instellen.
 
 U zou moeten hebben:
 
@@ -76,7 +76,7 @@ Bovendien, zou u ervaring met de volgende technologieën en milieu&#39;s moeten 
 * Adobe IO CLI
 * Git CLI
 * Gereedschappen voor cloudovergang
-* Verzendconverter
+* Dispatcher-converter
 * Modernisering opslagplaats
 * Afbouw en productie
 * Dev-sandbox
@@ -88,7 +88,7 @@ Bovendien, zou u ervaring met de volgende technologieën en milieu&#39;s moeten 
 
 {{exam-objectives}}
 
-**Sectie 1: Werkstromen van activa (24%)**
+**Sectie 1: De werkschema&#39;s van activa (24%)**
 
 * Uitleg over het proces om OOTB-workflows aan te passen
 * Identificeer wanneer om de werkschema&#39;s van Activa te creëren of aan te passen om klantenvereisten uit te voeren
@@ -96,10 +96,10 @@ Bovendien, zou u ervaring met de volgende technologieën en milieu&#39;s moeten 
 * Verschil tussen cloud- en on-premise workflows
 * Beschrijf hoe te om de console van het Werkschema te gebruiken om status en vooruitgang te controleren
 
-**Sectie 2: Organisatie van activa en de middelenconsole (22%)**
+**Sectie 2: De organisatie van activa en de activaconsole (22%)**
 
-* Toon aan hoe te om Activa in Inzamelingen tot stand te brengen en te organiseren
-* Toon hoe te om Activa te organiseren gebruikend Markeringen
+* Toon hoe u Assets in verzamelingen maakt en indeelt
+* Toon hoe te om Assets te organiseren gebruikend Markeringen
 * Omgaan met OTB-zoekfilters en -facetten
 * Beschrijf hoe te om AEM de Rapporten van Activa te vormen en te produceren
 * Beschrijf hoe u gebruikersmachtigingen in de mappen Middelen beheert
@@ -111,13 +111,13 @@ Bovendien, zou u ervaring met de volgende technologieën en milieu&#39;s moeten 
 * Op basis van een scenario bepalen hoe metagegevensprofielen kunnen worden gebruikt om aan de vereisten te voldoen
 * Begrijpen hoe trapsgewijze metagegevensschema&#39;s werken
 
-**Sectie 4: Middelentypen (18%)**
+**Sectie 4: De types van activa (18%)**
 
 * Beschrijf OOTB-functies die beschikbaar zijn voor middelentypen
 * Inhoudsfragmenten en modellen van inhoudsfragmenten uitleggen
 * Toon hoe en wanneer om de variaties van het inhoudsfragment te gebruiken
 
-**Sectie 5: Elementenfunctiesets en -mogelijkheden (12%)**
+**Sectie 5: De eigenschapreeksen en mogelijkheden van activa (12%)**
 
 * Beschrijf de algemene gebruiksgevallen en voordelen van het gebruik van Brand Portal
 * Beschrijf de algemene gebruiksgevallen en voordelen van het gebruik van Dynamic Media
@@ -129,7 +129,7 @@ Bovendien, zou u ervaring met de volgende technologieën en milieu&#39;s moeten 
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam) {target="_blank"}
 
 <br>
 
@@ -147,21 +147,21 @@ Bovendien, zou u ervaring met de volgende technologieën en milieu&#39;s moeten 
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Een cursus volgen**
+**neem een cursus**
 
 {{take-course}}
 
-[De cursus Adobe Experience Manager-stichtingen volgen](https://app.rockinfo.com/courses/240)
+[ neem de cursus van de Stichting van Adobe Experience Manager ](https://app.rockinfo.com/courses/240)
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/120)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/120)
 
 
 +++
@@ -217,6 +217,6 @@ Bovendien, zou u ervaring met de volgende technologieën en milieu&#39;s moeten 
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

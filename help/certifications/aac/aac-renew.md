@@ -1,6 +1,6 @@
 ---
 title: Verlenging van certificering
-description: Leer hoe u uw Adobe vernieuwt [!DNL Advertising] certificering voordat deze verloopt.
+description: Leer hoe te om uw Adobe  [!DNL Advertising]  certificatie te vernieuwen alvorens het verloopt.
 solution: Advertising
 product: Advertising Cloud
 role: User,Developer, Data Architect
@@ -9,12 +9,12 @@ hidefromtoc: true
 exl-id: 8016ac6f-2a30-4a72-bc17-b2ca422c21e8
 source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
-# Verleng uw [!DNL Adobe Advertising] certificatie
+# Uw [!DNL Adobe Advertising] -certificering verlengen
 
 Wanneer u een certificatieexamen overgaat, is uw certificatie geldig voor twee jaar.
 
@@ -22,27 +22,27 @@ We zijn blij om aan te kondigen dat u nu in staat bent om uw certificering te ve
 
 >[!IMPORTANT]
 >
->**Aanmelden eerst:** De volgende koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Login eerst:** De volgende verbindingen zullen **slechts** na a **succesvolle login** aan het [ Systeem van het Beheer van de Verantwoordelijkheid van de Adobe ](https://www.certmetrics.com/adobe) {target="_blank"} functioneren.
 >
 ><br>
 >
->**Een koppeling delen:** Als u de verbinding aan een het vernieuwingsexamen of beoordeling met een collega wilt delen, gelieve verbinding aan de algemene pagina van de examenvernieuwing, niet URL van het examen zelf, om login kwesties te vermijden.
+>**om een verbinding te delen:** als u de verbinding aan een het vernieuwingsexamen of beoordeling met een collega zou willen delen, gelieve met de algemene pagina van de examenvernieuwing, niet URL van het examen zelf te verbinden, om login kwesties te vermijden.
 
 >[!BEGINTABS]
 
->[!TAB Professional]
+>[!TAB  Beroeps ]
 
 >[!NOTE]
 >
 >Professionele vernieuwing komt binnenkort.
 
->[!TAB Expert]
+>[!TAB  Deskundige ]
 
 >[!NOTE]
 >
 >De verlenging van experts komt binnenkort.
 
->[!TAB Master]
+>[!TAB  Meester ]
 
 >[!NOTE]
 >
@@ -52,6 +52,6 @@ We zijn blij om aan te kondigen dat u nu in staat bent om uw certificering te ve
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

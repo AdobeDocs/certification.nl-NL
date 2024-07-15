@@ -1,6 +1,6 @@
 ---
 title: Certificering van ontwikkelaars
-description: Leer hoe u een gecertificeerde Adobe Business Practitioner Expert in [!DNL Experience Manager Sites].
+description: Leer hoe te om een verklaarde Deskundige van de Bedrijfs van de Praktijk van de Adobe in  [!DNL Experience Manager Sites] te worden.
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Experience Manager Sites] Developer Professional
+# Certificatietraject voor Adobe [!DNL Experience Manager Sites] Developer Professional
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
 >
->* **Cursus:** Neem de [Adobe Experience Manager Sites for Developers - Professionele cursus](https://app.rockinfo.com/courses/105), die een toelichting op de belangrijkste concepten, praktijkdemonstraties en kenniscontroles omvat. Als u net begint, of een verfrisser nodig hebt, neem [Adobe Experience Manager Foundations-cursus](https://app.rockinfo.com/courses/240), die een basis van kennis biedt waarop u kunt voortbouwen in uw certificeringsreis.
+>* **Cursus:** neem [ Adobe Experience Manager Sites voor Ontwikkelaars - Professionele cursus ](https://app.rockinfo.com/courses/105), die verklaringen van zeer belangrijke concepten, hands-on demonstraties, en kenniscontroles omvat. Als u enkel begint, of een verfrisser nodig hebt, neem de [ cursus van de Stichting van Adobe Experience Manager ](https://app.rockinfo.com/courses/240), die een basis van kennis verstrekt u op in uw certificatiereis kunt voortbouwen.
 >
->* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/121) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de materialen u op uw examen zult moeten succesvol zijn.
+>* **Gids van de Prep van het Examen van het Examen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/121) verstrekt een op maat gemaakte weg door uw examen prep proces, met inbegrip van de materialen u op uw examen zult moeten succesvol zijn.
 >
 >Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID.
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 U zou een toepassingsontwikkelaar moeten zijn en hebben:
 
-* 0-12 maanden ervaring met de AEM [!DNL Platform]
+* 0-12 maanden ervaring met het werken met de AEM [!DNL Platform]
 * De mogelijkheid om componentontwikkeling uit te voeren
 * Een basisbegrip van het MVC-kader, levenscycluskaders en bibliotheken in AEM
 
@@ -70,10 +70,10 @@ U zou een toepassingsontwikkelaar moeten zijn en hebben:
 
 **Sectie 1: Configuraties (26%)**
 
-* Erken het doel van AEM Dispatcher-configuraties en caching
+* Het doel van AEM Dispatcher-configuraties en caching herkennen
 * Bepaal de correcte stappen om multi-site in AEM te vormen
 * Verklaar hoe te om configuraties te creëren en te beheren OSGi
-* De juiste stappen bepalen voor het beheer van aangepaste eiken-indexen
+* De juiste stappen bepalen voor het beheren van aangepaste Oak-indexen
 * Bepaal de correcte stappen om integratie te vormen OTB SAML of IMS
 
 **Sectie 2: AEM ontwikkeling (40%)**
@@ -83,12 +83,12 @@ U zou een toepassingsontwikkelaar moeten zijn en hebben:
 * Op basis van een scenario de juiste stappen bepalen om workflows te ontwikkelen
 * Geef bij een scenario het doel van inhoudsfragmenten of ervaringsfragmenten weer
 
-**Sectie 3: Bouw en implementatie (12%)**
+**Sectie 3: Bouw en plaatsing (12%)**
 
 * Maven-projectstructuur definiëren
 * Projecten configureren van archetypen
 
-**Sectie 4: Milieu-onderhoud (22%)**
+**Sectie 4: Het onderhoud van het milieu (22%)**
 
 * Gezien een scenario, bepaal de stappen die worden vereist om kwesties in AEM milieu&#39;s te zuiveren
 * Verklaar AEM onderhoudsversies
@@ -111,29 +111,29 @@ U zou een toepassingsontwikkelaar moeten zijn en hebben:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een cursus volgen**
+**neem een cursus**
 
 {{take-course}}
 
-[De cursus Adobe Experience Manager-stichtingen volgen](https://app.rockinfo.com/courses/240)
+[ neem de cursus van de Stichting van Adobe Experience Manager ](https://app.rockinfo.com/courses/240)
 
-[Neem de cursus Adobe Experience Manager Sites for Developers](https://app.rockinfo.com/courses/105)
+[ neem Adobe Experience Manager Sites voor Ontwikkelaars - Professionele cursus ](https://app.rockinfo.com/courses/105)
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/121)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/121)
 
-**Voorbeeldvragen**
+**de vragen van de Steekproef**
 
 {{sample-questions}}
 
-[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions)
+[ de steekproefvragen van de Mening ](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions)
 
 +++
 
@@ -188,7 +188,7 @@ U zou een toepassingsontwikkelaar moeten zijn en hebben:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.
 

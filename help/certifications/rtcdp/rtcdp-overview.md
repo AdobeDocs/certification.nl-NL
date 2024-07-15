@@ -12,12 +12,12 @@ ht-degree: 22%
 
 # [!DNL Adobe Real-Time CDP] Overzicht van certificering
 
-**Professional**
+**Beroeps**
 
-* [Zakelijke praktiserer](/help/certifications/rtcdp/rtcdp-p-business.md) <!--AD0-E602-->
+* [ Bedrijfs Praktijk ](/help/certifications/rtcdp/rtcdp-p-business.md) <!--AD0-E602-->
 
-**Expert**
+**Deskundige**
 
-* [Ontwikkelaar](/help/certifications/rtcdp/rtcdp-e-developer.md) <!--AD0-E605-->
+* [ Ontwikkelaar ](/help/certifications/rtcdp/rtcdp-e-developer.md) <!--AD0-E605-->
 
-Ga naar [Uw certificering verlengen](/help/certifications/renew.md) pagina om te zien of is een vernieuwingsoptie beschikbaar voor dit product.
+Bezoek [ vernieuwt uw certificatie ](/help/certifications/renew.md) pagina om te zien of is een vernieuwingsoptie beschikbaar voor dit product.

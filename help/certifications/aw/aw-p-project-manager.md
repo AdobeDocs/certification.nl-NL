@@ -1,6 +1,6 @@
 ---
 title: Certificering van projectmanager Professional
-description: Leer hoe u een gecertificeerde projectmanager van de Adobe kunt worden in de Adobe [!DNL Workfront].
+description: Leer hoe te om een verklaarde Beroeps van de Manager van het Project van de Adobe in Adobe te worden  [!DNL Workfront].
 solution: Workfront
 role: Developer
 badge: label="Examen AD0-E903" type="neutral"
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Workfront] Projectmanager Professional
+# Reis voor certificering voor Adobe [!DNL Workfront] Project Manager Professional
 
 {{intro}}
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
 >
->* **Cursus:** De [Adobe Workfront Project Manager - Professionele cursus](https://app.rockinfo.com/courses/230) bevat uitleg over belangrijke concepten, praktijkdemonstraties en kenniscontroles.
+>* **Cursus:** de [ Manager van het Project van Adobe Workfront - Professionele cursus ](https://app.rockinfo.com/courses/230) omvat verklaringen van zeer belangrijke concepten, hands-on demonstraties, en kenniscontroles.
 >
->* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/229) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de materialen u op uw examen zult moeten succesvol zijn.
+>* **Gids van de Prep van het Examen van het Examen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/229) verstrekt een op maat gemaakte weg door uw examen prep proces, met inbegrip van de materialen u op uw examen zult moeten succesvol zijn.
 >
->_Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
+>_als u aan login wordt ertoe aangezet, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 * Projectmanager, werkmanager, planner
 * SCRUM
-* [!DNL Workfront] stroomgebruiker
+* [!DNL Workfront] energiegebruiker
 * Systeembeheerder
 * Programmabeheerder, portfoliobeheerder
 * Director, manager
@@ -62,7 +62,7 @@ ht-degree: 0%
 U zou moeten hebben:
 
 * inzicht in het werkproces van een eerste aanvraag tot voltooiing van een werk of blootstelling aan project- of werkbeheer;
-* Voltooide zelfgeleide training of bootkamp of [!DNL Workfront] gebruiken voor 6-12 maanden zodat zij basisfunctionaliteit begrijpen
+* Voltooide zelfgeleide training of bootkamp of ben al 6 tot 12 maanden een [!DNL Workfront] -gebruiker zodat ze de basisfunctionaliteit kunnen begrijpen
 * Een begrip van hoe te om, rapportgegevens te vormen te volgen en te controleren
 
 <br>
@@ -71,7 +71,7 @@ U zou moeten hebben:
 
 {{exam-objectives}}
 
-**Deel 1: Inname en planning (30%)**
+**Sectie 1: Inname en planning (30%)**
 
 * Verschillende manieren aanwijzen waarop een werkverzoek op de hoogte moet worden gesteld
 * Op basis van een verzoek bekijkt u de aangepaste gegevens om de juiste actie te bepalen
@@ -79,14 +79,14 @@ U zou moeten hebben:
 * Gezien een scenario, bepaal de aangewezen taakmontages om de uitvoering van een taak in een specifiek tijdkader te plannen
 * Identificeer manieren om zeer belangrijke gegevens op een project te bepalen
 * Verschillende manieren identificeren om projectrisico te volgen
-* De juiste hiërarchie van objecten vaststellen in [!DNL Workfront]
+* De juiste hiërarchie van objecten identificeren in [!DNL Workfront]
 * Identificeer het aangewezen gebied om een specifieke toegewezen middel te bekijken
 * Op basis van een persoon bepaalt u de inname- of planningsrapporten/dashboards die nuttig zijn voor de persoon tijdens de inname of planningsfase van het project/werkproces
 
 **Sectie 2: Uitvoeren (50%)**
 
 * Identificeer manieren om, mijlpalen op een Project te begrijpen toe te passen en te meten
-* Maken [!DNL Workfront] Goedkeuring voor eenmalig gebruik en wanneer goedkeuring wordt gebruikt
+* [!DNL Workfront] Goedkeuringen voor eenmalig gebruik maken en wanneer een goedkeuring wordt gebruikt
 * Identificeer hoe de verschillende datumtypes door het systeem worden gebruikt
 * Gezien een scenario, identificeer de informatie die datatypes aan een projectmanager overbrengen
 * Gezien een scenario, bepaal hoe de verschillende Beperkingen van de Taak de projectchronologie wanneer gebruikt beïnvloeden
@@ -94,17 +94,17 @@ U zou moeten hebben:
 * In een scenario beschreven hoe u een document uploadt en een proefdruk genereert
 * Identificeer de verschillende manieren om een project te beheren
 * Op basis van een scenario de Geplande Variantie bepalen voor een specifieke taakrol binnen een afzonderlijk project
-* Zoek op basis van een scenario het specifieke financiële element in [!DNL Workfront]
+* Zoek bij een scenario het specifieke financiële element in [!DNL Workfront]
 * Op basis van een Gantt-grafiek kunt u de objectrelaties op het diagram uitleggen
 * Verschillen tussen Voorwaarde en Voortgang vergelijken
-* Bepalen hoe [!DNL Workfront] teams en [!DNL Workfront] groepen kunnen worden gebruikt
+* Bepalen hoe [!DNL Workfront] teams en [!DNL Workfront] -groepen kunnen worden gebruikt
 * Beschrijf op basis van een scenario hoe u de belanghebbenden de informatie verschaft die zij nodig hebben
 * Op basis van een scenario bepaalt u hoe de datumtypen en de duur van invloed zijn op de projectvoorwaarden
 * Op basis van een scenario bepalen welke aangepaste statussen vereist zijn
-* Identificeer de diverse soorten rapporten beschikbaar binnen [!DNL Workfront]
+* De verschillende typen rapporten identificeren die beschikbaar zijn in [!DNL Workfront]
 * Gezien een scenario, beschrijf de stappen om een douanerapport te bouwen
 
-**Sectie 3: Afsluiting (20%)**
+**Sectie 3: Sluiting (20%)**
 
 * Bepaal op basis van een bepaalde objectstatus welke activiteiten moeten worden uitgevoerd of welke handelingen moeten worden geactiveerd
 * Gezien een scenario, bepaal het type van rapport en het rapporteringselement om een taaklijst of rapport te gebruiken
@@ -117,7 +117,7 @@ U zou moeten hebben:
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional) {target="_blank"}
 
 <br>
 
@@ -135,29 +135,29 @@ U zou moeten hebben:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Aanbevolen trainingscursus**
+**Aanbevolen Opleidingscursus**
 
-[Basisteamtraining voor planners in de nieuwe [!DNL Workfront] ervaring](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
+[ het teamopleiding van de Kern voor planners in de nieuwe  [!DNL Workfront]  ervaring ](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html) {target="_blank"}
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Een cursus volgen**
+**neem een cursus**
 
 {{take-course}}
 
-[Neem de Adobe Workfront Project Manager - Professionele cursus](https://app.rockinfo.com/courses/230)
+[ neem de Manager van het Project van Adobe Workfront - Professionele cursus ](https://app.rockinfo.com/courses/230)
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/229)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/229)
 
 +++
 
@@ -212,6 +212,6 @@ U zou moeten hebben:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

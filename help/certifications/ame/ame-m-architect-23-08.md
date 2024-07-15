@@ -1,6 +1,6 @@
 ---
 title: Basiscertificering architect
-description: Leer hoe u een gecertificeerde Adobe architect Master in Adobe kunt worden [!DNL Marketo Engage].
+description: Leer hoe te om een verklaard Origineel van de Architect van de Adobe in Adobe  [!DNL Marketo Engage] te worden.
 solution: Marketo Engage
 product: Marketo
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Marketo Engage] Architect Master
+# Reis voor certificering voor Adobe [!DNL Marketo Engage] Architect Master
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/248) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/248) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -32,9 +32,9 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Deze certificering is een voorwaarde. U MOET een actieve (niet verlopen) Adobe hebben [!DNL Marketo Engage] Zakelijke praktiserer **Expert** Certificering om de Adobe te nemen [!DNL Marketo Engage] Architect Master examen.
+>Deze certificering is een voorwaarde. U MOET een actieve (niet verlopen) Adobe [!DNL Marketo Engage] BedrijfsPraktijk **Expert** Certificatie hebben om het Hoofdexamen van de Architect van de Adobe [!DNL Marketo Engage] te nemen.
 
-* Vereiste: actieve (niet verlopen) Adobe [!DNL Marketo Engage] Professionele certificering voor zakelijke gebruikers
+* Vereiste: actieve (niet verlopen) Adobe [!DNL Marketo Engage] Expert Certification door Business Practitioner
 * Niveau: master (3-5 jaar ervaring)
 * Praktijkcertificering
 * Voldoende score: 32/50
@@ -89,14 +89,14 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 
 {{exam-objectives}}
 
-**Sectie 1: Projectleiding (16%)**
+**Sectie 1: De Leiding van het project (16%)**
 
 * Op basis van een casestudy de juiste belanghebbenden identificeren
 * Evalueer een reeks vereisten en adviseer projectgrenzen, budget, middelen, en werkingsgebied
 * Op basis van een gewijzigd proces bepaalt u wie inschakeling en een efficiënt plan voor de implementatie van Enablement nodig heeft
 * Evalueer een controle en adviseer prioriteiten en chronologie
 
-**Sectie 2: Ontwerp van architectuur van Marketo Engage (48%)**
+**Sectie 2: Ontwerp van de Architectuur van het Marketo Engage (48%)**
 
 * Verzamel vereisten/behoeften en adviseer een loodbeheer en levenscyclusontwerp
 * Een bestaande implementatie controleren en bevindingen verstrekken
@@ -108,7 +108,7 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 * Op basis van een scenario worden verschillende fasen van de levenscyclus van de persoon beschreven die worden beïnvloed door voorgestelde wijzigingen/vereisten
 * Een reeks vereisten beoordelen en een benadering van campagnecogica aanbevelen
 
-**Sectie 3: Rapportage en Attributie (20%)**
+**Sectie 3: Het melden en Attributie (20%)**
 
 * Op basis van een model dat moet worden beoordeeld, moet u het concept van de omwegen in de levenscyclusmodelleraar toelichten
 * Op basis van onlinereclame of organische sociale of inhoudelijke informatie, kunt u het beste een benadering voor rapportage aanbevelen
@@ -118,7 +118,7 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 * De voor- en nadelen van verschillende attributiemodellen identificeren en beschrijven
 * Beschrijf op basis van een bedrijfsvereiste de effecten van het kanaal dat is ingesteld op rapportage
 
-**Sectie 4: Geavanceerde bewerkingen (16%)**
+**Sectie 4: Geavanceerde Verrichtingen (16%)**
 
 * Op basis van een scenario passende maatregelen vaststellen om het beheer of het bestuur te verbeteren
 * Op basis van een reeks vereisten kunt u het beste een efficiënt gegevensschema gebruiken
@@ -133,7 +133,7 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam) {target="_blank"}
 
 <br>
 
@@ -151,19 +151,19 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/248)
+[ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/248)
 
 +++
 
@@ -193,7 +193,7 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 
 >[!IMPORTANT]
 >
->Deze certificering is een voorwaarde. U MOET een actieve (niet verlopen) Adobe hebben [!DNL Marketo Engage] Zakelijke praktiserer **Expert** Certificering om de Adobe te nemen [!DNL Marketo Engage] Architect Master examen.
+>Deze certificering is een voorwaarde. U MOET een actieve (niet verlopen) Adobe [!DNL Marketo Engage] BedrijfsPraktijk **Expert** Certificatie hebben om het Hoofdexamen van de Architect van de Adobe [!DNL Marketo Engage] te nemen.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -222,6 +222,6 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

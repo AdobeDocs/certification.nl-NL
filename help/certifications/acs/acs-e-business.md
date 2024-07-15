@@ -1,6 +1,6 @@
 ---
 title: Certificering door experts voor zakelijke gebruikers
-description: Leer hoe u een gecertificeerde Adobe Business Practitioner Expert in Adobe kunt worden [!DNL Campaign Standard]
+description: Leer hoe te om een verklaarde Deskundige van de Bedrijfs Praktijk van de Adobe in Adobe te worden  [!DNL Campaign Standard]
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Campaign Standard] Expert aan de praktijk van bedrijven
+# Certification trip for Adobe [!DNL Campaign Standard] Expert Business Practitioner
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/255) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/255) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -60,7 +60,7 @@ U zou ervaring moeten hebben werkend in een milieu van de kanaallevering (e-mail
 
 Bovendien moet u:
 
-* Veldervaring met werken met Adobe [!DNL Campaign Standard] met regelmatige frequentie
+* Veldervaring met regelmatig werken met Adobe [!DNL Campaign Standard]
 * De mogelijkheid om gegevensbestanden te verwerken
 * Een goed begrip van de concepten relationele databases, triggers, API&#39;s en technische workflows
 * Begrip hoe te om marketing werkschema&#39;s te bouwen en met de onderliggende gegevens te werken om marketing werkschema&#39;s te lanceren
@@ -73,38 +73,38 @@ Bovendien moet u:
 
 {{exam-objectives}}
 
-**Afdeling 1: Leveringsbeheer (25%)**
+**Sectie 1: Het beheer van de levering (25%)**
 
 * Pas beste praktijken in vestiging en het opstellen van een levering toe
 * Bepaal de correcte leveringsconfiguratie
-* Functies van E-mailontwerper toepassen op het juiste scenario
+* E-mailfunctionaliteit van Designer toepassen op het juiste scenario
 
-**Sectie 2: Campagnebeheer (25%)**
+**Sectie 2: Het beheer van de campagne (25%)**
 
 * Configuraties toepassen om workflows uit te voeren
 * Beste werkwijzen toepassen bij het plannen, omschrijven en wijzigen van een campagne
 
-**Deel 3: Eisen (10%)**
+**Sectie 3: De analyse van Vereisten (10%)**
 
 * Een nieuwe workflow ontwerpen op basis van de vereisten voor bedrijven en campagnes
 * De vereisten van klanten interpreteren
 
-**Sectie 4: Rapportage (15%)**
+**Sectie 4: Het melden (15%)**
 
 * Gezien klantenvereisten, bepaal het aangewezen te produceren rapport
 * Gezien een scenario, pas een uit-van-de-doos dynamisch rapport aan
 * Geef op basis van voorbeeldgegevens van OTB-rapporten een interpretatie van de resultaten
 * Pas het proces toe om een OOTB-rapport te plannen en te verzenden
 
-**Sectie 5: Problemen oplossen (10%)**
+**Sectie 5: Het oplossen van problemen (10%)**
 
 * Fouten controleren en opsporen
 * Implementatieresultaten analyseren en interpreteren
 
-**Sectie 6: Gegevensbeheer en -beheer (15%)**
+**Sectie 6: Het beheer en het beleid van gegevens (15%)**
 
 * Bronnen voor gegevensmodellen uitleggen
-* Uitvoeren [!DNL Campaign Standard] administratie
+* [!DNL Campaign Standard] Beheer uitvoeren
 * Het proces toepassen om doelgroepen op te bouwen
 
 <br>
@@ -113,7 +113,7 @@ Bovendien moet u:
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam) {target="_blank"}
 
 <br>
 
@@ -131,19 +131,19 @@ Bovendien moet u:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/255)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/255)
 
 +++
 
@@ -198,7 +198,7 @@ Bovendien moet u:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.
 

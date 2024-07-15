@@ -1,6 +1,6 @@
 ---
 title: Certificering ontwikkelaarsexpert
-description: Leer hoe u gecertificeerd bent als een [!DNL Adobe Analytics] Ontwikkelaarsexpert.
+description: Leer hoe te worden verklaard als  [!DNL Adobe Analytics]  Deskundige van de Ontwikkelaar.
 solution: Analytics
 product: Analytics
 role: Developer
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Analytics] Ontwikkelaarsexpert
+# Certificatietraject voor Adobe [!DNL Analytics] Ontwikkelaarsexpert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/221) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/221) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ### Minimale ervaring {#minimum-experience}
 
-U moet ervaring hebben als implementatieconsultant in een hybride rol met ongeveer twee jaar ervaring in [!DNL Adobe Analytics] uitvoering. U fungeert als brug tussen IT en het bedrijf, vertaalt de bedrijfsvereisten in een technische oplossing (SDR), en, gebaseerd op de vereisten die door de analist worden verstrekt, begrijpt welk type variabele nodig is, waar en hoe te om de gegevens te verzamelen, het gegevensmodel (gegevenslaag) te ontwerpen, de oplossing van het markeringsbeheer te vormen en te handhaven.
+U moet ervaring hebben als implementatieconsultant in een hybride rol met ongeveer twee jaar ervaring in [!DNL Adobe Analytics] implementatie. U fungeert als brug tussen IT en het bedrijf, vertaalt de bedrijfsvereisten in een technische oplossing (SDR), en, gebaseerd op de vereisten die door de analist worden verstrekt, begrijpt welk type variabele nodig is, waar en hoe te om de gegevens te verzamelen, het gegevensmodel (gegevenslaag) te ontwerpen, de oplossing van het markeringsbeheer te vormen en te handhaven.
 
 Als Analytics Developer implementeert u zelden de labels op de pagina. In plaats daarvan worden deze geïmplementeerd door de IT-afdeling of de systeemintegrator.
 
@@ -60,15 +60,15 @@ U moet bekend zijn met de volgende gereedschappen en omgevingen:
 Gereedschappen:
 
 * Adobe Experience Platform Launch (Adobe starten)
-* Foutopsporingsgereedschappen die relevant zijn voor [!DNL Adobe Analytics] (De monitor van het pakket zoals Adobe Debugger, browser ontwikkelaarshulpmiddelen, Karel)
-* [!DNL Adobe Analytics] Instellingen voor rapportsuite voor Admin Console
-* Basiskennis van werkruimten
+* Foutopsporingsgereedschappen die relevant zijn voor [!DNL Adobe Analytics] (Packet monitor, zoals Adobe Debugger, browsergereedschappen, Charles)
+* [!DNL Adobe Analytics] Instellingen van rapportsuite voor Admin Consoles
+* Basiskennis van Workspace
 * Gereedschappen voor webontwikkeling, code-editor en mobiele foutopsporingsprogramma&#39;s
 * Adobe controleur
 * Verwerkingsregels
 * Classificatieregels - op regex gebaseerde classificatieregels
 * JavaScript-fouten
-* Basiskennis van de beschikbare [!DNL Adobe Analytics] verwante API&#39;s
+* Basiskennis van de beschikbare [!DNL Adobe Analytics] gerelateerde API&#39;s
 * Adobe I/O-integratie
 
 Omgevingen:
@@ -82,46 +82,46 @@ Omgevingen:
 
 {{exam-objectives}}
 
-**Doelstellingen en toepassingsgebied van examen**
+**de doelstellingen en het werkingsgebied van het examen**
 
-**Deel 1: Analyse in het ecosysteem van Adobe Experience Cloud (10%)**
+**Sectie 1: Het begrip Analytics in het Ecosysteem van Adobe Experience Cloud (10%)**
 
 * Toon kennis van het gebruik van Adobe Experience Cloud ID aan
 * Toon inzicht in het lanceren van Adobe
 * Toon inzicht in gemeenschappelijke integratie in het ecosysteem van Adobe Experience Cloud
 
-**Sectie 2: Strategie en ontwerp op basis van een referentie voor het ontwerp van oplossingen (SDR) (6%)**
+**Sectie 2: Strategie en ontwerp dat op een verwijzing van het oplossingsontwerp (SDR) wordt gebaseerd (6%)**
 
 * Interpreteer een Verwijzing van het Ontwerp van de Oplossing om efficiënte code voor gegevensvangst te ontwikkelen
 * De technische specificaties gebruiken voor het vullen van gegevensobjecten
 
-**Sectie 3: Implementatie en configuratie van analysemogelijkheden (36%)**
+**Sectie 3: Implementatie en Configuratie van Analytics (36%)**
 
-* Bepalen welke omgeving moet worden geïmplementeerd [!DNL Adobe Analytics] Code
+* Bepaal welke omgeving u wilt gebruiken voor [!DNL Adobe Analytics] Code
 * Een minimale implementatiecode uitvoeren voor het bijhouden van analyses
-* Diverse componenten binnen configureren [!DNL Adobe Analytics] UI
-* Configureren [!DNL Adobe Analytics] rapportsuite en variabelemontages
+* Verschillende componenten configureren binnen de gebruikersinterface van [!DNL Adobe Analytics]
+* [!DNL Adobe Analytics] rapportsuite en instellingen voor variabelen configureren
 * Een gegevenslaag binnen een implementatie gebruiken
 * Geavanceerde functies voor het bijhouden van koppelingen, zoals het bijhouden van koppelingen en productreeksen, uitvoeren
 
-**Sectie 4: Labelbeheersystemen (20%)**
+**Sectie 4: De beheerssystemen van de markering (20%)**
 
-* Opsommingsvereisten voor Adobe Experience Platform Launch in [!DNL Adobe Analytics]
+* Opsommingsvereisten voor implementatie van Adobe Experience Platform Launch in [!DNL Adobe Analytics]
 * Toepassen van processen om website het etiketteren met de Lancering van de Adobe te vormen
 * Opsommingsvereisten voor het inschakelen van extensies en het starten van Adoben
 * Regels en gegevenselementen maken
 
-**Sectie 5: Mobiele diensten (8%)**
+**Sectie 5: De mobiele diensten (8%)**
 
 * Pas processen toe om een basis pre-plaatsingscode voor mobiel te vormen en uit te voeren
 * Toon inzicht in verwerkingsregels en mobiele diensten
 
-**Sectie 6: Testen, valideren en problemen oplossen (20%)**
+**Sectie 6: Het testen, bevestiging, en het oplossen van problemen (20%)**
 
 * JavaScript-fouten oplossen
-* Problemen oplossen [!DNL Adobe Analytics] variabelen
+* Problemen met [!DNL Adobe Analytics] variabelen oplossen
 * Aanbevelen het testen en het zuiveren beste praktijken
-* Los problemen op [!DNL Adobe Analytics] servervraag over zijn levenscyclus (namelijk van baken verzoek aan het tonen in het rapport)
+* Los een [!DNL Adobe Analytics] servervraag over zijn levenscyclus (namelijk van bakenverzoek aan het tonen in het rapport) problemen op
 
 <br>
 
@@ -129,7 +129,7 @@ Omgevingen:
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam) {target="_blank"}
 
 <br>
 
@@ -147,19 +147,19 @@ Omgevingen:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/221)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/221)
 
 <br>
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
@@ -228,6 +228,6 @@ Omgevingen:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

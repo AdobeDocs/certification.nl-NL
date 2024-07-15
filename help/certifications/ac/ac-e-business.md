@@ -1,6 +1,6 @@
 ---
 title: Certificering door experts voor zakelijke gebruikers
-description: Leer hoe u als Adobe-expert in Adobe bent gecertificeerd voor Business Practitioner [!DNL Commerce].
+description: Leer hoe te om als deskundige van de Praktijk van de Bedrijfs Adobe in Adobe  [!DNL Commerce] verklaard te worden.
 solution: Commerce
 product: Magento
 role: User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor [!DNL Adobe Commerce] Expert aan de praktijk van bedrijven
+# Certification trip for [!DNL Adobe Commerce] Business Practitioner Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/140) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/140) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ### Minimale ervaring {#minimum-experience}
 
-U moet ongeveer 1-3 jaar praktische [!DNL Commerce] ervaring en een breed begrip van de ervaring op het gebied van e-handel.
+U moet ongeveer 1-3 jaar praktijkervaring [!DNL Commerce] en een breed begrip van de ervaring van e-commerce hebben.
 
 U moet ervaring hebben met:
 
@@ -80,17 +80,17 @@ Bovendien kunt u de volgende technologieën beter gebruiken:
 
 {{exam-objectives}}
 
-**Sectie 1: Basisfuncties/Algemene configuratie (46%)**
+**Sectie 1: De Eigenschappen van de Kern/Algemene Configuratie (46%)**
 
-* De kenmerken van Adobe identificeren [!DNL Commerce] Open Source Edition en [!DNL Commerce] Edition
-* De verschillen tussen alle edities van Adobe onderscheiden [!DNL Commerce] producten
+* De functies van Adobe [!DNL Commerce] Open Source Edition en [!DNL Commerce] Edition identificeren
+* De verschillen tussen alle edities van Adobe [!DNL Commerce] -producten onderscheiden
 * Bepaal hoe te om producttypes en hun eigenschappen te gebruiken om aan klantenvereisten te voldoen
 * Vereisten en modellen interpreteren om te bepalen of aan deze vereisten kan worden voldaan met native functionaliteit
 * Toon kennis van het beheerpaneel en de plaats van gemeenschappelijke eigenschappen aan
-* Toon de capaciteit aan om Adobe in te voeren/uit te voeren [!DNL Commerce] entiteiten
+* Toon de capaciteit aan om Adobe [!DNL Commerce] entiteiten in te voeren/uit te voeren
 * Begrijp hoe te om kar en controle te vormen
-* Evalueer de native beschikbare verzendmethoden in de Adobe [!DNL Commerce] en de wijze waarop zij van toepassing zijn op algemene gebruiksgevallen
-* Gestileerde inhoud maken en publiceren met de Adobe [!DNL Commerce] CMS-functies waaronder Page Builder
+* Evalueer de native beschikbare verzendmethoden in de Adobe [!DNL Commerce] en hoe deze van toepassing zijn op veelgebruikte gevallen
+* Begrijpen hoe u gestileerde inhoud kunt maken en publiceren met de CMS-functies van de Adobe [!DNL Commerce] , waaronder Page Builder
 * Native tools gebruiken om de levenscyclus van uw bestelling te beheren
 * Toon de capaciteit aan om de diverse het giften opties (geschenkkaarten, gift het verpakken, geeft berichten) te vormen
 * E-mailberichten over transacties configureren en wijzigen
@@ -102,33 +102,33 @@ Bovendien kunt u de volgende technologieën beter gebruiken:
 * Toon capaciteit aan om categorieën en producten te beheren
 * Begrijp de verschillende prijsconfiguraties en hoe zij de definitieve prijs beïnvloeden
 
-**Sectie 3: Digitale marketing (4%)**
+**Sectie 3: Digitale Marketing (4%)**
 
 * Aanbevolen beste praktijken voor SEO gebruikend inheemse eigenschappen
 * Algemene meetgegevens in Googles Analytics en BI beoordelen
 
-**Sectie 4: Modules voor toevoeging en aanvullende producten (18%)**
+**Sectie 4: Add-on Modules en Extra Producten (18%)**
 
 * Beschrijf de functionaliteit B2B en hoe het op gemeenschappelijke scenario&#39;s B2B betrekking heeft
 * Pas bedrijfsvereisten toe om een oplossing voor te stellen die MSI gebruikt
-* Verklaar de voordelen en hoe te om BI aan de Adobe te gebruiken [!DNL Commerce] oplossing
+* Verklaar de voordelen en hoe te om BI aan de oplossing van de Adobe te gebruiken [!DNL Commerce]
 * De verschillen tussen native zoekopdracht en LiveSearch onderscheiden
 * Bedrijfsvereisten toepassen om te bepalen hoe belastingen, rechten en vrijstellingen in een B2B-omgeving moeten worden toegepast
 * Begrijp hoe te om op maat gemaakte tarifering op een B2B klant toe te passen
-* Begrijp de verschillen tussen Adobe [!DNL Commerce] native product en aanbevelingen voor Adobe Sensei-producten
+* Begrijp de verschillen tussen Adobe [!DNL Commerce] native product en Adobe Sensei productaanbevelingen
 
-**Sectie 5: Systeemarchitectuur (10%)**
+**Sectie 5: De Architectuur van Systemen (10%)**
 
 * Evalueer vereisten om te bepalen welke websites, opslag, en opslagmening noodzakelijk zijn
 * Prestatiewaarden identificeren en analyseren om verbeteringen aan te brengen
-* Begrijp de beschikbare methodes om extern systeem met Adobe te integreren [!DNL Commerce]
+* Begrijp de beschikbare methoden om extern systeem met Adobe te integreren [!DNL Commerce]
 * Verschil tussen headless-benaderingen en traditioneel
 
-**Sectie 6: Naleving/beveiliging (12%)**
+**Sectie 6: Naleving/Veiligheid (12%)**
 
-* Toon hoe te om de Adobe te beveiligen [!DNL Commerce] gegevenstoegang met rollen en toestemmingen
+* Toon aan hoe te om de Adobe [!DNL Commerce] gegevenstoegang met rollen en toestemmingen te beveiligen
 * Begrijp de grondbeginselen van naleving van privacywetten en betalingsbeveiliging
-* Gemeenschappelijke veiligheidsaspecten van een Adobe verklaren [!DNL Commerce] project
+* Gemeenschappelijke veiligheidsaspecten van een Adobe [!DNL Commerce] -project uitleggen
 * Begrijp de grondbeginselen van belastingwetten en hoe te te vormen
 
 <br>
@@ -137,7 +137,7 @@ Bovendien kunt u de volgende technologieën beter gebruiken:
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam) {target="_blank"}
 
 <br>
 
@@ -155,19 +155,19 @@ Bovendien kunt u de volgende technologieën beter gebruiken:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/140)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/140)
 
 +++
 
@@ -222,6 +222,6 @@ Bovendien kunt u de volgende technologieën beter gebruiken:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Certificering ontwikkelaarsexpert
-description: Leer hoe u een gecertificeerde Adobe van Adobe Developer Expert kunt worden [!DNL Campaign Standard].
+description: Leer hoe te om een verklaarde Adobe van de Expert van Adobe Developer te worden  [!DNL Campaign Standard].
 solution: Campaign,Campaign Standard
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Campaign Standard] Ontwikkelaarsexpert
+# Certificatietraject voor Adobe [!DNL Campaign Standard] Ontwikkelaarsexpert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/256) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/256) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 U zou moeten hebben:
 
-* Ten minste twee jaar Adobe [!DNL Campaign Standard] software-ervaring
+* Ten minste twee jaar Adobe van [!DNL Campaign Standard] software
 * Ten minste twee jaar relevante ervaring met multikanaalscampagnes voor digitale marketing en webontwikkeling (zoals REST API)
 * De capaciteit om taken in Adobe Campaign met inbegrip van malplaatjeontwikkeling, technische werkschema&#39;s, schemaontwikkeling, en integratie uit te voeren, en de instantie te kunnen controleren gebruikend controlepaneel
 * Ervaring met werken in een omgeving voor kanaallevering (e-mail, direct mail, mobiel en sociaal)
@@ -79,7 +79,7 @@ U zou moeten hebben:
 
 {{exam-objectives}}
 
-**Sectie 1: Modellering en beheer van gegevens (26%)**
+**Sectie 1: De modellering en het beheer van gegevens (26%)**
 
 * Gezien een scenario, transformeer een cliëntvereiste in een douanemiddel
 * Bepaal hoe u scherm- en filterdefinities kunt configureren
@@ -88,7 +88,7 @@ U zou moeten hebben:
 * Problemen met gegevensmodellering oplossen
 * Bepaal de correcte benadering om technische werkschema&#39;s te bouwen
 
-**Sectie 2: Campagnebeheer (50%)**
+**Sectie 2: Het beheer van de campagne (50%)**
 
 * Workflowfouten oplossen
 * Bepaal de correcte benadering om campagnes te bouwen
@@ -101,7 +101,7 @@ U zou moeten hebben:
 * Bepaal de juiste aanpak voor het samenstellen van e-mails met behulp van creatieve ontwerper
 * Bepaal de correcte benadering om douanerapporten tot stand te brengen
 
-**Afdeling 3: Administratie (24%)**
+**Sectie 3: Beleid (24%)**
 
 * Bepaal de correcte benadering om gebruikersveiligheidsgroepen en organisatorische eenheden tot stand te brengen
 * Bepaal de correcte benadering om pakketten te beheren en op te stellen
@@ -116,7 +116,7 @@ U zou moeten hebben:
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam) {target="_blank"}
 
 <br>
 
@@ -134,19 +134,19 @@ U zou moeten hebben:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/256)
+[ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/256)
 
 +++
 
@@ -201,6 +201,6 @@ U zou moeten hebben:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

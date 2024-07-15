@@ -1,6 +1,6 @@
 ---
 title: Bedrijfs Praktijkgerichte Beroeps certificatie
-description: Leer hoe u gecertificeerd kunt worden als Adobe [!DNL Audience Manager] Zakelijke beroepsbeoefenaar.
+description: Leer hoe te om als Beroeps van de Praktijk van de Adobe  [!DNL Audience Manager]  te worden verklaard.
 solution: Audience Manager
 product: Audience Manager
 role: User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Audience Manager] Professioneel als bedrijf
+# Certification trip for Adobe [!DNL Audience Manager] Business Practitioner Professional
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/245) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/245) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -63,7 +63,7 @@ U zou een basisbegrip van gegevensstromen, bedrijfsdoelstellingen en KPIs, met w
 
 {{exam-objectives}}
 
-**Sectie 1: Segment maken en synchroniseren (32%)**
+**Sectie 1: De Creatie en de Syndicatie van het segment (32%)**
 
 * Identificeer manieren om eerste, tweede, en derdegegevens voor gerichte en analytische doeleinden te gebruiken
 * Beschrijf het basisproces voor de activering van zaken of campagnedoelstellingen
@@ -71,27 +71,27 @@ U zou een basisbegrip van gegevensstromen, bedrijfsdoelstellingen en KPIs, met w
 * Identificeer de verschillende soorten bestemmingen
 * De verschillende typen bronnen identificeren
 
-**Sectie 2: Trait Creation (16%)**
+**Sectie 2: Het Treinschepping (16%)**
 
 * Op basis van een scenario signalen, kenmerken, segmenten en doelgroepen identificeren
 * Identificeer het gebruik van verschillende types van eigenschappen
 
-**Sectie 3: Rapportage en metingen (16%)**
+**Sectie 3: Het melden en Metingen (16%)**
 
 * Op basis van een scenario rapporten genereren om activering of campagnedoelstellingen te meten
 * Vergelijk, in een scenario, het publiek op basis van gelijke tarieven
 
-**Sectie 4: Problemen oplossen (10%)**
+**Sectie 4: Het oplossen van problemen (10%)**
 
 * Gezien een scenario, los binnenkomende gegevens van verschillende bronnen en brontypes problemen op
 * Indeling voor inkomende gegevensbestanden valideren
 
-**Afdeling 5: Taxonomie (12%)**
+**Sectie 5: Taxonomie (12%)**
 
 * Bepaal de aangewezen structuur om eigenschappen en segmenten tot stand te brengen die een duidelijke en verenigbare nomenclatuur gebruiken
 * De juiste techniek bepalen om een georganiseerd platform te onderhouden met behulp van een duidelijke mapstructuur
 
-**Sectie 6: Profiel samenvoegen, ID synchroniseren en Audience Marketplace (14%)**
+**Sectie 6: De Fusie van het profiel, de Synchronisatie van identiteitskaart, en Audience Marketplace (14%)**
 
 * Gebruikerseigenschappen indelen in één uniform profiel om een publiek in een huishouden of op een apparaat te maken
 * Activering identificeren met Audience Marketplace
@@ -112,15 +112,15 @@ U zou een basisbegrip van gegevensstromen, bedrijfsdoelstellingen en KPIs, met w
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/245)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/245)
 
 +++
 
@@ -175,7 +175,7 @@ U zou een basisbegrip van gegevensstromen, bedrijfsdoelstellingen en KPIs, met w
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.
 

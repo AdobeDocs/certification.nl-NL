@@ -1,6 +1,6 @@
 ---
 title: Certificering door experts voor zakelijke gebruikers
-description: Leer hoe u een gecertificeerde Adobe Business Practitioner Expert met [!DNL Campaign Classic].
+description: Leer hoe te om een verklaarde Deskundige van de Bedrijfs Praktijk van de Adobe met  [!DNL Campaign Classic] te worden.
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Campaign Classic] Expert aan de praktijk van bedrijven
+# Certification trip for Adobe [!DNL Campaign Classic] Expert Business Practitioner
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/253) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/253) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 U zou moeten hebben:
 
-* Ten minste 2 jaar uitgebreide Adobe [!DNL Campaign Classic] software-ervaring
+* Minimaal 2 jaar uitgebreide Adobe [!DNL Campaign Classic] software-ervaring
 * Meerjarenervaring met het ontwikkelen van marketingcampagnes en tactieken met behulp van digitale omnichannel
 * Ervaar het interpreteren/vertalen van bedrijfsvereisten aan uitvoerbare campagneproducten
 * Ervaring met marketingmetingen zoals rendement op eigen vermogen, doorkliksnelheden en conversie
@@ -69,7 +69,7 @@ U zou moeten hebben:
 
 {{exam-objectives}}
 
-**Sectie 1: Campagnebeheer (20%)**
+**Sectie 1: Het beheer van de campagne (20%)**
 
 * Beste werkwijzen toepassen om een campagne te maken
 * Gezien een scenario, bepaal het correcte campagnemalplaatje
@@ -77,14 +77,14 @@ U zou moeten hebben:
 * Doeltoewijzingen beschrijven
 * Uitleggen hoe u webtoepassingen en webformulieren kunt configureren
 
-**Sectie 2: Workflowbeheer (22%)**
+**Sectie 2: Het beheer van het Werkschema (22%)**
 
 * Evalueer een bepaalde reeks campagnevereisten en adviseer de koers van actie
 * Op basis van een scenario workflowfouten analyseren
 * Bepaal op basis van een aantal campagnevereisten het juiste ontwerp van een marketingworkflow
 * Aanbevolen werkwijzen toepassen bij het uitvoeren van workflows
 
-**Deel 3: Gegevensbeheer (24%)**
+**Sectie 3: Het beheer van gegevens (24%)**
 
 * Verklaar de kernconcepten relationele gegevensbanken
 * De verschillende gegevensbronnen bepalen waartoe een workflow toegang heeft
@@ -94,19 +94,19 @@ U zou moeten hebben:
 * Voer de stappen uit om een vooraf gedefinieerd filter te configureren
 * Vermeld het juiste invoerformulier op basis van een bedrijfsvereiste
 
-**Afdeling 4: Leveringsbeheer (14%)**
+**Sectie 4: Het beheer van de levering (14%)**
 
 * Pas de stappen toe om leveringen tot stand te brengen/te vormen
 * Selecteer en stel op basis van een scenario het juiste proefpubliek voor goedkeuringen in
 * Leveringsaudits analyseren en interpreteren
 
-**Sectie 5: Rapportage (12%)**
+**Sectie 5: Het melden (12%)**
 
 * Op basis van een scenario bepalen welke rapporten geschikt zijn om te genereren
 * Ingebouwde rapporten interpreteren
 * De gevolgen van het opschonen/leegmaken van logbestanden voor rapportage uitleggen
 
-**Afdeling 6: Administratie (8%)**
+**Sectie 6: Beleid (8%)**
 
 * Op basis van een scenario verklaren de gevolgen van het weggooien van stammen voor rapporten
 * Op basis van zakelijke vereisten de juiste machtigingen en toegangsrechten verlenen
@@ -128,19 +128,19 @@ U zou moeten hebben:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/253)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/253)
 
 +++
 
@@ -195,6 +195,6 @@ U zou moeten hebben:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Basiscertificering architect
-description: Leer hoe u gecertificeerd kunt worden als Adobe [!DNL Audience Manager] Architect Master.
+description: Leer hoe te worden verklaard als Hoofd van de Architect van de Adobe  [!DNL Audience Manager] .
 solution: Audience Manager
 product: Audience Manager
 role: Data Architect
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor [!DNL Adobe Audience Manager] Architect Master
+# Reis voor certificering voor [!DNL Adobe Audience Manager] Architect Master
 
 {{intro}}
 
@@ -60,10 +60,10 @@ Bovendien, zou u de volgende taken moeten kunnen voltooien:
 
 * De bedrijfsvereisten analyseren om bestaande gegevens en de extra gegevens te begrijpen die worden vereist
 * Ontwerp en ontwikkel specifieke implementaties om aan klantenvereisten te voldoen
-* Adobe implementeren [!DNL Audience Manager] gebruik maken van verschillende methoden
+* Adobe implementeren [!DNL Audience Manager] met behulp van verschillende methoden
 * Segmenten maken
 * Activeer publiekssegmenten over verschillende Adobe en niet-Adobe wolkenoplossingen
-* Verschillende rapporten genereren en analyseren binnen [!DNL Audience Manager]
+* Verschillende rapporten genereren en analyseren in [!DNL Audience Manager]
 * Strategieën voor gegevensverzameling begrijpen
 
 <br>
@@ -72,9 +72,9 @@ Bovendien, zou u de volgende taken moeten kunnen voltooien:
 
 {{exam-objectives}}
 
-**Doelstellingen en toepassingsgebied van examen**
+**de doelstellingen en het werkingsgebied van het examen**
 
-**Sectie 1: Implementatieanalyse (26%)**
+**Sectie 1: De analyse van de implementatie (26%)**
 
 * Bepaal hoe u de implementatie van AAM als een zelfstandig product of als onderdeel van een cloudoplossing kunt begeleiden en ondersteunen
 * Analyseer uitgaande bestemmingsopties en adviseer een AAM implementatiebenadering
@@ -82,28 +82,28 @@ Bovendien, zou u de volgende taken moeten kunnen voltooien:
 * Omgaan met functies zoals viewer voor bezoekersprofielen, tags, RBAC enzovoort, om deze uit te lijnen op bedrijfsdoelen
 * Bepaal hoe u pixels ontwerpt en test die nodig zijn om segmenten en kenmerken te maken
 
-**Sectie 2: Oplossingsontwerp en aanbevelingen (18%)**
+**Sectie 2: Het ontwerp en de aanbevelingen van de oplossing (18%)**
 
 * AAM mogelijkheden bepalen op basis van het gebruiksscenario van de klant voor publiek en activering
 * Pas procedureconcepten toe om oplossingen van de publieksidentiteit te gebruiken om ontwerparchitectuur aan te vullen
 * Kenmerken en gedragsgegevens identificeren en deze toewijzen aan specifieke gevallen van zakelijk gebruik
 * Procedureconcepten toepassen op de ontwerpmappentaxonomie en naamgevingsconventie
 
-**Sectie 3: Segmentering en activering (30%)**
+**Sectie 3: Segmentatie en activering (30%)**
 
-* Pas procedureconcepten toe om bestemmingen tot stand te brengen in [!DNL Audience Manager]
+* Procedurele concepten toepassen om doelen te maken in [!DNL Audience Manager]
 * Identificeer signalen om op regel-Gebaseerde, Onboard, en Algorithmic Traits te creëren
 * Procedurele concepten toepassen om segmenten te maken met behulp van frequentie/recentie
 * Bepaal hoe u segmenten maakt met behulp van de samenvoegregels voor profielen
 * Procedurele concepten toepassen om een algoritmisch of voorspellend model te maken
 * Segmentatielogica bepalen op basis van gebruiksgevallen
 
-**Deel 4: Privacy en gegevensbeheer (8%)**
+**Sectie 4: Privacy en gegevensbeheer (8%)**
 
-* Aanbevelen [!DNL Audience Manager] capaciteiten op het gebied van bestuur, privacy en beveiliging
+* U kunt [!DNL Audience Manager] -functies aanbevelen als het gaat om governance, privacy en beveiliging
 * Identificeer het beleid van klantengegevens dat in overeenstemming met overheidsverordeningen is
 
-**Sectie 5: Prestaties en rapportage (18%)**
+**Sectie 5: Prestaties en het melden (18%)**
 
 * Bepaal hoe te om rapporten in AAM te vormen om signaal, eigenschappen, en segmentprestaties per bedrijfsvereisten te verzamelen
 
@@ -113,7 +113,7 @@ Bovendien, zou u de volgende taken moeten kunnen voltooien:
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"}.
+[ neem de online gereedheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master) {target="_blank"}.
 
 <br>
 
@@ -131,36 +131,36 @@ Bovendien, zou u de volgende taken moeten kunnen voltooien:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Sectie 1: Implementatieanalyse**
+**Sectie 1: De Analyse van de implementatie**
 
-* [[!DNL Audience Manager] Hulplijn](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
-* [Analyseintegratie](https://experienceleague.adobe.com/docs/analytics/integration/home.html){target="_blank"}
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
+* [[!DNL Audience Manager]  Gids ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) {target="_blank"}
+* [ Integratie van Analytics ](https://experienceleague.adobe.com/docs/analytics/integration/home.html) {target="_blank"}
+* [ de Dienst van de Identiteit van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/id-service/using/home.html) {target="_blank"}
 
-**Sectie 2: Oplossingsontwerp en Recommendations**
+**Sectie 2: Het Ontwerp van de oplossing en Recommendations**
 
-* [[!DNL Audience Manager] Hulplijn](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
-* [[!DNL Audience Manager] zelfstudies](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
+* [[!DNL Audience Manager]  Gids ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) {target="_blank"}
+* [[!DNL Audience Manager]  leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html) {target="_blank"}
 
-**Sectie 3: Segmentering en activering**
+**Sectie 3: Segmentatie en Activering**
 
-* [[!DNL Audience Manager] Hulplijn](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
-* [Adobe [!DNL Audience Manager]](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community){target="_blank"}
-* [[!DNL Audience Manager] zelfstudies](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html){target="_blank"}
+* [[!DNL Audience Manager]  Gids ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) {target="_blank"}
+* [ Adobe  [!DNL Audience Manager] ](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community) {target="_blank"}
+* [[!DNL Audience Manager]  leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html) {target="_blank"}
 
-**Afdeling 4: Privacy en gegevensbeheer**
+**Sectie 4: Privacy en het Beheer van Gegevens**
 
-* [[!DNL Audience Manager] Hulplijn](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
-* [[!DNL Audience Manager] REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
-* [Handleiding Analysebeheer](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
+* [[!DNL Audience Manager]  Gids ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) {target="_blank"}
+* [[!DNL Audience Manager]  REST API ](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API) {target="_blank"}
+* ](https://experienceleague.adobe.com/docs/analytics/admin/home.html) {target="_blank"} de Gids van Admin van Analytics van 0}[
 
-**Afdeling 5: Prestaties en rapportage**
+**Sectie 5: Prestaties en het Melden**
 
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
+* [ de Dienst van de Identiteit van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/id-service/using/home.html) {target="_blank"}
 
 +++
 
@@ -215,6 +215,6 @@ Bovendien, zou u de volgende taken moeten kunnen voltooien:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

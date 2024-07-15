@@ -1,6 +1,6 @@
 ---
 title: Basiscertificering architect
-description: Leer hoe u een gecertificeerde Adobe architect master in Adobe kunt worden [!DNL Commerce].
+description: Leer hoe te om een verklaarde kapitein van de Architect van de Adobe in Adobe  [!DNL Commerce] te worden.
 solution: Commerce
 product: Magento
 role: Data Architect
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Commerce] Architect Master
+# Reis voor certificering voor Adobe [!DNL Commerce] Architect Master
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/142) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/142) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ### Beoogd publiek {#intended-audience}
 
-* Loodsoftware/[!DNL Adobe Commerce] Architect
+* Hoofdsoftware/[!DNL Adobe Commerce] Architect
 * Technisch architect
 * Architect van oplossing
 * Technische leiding
@@ -59,33 +59,33 @@ ht-degree: 0%
 
 ### Minimale ervaring {#minimum-experience}
 
-U moet minstens 3-5 jaar ervaring hebben met het opleiden [!DNL Commerce] ontwikkelingsprojecten en kunnen, oplossingen aan bedrijfsproblemen ontwerpen integreren uitvoeren en verklaren door te gebruiken [!DNL Adobe Commerce] samen met de bijbehorende diensten.
+U moet minstens 3 tot 5 jaar ervaring hebben met het leiden van [!DNL Commerce] -ontwikkelingsprojecten en u kunt oplossingen voor bedrijfsproblemen ontwerpen, integreren, implementeren en uitleggen door [!DNL Adobe Commerce] samen met de bijbehorende services te gebruiken.
 
 Bovendien, zou u zeer vertrouwd met de volgende activiteiten en de technologieën moeten zijn:
 
 * Basisfuncties uitbreiden
-* Configureren [!DNL Adobe Commerce] volledig
+* [!DNL Adobe Commerce] volledig configureren
 * Creeer volledige blauwdruk van hoe een uitbreiding zou moeten werken, vereisten van bedrijf aan blauwdruk van hoe het zou moeten werken, zonder het moeten in de code gaan
 * Begrijp bedrijfsbehoeften/eigenschappen
 * Prestatieimplicaties van oplossingen en uitbreidingen
 * Servicecontracten logica
 * GraphQL
 * Composer begrijpen als een hulpprogramma voor afhankelijkheid
-* Werkexemplaar van Adobe instellen en configureren [!DNL Adobe Commerce] krassen
+* Werkexemplaar van Adobe [!DNL Adobe Commerce] helemaal opnieuw instellen en configureren
 * Beheerdashboard aanpassen, rasters en formulieren maken
 * Cache- en indexbeheer; aangepaste index maken
 * Nieuw cachetype maken
 * Verschillende problemen in de omgeving oplossen en er fouten in opsporen
 * Databaseschema uitbreiden en beheren
 * Beveiligingsfuncties, zorgen voor een veilige installatie en ontwikkelingsuitbreiding
-* Voer op server-gebaseerde diensten uit die [!DNL Adobe Commerce] connects (Redis, Varnish configuratiemanagement)
+* Services op basis van een server uitvoeren die door [!DNL Adobe Commerce] worden verbonden (Redis, Varnish configuration Management)
 * Bewust met de beste codeerstandaardpraktijken, Coderingsnormen, PSR, SOLID-beginsel
-* Instellen en gebruiken [!DNL Adobe Commerce] Services Connector (en bijbehorende services)
+* [!DNL Adobe Commerce] Services-connector (en bijbehorende services) instellen en gebruiken
 * Inhoudsbeheer opslaan
-* Begrijpen [!DNL Adobe Commerce] standaardinstellingen, wanneer deze beschikbaar en niet beschikbaar is
-* Brede kennis van alle aanverwante zaken [!DNL Adobe Commerce] domein
+* Standaardinstellingen van [!DNL Adobe Commerce] , wanneer deze beschikbaar en niet beschikbaar is
+* Uitgebreid inzicht in een gerelateerd [!DNL Adobe Commerce] domein
 * Ontwerpprojectarchitectuur
-* Prestaties optimaliseren van [!DNL Adobe Commerce] default
+* Prestaties optimaliseren van standaard [!DNL Adobe Commerce]
 * B2B maken en wijzigen
 * AMQP-protocol en -adapters in [!DNL Adobe Commerce] (S3)
 
@@ -97,24 +97,24 @@ Bovendien, zou u zeer vertrouwd met de volgende activiteiten en de technologieë
 
 **Sectie 1: Ontwerp (46%)**
 
-* Optimale oplossingen voor Adobe ontwerpen en implementeren [!DNL Commerce] om aan bedrijfsbehoeften te voldoen
+* Optimale oplossingen voor Adobe ontwerpen en implementeren [!DNL Commerce] om aan de bedrijfsbehoeften te voldoen
 * Ontwerp logische en technische stromen
-* Aanpassen [!DNL Commerce] functies
-* Adobe integreren [!DNL Commerce] met externe systemen en diensten
+* [!DNL Commerce] -functies aanpassen
+* Adobe [!DNL Commerce] integreren met externe systemen en services
 * Ontwerpstromen oplossen
 
-**Sectie 2: Evaluatie (32%)**
+**Sectie 2: Overzicht (32%)**
 
-* Controle en refactor van bestaande Adobe [!DNL Commerce] aanpassingen
-* Gebruiken [!DNL Commerce] testframeworks gedurende de gehele werkstroom
+* Bestaande Adobe [!DNL Commerce] -aanpassingen bekijken en opnieuw weergeven
+* Testframeworks gedurende de gehele workflow gebruiken [!DNL Commerce]
 * Prestaties en schaalbaarheid optimaliseren voor Adobe [!DNL Commerce]
-* Los problemen op om de worteloorzaak van kwesties met Adobe te identificeren [!DNL Commerce]
+* Problemen oplossen om de hoofdoorzaak van problemen met Adobe vast te stellen [!DNL Commerce]
 * Coderingsnormen handhaven
 
-**Sectie 3: Configureren en implementeren (22%)**
+**Sectie 3: Vorm en stel (22%) op**
 
-* Adobe configureren [!DNL Commerce] en zorg ervoor dat het project optimaal is ingesteld
-* Alle aspecten van Adobe configureren [!DNL Commerce] Wolk
+* Adobe configureren [!DNL Commerce] en controleren of het project optimaal is ingesteld
+* Alle aspecten van de Adobe van de cloud configureren [!DNL Commerce]
 * Implementatieproces controleren en verbeteren
 * Problemen met infrastructuur en configuratie oplossen
 
@@ -122,7 +122,7 @@ Bovendien, zou u zeer vertrouwd met de volgende activiteiten en de technologieë
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam) {target="_blank"}
 
 <br>
 
@@ -140,19 +140,19 @@ Bovendien, zou u zeer vertrouwd met de volgende activiteiten en de technologieë
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/142)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/142)
 
 +++
 
@@ -207,6 +207,6 @@ Bovendien, zou u zeer vertrouwd met de volgende activiteiten en de technologieë
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Bedrijfs Praktijkgerichte Beroeps certificatie
-description: Leer hoe u een gecertificeerde Adobe Business Practice-professional kunt worden in [!DNL Campaign Classic].
+description: Leer hoe te om een verklaarde Beroeps van de Bedrijfs Adobe in  [!DNL Campaign Classic] te worden.
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Campaign Classic] Professioneel als bedrijf
+# Certification trip for Adobe [!DNL Campaign Classic] Business Practitioner Professional
 
 {{intro}}
 
@@ -72,9 +72,9 @@ U zou moeten hebben:
 
 {{exam-objectives}}
 
-**Doelstellingen en toepassingsgebied van examen**
+**de doelstellingen en het werkingsgebied van het examen**
 
-**Sectie 1: Een campagne maken (29%)**
+**Sectie 1: Bouw een Campagne (29%)**
 
 * De verschillende Digital Marketing-concepten en -doelstellingen herkennen
 * Belangrijke gereedschapseigenschappen en -structuur identificeren en definiëren in relatie tot de interface
@@ -86,14 +86,14 @@ U zou moeten hebben:
 * Erkennen waar de leveringsresultaten of uitvoer moeten worden gevonden
 * Verschil tussen verschillende fout- en waarschuwingstypen (levering, campagne en workflowniveau)
 
-**Sectie 2: Workflowbeheer en platformcapaciteiten (16%)**
+**Sectie 2: Het beheer van het werkschema en platformmogelijkheden (16%)**
 
 * Op basis van een scenario bepalen welke workflowactiviteiten moeten worden geselecteerd
 * Verschil tussen campagne- en technische workflows
 * Op basis van een scenario bepaalt u welke workflowoplossing optimaal is voor continue, wacht-, terugkerende, abortussituaties
 * De nieuwe mogelijkheden en functies van Campagne V8 identificeren in vergelijking met eerdere versies
 
-**Sectie 3: Gegevensbewerkingen (20%)**
+**Sectie 3: De verrichtingen van gegevens (20%)**
 
 * Bepaal hoe u kolommen binnen een weergave kunt wijzigen om gegevens/uitvoer te testen
 * Beschrijf de doelstellingen van de unitie, de intersection, de uitsluiting, en de spleet werkschema richtend activiteiten
@@ -102,7 +102,7 @@ U zou moeten hebben:
 * Gezien een scenario, bepaal hoe te om een publiek te segmenteren en als lijst en cellen op te slaan
 * Gezien een scenario, bepaal de beste methode om gegevens naar bestemmingen uit te voeren door hen te vormen
 
-**Sectie 4: Leveringsconfiguratie (28%)**
+**Sectie 4: De configuratie van de levering (28%)**
 
 * Gezien een scenario, bepaal het correcte leveringstype
 * Bepaal op basis van zakelijke vereisten hoe u sjablonen kunt maken
@@ -113,7 +113,7 @@ U zou moeten hebben:
 * Geef aan waar/hoe u de inhoud en personalisatie van de levering wilt testen
 * Verschil tussen de verschillende leveringsstaten die tijdens verwerking voorkomen en acties toepassen
 
-**Sectie 5: Administratie en rapportage (7%)**
+**Sectie 5: Beleid en het melden (7%)**
 
 * Identificeer gemeenschappelijke OOTB- rapporten en waar om tot hen toegang te hebben
 * Bepaal welk OOTB-rapport nodig is op basis van rapportagevereisten
@@ -126,7 +126,7 @@ U zou moeten hebben:
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam) {target="_blank"}
 
 <br>
 
@@ -144,56 +144,56 @@ U zou moeten hebben:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Sectie 1: Een campagne maken**
+**Sectie 1: Bouw een Campagne**
 
-* [Aan de slag met Adobe Campaign](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/get-started.html){target="_blank"}
-* [Communicatiekanalen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
-* [Aan de slag met marketingcampagnes](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=nl){target="_blank"}
-* [Aan de slag met personalisatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=nl){target="_blank"}
-* [Marketingcampagnes ontwerpen en uitvoeren](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
-* [Over sjablonen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html){target="_blank"}
+* [ krijgen Begonnen met Adobe Campaign ](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/get-started.html) {target="_blank"}
+* [ Communicatie kanalen ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html) {target="_blank"}
+* [ worden begonnen met marketing campagnes ](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=nl) {target="_blank"}
+* [ krijgen begonnen met verpersoonlijking ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=nl) {target="_blank"}
+* [ Ontwerp en voer marketing campagnes ](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html) uit {target="_blank"}
+* [ Ongeveer malplaatjes ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html) {target="_blank"}
 
-**Sectie 2: Workflowbeheer en platformmogelijkheden**
+**Sectie 2: Het beheer van het werkschema en platformmogelijkheden**
 
-* [Gerichte activiteiten in workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html){target="_blank"}
-* [Stroombeheeractiviteiten in workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/about-flow-control-activities.html){target="_blank"}
-* [Acties in workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html){target="_blank"}
-* [Workflow-eigenschappen](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html){target="_blank"}
-* [Aan de slag met workflows](https://experienceleague.adobe.com/docs/campaign/campaign-v8/data/workflows.html){target="_blank"}
+* [ het richten activiteiten in werkschema&#39;s ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) {target="_blank"}
+* [ de controleactiviteiten van de Stroom in werkschema&#39;s ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/about-flow-control-activities.html) {target="_blank"}
+* [ activiteiten van de Actie in werkschema&#39;s ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html) {target="_blank"}
+* [ eigenschappen van het Werkschema ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html) {target="_blank"}
+* [ krijgen begonnen met werkschema&#39;s ](https://experienceleague.adobe.com/docs/campaign/campaign-v8/data/workflows.html) {target="_blank"}
 
-**Deel 3: Gegevensbewerkingen**
+**Sectie 3: De verrichtingen van gegevens**
 
-* [Adobe Campaign-werkruimte](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html){target="_blank"}
-* [Aan de slag met workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html){target="_blank"}
-* [Gerichte activiteiten in workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html){target="_blank"}
-* [Aan de slag met profielen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/about-profiles.html){target="_blank"}
-* [Aan de slag met marketingcampagnes](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=nl){target="_blank"}
-* [Werken met bronnen en doelen](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
+* [ de werkruimte van Adobe Campaign ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html) {target="_blank"}
+* [ krijgen begonnen met werkschema&#39;s ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html) {target="_blank"}
+* [ het richten activiteiten in werkschema&#39;s ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) {target="_blank"}
+* [ krijgen begonnen met profielen ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/about-profiles.html) {target="_blank"}
+* [ worden begonnen met marketing campagnes ](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=nl) {target="_blank"}
+* [ Werk met Bronnen en Doelen ](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html) {target="_blank"}
 
-**Sectie 4: Leveringsconfiguratie**
+**Sectie 4: De configuratie van de levering**
 
-* [E-mailleveringen maken en ontwerpen](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/create-and-design-email-deliveries.html){target="_blank"}
-* [Communicatiekanalen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
-* [Informatie over zaadadressen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html){target="_blank"}
-* [Aan de slag met bericht bijhouden](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html){target="_blank"}
-* [Aan de slag met personalisatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=nl){target="_blank"}
-* [Marketingcampagnes ontwerpen en uitvoeren](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
+* [ creeer en ontwerp e-mailleveringen ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/create-and-design-email-deliveries.html) {target="_blank"}
+* [ Communicatie kanalen ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html) {target="_blank"}
+* [ Ongeveer zaadadressen ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html) {target="_blank"}
+* [ begin met bericht het volgen ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html) {target="_blank"}
+* [ krijgen begonnen met verpersoonlijking ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=nl) {target="_blank"}
+* [ Ontwerp en voer marketing campagnes ](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html) uit {target="_blank"}
 
-**Afdeling 5: Beheer en rapportage**
+**Sectie 5: Beleid en het melden**
 
-* [Rapporten over leveringen](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
-* [Aan de slag met rapportage](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
-* [Aan de slag met leveringscontrole](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=nl){target="_blank"}
-* [Aan de slag met een beschrijvende analyse](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html){target="_blank"}
-* [Aan de slag met machtigingen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
+* [ Ongeveer rapporten over leveringen ](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html) {target="_blank"}
+* [ worden begonnen met het melden ](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html) {target="_blank"}
+* [ worden begonnen met levering controle ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=nl) {target="_blank"}
+* [ worden begonnen met beschrijvende analyse ](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html) {target="_blank"}
+* [ krijgen begonnen met toestemmingen ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html) {target="_blank"}
 
 <br>
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
@@ -250,6 +250,6 @@ U zou moeten hebben:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

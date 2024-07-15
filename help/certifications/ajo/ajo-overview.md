@@ -12,12 +12,12 @@ ht-degree: 21%
 
 # Adobe [!DNL Journey Optimizer] Overzicht van certificering
 
-**Professional**
+**Beroeps**
 
-* [Zakelijke praktiserer](/help/certifications/ajo/ajo-p-business.md)<!--AD0-E607-->
+* [ Bedrijfs Praktijk ](/help/certifications/ajo/ajo-p-business.md)<!--AD0-E607-->
 
-**Expert**
+**Deskundige**
 
-* [Ontwikkelaar](/help/certifications/ajo/ajo-e-developer-23-10.md) <!--AD0-E606-->
+* [ Ontwikkelaar ](/help/certifications/ajo/ajo-e-developer-23-10.md) <!--AD0-E606-->
 
-Ga naar [Uw certificering verlengen](/help/certifications/renew.md) pagina om te zien of is een vernieuwingsoptie beschikbaar voor dit product.
+Bezoek [ vernieuwt uw certificatie ](/help/certifications/renew.md) pagina om te zien of is een vernieuwingsoptie beschikbaar voor dit product.

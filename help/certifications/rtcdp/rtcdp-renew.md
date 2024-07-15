@@ -1,6 +1,6 @@
 ---
 title: Verlenging van certificering
-description: Leer hoe u uw [!DNL Experience Platform] certificering in [!DNL Real-Time Customer Data Platform].
+description: Leer hoe te om uw  [!DNL Experience Platform]  certificatie in  [!DNL Real-Time Customer Data Platform] te vernieuwen.
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# De Adobe verlengen [!DNL Real-Time CDP] certificatie
+# De Adobe verlengen [!DNL Real-Time CDP]
 
 Uw Adobe is twee jaar geldig. Als u dit merk van twee jaar nadert, is het tijd om uw certificatie te vernieuwen om het actief te houden.
 
@@ -26,31 +26,31 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 
 >[!IMPORTANT]
 >
->**Aanmelden eerst:** De volgende koppelingen werken **alleen** na een **geslaagde aanmelding** aan de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Login eerst:** De volgende verbindingen zullen **slechts** na a **succesvolle login** aan het [ Systeem van het Beheer van de Verantwoordelijkheid van de Adobe ](https://www.certmetrics.com/adobe) {target="_blank"} functioneren.
 >
 ><br>
 >
->**Een koppeling delen:** Als u de verbinding aan een het vernieuwingsexamen of beoordeling met een collega wilt delen, gelieve verbinding aan de algemene pagina van de examenvernieuwing, niet URL van het examen zelf, om login kwesties te vermijden.
+>**om een verbinding te delen:** als u de verbinding aan een het vernieuwingsexamen of beoordeling met een collega zou willen delen, gelieve met de algemene pagina van de examenvernieuwing, niet URL van het examen zelf te verbinden, om login kwesties te vermijden.
 
 >[!BEGINTABS]
 
->[!TAB Professional]
+>[!TAB  Beroeps ]
 
-+++Adobe [!DNL Real-Time CDP] Professioneel als bedrijf
++++Adobe [!DNL Real-Time CDP] Professional
 
-## U hebt de volgende mogelijkheden: **actief** certificering:
+## U zou de volgende **actieve** certificatie moeten hebben:
 
-* Adobe [!DNL Real-Time CDP] Professioneel als bedrijf
+* Adobe [!DNL Real-Time CDP] Professional
 
 ## Instructies voor het vernieuwen van uw certificering:
 
-* **Stap 1**: Aanmelden bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, en ga vervolgens terug naar deze pagina
-* **Stap 2** Betreft: Herziening van de examendoelstellingen en -middelen
-* **Stap 3**: Neem het examen over en ga door
+* **Stap 1**: Succesvol login aan [ Systeem van het Beheer van de Referentie van de Adobe ](https://www.certmetrics.com/adobe) {target="_blank"}, dan terugkeer aan deze pagina
+* **Stap 2**: Herzie de doelstellingen en de middelen van het examen
+* **Stap 3**: Neem en ga het examen over
 
 ## Klaar
 
-**Details van examen:**
+**de details van het Examen:**
 
 * Niveau: Professional (0-12 maanden ervaring)
 * Voldoende score: 29/38
@@ -58,9 +58,9 @@ Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certif
 * Levering: Op aanvraag/niet-afgehandeld
 * Beschikbare talen: Engels
 * Kosten: GRATIS
-* Examen-id: AD5-E845-Adobe [!DNL Real-Time CDP] Professioneel als bedrijf
+* Examen-id: AD5-E845-Adobe [!DNL Real-Time CDP] Bedrijfs-praktiserer Professional
 
-**Toepassingsgebied en doelstellingen:**
+**Reikwijdte en doelstellingen:**
 
 Sectie 1: Segmenten en activering 11%
 
@@ -93,58 +93,58 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 **Sectie 1**
 
-* [Handleiding voor de gebruikersinterface van Segment Builder](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html){target="_blank"}
-* [Stimulansen voor het publiek naar streamingdoelen activeren](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html){target="_blank"}
-* [Doeltypen en -categorieën](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html){target="_blank"}
-* [Streaming segmentering](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html){target="_blank"}
-* [Grails voor activeringsgegevens](https://experienceleague.adobe.com/docs/experience-platform/destinations/guardrails.html){target="_blank"}
-* [Soorten publiek activeren om exportdoelen voor batchprofielen te gebruiken](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
-* [Overzicht van doelen](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=nl){target="_blank"}
-* [Identiteitsverwerking in de workflow voor doelactivering](https://experienceleague.adobe.com/docs/experience-platform/destinations/how-destinations-work/identity-handling.html){target="_blank"}
-* [Ondersteunde identiteiten](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/social/facebook.html#supported-identities){target="_blank"}
-* [Soorten publiek activeren om exportdoelen voor batchprofielen te gebruiken](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
+* [ de gids van de Bouwer UI van het Segment ](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html) {target="_blank"}
+* [ activeer publiek aan het stromen bestemmingen ](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html) {target="_blank"}
+* [ de types en de categorieën van de Bestemming ](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html) {target="_blank"}
+* [ het stromen segmentatie ](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html) {target="_blank"}
+* [ Grafieken voor activeringsgegevens ](https://experienceleague.adobe.com/docs/experience-platform/destinations/guardrails.html) {target="_blank"}
+* [ activeer publiek aan de uitvoerbestemmingen van het partijprofiel ](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html) {target="_blank"}
+* [ Overzicht van Doelen ](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=nl) {target="_blank"}
+* [ Identiteitsafhandeling in het werkschema van de bestemmingsactivering ](https://experienceleague.adobe.com/docs/experience-platform/destinations/how-destinations-work/identity-handling.html) {target="_blank"}
+* [ Gesteunde identiteiten ](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/social/facebook.html#supported-identities) {target="_blank"}
+* [ activeer publiek aan de uitvoerbestemmingen van het partijprofiel ](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html) {target="_blank"}
 
 **Sectie 2**
 
-* [Overzicht van gegevensbeheer](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html){target="_blank"}
-* [Beheer van gegevens in Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
-* [Overzicht van beleidsregels voor gegevensgebruik](https://experienceleague.adobe.com/docs/experience-platform/data-governance/policies/overview.html){target="_blank"}
-* [Labels voor gegevensgebruik beheren in de gebruikersinterface](https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/user-guide.html){target="_blank"}
-* [Automatische beleidshandhaving](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/auto-enforcement.html){target="_blank"}
-* [De Request Builder gebruiken](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=nl#request-builder){target="_blank"}
+* [ Overzicht van het Beheer van Gegevens ](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html) {target="_blank"}
+* [ het Beleid van Gegevens in Real-Time CDP ](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html) {target="_blank"}
+* [ overzicht van het het gebruiksbeleid van Gegevens ](https://experienceleague.adobe.com/docs/experience-platform/data-governance/policies/overview.html) {target="_blank"}
+* [ beheer de etiketten van het gegevensgebruik in UI ](https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/user-guide.html) {target="_blank"}
+* [ Automatische beleidshandhaving ](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/auto-enforcement.html) {target="_blank"}
+* [ Gebruik de Bouwer van het Verzoek ](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=nl#request-builder) {target="_blank"}
 
-**Afdeling 3**
+**Sectie 3**
 
-* [Overzicht van segmentatieservice](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html){target="_blank"}
-* [Inzet uw klanten op intelligente wijze opnieuw aan om terug te keren](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/intelligent-re-engagement.html){target="_blank"}
-* [AI-overzicht van klant](https://experienceleague.adobe.com/docs/experience-platform/intelligent-services/customer-ai/overview.html){target="_blank"}
-* [Opeenvolgend publiek maken](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-sequential-audiences.html){target="_blank"}
-* [Een segment met meerdere entiteiten maken](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html?lang=en#build-a-multi-entity-segment){target="_blank"}
-* [Streaming segmentering](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html){target="_blank"}
-* [Soorten publiek maken](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-audiences.html){target="_blank"}
-* [Dataflows for identity&#39;s in de UI controleren](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-identities.html){target="_blank"}
-* [Soorten publiek activeren om exportdoelen voor batchprofielen te gebruiken](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
-* [Gedeeltelijke batch ingestie](https://experienceleague.adobe.com/docs/experience-platform/ingestion/batch/partial.html){target="_blank"}
+* [ overzicht van de Dienst van de Segmentatie ](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html) {target="_blank"}
+* [ op intelligente wijze uw klanten opnieuw in dienst nemen om ](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/intelligent-re-engagement.html) terug te keren {target="_blank"}
+* [ AI overzicht van de Klant ](https://experienceleague.adobe.com/docs/experience-platform/intelligent-services/customer-ai/overview.html) {target="_blank"}
+* [ creeer opeenvolgend publiek ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-sequential-audiences.html) {target="_blank"}
+* [ bouwt een multi-entiteitsegment ](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html?lang=en#build-a-multi-entity-segment) {target="_blank"}
+* [ het stromen segmentatie ](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html) {target="_blank"}
+* [ creeer publiek ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-audiences.html) {target="_blank"}
+* [ dataflows van de Monitor voor identiteiten in UI ](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-identities.html) {target="_blank"}
+* [ activeer publiek aan de uitvoerbestemmingen van het partijprofiel ](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html) {target="_blank"}
+* [ Gedeeltelijke partijingestie ](https://experienceleague.adobe.com/docs/experience-platform/ingestion/batch/partial.html) {target="_blank"}
 
 **Sectie 4**
 
-* [Gegevenssets exporteren naar cloudopslagbestemmingen](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/export-datasets.html){target="_blank"}
-* [Overzicht van het doorsturen van gebeurtenissen](https://experienceleague.adobe.com/docs/experience-platform/tags/event-forwarding/overview.html){target="_blank"}
-* [Overzicht van identiteitsservice](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=nl){target="_blank"}
-* [Overzicht van beleid samenvoegen](https://experienceleague.adobe.com/docs/experience-platform/profile/merge-policies/overview.html){target="_blank"}
-* [Gebruikershandleiding voor realtime gebruikersprofiel van klanten](https://experienceleague.adobe.com/docs/experience-platform/profile/ui/user-guide.html){target="_blank"}
-* [Profieldashboard](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
-* [Bladeren door profielen in Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-browse.html){target="_blank"}
+* [ de datasets van de Uitvoer aan de bestemmingen van de wolkenopslag ](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/export-datasets.html) {target="_blank"}
+* [ Gebeurtenis door:sturen overzicht ](https://experienceleague.adobe.com/docs/experience-platform/tags/event-forwarding/overview.html) {target="_blank"}
+* [ Overzicht van de Dienst van de Identiteit ](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=nl) {target="_blank"}
+* [ overzicht van het beleid van de Fusie ](https://experienceleague.adobe.com/docs/experience-platform/profile/merge-policies/overview.html) {target="_blank"}
+* ](https://experienceleague.adobe.com/docs/experience-platform/profile/ui/user-guide.html) {target="_blank"} gids van het Profiel van de Klant in real time UI [
+* [ dashboard van Profielen ](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html) {target="_blank"}
+* [ doorbladert profielen in Real-time Customer Data Platform ](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-browse.html) {target="_blank"}
 
 ## Uw certificering verlengen
 
-Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt aangemeld bij [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} eerst. Klik vervolgens op de onderstaande knop om de certificering te vernieuwen.
+Zorg ervoor dat u stap 1 hierboven hebt gevolgd, en met succes het programma geopend aan [ Systeem van het Beheer van de Adobe Referentie ](https://www.certmetrics.com/adobe) {target="_blank"} eerst. Klik vervolgens op de onderstaande knop om de certificering te vernieuwen.
 
-[!BADGE Neem de Adobe [!DNL Real-Time CDP] Bedrijfs Praktijkdeskundige Verlengingsexamen AD5-E845]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E845 newtab=true"}
+[!BADGE  neem de Adobe [!DNL Real-Time CDP] Professionele Vernieuwingsexamen AD5-E845 van de Beroeps van de Praktijk]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E845 newtab=true"}
 
 >[!NOTE]
 >
->Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging geen succes hebt, moet u wachten **dertig dagen** om het opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+>Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging niet succesvol bent, moet u **30 dagen** wachten om opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
 
 +++
 
@@ -152,6 +152,6 @@ Controleer of u de bovenstaande stap 1 hebt gevolgd en of u zich met succes hebt
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

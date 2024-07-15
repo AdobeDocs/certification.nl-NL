@@ -1,32 +1,32 @@
 ---
-title: Overzicht van handelscertificering
+title: Overzicht van Commerce-certificering
 description: Overzicht van certificeringsopties voor Adobe Commerce
 solution: Commerce
 product: Magento
-exl-id: 31e38071-d2a2-4b99-93c0-62cf5a2a9c03
-source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
+exl-id: 8a9f63f9-b2f9-438f-b1f5-8706b2768626
+source-git-commit: 525cdd6d066c70c74246b1abb6df5c7a12f5e1d2
 workflow-type: tm+mt
 source-wordcount: '44'
-ht-degree: 29%
+ht-degree: 15%
 
 ---
 
-# Overzicht van handelscertificering
+# Overzicht van Commerce-certificering
 
-**Professional**
+**Beroeps**
 
-* [Business Practitioner](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
-* [Ontwikkelaar](/help/certifications/ac/ac-p-developer.md) <!--AD0-E717-->
-* [Front-end Developer](/help/certifications/ac/ac-p-fedeveloper0623.md) <!--AD0-E721-->
+* [ Bedrijfs Praktijk ](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
+* [ Ontwikkelaar ](/help/certifications/ac/ac-p-developer.md) <!--AD0-E717-->
+* [ Voorste-eind Ontwikkelaar ](/help/certifications/ac/ac-p-fedeveloper0623.md) <!--AD0-E721-->
 
-**Expert**
+**Deskundige**
 
-* [Business Practitioner](/help/certifications/ac/ac-e-business.md) <!--AD0-E708-->
-* [Ontwikkelaar](/help/certifications/ac/ac-e-developer.md) <!--AD0-E716-->
-* [Front-end Developer](/help/certifications/ac/ac-e-fedeveloper0623.md) <!--AD0-E720-->
+* [ Bedrijfs Praktijk ](/help/certifications/ac/ac-e-business.md) <!--AD0-E708-->
+* [ Ontwikkelaar ](/help/certifications/ac/ac-e-developer.md) <!--AD0-E716-->
+* [ Voorste-eind Ontwikkelaar ](/help/certifications/ac/ac-e-fedeveloper0623.md) <!--AD0-E720-->
 
-**Master**
+**Meester**
 
-* [Architect](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
+* [ Architect ](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
 
-Ga naar [Uw certificering verlengen](/help/certifications/renew.md) pagina om te zien of is een vernieuwingsoptie beschikbaar voor dit product.
+Bezoek [ vernieuwt uw certificatie ](/help/certifications/renew.md) pagina om te zien of is een vernieuwingsoptie beschikbaar voor dit product.

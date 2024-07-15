@@ -1,6 +1,6 @@
 ---
 title: Expertcertificering
-description: Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Journey Optimizer] Ontwikkelaarsexpert.
+description: Leer hoe te om een verklaard deskundige van de Adobe  [!DNL Journey Optimizer]  Ontwikkelaar te worden.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Journey Optimizer] Ontwikkelaarsexpert
+# Certificatietraject voor Adobe [!DNL Journey Optimizer] Ontwikkelaarsexpert
 
 {{intro}}
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
 >
->* **Cursus:** Gratis, op aanvraag [Adobe Journey Optimizer Developer Expert Cursus](https://app.rockinfo.com/courses/147) bevat uitleg over belangrijke concepten, praktijkdemonstraties en kenniscontroles.
+>* **Cursus:** de vrije, op bestelling [ Cursus van de Ontwikkelaar van Adobe Journey Optimizer ](https://app.rockinfo.com/courses/147) omvat verklaringen van zeer belangrijke concepten, hands-on demonstraties, en kenniscontroles.
 >
->* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/143) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de diepgaande studiematerialen u op uw examen zult moeten succesvol zijn.
+>* **Gids van de Prep van het Examen van het Examen:** de [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/143) verstrekt een op maat gemaakte weg door uw examen prep proces, met inbegrip van de diepgaande studiematerialen u op uw examen zult moeten succesvol zijn.
 >
->_Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
+>_als u aan login wordt ertoe aangezet, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -76,36 +76,36 @@ Adobe Journey Optimizer wordt aangedreven door Experience Platform. Kandidaten d
 
 {{exam-objectives}}
 
-**Sectie 1: Beheer en configuratie (20%)**
+**Sectie 1: Beleid en Configuratie (20%)**
 
 * Identificeer welke toestemmingen noodzakelijk zijn om diverse taken uit te voeren
 * Beschrijf het concept zandbak en hoe de gegevens over bedrijfseenheden kunnen worden gebruikt
 * Toon een inzicht in het Beleid van het Kanaal aan
 * Bepaal de aangewezen toepassing van Gebeurtenissen/Acties/Gegevensbronnen
-* Identificeer wanneer om AJO specifieke APIs-throttling te gebruiken, het aftappen, onderdrukking, objecten exemplaar, interactieve berichtuitvoering
+* Identificeer wanneer om AJO specifieke APIs-throttling, het maximum, onderdrukking, objecten exemplaar, interactieve berichtuitvoering te gebruiken
 
-**Deel 2: Journey Orchestration (22%)**
+**Sectie 2: Journey Orchestration (22%)**
 
 * Op basis van een scenario richten klanten zich op een meerkanaals-/meerstapsreis
 * Rapporten interpreteren en prestatiesmetriek zuiveren
 * Op basis van een scenario de juiste gebruiksgevallen voor een transporttype bepalen
 * Testgevallen voorbereiden (bijvoorbeeld experimenteren of meerkanaalsreizen)
 
-**Deel 3: Offer decisioning (16%)**
+**Sectie 3: Offer decisioning (16%)**
 
 * Toon een inzicht in het creëren van en het beheren van aanbiedingen en componenten aan
 * Toon hoe te om testprofielen te gebruiken om aanbiedingssimulatie in werking te stellen
-* Verklaar het verschil tussen de Hub van het Aanbod en Rand API
+* Verklaar het verschil tussen de Hub van het Aanbod en Edge API
 * Het proces toepassen om beslissingen te maken
 * Het proces toepassen om aanbiedingen toe te voegen op verschillende kanalen
 
-**Sectie 4: Inhoud schrijven (22%)**
+**Sectie 4: Inhoud Authoring (22%)**
 
 * Demonstreer hoe u e-mail, SMS, in app-berichten en pushberichten maakt
 * De functies en de personalisatiesyntaxis van de Helper interpreteren om te tonen wat zou worden getoond
 * Toon een inzicht in het bevestigen, het bewijs, zuivert, en het publiceren van een reis aan
 
-**Sectie 5: Gegevensmodellering (18%)**
+**Sectie 5: De Modellering van gegevens (18%)**
 
 * Verschil tussen schema&#39;s voor profiel en gebeurtenistype
 * Uitleggen hoe u gegevensbronnen en gegevensinvoer instelt
@@ -129,25 +129,25 @@ Adobe Journey Optimizer wordt aangedreven door Experience Platform. Kandidaten d
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een cursus volgen**
+**neem een cursus**
 
 {{take-course}}
 
-[De Adobe Journey Optimizer Developer Expert Cursus volgen](https://app.rockinfo.com/courses/147)
+[ neem de Deskundige Cursus van de Ontwikkelaar van Adobe Journey Optimizer ](https://app.rockinfo.com/courses/147)
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/143)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/143)
 
 +++
 
@@ -202,6 +202,6 @@ Adobe Journey Optimizer wordt aangedreven door Experience Platform. Kandidaten d
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

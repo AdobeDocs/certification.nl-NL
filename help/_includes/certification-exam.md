@@ -1,7 +1,7 @@
 ---
 source-git-commit: c550ec351b2926db895746457667474d69249c2c
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -9,10 +9,10 @@ ht-degree: 0%
 
 ## Neem het certificatieexamen
 
-We raden u aan de test voor vrije praktijk uit te voeren voordat u begint. U zult onbeperkte toegang tot alle beschikbare praktijktests voor Adobe-vlakke examens hebben.
+We raden u aan de test voor vrije praktijk uit te voeren voordat u begint. U zult onbeperkte toegang tot alle beschikbare praktijktests voor deskundige-vlakke onderzoeken van de Adobe hebben.
 
 Onze praktijktests worden allemaal ontwikkeld op basis van dezelfde blauwdruk als de live examens. De praktijktest zal u helpen de onderwerpen begrijpen die in het levende examen worden behandeld.
 
 Houd er rekening mee dat het slagen van een praktijktest niet garandeert dat u voor het certificeringsexamen slaagt.
 
-Ga naar de [Prep Portal voor Adobe-certificatieexamen](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} nu een praktijktest uitvoeren .
+Ga naar het [ Portaal van de Prep van het Examen van de Certificatie van de Adobe ](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx) {target="_blank"} nu om een praktijktest te nemen.

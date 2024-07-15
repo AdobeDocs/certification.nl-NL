@@ -1,6 +1,6 @@
 ---
 title: Certificering van ontwikkelaars
-description: Leer hoe je een gecertificeerde Adobe Developer professional in Adobe kunt worden [!DNL Workfront Fusion].
+description: Leer hoe te om een verklaarde beroeps van Adobe Developer in Adobe  [!DNL Workfront Fusion] te worden.
 solution: Workfront
 role: Developer
 badge: label="Examen AD0-E902" type="neutral"
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Workfront Fusion] Developer Professional
+# Certificatietraject voor Adobe [!DNL Workfront Fusion] Developer Professional
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/228) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/228) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -54,10 +54,10 @@ ht-degree: 0%
 
 U zou moeten hebben:
 
-* De mogelijkheid om [!DNL Workfront] API- en API-verkenner, maar niet noodzakelijkerwijs deskundig in API-aanroepen
+* De mogelijkheid om met de API- en API-verkenner van [!DNL Workfront] te werken, maar niet noodzakelijkerwijs in API-aanroepen
 * De mogelijkheid om aangepaste API-aanroepen te gebruiken voor het werken met [!DNL Workfront] en andere API&#39;s
-* De mogelijkheid modules te gebruiken voor de [!DNL Workfront] app en andere handelingen zoals maken, lezen, bijwerken, verwijderen en zoeken
-* De capaciteit om levensvatbare oplossingen te bouwen die bedrijfsresultaten produceren zonder het [!DNL Fusion] guardrails
+* De mogelijkheid modules te gebruiken voor de app [!DNL Workfront] en andere acties, zoals maken, lezen, bijwerken, verwijderen en zoeken
+* Het vermogen om levensvatbare oplossingen te bouwen die bedrijfsresultaten zonder [!DNL Fusion] begeleiding produceren
 * De capaciteit om aangewezen trekkermodule te selecteren om bedrijfsresultaten te verwezenlijken
 * Een begrip van hoe te om debietcontrole te gebruiken (routes, iterators/aggregators, verklaar stroom)
 * De capaciteit om basishet oplossen van problemen en fout behandeling te leiden
@@ -71,50 +71,50 @@ U zou moeten hebben:
 
 {{exam-objectives}}
 
-**Sectie 1: Grondbeginselen van de techniek (39%)**
+**Sectie 1: De fundamentele technische concepten (39%)**
 
-* Op basis van een [!DNL Fusion] scenario met één gebiedsindeling die in een ander gebiedsindeling moet zijn, de mogelijke functies verstrekken die zouden kunnen worden gebruikt om de gegevens correct om te zetten
-* Op basis van een [!DNL Fusion] scenario dat vereist dat een functie binnen een andere functie wordt genest, selecteer de correct gevormde uitdrukking
-* Identificeer manieren om teams te gebruiken om toegang tot verbindingen en andere te controleren [!DNL Fusion] functies
-* Op basis van een [!DNL Fusion] scenario, systeem en eigenschapbeperkingen identificeren
-* Op basis van een [!DNL Fusion] scenario dat tijdzonemanipulatie vereist, onderscheid tussen de gebruiker, zichtbare organisatie, en waar het met voeten treden van timezone nodig is
-* Op basis van een [!DNL Fusion] scenario, selecteer aangewezen [!DNL Workfront] module(s) of handeling(en)
-* Op basis van een [!DNL Fusion] scenario, selecteer de uitdrukking van het Comité van de Afbeelding en/of module(s) die inputgegevens aan outputgegevens geschikt zou omzetten
-* Identificeer de correcte manier(en) om het [!DNL Fusion] Dev Tool om fouten in uitvoering problemen op te lossen of vraag en reacties te bepalen die aan derdesystemen worden gemaakt
-* Op basis van een [!DNL Fusion] scenario waar de gegevens in één weg in een andere weg nodig zijn, verstrek een reeks-get oplossing voor het ter beschikking stellen van die gegevens op extra verpletterende wegen
-* De manieren identificeren waarop u een [!DNL Fusion] template voor een zakelijke behoefte
-* Op basis van een [!DNL Fusion] scenario, identificeren wat te doen om uitvoeringen te bekijken en/of fouten op te lossen
-* Identificeer de verschillende opties in [!DNL Fusion] scenario montages om scenario behoeften te richten
-* Op basis van een [!DNL Fusion] scenario, selecteert u de juiste stroomregeling en/of bepaalt u de juiste combinatie van de module(s) voor stroomregeling
+* Geef bij een [!DNL Fusion] -scenario met een veldindeling die in een andere veldindeling moet worden gebruikt, de mogelijke functies op die kunnen worden gebruikt om de gegevens correct te transformeren
+* Selecteer de correct gevormde expressie bij een [!DNL Fusion] -scenario waarbij een functie in een andere functie moet worden genest
+* Identificeer manieren om teams te gebruiken om toegang tot verbindingen en andere [!DNL Fusion] eigenschappen te controleren
+* Bij een [!DNL Fusion] -scenario moet u systeem- en functiebeperkingen identificeren
+* Op basis van een [!DNL Fusion] -scenario dat tijdzonemanipulatie vereist, maakt u onderscheid tussen de gebruiker, de zichtbare organisatie en de plaats waar de tijdzone moet worden overschreven
+* Selecteer bij een [!DNL Fusion] -scenario de toepasselijke [!DNL Workfront] module(s) of handeling(en)
+* Selecteer bij een [!DNL Fusion] -scenario de expressie van het deelvenster Toewijzing en/of de module(s) die de invoergegevens op de juiste manier zou omzetten in de uitvoer van gegevens
+* Identificeer de correcte manier(n) om het [!DNL Fusion] Dev Hulpmiddel te gebruiken om fouten in uitvoering problemen op te lossen of vraag en reacties te bepalen die aan derdesystemen worden gemaakt
+* Op basis van een [!DNL Fusion] -scenario waarbij gegevens in een pad nodig zijn in een ander pad, biedt u een set-get-oplossing om die gegevens beschikbaar te maken op extra routepaden
+* Identificeer de manieren om een [!DNL Fusion] malplaatje voor een bedrijfsbehoefte te gebruiken of te produceren
+* Geef bij een [!DNL Fusion] -scenario op wat u moet doen om uitvoeringen weer te geven en/of fouten op te lossen
+* Identificeer de verschillende opties in de [!DNL Fusion] scenario montages om scenario behoeften te richten
+* Bij een [!DNL Fusion] -scenario selecteert u de juiste stroomregeling en/of bepaalt u de juiste combinatie van een of meer flowregelmodules
 
-**Sectie 2: Scenario-ontwerp en -architectuur (35%)**
+**Sectie 2: Het ontwerp en de architectuur van het scenario (35%)**
 
 * Kies op basis van een lijst met stappen de juiste volgorde voor het parseren van JSON en het omzetten in bundels
 * Op basis van een reeks vereisten moet u de juiste opzoekmethode voor gegevens identificeren
 * Verschillen identificeren tussen instant en geplande triggers
-* Identificeer een correcte module voor het uploaden van een document aan [!DNL Workfront]
-* Op basis van een bedrijfsvereiste de juiste benadering vaststellen om te volgen dat [!DNL Fusion] een record heeft verwerkt (geen gebruiker) en wanneer
-* Op basis van een [!DNL Fusion] scenario, een mogelijkheid identificeren om het ontwerp te vereenvoudigen en/of te optimaliseren voor onderhoud
-* Identificeren [!DNL Fusion] best practices voor het documenteren van scenario&#39;s
+* Een correcte module identificeren voor het uploaden van een document naar [!DNL Workfront]
+* Geef aan wat de juiste aanpak is om te controleren of [!DNL Fusion] een record heeft verwerkt (geen gebruiker) en wanneer
+* Op basis van een [!DNL Fusion] -scenario kunt u het ontwerp vereenvoudigen en/of optimaliseren voor onderhoud
+* Tips en trucs voor het documenteren van scenario&#39;s identificeren [!DNL Fusion]
 * Gezien een situatie, identificeer een kans om gegevensstroom door een scenario te verminderen
 * Op basis van een voorbeeld van het aantal bundels dat op een zoekmodule en een volgende aggregator wordt weergegeven, licht u de wijzigingen toe in het aantal bewerkingen dat door de bundelcontrole wordt verwerkt en weergegeven
 * Identificeer informatie die in de bundelcontrole wordt gevonden
 * Op basis van een beschrijving van de noodzaak om een scenario langer dan 60 dagen te archiveren en de enige mogelijke manier te selecteren (blauwdruk voor importeren/exporteren)
 * Op basis van een voorbeeld van een fout 403: Verboden, selecteert u correct de oorsprong van het foutbericht en veroorzaakt u
 
-**Sectie 3: Testen en foutafhandeling (16%)**
+**Sectie 3: Het testen en fout behandeling (16%)**
 
 * De elementen van een testplan identificeren
 * De elementen van een testcase identificeren
-* Op basis van een [!DNL Fusion] scenario, identificeer correct de aangewezen richtlijn om een onbetrouwbare dienst te behandelen
-* Identificeer het proces om douanefout behandeling in toe te voegen [!DNL Fusion] scenario
+* Bij een [!DNL Fusion] -scenario moet u de juiste instructie identificeren voor het afhandelen van een onbetrouwbare service
+* Het proces identificeren om aangepaste foutafhandeling toe te voegen in een [!DNL Fusion] -scenario
 * Identificeer hoe te om onvolledige uitvoeringen te volgen, te lezen en op te lossen
-* Op basis van een [!DNL Fusion] scenario met ontbrekende vereiste gegevens, selecteer manieren om de ongeldige gegevens te behandelen
+* Bij een [!DNL Fusion] -scenario met ontbrekende vereiste gegevens selecteert u manieren om de ongeldige gegevens te verwerken
 
-**Sectie 4: Werken met API&#39;s (10%)**
+**Sectie 4: Het werken met APIs (10%)**
 
 * Op basis van een API van derden die een versie van 429 retourneert: Te veel verzoeken, identificeer een oplossing om de fout te voorkomen of af te handelen
-* Op basis van een [!DNL Fusion] scenario waarin nieuwe functionaliteit niet beschikbaar is in het [!DNL Workfront] identificeert het juiste referentie- en moduletype om de nieuwe functionaliteit te gebruiken
+* In een [!DNL Fusion] -scenario waarbij geen nieuwe functionaliteit beschikbaar is in de [!DNL Workfront] -module, geeft u het juiste referentie- en moduletype op voor gebruik van de nieuwe functionaliteit
 * Op basis van een systeem van derden dat geen specifieke app heeft, identificeert u de HTTP-toepassing en selecteert u de juiste module
 * Het verschil vaststellen tussen CRUD-bewerkingen en andere algemene mogelijkheden van REST API&#39;s
 
@@ -134,19 +134,19 @@ U zou moeten hebben:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/228)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/228)
 
 +++
 
@@ -201,6 +201,6 @@ U zou moeten hebben:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

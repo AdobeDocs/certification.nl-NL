@@ -1,6 +1,6 @@
 ---
 title: Startpagina voor certificering
-description: Meer informatie over [!DNL Experience Cloud] Certificering bij Adobe. Ontdek wat certificeren voor u kan doen.
+description: Leer over  [!DNL Experience Cloud]  Certificatie bij Adobe. Ontdek wat certificeren voor u kan doen.
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
@@ -17,9 +17,9 @@ Meer informatie over certificatie van Experiencen Cloud bij Adobe en over wat u 
 
 ![Banner](/help/certifications/assets/home_banner_smallwide.png)
 
-Het Adobe Digital Experience Certification Program is gemaakt om u te helpen uw vaardigheden in Adobe te bewijzen [!DNL Experience Cloud] producten. Door Adobe Certified te worden kunt u uw expertise tonen en zowel klanten als werkgevers onder de aandacht brengen.
+Het Adobe Digital Experience Certification Program is gemaakt om u te helpen uw vaardigheden in Adobe [!DNL Experience Cloud] -producten te bewijzen. Door Adobe Certified te worden kunt u uw expertise tonen en zowel klanten als werkgevers onder de aandacht brengen.
 
-Adobe [!DNL Experience Cloud] is een reeks oplossingen voor digitale marketing waarmee bedrijven gepersonaliseerde klantervaringen kunnen bieden via verschillende kanalen, zoals web, mobiele apparatuur, e-mail en sociale media. Adobe [!DNL Experience Cloud] omvat een reeks producten, zoals Adobe [!DNL Real-Time CDP], ADOBE [!DNL Experience Manager], ADOBE [!DNL Commerce], ADOBE [!DNL Journey Optimizer], ADOBE [!DNL Customer Analytics]en meer.
+Adobe [!DNL Experience Cloud] is een reeks oplossingen voor digitale marketing waarmee bedrijven gepersonaliseerde klantervaringen kunnen bieden via verschillende kanalen, waaronder web, mobiele apparatuur, e-mail en sociale media. Adobe [!DNL Experience Cloud] bevat een reeks producten, zoals Adobe [!DNL Real-Time CDP] , Adobe [!DNL Experience Manager] , Adobe [!DNL Commerce] , Adobe [!DNL Journey Optimizer] , Adobe [!DNL Customer Analytics] en meer.
 
 Toon uw vaardigheid aan en neem uw carrière naar het volgende niveau door Adobe verklaard te worden.
 
@@ -27,14 +27,14 @@ Toon uw vaardigheid aan en neem uw carrière naar het volgende niveau door Adobe
 
 ## Waarom worden gecertificeerd?
 
-Een Adobe ophalen [!DNL Experience Cloud] certificatie heeft veel voordelen :
+Het ophalen van een Adobe [!DNL Experience Cloud] -certificering biedt veel voordelen:
 
-* **Validatie van uw vaardigheden:** Certificering van Adobe toont aan potentiële klanten of werkgevers aan dat u over de benodigde vaardigheden en kennis beschikt om deze te gebruiken [!DNL Experience Cloud] doeltreffende oplossingen.
-* **Verbetering van de loopbaan:** Adobe certificeert u op een drukke arbeidsmarkt en verhoogt uw kansen om gehuurd of gepromoveerd te worden.
-* **Verhoog het potentieel voor verdienen:** Gecertificeerde individuen verdienen vaak meer dan hun niet-gecertificeerde tegenhangers, aangezien de gegevens van de Adobe hun expertiseniveau aantonen.
-* **Toegang tot exclusieve bronnen:** Wanneer u Adobe gecertificeerd wordt, krijgt u toegang tot exclusieve bronnen zoals trainingsmateriaal, bètasoftware-releases en supportforums die u kunnen helpen up-to-date te blijven met de nieuwste softwareontwikkelingen en trends in de branche.
-* **Tests met vrije praktijk:** De Adobe biedt vrije praktijkexamens aan helpen ervoor zorgen dat u volledig voor uw certificatieexamen wordt voorbereid.
-* **Vrije verlengingen van certificering:** De certificeringen van de Adobe zijn twee jaar geldig, en de meeste certificatie kunnen kosteloos worden vernieuwd door of een on-demand, niet-geproctoriseerd examen te nemen of een reeks van ononderbroken het leren activiteiten te voltooien.
+* **Bevestiging van uw vaardigheden:** certificatie van de Adobe toont aan potentiële klanten of werkgevers aan dat u de noodzakelijke vaardigheden en de kennis hebt om [!DNL Experience Cloud] oplossingen effectief te gebruiken.
+* **loopbaanvooruitgang:** de certificatie van de Adobe helpt u in een drukke baanmarkt opvallen en verhoogt uw kansen om worden gehuurd of worden bevorderd.
+* **de Verhoging die potentieel verdient:** de verklaarde individuen verdienen vaak meer dan hun niet-verklaarde tegenhangers, aangezien de geloofsbrieven van de Adobe hun niveau van deskundigheid aantonen.
+* **Toegang tot exclusieve middelen:** wanneer u Adobe verklaard wordt, krijgt u toegang tot exclusieve middelen zoals trainingsmateriaal, bètasoftware versies, en steunforums die u kunnen helpen met de recentste softwareontwikkelingen en tendensen in de industrie bijgewerkt blijven.
+* **vrije praktijktests:** de Adobe biedt vrije praktijkexamens aan helpen ervoor zorgen dat u volledig voor uw certificatieexamen wordt voorbereid.
+* **Vrije certificatievernieuwingen:** de certificatie van de Adobe is geldig voor twee jaar, en de meeste certificatie kan kosteloos worden vernieuwd door of een op bestelling, niet-geproctored examen of een reeks van ononderbroken het leren activiteiten te nemen.
 
 Het Adobe Digital Certification Program is ontworpen voor professionals op diverse gebieden, waaronder ontwikkelaars, praktijkmensen en architecten. Of je nu een ervaren of een gewoon startende expert bent, certificering helpt je je carrière vooruit te helpen en de wedstrijd voor te houden.
 
@@ -42,31 +42,31 @@ Het Adobe Digital Certification Program is ontworpen voor professionals op diver
 
 Ontgrendel vandaag uw professionele mogelijkheden door meer te leren over het Adobe Digital Experience Certification Program.
 
-<a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">Aan de slag</span></a>
+<a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap"> krijgen Begonnen </span></a>
 
 ## Alle certificaten weergeven {#view-all-certifications}
 
 Alle details over elke beschikbare productcertificatie zijn vermeld in de inhoudstafel aan de linkerzijde en in de hieronder lijst:
 
-* [Adobe [!DNL Analytics]](/help/certifications/aa/aa-overview.md){target="_blank"}
-* [Adobe [!DNL Advertising]](/help/certifications/aac/aac-overview.md){target="_blank"}
-* [Adobe [!DNL Audience Manager]](/help/certifications/aam/aam-overview.md){target="_blank"}
-* [Adobe [!DNL Commerce]](/help/certifications/ac/ac-overview.md){target="_blank"}
-* [Adobe [!DNL Campaign Classic]](/help/certifications/acc/acc-overview.md){target="_blank"}
-* [Adobe [!DNL Campaign Standard]](/help/certifications/acs/acs-overview.md){target="_blank"}
-* [Adobe [!DNL Customer Journey Analytics]](/help/certifications/acja/acja-overview.md){target="_blank"}
-* [Adobe [!DNL Document Cloud]](/help/certifications/adc/adc-overview.md){target="_blank"}
-* [Adobe [!DNL Experience Manager]](/help/certifications/aem/aem-overview.md){target="_blank"}
-* [Adobe [!DNL Journey Optimizer]](/help/certifications/ajo/ajo-overview.md){target="_blank"}
-* [Adobe [!DNL Marketo Engage]](/help/certifications/ame/ame-overview.md){target="_blank"}
-* [Adobe [!DNL Real-Time CDP]](/help/certifications/rtcdp/rtcdp-overview.md){target="_blank"}
-* [Adobe [!DNL Target]](/help/certifications/at/at-overview.md){target="_blank"}
-* [Adobe [!DNL Workfront]](/help/certifications/aw/aw-overview.md){target="_blank"}
+* [ Adobe  [!DNL Analytics]](/help/certifications/aa/aa-overview.md){target="_blank"}
+* [ Adobe  [!DNL Advertising]](/help/certifications/aac/aac-overview.md){target="_blank"}
+* [ Adobe  [!DNL Audience Manager]](/help/certifications/aam/aam-overview.md){target="_blank"}
+* [ Adobe  [!DNL Commerce]](/help/certifications/ac/ac-overview.md){target="_blank"}
+* [ Adobe  [!DNL Campaign Classic]](/help/certifications/acc/acc-overview.md){target="_blank"}
+* [ Adobe  [!DNL Campaign Standard]](/help/certifications/acs/acs-overview.md){target="_blank"}
+* [ Adobe  [!DNL Customer Journey Analytics]](/help/certifications/acja/acja-overview.md){target="_blank"}
+* [ Adobe  [!DNL Document Cloud]](/help/certifications/adc/adc-overview.md){target="_blank"}
+* [ Adobe  [!DNL Experience Manager]](/help/certifications/aem/aem-overview.md){target="_blank"}
+* [ Adobe  [!DNL Journey Optimizer]](/help/certifications/ajo/ajo-overview.md){target="_blank"}
+* [ Adobe  [!DNL Marketo Engage]](/help/certifications/ame/ame-overview.md){target="_blank"}
+* [ Adobe  [!DNL Real-Time CDP]](/help/certifications/rtcdp/rtcdp-overview.md){target="_blank"}
+* [ Adobe  [!DNL Target]](/help/certifications/at/at-overview.md){target="_blank"}
+* [ Adobe  [!DNL Workfront]](/help/certifications/aw/aw-overview.md){target="_blank"}
 
-Bent u op zoek naar Adobe [!DNL Creative Cloud] certificeringen? Ga naar [Adobe Certified Professional](https://certifiedprofessional.adobe.com/en/home){target="_blank"} website voor meer informatie over hoe u gecertificeerd kunt worden in programma&#39;s voor Creatives Cloud.
+Bent u op zoek naar Adobe [!DNL Creative Cloud] certificeringen? Bezoek de [ Adobe Verklaarde Beroeps ](https://certifiedprofessional.adobe.com/en/home) {target="_blank"} website om te leren hoe te worden verklaard in de programma&#39;s van het Creative Cloud.
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

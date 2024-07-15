@@ -1,6 +1,6 @@
 ---
 title: Bedrijfs Praktijkgerichte Beroeps certificatie
-description: Leer hoe u in Adobe een gecertificeerde Professional Business Practice kunt worden [!DNL Experience Manager].
+description: Leer hoe te om een verklaarde Beroeps van de BedrijfsPraktijk in Adobe  [!DNL Experience Manager] te worden.
 solution: Experience Manager
 product: Experience Manager
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Experience Manager] Professioneel als bedrijf
+# Certification trip for Adobe [!DNL Experience Manager] Business Practitioner Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
 >
->* **Cursus:** Als u net begint, of een verfrisser nodig hebt, neem [Adobe Experience Manager Foundations-cursus](https://app.rockinfo.com/courses/240) toegang tot verklaringen van zeer belangrijke concepten, productlooptijden, en kenniscontroles. Deze cursus zal een basis van kennis verstrekken u op in uw certificatiereis kunt voortbouwen.
+>* **Cursus:** als u enkel begint, of een verfrisser nodig hebt, neem de [ cursus van de Stichting van Adobe Experience Manager ](https://app.rockinfo.com/courses/240) om tot verklaringen van zeer belangrijke concepten, productloops, en kenniscontroles toegang te hebben. Deze cursus zal een basis van kennis verstrekken u op in uw certificatiereis kunt voortbouwen.
 >
->* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/122) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
+>* **Gids van de Prep van het Examen van het Examen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/122) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
 >
->_Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>_als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -58,17 +58,17 @@ ht-degree: 0%
 
 U zou moeten hebben:
 
-* Minder dan 0 tot 12 maanden ervaring met het gebruik en configureren van Adobe Cloud Manager
+* Minstens 0 tot 12 maanden ervaring met het gebruiken en configureren van Adobe Cloud Manager
 * Minstens 0 tot 12 maanden ervaring met AEM functies en mogelijkheden die nodig zijn om ontwikkelaars te betrekken bij het zoeken naar zakelijke oplossingen
 * Minstens 0-12 maanden ervaring het vormen van, het uitvoeren van, en het beheren van Ononderbroken Integratie/Ononderbroken taken van de Plaatsing
 
-U zou moeten comfortabel werken in Adobe Managed Services en Adobe [!DNL Experience Manager] as a Cloud Service en in staat om Adobe in te stellen [!DNL Experience Manager] omgevingen en infrastructuur.
+U zou op een gemakkelijke manier moeten werken in Adobe Managed Services en Adobe [!DNL Experience Manager] as a Cloud Service en u kunt Adobe [!DNL Experience Manager] -omgevingen en -infrastructuur instellen.
 
 Bovendien moet u:
 
 * De mogelijkheid om AEM producten te gebruiken voor het beheer van inhoud om digitale ervaringen te stimuleren
 * Begrip welke modules aanwezig zijn
-* Een diepgaander inzicht in modules zoals Plaatsen, Activa, en Forms
+* Een diepgaander inzicht in modules zoals Sites, Assets en Forms
 
 <br>
 
@@ -89,7 +89,7 @@ Bovendien moet u:
 * Bepaal waar u rollen en machtigingen wilt definiëren
 * Op basis van een scenario kunt u de beschikbare caching-methoden definiëren
 
-**Sectie 3: Bedrijfsanalyse (43%)**
+**Sectie 3: BedrijfsAnalyse (43%)**
 
 * Gezien een scenario, identificeer standaardmodules van AEM die klanten bedrijfsproblemen richten
 * Concepten van inhoudsbeheer voor AEM modules identificeren
@@ -98,7 +98,7 @@ Bovendien moet u:
 * Op basis van een scenario een correcte benadering beschrijven om bedrijfsdoelstellingen te bereiken terwijl binnen budget en/of bereik blijft
 * Identificeer manieren om bedrijfsdoelstellingen met het ontwikkelingsteam te verbinden
 
-**Sectie 4: Instelling en implementatie (13%)**
+**Sectie 4: Opstelling en implementatie (13%)**
 
 * Tips en trucs voor het AEM van inhoudscomponenten identificeren
 * Op basis van een scenario de juiste implementatie van een functie identificeren
@@ -119,24 +119,24 @@ Bovendien moet u:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een cursus volgen**
+**neem een cursus**
 
 {{take-course}}
 
-[De cursus Adobe Experience Manager-stichtingen volgen](https://app.rockinfo.com/courses/240)
+[ neem de cursus van de Stichting van Adobe Experience Manager ](https://app.rockinfo.com/courses/240)
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/122)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/122)
 
 
-**Voorbeeldvragen**
+**de vragen van de Steekproef**
 
 {{sample-questions}}
 
@@ -200,6 +200,6 @@ Bovendien moet u:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

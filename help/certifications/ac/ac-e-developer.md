@@ -1,6 +1,6 @@
 ---
 title: Certificering ontwikkelaarsexpert
-description: Leer hoe u een gecertificeerde Adobe Developer-expert in Adobe kunt worden [!DNL Commerce].
+description: Leer hoe te om een verklaarde Deskundige van Adobe Developer in Adobe te worden  [!DNL Commerce].
 solution: Commerce
 role: Developer
 level: Experienced
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor [!DNL Adobe Commerce] Ontwikkelaarsexpert
+# Reis voor certificering voor [!DNL Adobe Commerce] Developer Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/141) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/141) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 ### Minimale ervaring {#minimum-experience}
 
-U moet minstens 1-3 jaar ervaring hebben met Adobe [!DNL Commerce] ontwikkeling en u bent vertrouwd met de volgende technologieën en milieu&#39;s:
+U moet minstens 1-3 jaar ervaring hebben met het ontwikkelen van Adobe [!DNL Commerce] en u bent vertrouwd met de volgende technologieën en omgevingen:
 
 * Adobe [!DNL Commerce] - versie 2.4
 * PHP
@@ -71,11 +71,11 @@ U moet minstens 1-3 jaar ervaring hebben met Adobe [!DNL Commerce] ontwikkeling 
 
 {{exam-objectives}}
 
-**Doelstellingen en toepassingsgebied van examen**
+**de doelstellingen en het werkingsgebied van het examen**
 
-**Deel 1: Adobe [!DNL Commerce] Architectuur- en aanpassingstechnieken (36%)**
+**Sectie 1: De Technieken van de Architectuur en van de Aanpassing van de Adobe [!DNL Commerce] (36%)**
 
-* Toon hoe te om geheim voorgeheugen in Adobe effectief te gebruiken [!DNL Commerce]
+* Toon hoe u cache effectief kunt gebruiken in Adobe [!DNL Commerce]
 * Aangepaste extensiekenmerken maken, gebruiken en bewerken
 * Aanbevolen oplossingen voor het toepassen van aangepaste thematoepassingen op product-/categoriepagina&#39;s
 * Pas waarnemers, voorkeuren en plug-ins (effecten van sorteervolgorde) correct toe
@@ -88,49 +88,49 @@ U moet minstens 1-3 jaar ervaring hebben met Adobe [!DNL Commerce] ontwikkeling 
 * Verklaar de gebruiksgevallen voor Git-patches en de wijzigingen op bestandsniveau in Composer
 * Nieuwe opdrachten maken in CLI
 * Toon hoe te om een integratietest te schrijven
-* Adobe identificeren [!DNL Commerce] beveiligingsfunctie (CSP, escape, Form keys, sanitization, reCAPTCHA, invoervalidering)
+* Beveiligingsfunctie voor Adobe [!DNL Commerce] identificeren (CSP, escape, form keys, sanitization, reCAPTCHA, invoervalidatie)
 * Verklaar hoe het CRON plannend systeem werkt
 * Toon de capaciteit aan om gegevens te laden en te manipuleren
 * Toon de capaciteit aan om de wedijver van de Toepassing te gebruiken
 
-**Sectie 2: Werken met databases en EAV (10%)**
+**Sectie 2: Het werken met Gegevensbestanden en EAV (10%)**
 
 * EAV-kenmerken en kenmerksets programmatisch bewerken
 * Toon de capaciteit aan om het gegevensbestandschema uit te breiden
 * Toon de capaciteit aan om gegevens uit Adobe Commerce in te voeren/uit te voeren
 * Beschrijf hoe te om flarden en terugkomende reeksen te gebruiken om het gegevensbestand te wijzigen
 
-**Sectie 3: Ontwikkeling met Admin (6%)**
+**Sectie 3: Het ontwikkelen met Admin (6%)**
 
 * Toon de capaciteit aan om netten en vormen bij te werken en te creëren
 * Rasterhandelingen uitbreiden
 * Toon de capaciteit aan om bepalingsklassen tot stand te brengen
 * Toon de capaciteit aan om toegang tot ACL te beperken
 
-**Sectie 4: De catalogus aanpassen (6%)**
+**Sectie 4: Het aanpassen van de Catalogus (6%)**
 
 * Wijzigingen toepassen op bestaande producttypen en nieuwe maken
 * Bestaande Catalogusentiteiten wijzigen en uitbreiden
 * Toon de capaciteit aan om Indexen te beheren en prijsoutput aan te passen
 * Uitleggen hoe inventarisatie uit meerdere bronnen invloed heeft op voorraad (programmaniveau)
 
-**Sectie 5: Verkoop aanpassen (6%)**
+**Sectie 5: Het aanpassen van Verrichtingen van de Verkoop (6%)**
 
 * Toon aan dat het mogelijk is nieuwe betalingsmethoden te ontwikkelen of bestaande betalingsmethoden aan te passen
 * Toon de capaciteit aan om verzendmethodes toe te voegen en aan te passen
 * Toon de capaciteit aan om verkoopverrichtingen aan te passen
 * Uitleggen hoe u totalen kunt aanpassen
 
-**Sectie 6: API&#39;s en services (4%)**
+**Sectie 6: APIs en de Diensten (4%)**
 
 * Toon de capaciteit aan om nieuwe APIs te creëren of bestaande APIs uit te breiden
 * Toon de capaciteit aan om het het een rij vormen systeem te gebruiken
 
-**Deel 7: Adobe [!DNL Commerce] Cloudarchitectuur (16%)**
+**Sectie 7: Adobe [!DNL Commerce] de architectuur van de Wolk (16%)**
 
-* Toon kennis van Adobe [!DNL Commerce] architectuur-/omgevingsworkflow
+* Toon kennis van Adobe [!DNL Commerce] architectuur/omgevingsworkflow
 * Toon een werkende kennis van de dossiers van het wolkenproject, toestemming, en structuur aan
-* Toon de capaciteit aan opstelling multi domein gebaseerde opslag op Adobe [!DNL Commerce] Cloud (meerdere domeinsites, combinatie van ontwikkelwerk en ondersteuning)
+* Toon de capaciteit aan opstelling multi domein gebaseerde opslag op Adobe [!DNL Commerce] Wolk (multi domeinplaatsen mengeling van het werk en de steun van de ontwikkeling)
 * Toon een algemene kennis van toepassingsdiensten en hoe te om hen (YAML, PHP, MariaDB, Redis, RabbitMQ, enz.) te leiden
 * Omgaan met verschillende typen logbestanden
 * Toon de capaciteit aan om een project (Belangrijkste stappen van plaatsing) op te stellen
@@ -140,9 +140,9 @@ U moet minstens 1-3 jaar ervaring hebben met Adobe [!DNL Commerce] ontwikkeling 
 * Geef aan wanneer contact moet worden opgenomen met de ondersteuning *Yaml-bestanden en -beperkingen (DIY vs Support-tickets)
 * Toon basiskennis van OOTB SNEL eigenschappen configuratie en installatie aan
 
-**Sectie 8: Adobe instellen/configureren [!DNL Commerce] Wolk (10%)**
+**Sectie 8: Opstelling/het vormen Adobe [!DNL Commerce] Wolk (10%)**
 
-* Beschrijf hoe te opstelling/Adobe te vormen [!DNL Commerce] Wolk
+* Beschrijf hoe u de Adobe [!DNL Commerce] cloud kunt instellen/configureren
 * Basiskennis over probleemoplossing in de cloud toepassen (hiërarchie van webinterface en variabelen, prioriteit voor configuraties)
 * Toon inzicht in het beheer van de cloudgebruiker en de gebruikersinterface bij het instappen
 * Beschrijf hoe te om wolkenvariabelen bij te werken gebruikend UI
@@ -150,7 +150,7 @@ U moet minstens 1-3 jaar ervaring hebben met Adobe [!DNL Commerce] ontwikkeling 
 * Toon inzicht in vertakking gebruikend UI aan
 * Mogelijkheden van Adobe Commerce Cloud-abonnementen identificeren
 
-**Sectie 9: [!DNL Commerce] Cloud CLI-gereedschap (onderdeel beheren) (6%)**
+**Sectie 9: [!DNL Commerce] het hulpmiddel van CLI van de Wolk (het leiden van deel) (6%)**
 
 * Toon inzicht in het bijwerken van wolkenvariabelen gebruikend CLI
 * Toon inzicht in milieubeheer gebruikend CLI (exclusieve eigenschappen CLI: activeer e-mail, herbase milieu&#39;s, momentopname, db stortplaats, lokale milieu opstelling)
@@ -163,7 +163,7 @@ U moet minstens 1-3 jaar ervaring hebben met Adobe [!DNL Commerce] ontwikkeling 
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert) {target="_blank"}
 
 <br>
 
@@ -181,19 +181,19 @@ U moet minstens 1-3 jaar ervaring hebben met Adobe [!DNL Commerce] ontwikkeling 
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/141)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/141)
 
 +++
 
@@ -248,6 +248,6 @@ U moet minstens 1-3 jaar ervaring hebben met Adobe [!DNL Commerce] ontwikkeling 
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

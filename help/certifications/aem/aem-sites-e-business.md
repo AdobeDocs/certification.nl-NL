@@ -1,6 +1,6 @@
 ---
 title: Certificering door experts voor zakelijke gebruikers
-description: Leer hoe u een gecertificeerd expert bent in de praktijk in [!DNL Experience Manager Sites].
+description: Leer hoe te om als Deskundige Bedrijfs van de Praktijk in  [!DNL Experience Manager Sites] verklaard te worden.
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Experience Manager Sites] Expert aan de praktijk van bedrijven
+# Certification trip for Adobe [!DNL Experience Manager Sites] Expert Business Practitioner
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/127) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/127) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -60,7 +60,7 @@ U zou moeten hebben:
 * Ervaring met AEM functies en mogelijkheden die nodig zijn om ontwikkelaars te betrekken bij het vinden van zakelijke oplossingen
 * De mogelijkheid om AEM producten te gebruiken voor het beheer van inhoud om digitale ervaringen te stimuleren
 * Begrip welke modules aanwezig zijn
-* Een dieper inzicht in modules zoals [!DNL Sites], [!DNL Assets], en [!DNL Forms]
+* Een diepgaander inzicht in modules zoals [!DNL Sites] , [!DNL Assets] en [!DNL Forms]
 
 Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 
@@ -69,7 +69,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * Projecten
 * Forms
 * Ervaar fragmenten en inhoudsfragmenten
-* Schermen
+* Screens
 * Workflows
 * Starten
 * CRXDE Lite
@@ -77,7 +77,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * Beheer op meerdere locaties
 * Monitoringinstrumenten
 * Versioning
-* Personalisatie en contexthub
+* Personalization en contexthub
 * SPA Editor
 * Tags
 * Browsergebruik
@@ -103,7 +103,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * Bepalen hoe rollen en machtigingen moeten worden gedefinieerd
 * Beschrijf caching-benaderingen
 
-**Sectie 3: Bedrijfsanalyse (38%)**
+**Sectie 3: BedrijfsAnalyse (38%)**
 
 * Kaart standaardmodules van AEM aan verschillende bedrijfsproblemen voor de klant
 * Concepten voor inhoudsbeheer toepassen op AEM
@@ -112,7 +112,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * Bepaal hoe te om de kernbedrijfsdoelstellingen te ontmoeten terwijl het blijven binnen begroting en/of werkingsgebied
 * Bepaal hoe de vragen van ontwikkelaars met betrekking tot de bedrijfsdoelstellingen zouden moeten worden beantwoord
 
-**Sectie 4: Instellen en implementeren (16%)**
+**Sectie 4: Opstelling en Implementatie (16%)**
 
 * Bepaal hoe te om inhoudscomponenten te vormen en te gebruiken om beste praktijken van AEM te tonen
 * Controleer de correcte implementatie van functies en zoek en beschrijf eventuele fouten
@@ -123,7 +123,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam) {target="_blank"}
 
 <br>
 
@@ -141,19 +141,19 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/127)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/127)
 
 +++
 
@@ -219,6 +219,6 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

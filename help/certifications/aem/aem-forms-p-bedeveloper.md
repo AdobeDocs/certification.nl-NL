@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
 >
->* **Cursus:** Als u net begint, of een verfrisser nodig hebt, neem [Adobe Experience Manager Foundations-cursus](https://app.rockinfo.com/courses/240) toegang tot verklaringen van zeer belangrijke concepten, productlooptijden, en kenniscontroles. Deze cursus zal een basis van kennis verstrekken u op in uw certificatiereis kunt voortbouwen.
+>* **Cursus:** als u enkel begint, of een verfrisser nodig hebt, neem de [ cursus van de Stichting van Adobe Experience Manager ](https://app.rockinfo.com/courses/240) om tot verklaringen van zeer belangrijke concepten, productloops, en kenniscontroles toegang te hebben. Deze cursus zal een basis van kennis verstrekken u op in uw certificatiereis kunt voortbouwen.
 >
->* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/123) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
+>* **Gids van de Prep van het Examen van het Examen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/123) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
 >
->_Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>_als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -75,7 +75,7 @@ U zou met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 * Adobe IO CLI
 * Git CLI
 * Gereedschappen voor cloudovergang
-* Verzendconverter
+* Dispatcher-converter
 * Modernisering opslagplaats
 * Afbouw en productie
 * Dev-sandbox
@@ -87,14 +87,14 @@ U zou met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 
 {{exam-objectives}}
 
-**Sectie 1: Oprichting en beheer van Forms (26%)**
+**Sectie 1: De verwezenlijking en het beheer van Forms (26%)**
 
 * Op basis van een scenario de stappen identificeren die nodig zijn om AEM Forms te bouwen
 * Forms-gegevensmodel beschrijven
 * Stappen identificeren om AEM Forms aan te passen
 * In een scenario, identificeer stappen om JavaScript ClientLib te gebruiken leveraging GuideBridge API
 
-**Sectie 2: Processen en workflows (34%)**
+**Sectie 2: Processen en werkschema&#39;s (34%)**
 
 * Op basis van een scenario de stappen identificeren voor een workflow voor formuliergoedkeuring
 * Functies van een OSGi-bundel identificeren met behulp van Document Services API
@@ -103,7 +103,7 @@ U zou met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 * Op basis van een scenario kunt u een PDF manipuleren met Forms- of Assembler-services
 * Beschrijf manieren om de diensten uit te voeren JDBC
 
-**Sectie 3: Beheer en probleemoplossing (21%)**
+**Sectie 3: Beleid en het oplossen van problemen (21%)**
 
 * In logbestanden gegenereerde problemen identificeren
 * Gezien een scenario, identificeer de stappen om beleidsactiviteiten uit te voeren
@@ -111,12 +111,12 @@ U zou met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 * Beschrijf de stappen voor AEM installatie van Dispatcher voor Forms
 * Beschrijf de stappen om verschillende consoles te navigeren
 
-**Sectie 4: API-eindpunten en -integratie (10%)**
+**Sectie 4: API eindpunten en integratie (10%)**
 
 * Beschrijf op basis van een scenario de stroom om AEM formulier te integreren met Adobe Experience Cloud
 * Identificeer de stappen om diverse eindpuntdiensten te produceren
 
-**Sectie 5: Interactieve communicatie (9%)**
+**Sectie 5: Interactieve mededeling (9%)**
 
 * Op basis van een scenario processen voor interactieve communicatie demonstreren en implementeren
 
@@ -136,23 +136,23 @@ U zou met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een cursus volgen**
+**neem een cursus**
 
 {{take-course}}
 
-[De cursus Adobe Experience Manager-stichtingen volgen](https://app.rockinfo.com/courses/240)
+[ neem de cursus van de Stichting van Adobe Experience Manager ](https://app.rockinfo.com/courses/240)
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/123)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/123)
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
@@ -209,8 +209,8 @@ U zou met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.
 
 

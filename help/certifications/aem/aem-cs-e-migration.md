@@ -1,6 +1,6 @@
 ---
 title: Expertcertificering
-description: Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager] deskundige.
+description: Leer hoe te om een verklaarde Adobe  [!DNL Experience Manager]  deskundige te worden.
 solution: Experience Manager, Experience Manager as a Cloud Service
 product: Experience Manager
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Experience Manager] Expert as a Cloud Service migratie
+# Reis voor certificering voor Adobe [!DNL Experience Manager] as a Cloud Service migratieexpert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/129) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/129) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -44,11 +44,11 @@ ht-degree: 0%
 
 * Ontwikkelaars die ervaring hebben met Adobe [!DNL Experience Manager]
 * Ontwikkelaars die hebben deelgenomen aan minstens één cloudmigratie
-* Adobe [!DNL Experience Manager] Siteontwikkelaars
+* Adobe [!DNL Experience Manager] Sites Developers
 * Adobe [!DNL Experience Manager] Sites Architect
-* Adobe [!DNL Experience Manager] Elementontwikkelaars
-* Adobe [!DNL Experience Manager] Forms Developers
-* Ontwikkelaars/DevOps/Leads/Architects die hebben deelgenomen aan meerdere AEM-implementaties met minimaal 2-3 jaar ontwikkelervaring voor webtoepassingen met Adobe [!DNL Experience Manager]
+* Adobe [!DNL Experience Manager] Assets-ontwikkelaars
+* Adobe [!DNL Experience Manager] Forms-ontwikkelaars
+* Ontwikkelaars/DevOps/Leads/Architects die hebben deelgenomen aan meerdere AEM-implementaties met minimaal 2-3 jaar ervaring voor de ontwikkeling van webtoepassingen met Adobe [!DNL Experience Manager]
 
 <br>
 
@@ -56,8 +56,8 @@ ht-degree: 0%
 
 U zou moeten hebben:
 
-* Een inzicht in de algemene veranderingen in de architectuur en de eigenschappen wanneer het bewegen van om het even welke AEM dienst (zelf-geleid, AMS of om het even welke derde wolk) aan AEM as a Cloud Service.
-* 1-3 jaar ervaring met de ontwikkeling van webtoepassingen met Adobe [!DNL Experience Manager]
+* Een goed begrip van de algemene wijzigingen in de architectuur en de functies bij de overgang van een AEM (zelfbeheerde, AMS- of externe cloud) naar AEM as a Cloud Service.
+* 1-3 jaar ervaring met het ontwikkelen van webtoepassingen met Adobe [!DNL Experience Manager]
 * Handen op ervaring met AEM Forms, Assets en Sites
 * De mogelijkheid om klanten door het migratieproces te begeleiden, advies te geven en deel te nemen aan alle fasen van een AEM project
 
@@ -65,18 +65,18 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 * Gereedschappen voor indexconversie
 * Workflowconversiegereedschappen
-* Verzendgereedschappen
+* Dispatcher-gereedschappen
 * CDN (Content Delivery Network)
 * Analysator van best practices
 * AEM modernisering
 * Browser voor opslagplaats
-* Ontwerpconsole
+* Developer Console
 * Hulpprogramma voor gebruikerstoewijzing voor IMS-Adobe
 * I/O-cmd, gereedschap
 * New Relic
 * Lokale cloud SDK
-* Ontwikkeling, Stage, Prod Author, Publish and Preview Service
-* Lokale Dispatcher-instelling met Docker
+* Ontwikkeling, Stage, Prod Author, Publish en Preview Service
+* Lokale Dispatcher-instellingen met Docker
 * Cloud-logbestanden in lokale omgeving afstemmen
 * Cloud-consoleinterfaces
 
@@ -86,7 +86,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 {{exam-objectives}}
 
-**Deel 1: Beoordeling (32%)**
+**Sectie 1: Beoordeling (32%)**
 
 * BPA gebruiken
 * Een migratieplan voorbereiden en schatten
@@ -95,7 +95,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * De workflowvereisten bepalen
 * Verklaar de vereisten voor inhoudsoverdracht
 * Uitleg over de implementatie van bedrijfsmiddelen en de gevolgen ervan
-* Vereisten voor Dispatcher identificeren
+* Vereisten met betrekking tot Dispatcher identificeren
 
 **Sectie 2: Ontwerp (16%)**
 
@@ -103,7 +103,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * Configuratie voorbereiden voor microservices voor middelen
 * Uitleg caching-strategie
 
-**Sectie 3: Implementatie (16%)**
+**Sectie 3: Plaatsing (16%)**
 
 * Cloud Manager-pijpleidingen configureren en koppelen aan de omgevingen
 * AEMaaCS-omgevingen (ontwikkelen, werkgebied, profiel - auteur, publiceren, voorvertonen)
@@ -140,19 +140,19 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/129)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/129)
 
 +++
 
@@ -207,6 +207,6 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

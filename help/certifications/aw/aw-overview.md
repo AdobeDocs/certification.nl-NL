@@ -14,15 +14,15 @@ ht-degree: 14%
 
 ## Alle beschikbare Exams voor Adobe [!DNL Workfront]
 
-**Professional**
+**Beroeps**
 
-* [Ontwikkelaar (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
-* [Projectmanager](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
-* [Ontwikkelaar (Core)](/help/certifications/aw/aw-core-p-developer-23-12.md) <!--AD0-E908-->
+* [ Ontwikkelaar (Fusion) ](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
+* [ de Manager van het Project ](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
+* [ Ontwikkelaar (Kern) ](/help/certifications/aw/aw-core-p-developer-23-12.md) <!--AD0-E908-->
 
-**Expert**
+**Deskundige**
 
-* [Ontwikkelaar (Core)](/help/certifications/aw/aw-core-e-developer-23-08.md) <!--AD0-E907-->
-* [AEM verbeterde aansluiting](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
+* [ Ontwikkelaar (Kern) ](/help/certifications/aw/aw-core-e-developer-23-08.md) <!--AD0-E907-->
+* [ AEM Verbeterde Schakelaar ](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
-Ga naar [Uw certificering verlengen](/help/certifications/renew.md) pagina om te zien of is een vernieuwingsoptie beschikbaar voor dit product.
+Bezoek [ vernieuwt uw certificatie ](/help/certifications/renew.md) pagina om te zien of is een vernieuwingsoptie beschikbaar voor dit product.

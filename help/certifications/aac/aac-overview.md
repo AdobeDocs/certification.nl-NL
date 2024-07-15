@@ -1,40 +1,40 @@
 ---
-title: Overzicht advertentiecertificering
+title: Overzicht van Advertising-certificering
 description: Overzicht van certificeringsopties voor Adobe Advertising
 solution: Advertising
 product: Advertising Cloud
-exl-id: 616c8b98-17ee-4744-8593-8d8675703b9c
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+exl-id: fffb8e56-5afa-4fc0-a384-8a00f96b74a2
+source-git-commit: 525cdd6d066c70c74246b1abb6df5c7a12f5e1d2
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '102'
 ht-degree: 7%
 
 ---
 
 # Overzicht van Adobe Advertising-certificering
 
-Adobe biedt meerdere certificeringen voor Advertising Business Practitioners.  Deze pagina&#39;s bevatten alle informatie die u nodig hebt om aan de slag te gaan met uw certificeringsreis of om uw bestaande certificering te vernieuwen.
+Adobe biedt meerdere certificeringen voor Advertising Business-professionals.  Deze pagina&#39;s bevatten alle informatie die u nodig hebt om aan de slag te gaan met uw certificeringsreis of om uw bestaande certificering te vernieuwen.
 
 ## Certificeringen
 
-**Professional**
+**Beroeps**
 
-* [Bedrijfs Praktijk (Onderzoek)](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
-* [Zakelijke praktiserer (DSP)](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
+* [ Bedrijfs Praktijk (Onderzoek) ](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
+* [ Bedrijfs Praktijk (DSP) ](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
 
 ## Verlenging
 
-Ga naar [Uw certificering verlengen](/help/certifications/renew.md) pagina om te zien of is een vernieuwingsoptie beschikbaar voor dit product.
+Bezoek [ vernieuwt uw certificatie ](/help/certifications/renew.md) pagina om te zien of is een vernieuwingsoptie beschikbaar voor dit product.
 
 ## Bronnen
 
-Gebruik deze voor meer informatie over deze producten [business.adobe.com](https://business.adobe.com/) koppelingen,
+Voor meer informatie over deze producten, gebruik deze {](https://business.adobe.com/) verbindingen 0} business.adobe.com:[
 
-* [Adobe Advertising-platform aan de vraagzijde (DSP)](https://business.adobe.com/products/advertising/demand-side-platform.html){target="_blank"}
-* [Adobe Advertising zoeken](https://business.adobe.com/products/advertising/search-marketing-management.html){target="_blank"}
+* [ Adobe Advertising vraag-zijPlatform (DSP) ](https://business.adobe.com/products/advertising/demand-side-platform.html) {target="_blank"}
+* [ het Onderzoek van de Adobe Advertising ](https://business.adobe.com/products/advertising/search-marketing-management.html) {target="_blank"}
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Basiscertificering architect
-description: Leer hoe u een gecertificeerde Adobe architect Master kunt worden in [!DNL Campaign Classic].
+description: Leer hoe te om een verklaard Origineel van de Architect van de Adobe in  [!DNL Campaign Classic] te worden.
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Campaign Classic] Architect Master
+# Reis voor certificering voor Adobe [!DNL Campaign Classic] Architect Master
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/254) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/254) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -42,9 +42,9 @@ ht-degree: 0%
 
 ### Beoogd publiek {#intended-audience}
 
-* Technische leiding met Adobe [!DNL Campaign Classic] background
-* ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] Ontwikkelaar
-* Adobe [!DNL Campaign Classic] ontwikkelaar of soortgelijke rol
+* Technische leiding met Adobe [!DNL Campaign Classic] achtergrond
+* Adobe Certified Expert - [!DNL Campaign Classic] Ontwikkelaar
+* Adobe [!DNL Campaign Classic] ontwikkelaar of vergelijkbare rol
 * Martech Solution Architect
 
 <br>
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 U zou moeten hebben:
 
-* Ervaring met meerdere Adoben [!DNL Campaign Classic] implementaties
+* Ervaring met meerdere Adobe [!DNL Campaign Classic] -implementaties
 * Begrijpen hoe Adobe Campaign werkt als een digitale marketingoplossing en deze implementeren op basis van projectvereisten
 * De mogelijkheid om een functioneel ontwerpdocument te maken
 * De capaciteit om een functioneel werkingsgebied voor een installatie van Adobe Campaign te creëren
@@ -75,15 +75,15 @@ U zou moeten hebben:
 
 {{exam-objectives}}
 
-**Sectie 1: Definitie van oplossing (24%)**
+**Sectie 1: De definitie van de Oplossing (24%)**
 
 * Gezien specifieke bedrijfsvereisten, bepaal de informatie relevant voor oplossingsontwerp
 * Op basis van een scenario, levert u prestaties, infrastructuur en configuratieaanbevelingen
-* Analyseren [!DNL Campaign Classic] voorzieningen voor advies over verbeteringen
+* [!DNL Campaign Classic] -instellingen analyseren om advies over verbeteringen te geven
 * Bedrijfsvereisten bepalen voor het ontwerpen van een digitale marketingoplossing
 * Geef bij een scenario de juiste methode voor productimplementatie op
 
-**Sectie 2: Gegevenslandschappen (24%)**
+**Sectie 2: Gegevens landscaping (24%)**
 
 * Specificeer het Model van Gegevens en de ontwerpparameters van de integratiekaart voor een oplossing van de Campagne met andere klantenhulpmiddelen
 * Gezien een scenario, bepaal het oplossingsontwerp dat wordt vereist om aan wetten en verordeningen te voldoen
@@ -98,7 +98,7 @@ U zou moeten hebben:
 * Op basis van een scenario advies geven over de geschikte hardware-infrastructuur die nodig is tijdens het ontwerp van de oplossing
 * Gezien een scenario, bepaal de correcte methode voor oplossingsbevordering aan het respectieve milieu
 
-**Sectie 4: Projectleiding (10%)**
+**Sectie 4: De leiding van het project (10%)**
 
 * Gezien klantenvereisten, bepaal de aangewezen activiteiten en de middelen nodig
 * Op basis van een scenario de algehele oplossing analyseren om technische risico&#39;s, veronderstellingen, problemen en afhankelijkheden te bepalen
@@ -117,7 +117,7 @@ U zou moeten hebben:
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam) {target="_blank"}
 
 <br>
 
@@ -135,15 +135,15 @@ U zou moeten hebben:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/254)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/254)
 
 +++
 
@@ -198,8 +198,8 @@ U zou moeten hebben:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.
 
 

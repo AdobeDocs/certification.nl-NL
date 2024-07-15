@@ -1,6 +1,6 @@
 ---
 title: Technische stichtingen - Professionele certificering
-description: Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager] Professional.
+description: Leer hoe te om een verklaarde Beroeps van de Adobe  [!DNL Experience Manager]  te worden.
 solution: Experience Manager
 product: Experience Manager
 role: User
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
 >
->* **Cursus:** Als u net begint, of een verfrisser nodig hebt, neem [Adobe Experience Manager Foundations-cursus](https://app.rockinfo.com/courses/240) toegang tot verklaringen van zeer belangrijke concepten, productlooptijden, en kenniscontroles. Deze cursus zal een basis van kennis verstrekken u op in uw certificatiereis kunt voortbouwen.
+>* **Cursus:** als u enkel begint, of een verfrisser nodig hebt, neem de [ cursus van de Stichting van Adobe Experience Manager ](https://app.rockinfo.com/courses/240) om tot verklaringen van zeer belangrijke concepten, productloops, en kenniscontroles toegang te hebben. Deze cursus zal een basis van kennis verstrekken u op in uw certificatiereis kunt voortbouwen.
 >
->* **Handleiding voor voorvoegsel van examen:**  De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/124) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
+>* **Gids van de Prep van het Examen van het Examen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/124) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
 >
->_Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>_als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -80,7 +80,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 {{exam-objectives}}
 
-**Sectie 1: Inhoud maken (33%)**
+**Sectie 1: De verwezenlijking van de inhoud (33%)**
 
 * Inhoudspagina&#39;s beheren
 * Inhoud repliceren
@@ -108,7 +108,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * Pakketten implementeren
 * AEM installeren
 
-**Sectie 4: Onderhoud en gebruikersbeheer (12%)**
+**Sectie 4: Onderhoud en gebruikersbeleid (12%)**
 
 * Gebruikerstoegang beheren
 * OSGI-configuraties wijzigen
@@ -130,21 +130,21 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een cursus volgen**
+**neem een cursus**
 
 {{take-course}}
 
-[De cursus Adobe Experience Manager-stichtingen volgen](https://app.rockinfo.com/courses/240)
+[ neem de cursus van de Stichting van Adobe Experience Manager ](https://app.rockinfo.com/courses/240)
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/124)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/124)
 
 
 +++
@@ -200,8 +200,8 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.
 
 

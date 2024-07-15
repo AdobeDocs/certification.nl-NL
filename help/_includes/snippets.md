@@ -11,7 +11,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Begin 1 Augustus 2023, zal het examen plannen niet meer beschikbaar met PSI zijn. Als u al een examen met PSI hebt gepland, moet u het vóór 1 Augustus 2023 nemen. Als u een examen met PSI na 1 Augustus 2023 hebt gepland, gelieve uw onderzoek te herschikken om vóór die datum te vinden. Als u niet in staat of niet bereid bent om uw examen vóór 1 Augustus 2023 te nemen, gelieve e-mail <certif@adobe.com> zodat wij u kunnen steunen die uw examen aan Onderzoek overbrengt. Dit geldt ook voor Japans-taalexamens.
+>Begin 1 Augustus 2023, zal het examen plannen niet meer beschikbaar met PSI zijn. Als u al een examen met PSI hebt gepland, moet u het vóór 1 Augustus 2023 nemen. Als u een examen met PSI na 1 Augustus 2023 hebt gepland, gelieve uw onderzoek te herschikken om vóór die datum te vinden. Als u niet in staat of niet bereid bent om uw examen vóór 1 Augustus 2023 te nemen, gelieve e-mail <certif@adobe.com> zodat wij u kunnen steunen overbrengend uw examen aan Onderzoek. Dit geldt ook voor Japans-taalexamens.
 
 <!--divider-->
 
@@ -49,13 +49,13 @@ Deze stappen nemen u door het certificatieproces van begin tot eind.
 
 >[!IMPORTANT]
 >
-> **Overheids-id vereist:** U MOET een door de overheid uitgegeven foto-id gebruiken als geldige id. Elektronische kopieën of digitale id&#39;s zijn niet toegestaan. <br><br> **Adobe ID-accountnaam:** De naam van je Adobe ID-account MOET overeenkomen met je naam op je gebruikersnaam. Als u uw Adobe ID-accountnaam wilt bijwerken, stuurt u een e-mail naar <certif@adobe.com>. Deze correctie aanvragen **72 uur van tevoren**. Als de namen niet op het tijdstip van het examen aanpassen, zult u voor een nieuw examen aan een extra last moeten ondertekenen.
+> **vereiste identiteitskaart van de Regering:** U MOET een door de overheid uitgegeven foto identiteitskaart als uw geldige vorm van identiteitskaart gebruiken Elektronische kopieën of digitale id&#39;s zijn niet toegestaan. <br><br> **Adobe ID rekeningsnaam:** Uw Adobe ID rekeningsnaam MOET uw naam op uw overheidsidentiteitskaart aanpassen E-mail <certif@adobe.com> om de naam van uw Adobe ID-account bij te werken. Gelieve te verzoeken om deze correctie **72 uren vooraf**. Als de namen niet op het tijdstip van het examen aanpassen, zult u voor een nieuw examen aan een extra last moeten ondertekenen.
 
-U moet een Adobe ID hebben om uw examen te plannen en te nemen. Als u geen Adobe ID hebt, kunt u er een maken [hier](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+U moet een Adobe ID hebben om uw examen te plannen en te nemen. Als u geen Adobe ID hebt, kunt u één [ hier ](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html) tot stand brengen.
 
 Een Adobe ID is om drie redenen noodzakelijk:
 
-* U hebt een Adobe ID nodig om een product te maken en u aan te melden bij uw [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} account. Dit is waar u uw certificatie, examengeschiedenis, examencores, en extra informatie kunt bekijken.
+* U zult een Adobe ID nodig hebben om tot stand te brengen en login aan uw ](https://www.certmetrics.com/adobe) {target="_blank"} rekening 1} van het Beheer van de Referentie van de Adobe van de . [ Dit is waar u uw certificatie, examengeschiedenis, examencores, en extra informatie kunt bekijken.
 * U moet aan het Systeem van het Beheer van de Verantwoordelijkheid van de Adobe worden het programma geopend om en login aan uw rekening van het Onderzoek te creëren. Dat is waar je gaat plannen, betalen en je test afleggen.
 * U moet aan het Systeem van het Beheer van de Aanwijzing van de Adobe worden het programma geopend om praktijktests op het Portaal van de Prep van het Prep van het CertificatieExamen van de Adobe te nemen.
 
@@ -69,7 +69,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!NOTE]
 >
->Sommige koppelingen in deze sectie werken alleen nadat u zich hebt aangemeld bij de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Neem even de tijd om u nu aan te melden.
+>Sommige verbindingen in deze sectie zullen slechts werken nadat u in het [ Systeem van het Beheer van de Adobe Credentials ](https://www.certmetrics.com/adobe) {target="_blank"} hebt geregistreerd. Neem even de tijd om u nu aan te melden.
 
 <!--divider-->
 
@@ -89,9 +89,9 @@ Houd er rekening mee dat het slagen van een praktijktest niet garandeert dat u v
 
 De praktijktest uitvoeren:
 
-1. Eerst, login aan [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} met uw Adobe ID.
+1. Eerst, login aan het [ Systeem van het Beheer van de Verantwoordelijkheid van de Adobe ](https://www.certmetrics.com/adobe) {target="_blank"} met uw Adobe ID.
 
-2. Ga vervolgens naar de [Prep Portal voor Adobe-certificatieexamen](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} om uw praktijktest te vinden.
+2. Dan, ga naar het [ Portaal van de Prep van het Examen van de Certificatie van de Adobe ](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx) {target="_blank"} om uw praktijktest te vinden.
 
 <!--divider-->
 
@@ -99,37 +99,37 @@ De praktijktest uitvoeren:
 
 >[!NOTE]
 >
->Sommige in deze sectie werken alleen nadat u zich hebt aangemeld bij het [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Neem even de tijd om u nu aan te melden.
+>Sommigen in deze sectie zullen slechts werken nadat u in het [ Systeem van het Beheer van de Adobe Credentials ](https://www.certmetrics.com/adobe) {target="_blank"} hebt geregistreerd. Neem even de tijd om u nu aan te melden.
 
-**Aflevering van examen**
+**levering van het Examen**
 
 De Adobe gebruikt een verkoper genoemd Onderzoek om geplande, geproctorde onderzoeken te beheren. Alle nieuwe certificeringsexamens worden afgehandeld. Hernieuwingsexamens worden op aanvraag afgelegd en niet afgehandeld.
 
-**Het programma, plant opnieuw of annuleert examen**
+**Programma, herplannen, of annuleer examen**
 
 Om uw examen te plannen, opnieuw te plannen, of te annuleren:
 
-1. Eerst, login aan [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} met uw Adobe ID.
+1. Eerst, login aan het [ Systeem van het Beheer van de Verantwoordelijkheid van de Adobe ](https://www.certmetrics.com/adobe) {target="_blank"} met uw Adobe ID.
 
-2. Ga vervolgens naar de [Exportportal](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"} en volgt u de instructies op het scherm.
+2. Dan, ga naar het [ Portaal van het Onderzoek ](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?) {target="_blank"} en volg de instructies op het scherm worden verstrekt.
 
-Annuleringen en herschikkingen moeten worden gestart **48 uur voor** de geplande examenbenoeming. De kandidaten moeten deze benoeming zelf wijzigen. Geen van de leveranciers van de Steun van de Adobe of van het examen kan herplannings en annuleringsverzoeken verwerken. Voor annuleringen onder de 48 uur geldt naast de examenkosten een herplanningsvergoeding.
+De annuleringen en het opnieuw plannen moeten **48 uren vóór** de geplande examenbenoeming in werking worden gesteld. De kandidaten moeten deze benoeming zelf wijzigen. Geen van de leveranciers van de Steun van de Adobe of van het examen kan herplannings en annuleringsverzoeken verwerken. Voor annuleringen onder de 48 uur geldt naast de examenkosten een herplanningsvergoeding.
 
-**Betalen**
+**hoe te om** te betalen
 
 Betalen per creditcard: wanneer je examen inneemt, wordt je gevraagd je creditcard in te voeren voor betaling.
 
 Betalen via voucher: Ga naar: Adobe Certification Voucher Center om een examenvoucher te kopen. U kunt de vouchercode toepassen wanneer u uw examen plant. Zie hieronder voor informatie over bonkorting.
 
-**Een voucher aanschaffen**
+**het Aankopen van een voucher**
 
-U kunt voor een examen met een bon betalen. Als u een examenvoucher wilt kopen, gaat u naar de [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
+U kunt voor een examen met een bon betalen. Om een examenbon te kopen ga naar het [ Centrum van de Certificatie van de Adobe Voucher ](https://market.xvoucher.com/adobe/global) {target="_blank"}.
 
 U kunt de vouchercode toepassen wanneer u uw examen plant. Zie hieronder voor informatie over bonkorting.
 
 Alle gegadigden kunnen een korting krijgen op bulkaankopen van 10 of meer examens wanneer ze deze aankopen via het Adobe Certification Voucher Center.
 
-Voor meer informatie over vouchers raadpleegt u de [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"}.
+Voor meer informatie over vouchers, gelieve te zien [ FAQ ](https://experienceleague.adobe.com/docs/certification/program/faq.html) {target="_blank"}.
 
 **Kortingen**
 
@@ -151,7 +151,7 @@ Opmerking: Bulkkortingen kunnen niet worden gecombineerd met een andere aanbiedi
 
 ## Voor en na {#before-and-after}
 
-**Vóór de examendag**
+**vóór examendag**
 
 * Voer de systeemtest uit.
 * Controleer of Zoomen op de computer is geïnstalleerd. Zoomen moet toestemming hebben om uw camera en microfoon te gebruiken, uw scherm te delen en de aannemer tijdelijk de computer over te laten nemen.
@@ -160,9 +160,9 @@ Opmerking: Bulkkortingen kunnen niet worden gecombineerd met een andere aanbiedi
 
 >[!IMPORTANT]
 >
-> **Overheids-id vereist:** U MOET een door de overheid uitgegeven foto-id gebruiken als geldige id. Elektronische kopieën of digitale id&#39;s zijn niet toegestaan. <br><br> **Adobe ID-accountnaam:** De naam van je Adobe ID-account MOET overeenkomen met je naam op je gebruikersnaam. Als u uw Adobe ID-accountnaam wilt bijwerken, stuurt u een e-mail naar <certif@adobe.com>. Deze correctie aanvragen **72 uur van tevoren**. Als de namen niet op het tijdstip van het examen aanpassen, zult u voor een nieuw examen aan een extra last moeten ondertekenen.
+> **vereiste identiteitskaart van de Regering:** U MOET een door de overheid uitgegeven foto identiteitskaart als uw geldige vorm van identiteitskaart gebruiken Elektronische kopieën of digitale id&#39;s zijn niet toegestaan. <br><br> **Adobe ID rekeningsnaam:** Uw Adobe ID rekeningsnaam MOET uw naam op uw overheidsidentiteitskaart aanpassen E-mail <certif@adobe.com> om de naam van uw Adobe ID-account bij te werken. Gelieve te verzoeken om deze correctie **72 uren vooraf**. Als de namen niet op het tijdstip van het examen aanpassen, zult u voor een nieuw examen aan een extra last moeten ondertekenen.
 
-**Dag van onderzoek**
+**Dag van examen**
 
 * Wees vroeg! Uw aannemer zal uw zitting precies bij uw aanstellingsbegintijd beginnen, zodat laat tijd aan login in Onderzoek vóór uw benoeming toe.
 * Bereid uw bureauruimte voor. Verwijder extra monitoren, elektronica, boeken, laptops, papier, enz. van uw bureaublad.
@@ -170,7 +170,7 @@ Opmerking: Bulkkortingen kunnen niet worden gecombineerd met een andere aanbiedi
 * Sluit alle toepassingen behalve het scherm delen en browser. Uw aannemer zal u leiden om de taakmanager te openen om te tonen dat geen andere toepassingen lopen.
 * Opmerking: als de verbinding is verbroken, ontvangt u een e-mailbericht van de ondersteuning voor examens om u te helpen bij het opnieuw tot stand brengen van een verbinding. U hebt ook de optie om de steun van het Onderzoek direct uit te reiken om opnieuw aan te sluiten.
 
-**Na het examen**
+**na het examen**
 
 * Na voltooiing van het examen, zult u een voorlopig voldoende/ontbreken ontvangen; nochtans, kan uw definitieve score tot 72 uur vergen. Zodra het examen wordt herzien en gebeëindigd, zult u de scorekaart in het Verantwoordelijke Beheer van de Adobe onder het lusje van de Geschiedenis vinden.
 * Als u een examen van de certificatie van de Adobe op uw eerste poging ontbreekt, moet u minstens 24 uren wachten alvorens het examen opnieuw te nemen. Een onvoldoende graad op de tweede of om het even welke verdere poging vereist een wachttijd van 14 kalenderdagen alvorens het examen opnieuw te nemen. Elke poging zal een afzonderlijke examenprijs aantrekken.
@@ -181,15 +181,15 @@ Opmerking: Bulkkortingen kunnen niet worden gecombineerd met een andere aanbiedi
 
 De Adobe gebruikt Onderzoek om geproctorde examens online te beheren. In het portaal van het Onderzoek, kunt u:
 
-* **Plan, herprogrammeer of annuleer uw examen.** Gelieve te merken op dat het annuleren en het opnieuw plannen vóór 48 uur vóór de geplande examenbenoeming moeten in werking worden gesteld. De kandidaten moeten deze benoeming zelf wijzigen.
+* **Plan, herprogrammeer of annuleer uw examen.** Houd er rekening mee dat het annuleren en opnieuw plannen moet worden gestart vóór 48 uur voor de geplande examenafspraak. De kandidaten moeten deze benoeming zelf wijzigen.
 
-* **Betaal voor uw examen.** Betaal voor uw certificatieexamen of door bon of creditcard in het portaal van het Onderzoek. Ga naar: [Adobe Certification Voucher System](https://market.xvoucher.com/adobe/global){target="_blank"}. U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, wordt deze toegepast bij afhandeling.
+* **betaal voor uw examen.** Betaal voor uw certificatieexamen of door bon of creditcard in het examenportaal. Om een examenbon te kopen gaat naar: [ het Systeem van de Certificatie van de Adobe Voucher ](https://market.xvoucher.com/adobe/global) {target="_blank"}. U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, wordt deze toegepast bij afhandeling.
 
-* **Neem uw examen.**
+* **neem uw examen.**
 
 >[!NOTE]
 >
->U moet zich aanmelden bij de [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} voordat u op de onderstaande knop Onderzoek klikt.
+>U moet login aan het [ Systeem van het Beheer van de Verantwoordelijkheid van de Adobe ](https://www.certmetrics.com/adobe) {target="_blank"} alvorens op de knoop van het Onderzoek hieronder te klikken.
 
 <!--divider-->
 
@@ -199,25 +199,25 @@ Zodra u uw certificatieexamen hebt overgegaan, zult u een digitale badge van Ado
 
 Uw badge is een tastbaar bewijs van uw ervaring met Adobe Experience Cloud-producten. Door de presentatie weer te geven op uw profielen voor sociale media of door te hervatten, kunt u uw prestaties aan potentiële werkgevers en klanten tonen en uw vaardigheden in deze toepassingen tonen.
 
-**Voor bestaande gebruikers zijn er twee manieren om uw Adobe-certificatiebadge te accepteren:**
+**voor bestaande gebruikers, zijn er twee manieren om uw Adobe Certificatie badge goed te keuren:**
 
-* **Stap 1:** Aanmelden [Credly](https://www.credly.com/users/sign_in){target="_blank"}. (Je moet hetzelfde e-mailadres gebruiken dat je hebt gebruikt om je Adobe te betalen, of je ziet je badge niet.)
-* **Stap 2:** Of ga naar het e-mailbericht dat je van Credly hebt ontvangen om de badge te accepteren.
-* **Stap 3:** Accepteer en deel uw badge.
+* **Stap 1:** Teken in [ Geloofwaardig ](https://www.credly.com/users/sign_in) {target="_blank"}. (Je moet hetzelfde e-mailadres gebruiken dat je hebt gebruikt om je Adobe te betalen, of je ziet je badge niet.)
+* **Stap 2:** of ga naar e-mail u van Credly aan goedkeurt de badge ontving.
+* **Stap 3:** keur en deel uw badge goed.
 
-**Voor nieuwe gebruikers volgt u de onderstaande instructies om uw Adobe-certificatiebadge te accepteren:**
+**voor nieuwe gebruikers, volg de instructies hieronder om uw Adobe Certificatie badge goed te keuren:**
 
-* **Stap 1:** Ga naar het e-mailbericht dat je van Credly hebt ontvangen om de badge te accepteren.
-* **Stap 2:** Maak een account. (Je moet hetzelfde e-mailadres gebruiken dat je hebt gebruikt om je Adobe te betalen, of je ziet je badge niet.)
-* **Stap 3:** Accepteer en deel uw badge.
+* **Stap 1:** ga naar e-mail u van Credly ontving om de badge goed te keuren.
+* **Stap 2:** creeer een rekening. (Je moet hetzelfde e-mailadres gebruiken dat je hebt gebruikt om je Adobe te betalen, of je ziet je badge niet.)
+* **Stap 3:** keur en deel uw badge goed.
 
-[Meer informatie](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge){target="_blank"}
+[ leer meer ](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge) {target="_blank"}
 
 <!--divider-->
 
 ## Uw certificering vernieuwen {#renewing-intro}
 
-Certificeringen verlopen na twee jaar. Als u uw certificering wilt behouden, moet u deze vernieuwen voordat deze verloopt. Ga naar [Uw certificering verlengen](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} voor meer informatie.
+Certificeringen verlopen na twee jaar. Als u uw certificering wilt behouden, moet u deze vernieuwen voordat deze verloopt. Bezoek [ vernieuw uw certificatie ](https://experienceleague.adobe.com/docs/certification/program/renew.html) {target="_blank"} pagina voor meer informatie.
 
 <!--divider-->
 

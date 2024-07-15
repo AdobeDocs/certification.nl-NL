@@ -1,6 +1,6 @@
 ---
 title: Certificering door experts voor zakelijke gebruikers
-description: Leer hoe u een gecertificeerde Adobe Business Practitioner Expert in [!DNL Marketo Engage].
+description: Leer hoe te om een verklaarde Deskundige van de Bedrijfs van de Praktijk van de Adobe in  [!DNL Marketo Engage] te worden.
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Marketo Engage] Expert aan de praktijk van bedrijven
+# Certification trip for Adobe [!DNL Marketo Engage] Expert Business Practitioner
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/144) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/144) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### Minimale ervaring {#minimum-experience}
 
-* Ongeveer 18 maanden ervaring met Adobe [!DNL Marketo Engage] eigenschappen en mogelijkheden nodig om marketing campagnes te creëren en de gegevens van het klantengedrag te gebruiken
+* Ongeveer 18 maanden ervaring met Adobe [!DNL Marketo Engage] eigenschappen en mogelijkheden nodig om marketingcampagnes te maken en gegevens over klantgedrag te gebruiken
 
 U moet een markeerteken zijn met ervaring in:
 
@@ -84,7 +84,7 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 
 {{exam-objectives}}
 
-**Sectie 1: Beheer en onderhoud (12%)**
+**Sectie 1: Beleid en Onderhoud (12%)**
 
 * Toewijzingsproces tussen Marketo en CRM bepalen
 * Identificeer wat met activa gebeurde gebruikend het Spoor van de Controle
@@ -93,7 +93,7 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 * CRM-platforms identificeren met native Marketo-synchronisatie
 * Zoek bij een scenario de locatie waar naar informatie wordt verwezen
 
-**Sectie 2: Marketingactiviteiten/Campaign Management (46%)**
+**Sectie 2: De Activiteiten van de marketing/Campaign Management (46%)**
 
 * Toon een inzicht in Slimme Campagnes, logica, beperkingen en stroomstappen aan
 * Op basis van een scenario de volgende stap definiëren
@@ -103,7 +103,7 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 * Voorbeelden van gebruik voor verschillende typen tokens weergeven
 * Geef een overzicht van het nut van Webhooks in Marketo en hoe deze worden gebruikt
 * Identificeer en pas het passende gebruik van PMCF toe
-* Beschrijf de voordelen van Global Assets en hoe u deze kunt gebruiken
+* Verklaar de voordelen van Global Assets en hoe u deze kunt gebruiken
 * De mogelijkheden van formulieren demonstreren
 * Een teststrategie voor A/B uitvoeren en analyseren
 * Identificeer waar een programma of een middel met &quot;Gebruikt door&quot;van verwijzingen is voorzien
@@ -118,14 +118,14 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 * Het logboek met hoofdactiviteit interpreteren
 * Op basis van een scenario de aanmaakbron identificeren
 
-**Sectie 4: Gegevensbeheer (10%)**
+**Sectie 4: Het Beheer van gegevens (10%)**
 
 * Toon hoe te om een programma van het gegevensbeheer op te zetten
 * De gegevenskwaliteit van een instantie analyseren
 * Identificeer een paar zeer belangrijke stukken van het beleid van het de gegevensbehoud van Marketo aangezien het op slimme lijsten betrekking heeft
 * Samenvatten hoe segmentatie werkt
 
-**Sectie 5: Rapportage (4%)**
+**Sectie 5: Het melden (4%)**
 
 * Op basis van het resultaat van een campagne bepalen hoe u een programma instelt voor de beste rapportage
 * In een scenario kan het passende overnameprogramma worden onderzocht en toegewezen
@@ -144,7 +144,7 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam) {target="_blank"}
 
 <br>
 
@@ -162,19 +162,19 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/144)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/144)
 
 +++
 
@@ -240,7 +240,7 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.
 

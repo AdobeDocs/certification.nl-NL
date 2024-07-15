@@ -1,6 +1,6 @@
 ---
 title: Expertcertificering
-description: Leer hoe u een gecertificeerde expert in Adobe kunt worden [!DNL Customer Journey Analytics]
+description: Leer hoe te om een verklaarde Deskundige in Adobe te worden  [!DNL Customer Journey Analytics]
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Customer Journey Analytics] Ontwikkelaarsexpert
+# Certificatietraject voor Adobe [!DNL Customer Journey Analytics] Ontwikkelaarsexpert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/132) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/132) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ### Minimale ervaring {#minimum-experience}
 
-U moet 12-24 maanden ervaring hebben met Adobe [!DNL Customer Journey Analytics]en in staat zijn de volgende taken uit te voeren:
+U moet 12-24 maanden ervaring hebben met Adobe [!DNL Customer Journey Analytics] en de volgende taken kunnen uitvoeren:
 
 * XDM-schema (klassen) lezen en begrijpen
 * Toon een vertrouwdheid met de platforminterface aan
@@ -68,7 +68,7 @@ U moet 12-24 maanden ervaring hebben met Adobe [!DNL Customer Journey Analytics]
 * Een gegevensweergave configureren (configuratie metrisch/dimensie)
 * Adobe configureren [!DNL Customer Journey Analytics]
 * Gegevens transformeren binnen de afmetingen en metriek
-* De grondbeginselen van de werkruimte analyseren (visualisaties, attributie-instellingen, filters, berekende metriek)
+* Basisprincipes van Workspace analyseren (visualisaties, attributie-instellingen, filters, berekende metriek)
 * Werken met gegevensbeheer in CJA (DULE)
 * Samenstellen op verschillende kanaalwaarden of op personen gebaseerde filters
 * Sandboxen onderscheiden/begrijpen in AEP
@@ -85,19 +85,19 @@ U moet 12-24 maanden ervaring hebben met Adobe [!DNL Customer Journey Analytics]
 * CJA-verbindingen ontwerpen met de juiste instellingen
 * CJA-verbindingen maken van XDM-gegevenssets die beschikbaar zijn in AEP per sandbox
 
-**Sectie 2: Gegevensweergaven (30%)**
+**Sectie 2: De Kijken van gegevens (30%)**
 
 * Gegevensweergaven configureren voor rapportage en analyse
 * Componenten in gegevensweergaven wijzigen
 
-**Sectie 3: Validatie en probleemoplossing van gegevens (34%)**
+**Sectie 3: De Bevestiging en het Oplossen van problemen van gegevens (34%)**
 
 * Controleren of de gegevens correct en volledig worden ingevuld
 * Verbindingen en gegevensweergaven oplossen
 * Componenten maken of problemen oplossen
 * Gebruik van licenties controleren
 
-**Sectie 4: Rapportage en activering (14%)**
+**Sectie 4: Het melden en Activeren (14%)**
 
 * Analysis Workspace gebruiken om klantritten over meerdere kanalen met de juiste visualisaties aan te tonen
 * De leden van een CJA-filter naar een RTCDP-publiek verzenden
@@ -119,19 +119,19 @@ U moet 12-24 maanden ervaring hebben met Adobe [!DNL Customer Journey Analytics]
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/132)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/132)
 
 +++
 
@@ -186,6 +186,6 @@ U moet 12-24 maanden ervaring hebben met Adobe [!DNL Customer Journey Analytics]
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

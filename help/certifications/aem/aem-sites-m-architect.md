@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Experience Manager Sites] Architect Master
+# Reis voor certificering voor Adobe [!DNL Experience Manager Sites] Architect Master
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/130) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/130) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -55,8 +55,8 @@ ht-degree: 0%
 U zou moeten hebben:
 
 * Ten minste 3 jaar ervaring als architect-gebouw in AEM Sites
-* Het vermogen om in Adobe Managed Services en Adobe te werken [!DNL Experience Manager as a Cloud Service]
-* De mogelijkheid om Adobe in te stellen [!DNL Experience Manager] omgevingen en infrastructuur
+* De mogelijkheid om te werken in Adobe Managed Services en Adobe [!DNL Experience Manager as a Cloud Service]
+* De mogelijkheid om Adobe [!DNL Experience Manager] -omgevingen en -infrastructuur in te stellen
 
 Bovendien, zou u de capaciteit moeten hebben om de volgende taken uit te voeren:
 
@@ -79,7 +79,7 @@ Bovendien, zou u de capaciteit moeten hebben om de volgende taken uit te voeren:
 * Workflowmodellen ontwerpen voor bedrijfsprocessen
 * Strategieën vaststellen voor platformprestaties en penetratie-/beveiligingstests
 * Inhoud op meerdere kanalen hergebruiken
-* Account voor overwegingen die gericht zijn op de cloud, zoals: automatisch schalen, replicatie, beheer van bedrijfsmiddelen, de implicaties en verschillen tussen services op locatie en beheerde services, Cloud Manager, pakketbeheer
+* Houd rekening met overwegingen die gericht zijn op de cloud, zoals: automatisch schalen, replicatie, beheer van bedrijfsmiddelen, de implicaties en verschillen tussen services op locatie en beheerde services, Cloud Manager, pakketbeheer
 
 <br>
 
@@ -87,13 +87,13 @@ Bovendien, zou u de capaciteit moeten hebben om de volgende taken uit te voeren:
 
 {{exam-objectives}}
 
-**Sectie 1: Detectie (18%)**
+**Sectie 1: Ontdekking (18%)**
 
 * Vertaal bedrijfsdoelstellingen op hoog niveau aan functionele vereisten
 * Op basis van een scenario de huidige status van een architectuur beoordelen
 * Niet-functionele technische eisen voor het ontwerp van de oplossing vaststellen
 
-**Sectie 2: Oplossingsontwerp (44%)**
+**Sectie 2: Het ontwerp van de Oplossing (44%)**
 
 * Gezien bedrijfsvereisten, ontwerp gedetailleerde architectuur en oplossing
 * Gezien een scenario, bepaal aangewezen veiligheidsoplossingen voor een ontwerp
@@ -102,7 +102,7 @@ Bovendien, zou u de capaciteit moeten hebben om de volgende taken uit te voeren:
 * Procedurele concepten toepassen voor het ontwerpen van schaalbare en veerkrachtige architectuur
 * Op basis van een scenario kunt u migratiestrategieën aanbevelen
 
-**Deel 3: Uitvoering (22%)**
+**Sectie 3: Uitvoering (22%)**
 
 * Op basis van een scenario ontwerpproblemen identificeren en oplossen die tijdens de implementatiefase aan het licht zijn gekomen
 * Op basis van een scenario wordt aanbevolen implementatiebenaderingen uit te voeren op basis van vereisten
@@ -121,7 +121,7 @@ Bovendien, zou u de capaciteit moeten hebben om de volgende taken uit te voeren:
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam) {target="_blank"}
 
 <br>
 
@@ -139,15 +139,15 @@ Bovendien, zou u de capaciteit moeten hebben om de volgende taken uit te voeren:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/130)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/130)
 
 +++
 
@@ -213,6 +213,6 @@ Bovendien, zou u de capaciteit moeten hebben om de volgende taken uit te voeren:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

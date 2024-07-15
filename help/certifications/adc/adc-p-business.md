@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor [!DNL Adobe Document Cloud] Professioneel als bedrijf
+# Certification trip for [!DNL Adobe Document Cloud] Business Practitioner Professional
 
 {{intro}}
 
@@ -48,9 +48,9 @@ ht-degree: 0%
 
 U zou moeten hebben:
 
-* Ten minste 0-12 maanden ervaring binnen [!DNL Adobe Document Cloud]
+* Minder dan 0 tot 12 maanden ervaring binnen [!DNL Adobe Document Cloud]
 * De bedrijfsbehoeften kunnen identificeren en meedelen
-* advies over productactivering kunnen geven op [!DNL Adobe Document Cloud] oplossingen.
+* U kunt productinstellingsadvies over [!DNL Adobe Document Cloud] -oplossingen uitvoeren.
 
 <br>
 
@@ -58,23 +58,23 @@ U zou moeten hebben:
 
 {{exam-objectives}}
 
-**Sectie 1: Hoofdletterdetectie gebruiken (36%)**
+**Sectie 1: De Ontdekking van het Geval van het gebruik (36%)**
 
 * Kwalificerende vragen stellen om de kansen van het Document Cloud te identificeren
 * Gevallen voor zakelijk gebruik op hoog niveau definiëren
 
-**Sectie 2: Evaluatie van bedrijfsprocessen (34%)**
+**Sectie 2: De Evaluatie van het BedrijfsProces (34%)**
 
 * Belangrijkste gebieden van procesverbetering en oplossingsvermogen identificeren
 * Zakelijke doelen afstemmen op de mogelijkheden van het Document Cloud
 * Bied eindgebruikers gerichte demonstraties van verschillende onderdelen van Document Cloud
 
-**Sectie 3: Define Document Cloud (DC) Capabilities (18%)**
+**Sectie 3: Bepaal Document Cloud (gelijkstroom) Mogelijkheden (18%)**
 
 * Een overzicht geven van de gevolgen van de naleving en beveiligingsvereisten van documenten en elektronische handtekeningen
 * Beschrijven hoe waarde wordt toegevoegd door proceswijziging
 
-**Sectie 4: Aanbevolen oplossing (12%)**
+**Sectie 4: Bevel Oplossing (12%)**
 
 * Ontwerp van een oplossing voor Documenten Cloud aanbevelen
 
@@ -94,53 +94,53 @@ U zou moeten hebben:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Sectie 1: Hoofdletterdetectie gebruiken**
+**Sectie 1: De Ontdekking van het Geval van het gebruik**
 
-* [Overzicht van Document Services](https://developer.adobe.com/document-services/docs/overview/){target="_blank"}
-* [Welkom bij een geheel nieuw document](https://www.adobe.com/documentcloud.html){target="_blank"}
-* [Adobe van API voor documentgeneratie](https://developer.adobe.com/document-services/apis/doc-generation){target="_blank"}
-* [Gebruiksscenario&#39;s Acrobat Services API](https://developer.adobe.com/document-services/use-cases/agreements-and-contracts/legal-contracts/){target="_blank"}
-* [Ontdek hoe Acrobat Sign uw bedrijf kan versnellen](https://www.adobe.com/sign.html){target="_blank"}
-* [Adobe Acrobat Sign-functie](https://www.adobe.com/sign/features.html){target="_blank"}
+* [ Overzicht van de Diensten van het Document ](https://developer.adobe.com/document-services/docs/overview/) {target="_blank"}
+* [ Onthaal aan een volledige nieuwe documentervaring ](https://www.adobe.com/documentcloud.html) {target="_blank"}
+* [ de Generatie API van het Document van de Adobe ](https://developer.adobe.com/document-services/apis/doc-generation) {target="_blank"}
+* ](https://developer.adobe.com/document-services/use-cases/agreements-and-contracts/legal-contracts/) {target="_blank"} Gevallen van het Gebruik van de Diensten van Acrobat API[
+* [ zie hoe Acrobat Sign uw zaken ](https://www.adobe.com/sign.html) kan versnellen {target="_blank"}
+* [ de Eigenschap van Adobe Acrobat Sign ](https://www.adobe.com/sign/features.html) {target="_blank"}
 
-**Sectie 2: Evaluatie van bedrijfsprocessen**
+**Sectie 2: De Evaluatie van het BedrijfsProces**
 
-* [Adobe PDF Extract-API](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
-* [PDF Services-API](https://developer.adobe.com/document-services/docs/apis/){target="_blank"}
-* [Adobe Acrobat Sign Aan de slag-handleiding](https://helpx.adobe.com/sign/using/get-started-guide.html){target="_blank"}
-* [Adobe Acrobat Sign Web Forms](https://helpx.adobe.com/sign/config/web-forms.html){target="_blank"}
-* [Adobe PDF Embed-API](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
-* [PDF- en e-handtekeningtools voor uw bedrijf. Acrobat heeft het.](https://www.adobe.com/acrobat/business.html){target="_blank"}
-* [Adobe Acrobat-gebruikershandleiding](https://helpx.adobe.com/acrobat/user-guide.html){target="_blank"}
-* [Overzicht van integraties - Nieuwe functies](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html#what%E2%80%99s-new){target="_blank"}
-* [Veilige, flexibele online handtekeningen](https://www.adobe.com/sign/online-signature.html){target="_blank"}
+* [ Uittreksel API van Adobe PDF ](https://developer.adobe.com/document-services/apis/pdf-extract/) {target="_blank"}
+* [ PDF Services API ](https://developer.adobe.com/document-services/docs/apis/) {target="_blank"}
+* [ Adobe Acrobat Sign krijgt Begonnen gids ](https://helpx.adobe.com/sign/using/get-started-guide.html) {target="_blank"}
+* [ de Vormen van het Web van Adobe Acrobat Sign ](https://helpx.adobe.com/sign/config/web-forms.html) {target="_blank"}
+* [ Adobe PDF bedt API ](https://developer.adobe.com/document-services/apis/pdf-embed/) {target="_blank"} in
+* [ PDF en e-handtekening hulpmiddelen voor uw zaken. Acrobat heeft het.](https://www.adobe.com/acrobat/business.html) {target="_blank"}
+* [ de Gids van de Gebruiker van Adobe Acrobat ](https://helpx.adobe.com/acrobat/user-guide.html) {target="_blank"}
+* [ overzicht van de Integraties - wat is nieuw ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html#what%E2%80%99s-new) {target="_blank"}
+* [ Veilige, flexibele online handtekeningen ](https://www.adobe.com/sign/online-signature.html) {target="_blank"}
 
-**Sectie 3: Document Cloud (DC)-mogelijkheden definiëren**
+**Sectie 3: Bepaal Document Cloud (gelijkstroom) Mogelijkheden**
 
-* [Certificeringen, normen en voorschriften voor naleving van Adoben](https://www.adobe.com/trust/compliance/compliance-list.html){target="_blank"}
-* [Adobe Sign for Life Sciences](https://www.adobe.com/content/dam/dx-dc/en/pdfs/adobe-sign-life-sciences-solution-brief-ue.pdf){target="_blank"}
-* [Compatibiliteit voldoet aan standaard](https://www.adobe.com/documentcloud/resources/compliance.html){target="_blank"}
-* [Wat is een digitale handtekening?](https://www.adobe.com/sign/digital-signatures.html){target="_blank"}
-* [De totale economische impact van Adobe Sign](https://www.adobe.com/content/dam/dx-dc/pdf/total-economic-impact-adobe-sign-ue.pdf)
-* [Ervaring met documenten met PDF-API&#39;s die zijn ontworpen voor ontwikkelaars](https://developer.adobe.com/document-services){target="_blank"}
-* [Zichtbaarheid document beperken](https://helpx.adobe.com/sign/using/limited-document-visibility.html){target="_blank"}
+* ](https://www.adobe.com/trust/compliance/compliance-list.html) {target="_blank"} de Certificatie van de Naleving van de Adobe, Normen, en Verordeningen[
+* [ Adobe Sign voor de Wetenschappen van het Leven ](https://www.adobe.com/content/dam/dx-dc/en/pdfs/adobe-sign-life-sciences-solution-brief-ue.pdf) {target="_blank"}
+* [ de Naleving komt Standaard ](https://www.adobe.com/documentcloud/resources/compliance.html) {target="_blank"}
+* [ wat is een digitale handtekening?](https://www.adobe.com/sign/digital-signatures.html) {target="_blank"}
+* [ De totale Economische Gevolgen van Adobe Sign ](https://www.adobe.com/content/dam/dx-dc/pdf/total-economic-impact-adobe-sign-ue.pdf)
+* [ Verbeeld documentervaringen met PDF APIs die voor ontwikkelaars ](https://developer.adobe.com/document-services) worden ontworpen {target="_blank"}
+* [ de Zichtbaarheid van het Document van de Beperking ](https://helpx.adobe.com/sign/using/limited-document-visibility.html) {target="_blank"}
 
-**Sectie 4: Aanbevolen oplossing**
+**Sectie 4: Bevestig Oplossing**
 
-* [Beveiligingsoverzicht van Adobe Acrobat Services API&#39;s](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/doc-cloud/adobe-document-services-security-overview.pdf){target="_blank"}
-* [Aan de slag met Acrobat Services-API&#39;s](https://documentservices.adobe.com/dc-integration-creation-app-cdn/main.html){target="_blank"}
-* [Adobe Acrobat-automatisering en documentworkflows](https://helpx.adobe.com/acrobat/kb/automation-and-document-workflows.html){target="_blank"}
-* [Welkom bij een geheel nieuwe documentervaring.](https://www.adobe.com/documentcloud.html){target="_blank"}
-* [Adobe Acrobat-functies en -gereedschappen](https://www.adobe.com/acrobat/features.html){target="_blank"}
-* [Workflows voor ondertekening instellen](https://helpx.adobe.com/ca/sign/using/workflow-designer-signature-workflow.html){target="_blank"}
+* [ het Overzicht van de Veiligheid APIs van de Diensten van Adobe Acrobat ](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/doc-cloud/adobe-document-services-security-overview.pdf) {target="_blank"}
+* [ krijgen Begonnen met de Diensten APIs van Acrobat ](https://documentservices.adobe.com/dc-integration-creation-app-cdn/main.html) {target="_blank"}
+* [ de automatisering van Adobe Acrobat en documentwerkschema&#39;s ](https://helpx.adobe.com/acrobat/kb/automation-and-document-workflows.html) {target="_blank"}
+* [ Onthaal aan een volledige nieuwe documentervaring.](https://www.adobe.com/documentcloud.html) {target="_blank"}
+* [ de Eigenschappen en Hulpmiddelen van Adobe Acrobat ](https://www.adobe.com/acrobat/features.html) {target="_blank"}
+* [ opstelling ondertekenende werkschema&#39;s ](https://helpx.adobe.com/ca/sign/using/workflow-designer-signature-workflow.html) {target="_blank"}
 
 <br>
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
@@ -197,6 +197,6 @@ U zou moeten hebben:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

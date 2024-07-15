@@ -1,6 +1,6 @@
 ---
 title: Certificering ontwikkelaarsexpert
-description: Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager Sites] Expert.
+description: Leer hoe te om een verklaarde Adobe  [!DNL Experience Manager Sites]  Deskundige te worden.
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Experience Manager] Sites Developer Expert
+# Certificatierit voor Adobe [!DNL Experience Manager] Sites Developer Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/125) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/125) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -77,10 +77,10 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 **Sectie 1: Configuraties (22%)**
 
-* Identificeer de stappen om AEM Dispatcher-configuraties te creëren en te beheren
+* Identificeer de stappen om AEM Dispatcher-configuraties te maken en te beheren
 * Bepaal de correcte stappen om multi-huur te vormen
 * Verklaar hoe te om configuraties te creëren en te beheren OSGi
-* Op basis van een scenario bepaalt u de juiste methode voor het maken en beheren van aangepaste eiken-indexen
+* Op basis van een scenario de juiste methode bepalen voor het maken en beheren van aangepaste Oak-indexen
 * Bepaal de correcte stappen om integratie te vormen OTB SAML en LDAP
 
 **Sectie 2: AEM ontwikkeling (44%)**
@@ -92,12 +92,12 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * Op basis van een scenario de benadering voor integratie van derden bepalen
 * Bepaal de benadering om een headless of hybride implementatie uit te voeren
 
-**Sectie 3: Bouw en implementatie (14%)**
+**Sectie 3: Bouw en plaatsing (14%)**
 
 * Identificeer de stappen aan opstelling en onderhoud front-end en back-end gebiedsbeheer
 * Bepaal correct archetype wanneer het bouwen van projecten
 
-**Sectie 4: Milieu-onderhoud (22%)**
+**Sectie 4: Het onderhoud van het milieu (22%)**
 
 * Op basis van een scenario de vereiste stappen bepalen voor het beheer van AEM omgevingen
 * Verklaar de opstellingsstappen rond versiebeheer
@@ -110,7 +110,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam) {target="_blank"}
 
 <br>
 
@@ -128,19 +128,19 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/125)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/125)
 
 +++
 
@@ -206,6 +206,6 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

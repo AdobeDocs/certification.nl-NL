@@ -1,6 +1,6 @@
 ---
 title: Bedrijfs Praktijkgerichte Beroeps certificatie
-description: Leer hoe u een gecertificeerde Adobe Business Practice Professional in Adobe kunt worden [!DNL Commerce].
+description: Leer hoe te om een verklaarde Beroeps Van Bedrijfs de Praktijk van de Adobe in Adobe  [!DNL Commerce] te worden.
 solution: Commerce
 product: Magento
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Commerce] Professioneel als bedrijf
+# Certification trip for Adobe [!DNL Commerce] Business Practitioner Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
 >
->* **Cursussen**: Neem de [Adobe Commerce Business Practitioner Professional-cursus](https://app.rockinfo.com/courses/219) voor uitleg over belangrijke concepten, praktijkdemonstraties en kenniscontroles. Als je net begint, [Adobe Commerce-oprichtingscursus](https://app.rockinfo.com/courses/148) biedt een basis van kennis waarop u kunt voortbouwen tijdens uw certificeringsreis.
+>* **Cursussen**: Neem de [ BeroepsCursus van de Praktijk van de Praktijk van Adobe Commerce ](https://app.rockinfo.com/courses/219) voor verklaringen van zeer belangrijke concepten, hands-on demonstraties, en kenniscontroles. Als u enkel uit begint, verstrekt de [ Cursus van de Stichting van Adobe Commerce ](https://app.rockinfo.com/courses/148) een basis van kennis u op in uw certificatietraject kunt voortbouwen.
 >
->* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/137) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
+>* **Gids van de Prep van het Examen van het Examen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/137) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
 >
->_Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
+>_als u aan login wordt ertoe aangezet, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 * Projectmanagers
 * Eigenaars van producten
 * Consultants
-* [!DNL Adobe Commerce] strategen
+* [!DNL Adobe Commerce] strategisten
 * eCommerce Admin/Director/Manager/Consultants
 * Digital Marketing Director/Manager/Developers
 * Oplossingsspecialisten
@@ -62,11 +62,11 @@ ht-degree: 0%
 
 ### Minimale ervaring {#minimum-experience}
 
-U moet minimaal 0-12 maanden praktijkervaring hebben met [!DNL Magento Open Source] versie 2.4.3. gebruik van het LUMA- of BLANK-thema en basisbegrip van Adobe [!DNL Commerce] versie 2.4.3.
+U moet minimaal 0 tot 12 maanden praktijkervaring hebben met [!DNL Magento Open Source] versie 2.4.3 met het LUMA- of BLANK-thema en basiskennis van Adobe [!DNL Commerce] versie 2.4.3.
 
 Bovendien moet u een basiskennis hebben van de eCommerce-ervaring en kennis hebben van de volgende concepten:
 
-* Digitale marketing (SEO, CMS, e-mailmarketing, verkooptechnieken [cross-sell, upsell], analyses, rapportage en monitoring)
+* Digitale marketing (SEO, CMS, e-mailmarketing, verkooptechnieken [ dwars-verkopen, upsell ], analyse, rapportering, en controle)
 * Ecommerce terminologie (verkoop/marketing strategieën zoals omnichannel en multichannel)
 * Prijsstelling en promotie
 * Klantenservice
@@ -81,24 +81,24 @@ Bovendien moet u een basiskennis hebben van de eCommerce-ervaring en kennis hebb
 
 {{exam-objectives}}
 
-**Sectie 1: [!DNL Magento Open Source] kernfuncties (49%)**
+**Sectie 1: [!DNL Magento Open Source] kerneigenschappen (49%)**
 
-* Omgaan met de functies van [!DNL Magento Open Source]
+* De functies van [!DNL Magento Open Source] identificeren
 * Bepaal het correcte werkingsgebied en wanneer om elk te gebruiken
 * Kennis van catalogusbeheer aantonen
-* Prijsbepaling manipuleren met [!DNL Magento Open Source] functies
+* Prijzen manipuleren met behulp van [!DNL Magento Open Source] -functies
 * Beschrijf de standaardreis van de klant
 * Beschrijf de standaard levenscyclus van de orde
 * Beschrijf de dagelijkse taken betrokken bij het onderhoud van de winkel
 * Verklaar de verschillende soorten inhoudselementen en wanneer om te gebruiken
 
-**Deel 2: Adobe [!DNL Commerce] basisbeginselen (14%)**
+**Sectie 2: De grondbeginselen van de Adobe [!DNL Commerce] (14%)**
 
 * Belangrijke functies die beschikbaar zijn in de Adobe identificeren [!DNL Commerce]
 * Invoegtoepassingen voor services identificeren in Adobe [!DNL Commerce]
-* Identificeer gastheeropties voor Adobe [!DNL Commerce]
+* Hostopties voor Adobe identificeren [!DNL Commerce]
 
-**Sectie 3: Digitale marketing en de basisbeginselen van e-handel (24%)**
+**Sectie 3: Digitale marketing en de fundamentele waarden van de eHandel (24%)**
 
 * Identificeer het basisgebruik van Digital Marketing-tools (Googles Analytics/Adobe Analytics, Google Tag Manager, E-mailmarketing, Segmentatie, sociale plug-ins)
 * Verklaar de basisbeginselen van SEO
@@ -106,10 +106,10 @@ Bovendien moet u een basiskennis hebben van de eCommerce-ervaring en kennis hebb
 * Belangrijkste kenmerken van een eCommerce-website identificeren
 * Identificeer de basisconcepten van de eCommerce (met inbegrip van archiefront opties)
 
-**Sectie 4: Beginselen van naleving/beveiliging (13%)**
+**Sectie 4: De grondbeginselen van de Naleving/van de veiligheid (13%)**
 
 * Begrijp de grondbeginselen van naleving van privacywetten en betalingsbeveiliging
-* Gemeenschappelijke veiligheidsaspecten van een Adobe identificeren [!DNL Commerce] project
+* Gemeenschappelijke veiligheidsaspecten van een Adobe [!DNL Commerce] -project identificeren
 * Aanwijzen van beste praktijken en wettelijke vereisten van toegankelijkheids naleving
 
 <br>
@@ -118,7 +118,7 @@ Bovendien moet u een basiskennis hebben van de eCommerce-ervaring en kennis hebb
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam) {target="_blank"}
 
 <br>
 
@@ -136,27 +136,27 @@ Bovendien moet u een basiskennis hebben van de eCommerce-ervaring en kennis hebb
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Een cursus volgen**
+**neem een cursus**
 
 {{take-course}}
 
-[De cursus Adobe Commerce-stichtingen volgen](https://app.rockinfo.com/courses/148)
+[ neem de Cursus van de Stichting van Adobe Commerce ](https://app.rockinfo.com/courses/148)
 
-[De Adobe Commerce Business Practitioner Professional-cursus volgen](https://app.rockinfo.com/courses/219)
+[ neem de BeroepsCursus van de Praktijk van de Bedrijfs Adobe Commerce ](https://app.rockinfo.com/courses/219)
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/137)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/137)
 
 +++
 
@@ -211,6 +211,6 @@ Bovendien moet u een basiskennis hebben van de eCommerce-ervaring en kennis hebb
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

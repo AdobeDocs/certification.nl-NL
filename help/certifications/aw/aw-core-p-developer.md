@@ -1,6 +1,6 @@
 ---
 title: Core Developer Professional-certificering
-description: Leer hoe u een gecertificeerde Adobe Developer Professional in Adobe kunt worden [!DNL Workfront].
+description: Leer hoe te om een verklaarde Beroeps van Adobe Developer in Adobe te worden  [!DNL Workfront].
 solution: Workfront
 role: Developer
 badge: label="Examen AD0-E905" type="neutral"
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Workfront] Core Developer Professional
+# Certification trip for Adobe [!DNL Workfront] Core Developer Professional
 
 {{intro}}
 
 >[!NOTE]
 >
->Dit examen, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905) is bijgewerkt. Als u al bent begonnen met studeren of deze versie wilt gebruiken, moet u deze voor 26 februari 2024 voltooien. Als u nog maar aan de slag gaat, raden we u aan de [nieuwste versie van dit examen (AD0-E908)](aw-core-p-developer-23-12.md). Als u moet opnieuw plannen, moet u het nieuwe examen nemen.
+>Dit examen, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905), is bijgewerkt. Als u al bent begonnen met studeren of deze versie wilt gebruiken, moet u deze voor 26 februari 2024 voltooien. Als u enkel begonnen wordt, adviseren wij het nemen van de [ nieuwste versie van dit examen (AD0-E908) ](aw-core-p-developer-23-12.md). Als u moet opnieuw plannen, moet u het nieuwe examen nemen.
 
 ## Beschrijving van examen {#exam-description}
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 * Resource Manager
 * Analyst
 * IT-specialist
-* [!DNL Workfront] implementatieconsultant/lead
+* [!DNL Workfront] implementatiedeskundige/lead
 
 <br>
 
@@ -59,18 +59,18 @@ ht-degree: 0%
 U zou moeten hebben:
 
 * Minstens 3 - 6 maanden praktijkervaring met Adobe [!DNL Workfront]
-* Ervaring met Adobe [!DNL Workfront] functionaliteit en connectiviteit via inname, goedkeuring, planning, uitvoering en rapportage
-* Een diepgaand inzicht in de Adobe [!DNL Workfront] objecttypen, waaronder aangepaste formulieren en goedkeuringswerkstromen, sjablonen, duur, werkinspanning/geplande uren
-* Een diepgaand inzicht in de Adobe [!DNL Workfront] Opstelling, met inbegrip van toegangsniveaus, lay-outmalplaatjes, projectvoorkeur, en andere methodes om eenvoud van eindgebruikerontwerp te bereiken
+* Ervaring met Adobe [!DNL Workfront] functionaliteit en connectiviteit via opname, goedkeuring, planning, uitvoering en rapportage
+* Uitgebreid inzicht in de objecttypen Adobe [!DNL Workfront] , waaronder aangepaste formulieren en goedkeuringswerkstromen, sjablonen, tijdsduur, werkinspanning/geplande uren
+* Een diepgaand inzicht in Adobe [!DNL Workfront] Opstelling, met inbegrip van toegangsniveaus, lay-outmalplaatjes, projectvoorkeur, en andere methodes om eenvoud van eindgebruikerontwerp te bereiken
 * Kennis van en ervaring met procesmapping
-* Een begrip van verschillende Adobe [!DNL Workfront] persona&#39;s en hoe u ondersteuning kunt bieden
+* Een goed begrip van verschillende Adobe [!DNL Workfront] personas en hoe u ondersteuning kunt bieden
 
 En u moet:
 
-* Kennis met [!DNL Workfront] API- en API-verkenner, maar niet noodzakelijkerwijs deskundig in API-aanroepen
+* Kennis van de API- en API-verkenner van [!DNL Workfront] , maar niet noodzakelijkerwijs in API-aanroepen
 * De mogelijkheid om aangepaste API-aanroepen te gebruiken voor het werken met [!DNL Workfront] en andere API&#39;s
 * Kennis van Adobe [!DNL Workfront]
-* Vertrouwdheid met native connectors en andere Adobe [!DNL Workfront] producten en diensten
+* Kennis van native connectors en andere Adobe [!DNL Workfront] producten en services
 * Kennis van het projectbeheer, inclusief flexibiliteit en waterval, en concepten voor middelenbeheer
 
 <br>
@@ -99,7 +99,7 @@ En u moet:
 * Toon hoe te om timesheets tot stand te brengen en te gebruiken
 * Beschrijf het doel en de waarde van schakelaars, stop-ins, en toe:voegen-ons
 
-**Sectie 4. Metriek en rapportage (16%)**
+**Sectie 4. Metriek en het melden (16%)**
 
 * Beschrijf basisconcepten voor het bouwen, verzenden, en het aanpassen van rapporten
 * Uitleggen hoe u dashboards kunt maken en aanpassen
@@ -110,9 +110,9 @@ En u moet:
 * Demonstreer hoe te opstellings goedkeuring en proefdrukken werkschema&#39;s
 * Het doel van het maken van een uitgave voor een project herkennen
 * Toon hoe te om groep-vlakke projectstatussen aan te passen
-* Identificeer de attributen nodig om Agile binnen toe te laten [!DNL Workfront]
-* Identificeer de manieren om tijd binnen in te gaan [!DNL Workfront]
-* Identificeer de elementen van financiële tracking in [!DNL Workfront]
+* De kenmerken identificeren die nodig zijn om Agile in te schakelen [!DNL Workfront]
+* De manieren identificeren waarop u tijd kunt invoeren in [!DNL Workfront]
+* Elementen van financiële tracering identificeren in [!DNL Workfront]
 
 <br>
 
@@ -120,7 +120,7 @@ En u moet:
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional) {target="_blank"}
 
 <br>
 
@@ -138,58 +138,58 @@ En u moet:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Deel 1: Strategie en inname**
+**Sectie 1: Strategie en consumptie**
 
-* [Beste praktijken - Portfolio&#39;s en programma&#39;s](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/portfolios-programs-bp.html){target="_blank"}
-* [Overzicht van Portfolio&#39;s in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/portfolio-overview-in-adobe-workfront/portfolio-overview.html){target="_blank"}
-* [Een aanvraagwachtrij maken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
-* [Vragenrijen begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
-* [Overzicht van aangepaste formulieren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
-* [Een aangepast formulier maken en delen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
+* [ Beste praktijken - Portfolio&#39;s en programma&#39;s ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/portfolios-programs-bp.html) {target="_blank"}
+* [ overzicht van het Portfolio in Adobe  [!DNL Workfront] ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/portfolio-overview-in-adobe-workfront/portfolio-overview.html) {target="_blank"}
+* [ creeer een Rij van het Verzoek ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html) {target="_blank"}
+* [ begrijp verzoekrijen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html) {target="_blank"}
+* [ overzicht van de Vorm van de Douane ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html) {target="_blank"}
+* [ creeer en deel een douanevorm ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) {target="_blank"}
 
-**Afdeling 2: Begroting en planning**
+**Sectie 2: Begroting en planning**
 
-* [Resourceplanning in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-planning-overview.html){target="_blank"}
-* [Wat is de Resource Planner?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html){target="_blank"}
-* [Beste praktijken - de Planner van het Middel](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html){target="_blank"}
-* [Een projectsjabloon maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
-* [Projectsjablonen bewerken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/edit-templates.html){target="_blank"}
-* [Beste praktijken - de malplaatjes van het Project](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/project-templates-bp.html){target="_blank"}
+* [ Planning van het Middel in Adobe  [!DNL Workfront] ](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-planning-overview.html) {target="_blank"}
+* [ wat is de Planner van het Middel?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html) {target="_blank"}
+* [ Beste praktijken - de Planner van het Middel ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html) {target="_blank"}
+* [ creeer een projectmalplaatje ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html) {target="_blank"}
+* [ geef projectmalplaatjes ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/edit-templates.html) {target="_blank"} uit
+* [ Beste praktijken - de malplaatjes van het Project ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/project-templates-bp.html) {target="_blank"}
 
-**Sectie 3: Ervaring voor gebruikers**
+**Sectie 3: Ervaring van de gebruiker**
 
-* [Beste praktijken - Onboarding en adoptie](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
-* [Een individueel gebruikersprofiel maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
-* [Systeeminstellingen: groepen en gebruikers](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html){target="_blank"}
-* [Een project delen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html){target="_blank"}
-* [Hoe de toegangsniveaus en de toestemmingen samenwerken](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
-* [Gegevens importeren in Adobe [!DNL Workfront] een Kick-Start-sjabloon gebruiken](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html){target="_blank"}
+* [ Beste praktijken - Onboarding en goedkeuring ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html) {target="_blank"}
+* [ creeer een individueel gebruikersprofiel ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html) {target="_blank"}
+* [ opstelling van het Systeem: groepen en gebruikers ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html) {target="_blank"}
+* [ Deel een project ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html) {target="_blank"}
+* [ hoe de toegangsniveaus en de toestemmingen samenwerken ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html) {target="_blank"}
+* [ de Gegevens van de Invoer in Adobe  [!DNL Workfront]  gebruikend een Kick-Begin malplaatje ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html) {target="_blank"}
 
-**Sectie 4: Metriek en rapportage**
+**Sectie 4: Metriek en het melden**
 
-* [Een aangepast rapport maken](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
-* [Rapporten verzenden en delen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html){target="_blank"}
-* [Tips en trucs - Aangepaste rapporten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/custom-reports-bp.html){target="_blank"}
+* [ creeer een douanerapport ](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html) {target="_blank"}
+* [ verzend en deel rapporten ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html) {target="_blank"}
+* [ Beste praktijken - de rapporten van de Douane ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/custom-reports-bp.html) {target="_blank"}
 
 
 **Sectie 5: Uitvoering**
 
-* [Workflowbeheer](https://business.adobe.com/products/workfront/workflow-management.html){target="_blank"}
-* [Overzicht van voortgang van project](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-progress-status.html){target="_blank"}
-* [Een bestandsteam maken](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
-* [Trackkosten](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
+* [ het beheer van het Werkschema ](https://business.adobe.com/products/workfront/workflow-management.html) {target="_blank"}
+* [ Overzicht van de Status van de Voortgang van het Project ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-progress-status.html) {target="_blank"}
+* [ creeer een mobiel team ](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html) {target="_blank"}
+* [ kosten van het Spoor ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html) {target="_blank"}
 
 <br>
 
-**Voorbeeldvragen**
+**de vragen van de Steekproef**
 
 {{sample-questions}}
 
-[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
+[ de steekproefvragen van de Mening ](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam) {target="_blank"}
 
 +++
 
@@ -219,7 +219,7 @@ En u moet:
 
 >[!NOTE]
 >
->Dit examen, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905) is bijgewerkt. Als u al bent begonnen met studeren of deze versie wilt gebruiken, moet u deze voor 26 februari 2024 voltooien. Als u nog maar aan de slag gaat, raden we u aan de [nieuwste versie van dit examen (AD0-E908)](aw-core-p-developer-23-12.md).
+>Dit examen, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905), is bijgewerkt. Als u al bent begonnen met studeren of deze versie wilt gebruiken, moet u deze voor 26 februari 2024 voltooien. Als u enkel begonnen wordt, adviseren wij het nemen van de [ nieuwste versie van dit examen (AD0-E908) ](aw-core-p-developer-23-12.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -248,6 +248,6 @@ En u moet:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

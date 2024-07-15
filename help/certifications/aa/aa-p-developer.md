@@ -1,6 +1,6 @@
 ---
 title: Certificering van ontwikkelaars
-description: Leer hoe u gecertificeerd bent als een [!DNL Adobe Analytics] Developer Professional.
+description: Leer hoe te om als Beroeps van de Ontwikkelaar te worden verklaard  [!DNL Adobe Analytics] .
 solution: Analytics
 product: Analytics
 role: Developer
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor [!DNL Adobe Analytics] Developer Professional
+# Reis voor certificering voor [!DNL Adobe Analytics] Developer Professional
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/217) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/217) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -53,22 +53,22 @@ ht-degree: 0%
 
 U zou moeten hebben:
 
-* 6-12 maanden ervaring in [!DNL Adobe Analytics] implementatie (web- en mobiele app)
+* Ervaring van 6 tot 12 maanden in [!DNL Adobe Analytics] -implementatie (web- en mobiele app)
 * Ervaar ondersteunende teams van de Implementatie van Analytics in het bruggen tussen IT en het zaken om te begrijpen hoe de bedrijfsvereisten in een technische oplossing (SDR) vertalen, en gebaseerd op vereisten die door de analist worden verstrekt
 * Begrijpen welk type variabele nodig is, waar en hoe te om de gegevens te verzamelen, het gegevensmodel (gegevenslaag) te ontwerpen, de oplossing van het markeringsbeheer te vormen en te handhaven
 
 U moet ook ervaring hebben met de volgende taken:
 
-* Het interpreteren van een Document van het Ontwerp van Oplossingen (SDR) en het begrip van het doel van allen [!DNL Adobe Analytics] verzamelde variabelen
+* Een Solutions Design Document (SDR) interpreteren en het doel van alle verzamelde [!DNL Adobe Analytics] variabelen begrijpen
 * Begrijpen en werken met Adobe (Experience Platform) Starten
-* Configuratie van basislijn [!DNL Adobe Analytics] afmetingen en gebeurtenissen Paginanaam, de Naam van de Verbinding, Activity Map, etc., maar zal met deskundige ontwikkelaars voor meer klantenimplementaties werken - de Variabele afbeelding wordt nog bezeten door de ontwikkelaars op het niveau van de Expert.
+* Begrijpen van de configuratie van basislijnafmetingen [!DNL Adobe Analytics] en gebeurtenissen Paginanaam, Koppelingsnaam, Activity Map, enzovoort, maar werkt met deskundige ontwikkelaars voor meer klantimplementaties - Variabele toewijzing is nog steeds eigendom van ontwikkelaars op deskundigenniveau
 * Het creëren van en het vormen van regels binnen Lancering na ontwerp dat door een deskundige van aa wordt verstrekt
 * Testen en valideren van de gegevens die worden vastgelegd in variabele- en gebeurtenissignalen door gebruik te maken van foutopsporing op de webconsole of mobiele app-systemen zoals logboeken voor opladers
 * Begrijpen wat een gegevenslaag is en weten hoe een JavaScript-object kan worden gelezen
 * Het delen van rapporten, segmenten, en het proces om toegang te verzoeken, maar niet hoe te om gebruikersgroepen, governanceprotocollen te beheren, evenals SDR te beheren.
 * Richtlijnen en configuratie van mobiele/SDK-oplossing
 * Werken met het algemene raamwerk voor videotracering (op basis van gebeurtenissen) op basis van kennisbasisdocumentatie
-* Uitvoeren van basisrapportage van Analysis Workspace en inzicht in de gegevensuitvoer die beschikbaar is via de [!DNL Adobe Analytics] Data Warehouse
+* Basisrapportage uitvoeren vanuit Analysis Workspace en de gegevensuitvoer begrijpen die beschikbaar is via de Data Warehouse [!DNL Adobe Analytics]
 * Basiservaring met Adobe Experience Platform Launch (Adobe starten)
 
 <br>
@@ -77,44 +77,44 @@ U moet ook ervaring hebben met de volgende taken:
 
 {{exam-objectives}}
 
-**Sectie 1: Analyse in het ecosysteem van Adobe Experience Cloud (14%)**
+**Sectie 1: Analyses in het Eco-systeem van Adobe Experience Cloud (14%)**
 
 * Functies en mogelijkheden van Adobe Experience Cloud-id identificeren.
 * Identificeer gebruik voor de Lancering van de Adobe.
-* Omgaan met inschakelen/ondersteunen [!DNL Adobe Analytics] -tags in het ecosysteem van Adobe Experience Cloud.
+* Identificeer hoe u [!DNL Adobe Analytics] -tags kunt inschakelen/ondersteunen in het Adobe Experience Cloud-ecosysteem.
 
-**Sectie 2: Analytische strategie en ontwerp gebaseerd op een SDR (12%)**
+**Sectie 2: De Strategie en het Ontwerp van Analytics die op SDR (12%) wordt gebaseerd**
 
 * Gezien een Verwijzing van het Ontwerp van de Oplossing, identificeer welke gegevensvoorwerpen moeten worden bevolkt.
 * Geef op basis van een onderdeel van een technische-specificatiedocument aan hoe de gegevensvastlegging moet worden geïmplementeerd.
 
-**Sectie 3: Implementatie en configuratie van analysemogelijkheden (30%)**
+**Sectie 3: De Implementatie en Configuratie van Analytics (30%)**
 
-* Identificeer de stappen om op te stellen [!DNL Adobe Analytics] Code.
+* Identificeer de stappen om [!DNL Adobe Analytics] Code op te stellen.
 * Identificeer functies van minimale plaatsingscode voor Analytics het volgen.
-* Identificeer de stappen om diverse componenten binnen te vormen [!DNL Adobe Analytics] UI.
-* Functies identificeren van [!DNL Adobe Analytics] rapportsuite en instellingen voor variabelen.
+* Identificeer de stappen om diverse componenten binnen [!DNL Adobe Analytics] UI te vormen.
+* Identificeer functies van [!DNL Adobe Analytics] rapportreeks en veranderlijke montages.
 * Identificeer de kenmerken van een gegevenslaag en de waarden van de gegevenslaag.
 * Identificeer de functies van de Meting van de Toepassing voor het volgen van eigenschappen zoals verbinding het volgen en e-commerce het volgen.
 
-**Sectie 4: Tag Management Systems (18%)**
+**Sectie 4: De Systemen van Tag Management (18%)**
 
 * Geef aan of aan de vereisten is voldaan met behulp van tagcontroles.
 * Identificeer de stappen om website het etiketteren met de Lancering van de Adobe te vormen.
 * Op basis van een scenario, identificeert u hoe u extensies in Adobe Launch kunt inschakelen, wijzigen en problemen kunt oplossen.
 * Bepaal hoe u regels en gegevenselementen maakt.
 
-**Deel 5: Onderdelen van [!DNL Adobe Analytics] (8%)**
+**Sectie 5: Componenten van [!DNL Adobe Analytics] (8%)**
 
-* De functies identificeren van [!DNL Adobe Analytics] API (gegevensinvoer, pakhuis, gegevensbronnen, rapporten).
+* Identificeer de functies van [!DNL Adobe Analytics] API (gegevenstoevoer, pakhuis, gegevensbronnen, rapporten).
 * Identificeer de kenmerken van verwerkingsregels.
 
-**Sectie 6: Testen, Validatie, en het Oplossen van problemen (18%)**
+**Sectie 6: Het testen, Bevestiging, en het Oplossen van problemen (18%)**
 
-* Identificeer de betekenis van veelvoorkomende JavaScript-fouten.
-* Identificeer de betekenis van gemeenschappelijk [!DNL Adobe Analytics] variabelen, fouten.
+* De betekenis van veelvoorkomende JavaScript-fouten identificeren.
+* Identificeer de betekenis van veelvoorkomende fouten in [!DNL Adobe Analytics] -variabelen.
 * Op basis van een scenario identificeert u best practices voor het testen en opsporen van fouten bij de validatie die moeten worden gevolgd.
-* Bepalen hoe u een [!DNL Adobe Analytics] serveraanroep (d.w.z. Van baken verzoek aan tonen in het rapport.)
+* Bepaal hoe u een [!DNL Adobe Analytics] serveraanroep (d.w.z. Van baken verzoek aan tonen in het rapport.)
 
 <br>
 
@@ -122,7 +122,7 @@ U moet ook ervaring hebben met de volgende taken:
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://sei.caveon.com/launchpad/ad-q-e213-readiness-questionnaire-for-adobe-analytics-developer-professional-exam){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://sei.caveon.com/launchpad/ad-q-e213-readiness-questionnaire-for-adobe-analytics-developer-professional-exam) {target="_blank"}
 
 <br>
 
@@ -140,19 +140,19 @@ U moet ook ervaring hebben met de volgende taken:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[De handleiding Examen voorinstelling weergeven](https://app.rockinfo.com/courses/217)
+[ Mening de Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/217)
 
 +++
 
@@ -207,7 +207,7 @@ U moet ook ervaring hebben met de volgende taken:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.
 

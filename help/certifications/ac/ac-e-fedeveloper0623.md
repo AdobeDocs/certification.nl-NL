@@ -1,6 +1,6 @@
 ---
 title: Nieuwe certificering van front-end ontwikkelaarsexpert
-description: Leer hoe u een gecertificeerde Adobe Developer-expert in Adobe kunt worden [!DNL Commerce].
+description: Leer hoe te om een verklaarde Deskundige van Adobe Developer in Adobe te worden  [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor [!DNL Adobe Commerce] Front-end ontwikkelaarsexpert
+# Certificatieroutine voor [!DNL Adobe Commerce] front-end ontwikkelaarsexpert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/139) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/139) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -77,7 +77,7 @@ Bovendien kunt u de volgende technologieën beter gebruiken:
 
 {{exam-objectives}}
 
-**Sectie 1: Themabeheer (Themahiërarchie, beeldconfiguratie, vertalingen) (16%)**
+**Sectie 1: Het beheer van het thema (de hiërarchie van het Thema, beeldconfiguratie, vertalingen) (16%)**
 
 * Beschrijf de structuur van de Adobe Commerce-themamap en hoe deze zich verhoudt tot op mappen gebaseerde thema&#39;s.
 * Toon de capaciteit aan om een nieuw thema (Overerving/Fallbacks, ontwerpuitzonderingen, themaeigenschappen) te creëren
@@ -86,7 +86,7 @@ Bovendien kunt u de volgende technologieën beter gebruiken:
 * Toon vermogen aan om vertalingen toe te passen
 * Geef op basis van een aantal gebruiksgevallen aan wanneer bestanden in een app/code of app/ontwerp moeten worden geplaatst
 
-**Sectie 2: XML en sjablonen voor lay-out (HTML-sjablonen) (22%)**
+**Sectie 2: Lay-out XML &amp; malplaatjes (phtml malplaatjes) (22%)**
 
 * Toon de capaciteit aan om lay-outXML instructies te gebruiken
 * Toon de capaciteit aan om nieuwe paginalay-outs te creëren
@@ -106,9 +106,9 @@ Bovendien kunt u de volgende technologieën beter gebruiken:
 * Toon de capaciteit aan om LESS bibliotheekcomponenten uit te voeren en aan te passen
 * De verschillen tussen client-side en server-side compilatie identificeren en de werking ervan
 
-**Sectie 4: JavaScript (afbeeldingswidgets, afbeeldingsbibliotheek, module voor klantgegevens, uitnemingssjablonen) (22%)**
+**Sectie 4: JavaScript (beeldwidgets, beeldbibliotheek, de module van klantengegevens, de malplaatjes van de Knockout) (22%)**
 
-* Toon de capaciteit aan initialiseren en componenten te roepen JavaScript
+* Toon de capaciteit aan om de componenten van JavaScript te initialiseren en te roepen
 * Verschillende gebruiksgevallen voor verschillende JavaScript-componenten
 * Het gebruik van RequireJS aantonen
 * Toon de capaciteit aan om verschillende types van mengsels uit te voeren
@@ -118,14 +118,14 @@ Bovendien kunt u de volgende technologieën beter gebruiken:
 * Het gebruik van jQuery-widgets aantonen
 * Het gebruik van JS-componenten aantonen met Layout XML
 
-**Sectie 5: Admin Configuration and Page Builder (12%)**
+**Sectie 5: De Configuratie van Admin en de Bouwer van de Pagina (12%)**
 
 * Toon de capaciteit aan om de inhoud van de Bouwer van de Pagina aan te passen
 * Beschrijf front-end optimalisering
 * Transactiee-mails aanpassen
 * Toon het gebruik van de hulpmiddelen van de adminontwikkeling aan
 
-**Sectie 6: Gereedschappen (CLI en Grunt) (10%)**
+**Sectie 6: Hulpmiddelen (CLI en Grunt) (10%)**
 
 * Toon het gebruik van basisbak/Magento bevelen aan
 * Beschrijf het gebruik van Composer-opdrachten (installeren, bijwerken, vereisen, verwijderen)
@@ -139,7 +139,7 @@ Bovendien kunt u de volgende technologieën beter gebruiken:
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6) {target="_blank"}
 
 <br>
 
@@ -157,19 +157,19 @@ Bovendien kunt u de volgende technologieën beter gebruiken:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/139)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/139)
 
 +++
 
@@ -224,6 +224,6 @@ Bovendien kunt u de volgende technologieën beter gebruiken:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

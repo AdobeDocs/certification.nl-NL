@@ -1,6 +1,6 @@
 ---
 title: AEM Forms Backend Developer Professional-certificering
-description: Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Experience Manager Forms] backend-ontwikkelaar-expert.
+description: Leer hoe te om een verklaarde Adobe  [!DNL Experience Manager Forms]  achterste ontwikkelaarsdeskundige te worden.
 solution: Experience Manager, Experience Manager Forms
 product: Experience Manager
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Experience Manager Forms] Ontwikkelaarsexpert
+# Certificatietraject voor Adobe [!DNL Experience Manager Forms] Ontwikkelaarsexpert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/128) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/128) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -91,14 +91,14 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 {{exam-objectives}}
 
-**Sectie 1: Oprichting en beheer van Forms (36%)**
+**Sectie 1: De verwezenlijking en het beheer van Forms (36%)**
 
 * Forms bouwen
 * Forms-gegevensmodel configureren
 * AEM Forms aanpassen
 * JavaScript ClientLib ontwikkelen en gebruiken via GuideBridge-API
 
-**Sectie 2: Processen en workflows (34%)**
+**Sectie 2: Processen en werkschema&#39;s (34%)**
 
 * Een werkstroom voor formuliergoedkeuring ontwerpen en ordenen
 * Een OSGi-bundel ontwikkelen met de API voor documentservices
@@ -107,20 +107,20 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * PDF manipuleren met Forms- of Assembler-services
 * JDBC-services implementeren
 
-**Sectie 3: Beheer en probleemoplossing (18%)**
+**Sectie 3: Beleid en het oplossen van problemen (18%)**
 
 * Logbestanden oplossen en onderscheiden
 * Beheer uitvoeren
 * Servicepacks toepassen
-* Setup AEM Dispatcher uitvoeren voor Forms
+* Uitvoeren AEM Dispatcher-instelling voor Forms
 * Navigeren door verschillende consoles
 
-**Sectie 4: API-eindpunten en -integratie (8%)**
+**Sectie 4: API eindpunten en integratie (8%)**
 
 * Integreren met Adobe Experience Cloud
 * Produceer en verbruikt diverse eindpuntdiensten
 
-**Sectie 5: Interactieve communicatie (4%)**
+**Sectie 5: Interactieve Communicatie (4%)**
 
 * Ontwerp, toon en voer processen voor de Interactieve Communicatie aan
 
@@ -130,7 +130,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam) {target="_blank"}
 
 <br>
 
@@ -148,19 +148,19 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/128)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/128)
 
 +++
 
@@ -215,6 +215,6 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

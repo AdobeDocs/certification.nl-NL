@@ -1,6 +1,6 @@
 ---
 title: Professionele certificering
-description: Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Experience Platform] Professional in [!DNL Real-Time Customer Data Platform]
+description: Leer hoe te om een verklaarde  [!DNL Experience Platform]  Beroeps in  [!DNL Real-Time Customer Data Platform] te worden
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Real-Time CDP] Professioneel als bedrijf
+# Certification trip for Adobe [!DNL Real-Time CDP] Business Practitioner Professional
 
 {{intro}}
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 >
 >De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
 >
->* **Cursus:** Als u net begint, of een verfrisser nodig hebt, neem onze [Adobe Experience Platform-oprichtingscursus](https://app.rockinfo.com/courses/216) toegang tot verklaringen van zeer belangrijke concepten, productlooptijden, en kenniscontroles. Deze cursus biedt een basis van kennis waarop u kunt voortbouwen tijdens uw certificeringsreis.
+>* **Cursus:** als u enkel begint, of een verfrisser nodig hebt, neem onze [ Cursus van de Stichting van Adobe Experience Platform ](https://app.rockinfo.com/courses/216) om tot verklaringen van zeer belangrijke concepten, productloops, en kenniscontroles toegang te hebben. Deze cursus biedt een basis van kennis waarop u kunt voortbouwen tijdens uw certificeringsreis.
 >
->* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/133) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
+>* **Gids van de Prep van het Examen van het Examen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/133) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
 >
->_Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
+>_als u aan login wordt ertoe aangezet, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -94,12 +94,12 @@ Ervaring met taken zoals:
 * Concepten toepassen die zijn vereist voor doelidentiteiten in doelen
 * Identificeer attributenafbeeldingen en het plannen van segmenten aan bestemming
 
-**Deel 2: Privacy en gegevensbeheer (20%)**
+**Sectie 2: Privacy en gegevensbeheer (20%)**
 
 * Toon een inzicht in DULE beleid en hun gevolgen op gegevensbeschikbaarheid op bestemmingen aan
 * Ervoor zorgen dat de privacy- en gegevenscompatibiliteitsmaatregelen worden nageleefd
 
-**Sectie 3: Bedrijfsanalyse (30%)**
+**Sectie 3: Bedrijfs analyse (30%)**
 
 * Gebruiksgevallen identificeren die terugkoppelen aan zakelijke KPI&#39;s
 * Gegevensanalyse uitvoeren op klantsegmenten in platform
@@ -107,7 +107,7 @@ Ervaring met taken zoals:
 
 **Sectie 4: Schema&#39;s en profielen (18%)**
 
-* Toon een inzicht in Adobe [!DNL Experience Platform] concepten
+* Toon een inzicht in Adobe [!DNL Experience Platform] concepten aan
 * Profielfuncties gebruiken
 
 <br>
@@ -126,11 +126,11 @@ Ervaring met taken zoals:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een cursus volgen**
+**neem een cursus**
 
 {{take-course}}
 
@@ -141,15 +141,15 @@ Ervaring met taken zoals:
 </span>
 </a>
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/133)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/133)
 
 
 +++
@@ -205,6 +205,6 @@ Ervaring met taken zoals:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

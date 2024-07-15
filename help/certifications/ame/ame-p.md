@@ -1,6 +1,6 @@
 ---
 title: Professionele certificering
-description: Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Marketo Engage] Professional.
+description: Leer hoe te om een verklaarde Beroeps van de Adobe  [!DNL Marketo Engage]  te worden.
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Marketo Engage] Professional
+# Reis voor certificering voor Adobe [!DNL Marketo Engage] Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
 >
->* **Cursus**: Als u net bent begonnen, of een verfrisser nodig hebt, neemt u de [Adobe Marketo Engage-oprichtingscursus](https://app.rockinfo.com/courses/261) toegang tot verklaringen van zeer belangrijke concepten, productlooptijden, en kenniscontroles. Dit verstrekt een basis van kennis u op in uw certificatiereis kunt voortbouwen.
+>* **Cursus**: Als u enkel begint, of een verfrisser nodig hebt, neem de [ Cursus van de Stichting van Adobe Marketo Engage ](https://app.rockinfo.com/courses/261) om tot verklaringen van zeer belangrijke concepten, productloops, en kenniscontroles toegang te hebben. Dit verstrekt een basis van kennis u op in uw certificatiereis kunt voortbouwen.
 >
->* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/247) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de diepgaande studiematerialen u op uw examen zult moeten succesvol zijn.
+>* **Gids van de Prep van het Examen van het Examen:** de [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/247) verstrekt een op maat gemaakte weg door uw examen prep proces, met inbegrip van de diepgaande studiematerialen u op uw examen zult moeten succesvol zijn.
 >
->_Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>_als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -89,7 +89,7 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 
 {{exam-objectives}}
 
-**Deel 1: Opbouw en beheer van programma&#39;s (39%)**
+**Sectie 1: De bouw en het leiden programma&#39;s (39%)**
 
 * Bepaal wanneer u elk van de vier programmatypen wilt gebruiken.
 * Geef aan waarom/wanneer u het gebeurtenisprogramma wilt gebruiken.
@@ -106,7 +106,7 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 * Klantvoorkeuren (abonnement, communicatie) begrijpen.
 * Pas de aanbevolen procedures toe voor revisie voordat u de toepassing start.
 
-**Sectie 2: Gebouwen (19%)**
+**Sectie 2: De activa van de bouw (19%)**
 
 * Bestanden bewerken in Design Studio (afbeeldingen en bestanden uploaden/vervangen).
 * Een formulier maken/wijzigen met de formuliereditor.
@@ -116,7 +116,7 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 * Teken het verschil tussen concept en goedgekeurde elementen op.
 * Het verschil tussen lokale en globale elementen onderscheiden.
 
-**Sectie 3: Doelgroepen definiëren en aanwijzen (33%)**
+**Sectie 3: Het bepalen van en het richten van publiek (33%)**
 
 * Slimme lijsten maken/wijzigen.
 * Begrijp de stappen van de slimme stroom van de Campagne.
@@ -124,16 +124,16 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 * De resultaten van slimme campagnes interpreteren.
 * Beschrijf het doel van een segmentatie en het gebruik ervan.
 * Identificeer en navigeer het Gegevensbestand.
-* Uitleggen hoe u privacy-instellingen kunt instellen in Adobe [!DNL Marketo Engage].
+* Uitleggen hoe u privacy-instellingen kunt instellen in Adobe [!DNL Marketo Engage] .
 * Verschil tussen slimme lijsten en statische lijsten.
 * Slimme systeemlijsten definiëren.
 * Vergelijk en contrast de verschillende typen slimme campagnes.
 * Begrijp hoe de Slimme trekkers en de filters van de Campagne werken.
 * Hiermee kunt u de verschillende geïmporteerde lijsten onderscheiden.
 
-**Sectie 4: Analyseren en opstellen van rapporten (9%)**
+**Sectie 4: Het analyseren van en het bouwen van rapporten (9%)**
 
-* De standaardAdobe uitleggen [!DNL Marketo Engage] rapporten en wanneer zij zouden moeten worden gebruikt (de Prestaties van de Verbinding E-mail, E-mailPrestaties, de Prestaties van de Landing van de Pagina, de Prestaties van Mensen, de Prestaties van het Programma, de Activiteit van de Web-pagina, etc.)
+* Verklaar de standaard Adobe [!DNL Marketo Engage] rapporten en wanneer zij zouden moeten worden gebruikt (de Prestaties van de Verbinding E-mail, E-mailPrestaties, de Prestaties van de Pagina van het Landing, de Prestaties van Mensen, de Prestaties van het Programma, de Activiteit van de Web-pagina, etc.)
 * Gegevens en metriek over het dashboard comprimeren (e-mailprogramma-dashboard, betrokkenheidsprogramma-dashboard)
 * Metrische gegevens van e-mailinzichten aanbevelen
 
@@ -143,7 +143,7 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam) {target="_blank"}
 
 <br>
 
@@ -161,25 +161,25 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Een cursus volgen**
+**neem een cursus**
 
 {{take-course}}
 
-[De cursus Adobe Marketo Engage-stichtingen volgen](https://app.rockinfo.com/courses/261)
+[ neem de Cursus van de Stichting van Adobe Marketo Engage ](https://app.rockinfo.com/courses/261)
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/247)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/247)
 
 +++
 
@@ -245,6 +245,6 @@ Bovendien, zou u met de volgende hulpmiddelen en de technologieën vertrouwd moe
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

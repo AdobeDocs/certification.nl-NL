@@ -1,6 +1,6 @@
 ---
 title: Certificering door experts voor zakelijke gebruikers
-description: Leer hoe u een gecertificeerde Adobe Business Practitioner Expert in [!DNL Adobe Target].
+description: Leer hoe te om een verklaarde Deskundige van de Bedrijfs van de Praktijk van de Adobe in  [!DNL Adobe Target] te worden.
 solution: Target
 product: Target
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor [!DNL Adobe Target] Expert aan de praktijk van bedrijven
+# Certification trip for [!DNL Adobe Target] Business Practitioner Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/236) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/236) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -55,15 +55,15 @@ De kandidaten voor deze certificering zijn onder meer leden van de volgende team
 
 U zou moeten hebben:
 
-* Meer dan 2 jaar ervaring met optimalisatieplatforms, waaronder [!DNL Adobe Target]
+* Meer dan 2 jaar ervaring met optimalisatieplatforms, inclusief [!DNL Adobe Target]
 * Handmatige ervaring met [!DNL Adobe Target]
 * 2+ jaar ervaring met het leiden/bijdragen tot optimalisatieprogramma&#39;s
 * Een goed begrip van de grondbeginselen van beheerstaken van Target/Adobe Marketing Cloud (voorkeuren, gebruikersrollen en machtigingen, instellingen)
 * De capaciteit om zaken KPIs in optimaliseringsdoelstellingen te begrijpen en te vertalen
 * De mogelijkheid om suggesties te doen op basis van een behoeftebeoordeling
-* de mogelijkheid om de passende [!DNL Adobe Target] activiteitstypen op basis van optimalisatiedoelstellingen
+* De mogelijkheid om de juiste [!DNL Adobe Target] activiteitstypen te bepalen op basis van optimalisatiedoelstellingen
 * Kennis van hoe HTML en CSS kunnen worden gebruikt om de gebruikerservaring te optimaliseren
-* JavaScript begrijpen als concept
+* Begrip van JavaScript als concept
 * De kennis van statistische concepten en gegevensanalyse zoals deze van toepassing is op optimalisering
 * Een diepgaande kennis van de driestappenworkflow (ervaringen, doelgerichtheid, doelstellingen en instellingen, inclusief alle rapporteringsbronnen)
 * De mogelijkheid om activiteitenrapporteringresultaten om te zetten in activeerbare inzichten en suggesties
@@ -79,8 +79,8 @@ Technologieën:
 * De console-/Browser van de browser ontwikkelt hulpmiddelen zoals console, netwerklusje
 * Netwerkgereedschappen in browser
 * Basiskennis van andere Adobe-gereedschappen
-* Ontwerpconsole (elke webbrowser)
-* [!DNL Adobe Target] voorbeeldrekenmachine
+* Developer Console (elke webbrowser)
+* [!DNL Adobe Target] voorbeeldcalculator
 * Grondbeginselen van Adobe Audience Manager
 * Adobe Experience Cloud (als publieksbron voor Doel)
 * Adobe Experience Manager
@@ -97,7 +97,7 @@ Omgevingen:
 * Productieomgevingen op mobiele apparaten, tablets en desktopapparaten
 * Verwante hostplatforms
 * Doel gebruiken voor toepassingen van één pagina
-* E-mail
+* Email
 
 <br>
 
@@ -105,7 +105,7 @@ Omgevingen:
 
 {{exam-objectives}}
 
-**Deel 1: Planning en strategie (31%)**
+**Sectie 1: Planning en strategie (31%)**
 
 * Identificeer bedrijfs KPIs en vertaal met succes deze in optimaliseringsdoelstellingen gegeven zeer belangrijke bedrijfsvereisten
 * Identificeer kansen voor optimalisering die op zakenKPIs en gegevensanalyse wordt gebaseerd
@@ -117,7 +117,7 @@ Omgevingen:
 * Vereisten voor het publiek beoordelen
 * Bepaal de juiste analytische rapporteringsbronnen (dat wil zeggen, Target of Adobe Analytics)
 
-**Sectie 2: Vormen, uitvoeren en beheren (42%)**
+**Sectie 2: Het vormen, het uitvoeren en het leiden (42%)**
 
 * Verklaar het gebruik van Form-Based Experience Composer versus Visual Experience Composer
 * Pas procedures toe om een ervaring tot stand te brengen gebruikend VEC
@@ -134,16 +134,16 @@ Omgevingen:
 * Procedures toepassen om activiteit QA uit te voeren
 * Procedures toepassen voor het beheer van activiteiten en soorten publiek binnen het doel
 
-**Sectie 3: Analyseren en rapporteren (17%)**
+**Sectie 3: Het analyseren en het melden (17%)**
 
 * Bepaal en evalueer rapportmontages helpen de elementen plaatsen die in een rapport verschijnen
-* Evalueren en vergelijken [!DNL Adobe Target] De montages van de calculator van de Grootte van de steekproef wanneer zowel de activiteiten van het Doel plannen als de activiteitenrapporten van het Doel bevestigen
+* Evalueer en vergelijk [!DNL Adobe Target] de montages van de calculator van de Grootte van de Steekproef wanneer zowel de activiteiten van het Doel als het bevestigen van de activiteitenrapporten van het Doel plannen
 * Gemeenschappelijke problemen in verband met A/B-tests evalueren en identificeren en hoe deze kunnen worden voorkomen
 * Begrijp hoe Automated Personalization Summary-rapporten verschillen van andere rapporten
 * Evalueer de Rapporten van de Prestaties van de Ervaring (MVT)
 * De winnende variatie bepalen op basis van de waargenomen lift, het betrouwbaarheidsniveau en de bedrijfsdoelstellingen
 
-**Sectie 4: Problemen oplossen (10%)**
+**Sectie 4: Het oplossen van problemen (10%)**
 
 * Kwesties in verband met de kwalificatie van de activiteit
 * Foutopsporingsprogramma&#39;s voor browsers (inclusief Experience Cloud Debugger) gebruiken om de implementatie te controleren
@@ -165,19 +165,19 @@ Omgevingen:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/236)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/236)
 
 +++
 
@@ -243,6 +243,6 @@ Omgevingen:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

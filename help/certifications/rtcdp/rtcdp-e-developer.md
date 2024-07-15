@@ -1,6 +1,6 @@
 ---
 title: Expertcertificering
-description: Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Real-Time Customer Data Platform] Ontwikkelaarsexpert
+description: Leer hoe te om een verklaard deskundige van de Adobe  [!DNL Real-Time Customer Data Platform]  Ontwikkelaar te worden
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: Developer,Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Real-Time Customer Data Platform] Ontwikkelaarsexpert
+# Certificatietraject voor Adobe [!DNL Real-Time Customer Data Platform] Ontwikkelaarsexpert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/246) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/246) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -89,26 +89,26 @@ U dient comfortabel te zijn in deze omgevingen:
 
 {{exam-objectives}}
 
-**Gegevensarchitectuur (19%)**
+**Architectuur van Gegevens (19%)**
 
-* Gebaseerd op een scenario, vertaal RDBMS aan Adobe [!DNL RT-CDP]NoSQL-gegevensmodel
+* Op basis van een scenario zet u RDBMS om in het NoSQL-gegevensmodel van Adobe [!DNL RT-CDP]
 * Toon beste praktijken voor het modelleren van het Real-Time Profiel van de Klant
 * De identiteitsstrategie en de relaties voor modellering ontwerpen
 
-**Real-Time klantprofiel (15%)**
+**Real-Time Profiel van de Klant (15%)**
 
 * Beschrijf hoe de profielassemblage werkt
 * Beschrijven hoe de Grafiek van de Identiteit werkt
 * Profielcompositie beschrijven
 * Verschil tussen rand- en hubprofiel
 
-**Gegevensinname (13%)**
+**Ingestie van Gegevens (13%)**
 
 * Beschrijf de mogelijkheden van de gegevensopname met CDP
-* Beschrijf de mogelijkheden van randopname
+* Beschrijf de mogelijkheden van Edge-opname
 * Beschrijf de geavanceerde technieken rond de architectuur van gegevensopname
 
-**Segmentering (18%)**
+**Segmentatie (18%)**
 
 * Beschrijf verschillende manieren om publiek &amp; segmenten binnen CDP te bouwen
 * Verklaar de diverse segmentatietypen en hoe zij werken
@@ -120,12 +120,12 @@ U dient comfortabel te zijn in deze omgevingen:
 * Verklaar de begeleiding rond activering
 * Beschrijf personalisatie ter plaatse
 
-**Bestuur (9%)**
+**Governance (9%)**
 
-* Beste praktijken voor bestuur in de Adobe toepassen [!DNL RT-CDP] uitvoering
+* Aanbevolen werkwijzen toepassen voor governance in de Adobe [!DNL RT-CDP] -implementatie
 * Beschrijf hoe te om gegevens over de diverse diensten te beheren
 
-**Toediening (15%)**
+**Beleid (15%)**
 
 * Controlemogelijkheden begrijpen
 * Waarschuwingen beschrijven
@@ -148,19 +148,19 @@ U dient comfortabel te zijn in deze omgevingen:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/246)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/246)
 
 +++
 
@@ -215,6 +215,6 @@ U dient comfortabel te zijn in deze omgevingen:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

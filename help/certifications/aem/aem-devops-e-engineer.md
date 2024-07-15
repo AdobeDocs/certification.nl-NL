@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/126) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/126) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -80,37 +80,37 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 {{exam-objectives}}
 
-**Sectie 1: Adobe Experience Manager configureren (18%)**
+**Sectie 1: Vorm Adobe Experience Manager (18%)**
 
 * Bepaal de correcte methode om fundamentele montages van Adobe Experience Manager te vormen
 * In een scenario kunt u Adobe Experience Manager-problemen oplossen
 * Bepaal de correcte methode om OSGi te vormen
 
-**Sectie 2: Werken met Cloud Manager en Cloud Manager API (20%)**
+**Sectie 2: Bewerk Cloud Manager en Cloud Manager API (20%)**
 
-* De juiste methode bepalen voor het beheer van de instellingen voor omgevingen in Cloud Manager via de gebruikersinterface
-* De juiste methode bepalen voor het aanbieden van programma&#39;s en omgevingen in Cloud Manager
+* De juiste methode bepalen voor het beheer van Cloud Manager-omgevingen via de gebruikersinterface
+* De juiste methode bepalen voor leveringsprogramma&#39;s en -omgevingen op Cloud Manager
 * De juiste methode bepalen voor migratie naar Adobe Experience Manager as a Cloud Service
 * De juiste methode bepalen voor het instellen van integraties op Adobe I/O
 
-**Sectie 3: De infrastructuur van de Webvolmacht vormen (12%)**
+**Sectie 3: Vorm de infrastructuur van de Webvolmacht (12%)**
 
-* Bepaal de correcte methode om de configuraties van de Verzender te beheren
+* Bepaal de juiste methode voor het beheer van Dispatcher-configuraties
 * Gezien een scenario, los caching kwesties problemen op
 
 **Sectie 4: Bouw en plaatsingen (28%)**
 
-* De juiste methode bepalen voor het beheer van implementaties in Cloud Manager
-* Op basis van een scenario de status van een Cloud Manager-pijplijn analyseren
+* De juiste methode bepalen voor het beheer van Cloud Manager-implementaties
+* Op basis van een scenario de toestand van een Cloud Manager-pijpleiding analyseren
 * Bepaal de juiste methode voor het beheer van inhoudspakketten in meerdere Adobe Experience Manager-instanties
 * Bepaal de correcte methode om veranderingen in Geweven dossiers aan te brengen om pijpleidingen te steunen
 
-**Sectie 5: Toezicht op en rapportage over kwaliteitsmaatstaven (14%)**
+**Sectie 5: Monitor en rapport over kwaliteitsmetriek (14%)**
 
 * Bepaal de correcte methode om prestatiesmetriek en rapporten te verzamelen
 * Bepaal de correcte methode om infrastructuur te schrapen
 
-**Sectie 6: Gebruik de Admin Console (8%)**
+**Sectie 6: Bewerk de Admin Console (8%)**
 
 * Bepaal de correcte methode om een steunverzoek in de Admin Console voor te leggen
 * Bepaal de correcte methode om federated SSO te vormen en de gebruikers en de groepen van Adobe Experience Manager te synchroniseren
@@ -119,7 +119,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam) {target="_blank"}
 
 <br>
 
@@ -137,15 +137,15 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/126)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/126)
 
 +++
 
@@ -211,6 +211,6 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

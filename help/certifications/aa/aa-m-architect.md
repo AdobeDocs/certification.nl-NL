@@ -1,6 +1,6 @@
 ---
 title: Basiscertificering architect
-description: Leer hoe u gecertificeerd bent als een [!DNL Adobe Analytics] Architect Master.
+description: Leer hoe te om als a  [!DNL Adobe Analytics]  Architect Hoofd te worden verklaard.
 solution: Analytics
 product: Analytics
 level: Experienced
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor [!DNL Adobe Analytics] Architect Master
+# Reis voor certificering voor [!DNL Adobe Analytics] Architect Master
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/223) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/223) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -54,9 +54,9 @@ ht-degree: 0%
 
 ### Minimale ervaring {#minimum-experience}
 
-U moet minimaal 3 tot 4 jaar ervaring hebben met het ontwerpen [!DNL Adobe Analytics] architectuur, de specificaties van de gegevenslaag, en markeringsbeheer, evenals basisbegrip van code JavaScript.
+U hebt minimaal 3 tot 4 jaar ervaring met het ontwerpen van [!DNL Adobe Analytics] -architectuur, de specificaties voor gegevenslagen en het beheren van tags, en u hebt een basiskennis van JavaScript-code.
 
-Bovendien, bent u verantwoordelijk voor het omzetten van bedrijfsvereisten in het volgen van specificaties en [!DNL Adobe Analytics] variabelen, en u bent vertrouwd met de volgende technologieën en milieu&#39;s:
+Bovendien bent u verantwoordelijk voor het vertalen van bedrijfsvereisten in het bijhouden van specificaties en [!DNL Adobe Analytics] variabelen en bent u bekend met de volgende technologieën en omgevingen:
 
 * Web Analytics-toepassingen
 * Adobe Experience Cloud
@@ -72,13 +72,13 @@ Bovendien, bent u verantwoordelijk voor het omzetten van bedrijfsvereisten in he
 
 {{exam-objectives}}
 
-**Sectie 1: Detectie (18%)**
+**Sectie 1: Ontdekking (18%)**
 
 * Toon vermogen aan om sites te controleren
 * De klant onderzoeken moet bedrijfsvereisten bouwen
 * Op basis van een scenario een meetkader maken
 
-**Sectie 2: Oplossingsontwerp (54%)**
+**Sectie 2: Het ontwerp van de Oplossing (54%)**
 
 * Vertaal bedrijfsvereisten in variabelen en metriek
 * Toon capaciteit aan om de montages van de rapportreeksen te beheren
@@ -87,7 +87,7 @@ Bovendien, bent u verantwoordelijk voor het omzetten van bedrijfsvereisten in he
 * Technische specificaties schrijven voor siteontwikkelaars
 * Gebruikers/groepen van Experiencen Cloud maken
 
-**Sectie 3: Na de implementatie (28%)**
+**Sectie 3: De implementatie van Post (28%)**
 
 * Valideer het bijhouden van wijzigingen aan de hand van de ontwikkelaarsgereedschappen van de browser en de rapporten over de Adobe
 * Procedurele concepten toepassen om gegevensextractie en relaties te beheren
@@ -111,19 +111,19 @@ Bovendien, bent u verantwoordelijk voor het omzetten van bedrijfsvereisten in he
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/223)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/223)
 
 +++
 
@@ -178,7 +178,7 @@ Bovendien, bent u verantwoordelijk voor het omzetten van bedrijfsvereisten in he
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.
 

@@ -1,6 +1,6 @@
 ---
 title: Verbeterde certificering van connectorexperts
-description: Leer hoe u een gecertificeerde Adobe Certified Expert in Adobe kunt worden [!DNL Workfront] for [!DNL Experience Manager]
+description: Leer hoe te om een verklaarde Adobe Certified Expert in Adobe  [!DNL Workfront]  voor  [!DNL Experience Manager] te worden
 solution: Workfront
 role: Developer
 badge: label="Examen AD0-E906" type="neutral"
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Workfront] for [!DNL Experience Manager] Verbeterde connectorexpert
+# Reis voor certificering voor Adobe [!DNL Workfront] voor [!DNL Experience Manager] Enhanced Connector Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/244) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/244) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -54,13 +54,13 @@ U zou één of meerdere van de volgende certificatie moeten bereikt hebben:
 
 * AEM Assets Developer Certified Expert
 * AEM Sites Developer Certified Expert
-* [!DNL Workfront] Certified Expert Core Developer
+* [!DNL Workfront] Core Developer Certified Expert
 
 En u moet:
 
 * 1+ jaar CMS ervaring
 * 1+ jaar AEM ervaring
-* 1+ jaar [!DNL Workfront] ervaring
+* Meer dan 1 jaar [!DNL Workfront] ervaring
 * 2 jaar Java/J2EE-ervaring voor ontwikkelaars
 * Co-architected minstens één op AEM gebaseerde oplossing
 * Ervaar rechtstreeks met klanten werken om aangepaste oplossingen te maken
@@ -73,12 +73,12 @@ En u moet:
 
 {{exam-objectives}}
 
-**Deel 1: Technische eisen (25%)**
+**Sectie 1: Technische vereisten (25%)**
 
-* Gebruiken [!DNL Workfront] Aangepaste Forms
+* [!DNL Workfront] Aangepaste Forms gebruiken
 * Op basis van een scenario documentbeheer tonen
 * Toon kennis van het bevorderen van code over milieu&#39;s aan
-* Op basis van een scenario bepalen hoe waarden worden doorgegeven aan [!DNL Workfront] aangepaste formulieren
+* Geef op basis van een scenario aan hoe waarden worden doorgegeven aan [!DNL Workfront] aangepaste formulieren
 * Problemen met code op de server oplossen
 
 **Sectie 2: Configuratie (26%)**
@@ -88,15 +88,15 @@ En u moet:
 * Beslissingen nemen die nodig zijn om het metagegevensschema voor verschillende elementtypen aan te passen
 * Pas procedurele AEM toe die worden vereist om bundels OSGi, activa, meta-gegevensschema, het etiketteren, en toestemmingen op te stellen
 
-**Sectie 3: Bedrijfspraktijken (21%)**
+**Sectie 3: Bedrijfs praktijken (21%)**
 
 * De clientbehoeften interpreteren om de juiste workflowstrategieën aan te bevelen
-* Demonstreer hoe u instelt [!DNL Workfront] workflows voor goedkeuring en proefdrukken
+* Demonstreer hoe u [!DNL Workfront] -workflows voor goedkeuring en controle instelt
 * In een scenario kunt u de beste werkwijzen identificeren voor het gebruik van de proefdrukviewer, instellingen en markeringsfunctionaliteit
 * Toon een inzicht in het volgen van te leveren punten als deel van campagnebeheer aan
-* Gezien een scenario, identificeer de belangrijkste overwegingen van veranderingsbeheer voor [!DNL Workfront] uitvoering
+* In een scenario kunt u de belangrijkste aspecten van wijzigingsbeheer voor een [!DNL Workfront] -implementatie identificeren
 
-**Sectie 4: Installatie en configuratie van connector (28%)**
+**Sectie 4: Installatie en configuratie van schakelaar (28%)**
 
 * Voorwaarden valideren binnen AEM
 * Gezien een geval van het klantengebruik, identificeer de eigenschappen van de schakelaar om uit te voeren
@@ -117,21 +117,21 @@ En u moet:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/244)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/244)
 
-**Voorbeeldvragen**
+**de vragen van de Steekproef**
 
 {{sample-questions}}
 
-[Voorbeeldvragen weergeven](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
+[ de steekproefvragen van de Mening ](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions) {target="_blank"}
 
 +++
 
@@ -186,6 +186,6 @@ En u moet:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

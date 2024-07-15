@@ -1,6 +1,6 @@
 ---
 title: Bedrijfs Praktijkgerichte Beroeps certificatie
-description: Leer hoe u een gecertificeerd certificaat kunt worden [!DNL Adobe Target] Zakelijke beroepsbeoefenaar.
+description: Leer hoe te om een verklaarde  [!DNL Adobe Target]  Beroeps Bedrijfs van de Praktijk te worden.
 solution: Target
 product: Target
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor [!DNL Adobe Target] Professioneel als bedrijf
+# Certification trip for [!DNL Adobe Target] Business Practitioner Professional
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/235) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/235) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -55,7 +55,7 @@ De kandidaten voor deze certificering zijn onder meer leden van de volgende team
 
 U zou moeten hebben:
 
-* 0-12 maanden ervaring met optimalisatieplatforms, waaronder [!DNL Adobe Target]
+* 0-12 maanden ervaring met optimalisatieplatforms, inclusief [!DNL Adobe Target]
 * Gecontroleerde praktische ervaring met [!DNL Adobe Target]
 * 0-12 maanden ervaring met het leiden/bijdragen aan optimalisatieprogramma&#39;s
 * Mogelijkheid om elementaire beheertaken voor Target/Adobe Marketing Cloud te identificeren (voorkeuren, gebruikersrollen en machtigingen, instellingen)
@@ -68,7 +68,7 @@ U zou moeten hebben:
 
 {{exam-objectives}}
 
-**Deel 1: Planning en strategie (26%)**
+**Sectie 1: Planning en strategie (26%)**
 
 * Bedrijfs-KPIs identificeren
 * Gezien een scenario van bedrijfs KPIs en gegevensanalyse, identificeer mogelijkheden voor optimalisering
@@ -79,7 +79,7 @@ U zou moeten hebben:
 * Op basis van een scenario de publieksvereisten beoordelen
 * Beschrijf de geschikte analytische rapporteringsbronnen (dat wil zeggen, Target of Adobe Analytics)
 
-**Sectie 2: Configureren, uitvoeren en beheren (50%)**
+**Sectie 2: Het vormen, het uitvoeren en het leiden (50%)**
 
 * Verklaar het gebruik van Form-Based Experience Composer versus Visual Experience Composer
 * Beschrijf procedures om een ervaring tot stand te brengen gebruikend VEC
@@ -96,16 +96,16 @@ U zou moeten hebben:
 * Beschrijf procedures om activiteit QA te leiden
 * Beschrijf de procedures voor het beheer van activiteiten en soorten publiek binnen het doelgebied
 
-**Sectie 3: Analyseren en rapporteren (16%)**
+**Sectie 3: Het analyseren en het melden (16%)**
 
 * Beschrijf montages helpen plaatsen de elementen die in een rapport verschijnen
-* Beschrijf het verschil in [!DNL Adobe Target] Voorbeeldinstellingen voor calculator voor grootte tussen planning en validatie
+* Beschrijf het verschil in de instellingen voor de berekening van de samplegrootte in [!DNL Adobe Target] tussen planning en validatie
 * Beschrijf gemeenschappelijke problemen verbonden aan het testen A/B
 * Bepalen hoe Automated Personalization Summary-rapporten afwijken van andere rapporten
 * Beschrijf de eigenschappen van de Rapporten van de Prestaties van de Ervaring (MVT)
 * Beschrijf beste praktijken die in A/B testende uitvoering moeten worden gevolgd
 
-**Sectie 4: Problemen oplossen (8%)**
+**Sectie 4: Het oplossen van problemen (8%)**
 
 * Bij een scenario kunt u kwalificatiekwesties voor activiteiten identificeren
 * De functies van de foutopsporingsprogramma&#39;s voor browsers identificeren (inclusief Experience Cloud Debugger)
@@ -127,19 +127,19 @@ U zou moeten hebben:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/235)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/235)
 
 <br>
 
@@ -196,6 +196,6 @@ U zou moeten hebben:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

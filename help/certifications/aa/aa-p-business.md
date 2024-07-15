@@ -1,6 +1,6 @@
 ---
 title: Bedrijfs Praktijkgerichte Beroeps certificatie
-description: Leer hoe u gecertificeerd bent als een [!DNL Adobe Analytics] Zakelijke beroepsbeoefenaar.
+description: Leer hoe te om als a  [!DNL Adobe Analytics]  beroepsbeoefenaar van de BedrijfsPraktijk te worden verklaard.
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Analytics] Professioneel als bedrijf
+# Certification trip for Adobe [!DNL Analytics] Business Practitioner Professional
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/145) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/145) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ### Minimale ervaring {#minimum-experience}
 
-U dient minimaal 3 maanden ervaring te hebben met [!DNL Adobe Analytics] en de volgende ervaring:
+U moet minimaal drie maanden ervaring hebben met [!DNL Adobe Analytics] en de volgende ervaring hebben:
 
 * Een marketingachtergrond of komt uit een marketingrol, maar kan uit verschillende functies voortkomen.
 * Basiskennis van meetgegevens en dimensies voor digitale analyse.
@@ -70,7 +70,7 @@ U dient minimaal 3 maanden ervaring te hebben met [!DNL Adobe Analytics] en de v
 
 {{exam-objectives}}
 
-**Sectie 1: Bedrijfsanalyse (34%)**
+**Sectie 1: Bedrijfs analyse (34%)**
 
 * Gezien een bedrijfsbehoefte/vraag, identificeer een aangewezen rapporteringsstrategie om een analyse uit te voeren
 * Gegevens analyseren om zakelijke vragen te beantwoorden
@@ -79,7 +79,7 @@ U dient minimaal 3 maanden ervaring te hebben met [!DNL Adobe Analytics] en de v
 * Rapportgegevens analyseren om conclusies samen te vatten en te trekken
 * Uitstekers en anomalieën in rapporten herkennen
 
-**Sectie 2: Rapportage en dashboarding voor projecten (38%)**
+**Sectie 2: Het melden en het dashboarding voor projecten (38%)**
 
 * Overweeg de voordelen om specifieke visualisaties te gebruiken die op een bepaald scenario worden gebaseerd
 * Fallout- en stroomvisualisatie vergelijken
@@ -89,17 +89,17 @@ U dient minimaal 3 maanden ervaring te hebben met [!DNL Adobe Analytics] en de v
 * Gezien een scenario, bepaal het aangewezen punt aan gebruik
 * Verslag over de prestaties van de marketingcampagne
 
-**Sectie 3: Segmentering en berekende cijfers (19%)**
+**Sectie 3: Segmentatie en berekende metriek (19%)**
 
 * Bepaal hoe te om basissegmenten te ontwikkelen en te vormen gebruikend beste praktijken
 * Pas het proces toe om segmenten met anderen in de organisatie te delen
 * Segmenten toepassen op projecten en componenten
 * Het proces toepassen om berekende en/of gesegmenteerde standaardwaarden te genereren
 
-**Sectie 4: Algemene kennis van gereedschappen en probleemoplossing (9%)**
+**Sectie 4: Algemene het hulpmiddelkennis en het oplossen van problemen (9%)**
 
-* Begrijp verschillende soorten dimensies en parameters die in [!DNL Adobe Analytics] (gebeurtenissen, props en gebeurtenissen)
-* Bepalen hoe gegevens moeten worden geëxporteerd [!DNL Adobe Analytics]
+* Verschillende typen afmetingen en parameters in [!DNL Adobe Analytics] (gebeurtenissen, profielen en gebeurtenissen) begrijpen
+* Bepalen hoe gegevens moeten worden geëxporteerd uit [!DNL Adobe Analytics]
 
 <br>
 
@@ -107,7 +107,7 @@ U dient minimaal 3 maanden ervaring te hebben met [!DNL Adobe Analytics] en de v
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam) {target="_blank"}
 
 <br>
 
@@ -125,17 +125,17 @@ U dient minimaal 3 maanden ervaring te hebben met [!DNL Adobe Analytics] en de v
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/145)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/145)
 
-**Voorbeeldvragen**
+**de vragen van de Steekproef**
 
 {{sample-questions}}
 
@@ -199,6 +199,6 @@ U dient minimaal 3 maanden ervaring te hebben met [!DNL Adobe Analytics] en de v
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

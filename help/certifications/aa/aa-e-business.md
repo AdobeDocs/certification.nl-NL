@@ -1,6 +1,6 @@
 ---
 title: Bedrijfs Praktijkcertificering
-description: Leer hoe u gecertificeerd bent als een [!DNL Adobe Analytics] Expert aan de praktijk van bedrijven
+description: Leer hoe te om als a  [!DNL Adobe Analytics]  deskundige Bedrijfs van de Praktijk te worden verklaard
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor [!DNL Adobe Analytics] Expert aan de praktijk van bedrijven
+# Certification trip for [!DNL Adobe Analytics] Business Practitioner Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/220) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/220) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -67,15 +67,15 @@ U zou moeten hebben:
 * De mogelijkheid om resultaten mee te delen en een actiemethode voor te stellen op basis van een analyse van rapporten
 * Helpte klanten begrijpen hoe ze de gewenste informatie kunnen ophalen/ophalen (zodat ze bijvoorbeeld hun bedrijfsvragen kunnen definiëren)
 * Begrijpen hoe de technologie werkt en de implementatie van een client begrijpt (bijvoorbeeld waar de gegevens zich bevinden, hoe ze kunnen worden verzameld, hoe ze worden bijgehouden) vanuit een functioneel oogpunt
-* Ten minste één jaar [!DNL Adobe Analytics] praktijkervaring
+* Minimaal één jaar [!DNL Adobe Analytics] praktijkervaring
 * Basiskennis van de manier waarop Digital Analytics gegevens filtert/structureert
-* Een bewustzijn van de integratie van [!DNL Adobe Analytics] met andere oplossingen voor Adobe
+* Een bewustzijn van de integratie van [!DNL Adobe Analytics] met andere oplossingen van de Adobe
 
 Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
 
 * FTP-client
-* Huidig [!DNL Adobe Analytics] Werkruimtemogelijkheden en andere rapportopties buiten Workspace (bijv. geplande projecten en planningsrapporten)
-* Foutopsporingsgereedschappen die relevant zijn voor [!DNL Adobe Analytics] (De monitor van het pakket zoals een Adobe Debugger, browser ontwikkelaarshulpmiddelen, Karel)
+* Huidige [!DNL Adobe Analytics] Workspace-functies en andere rapportopties buiten Workspace (bijvoorbeeld geplande projecten en planningsrapporten)
+* Foutopsporingsgereedschappen die relevant zijn voor [!DNL Adobe Analytics] (Packet monitor zoals een Adobe Debugger, browserontwikkelaarsgereedschappen, Charles)
 * Admin Console (Admin Console van de Rapporten van de Reeks en Admin Console van het Experience Cloud)
 * Grondbeginselen/basisbeginselen van Adobe starten
 * Apps, SPA, basiskennis van websites
@@ -89,13 +89,13 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 {{exam-objectives}}
 
-**Deel 1: Analyse in het ecosysteem van Adobe Experience Cloud (10%)**
+**Sectie 1: Het begrip Analytics in het Ecosysteem van Adobe Experience Cloud (10%)**
 
 * Toon kennis van het gebruik van Adobe Experience Cloud ID aan
 * Toon inzicht in het lanceren van Adobe
 * Toon inzicht in gemeenschappelijke integratie in het ecosysteem van Adobe Experience Cloud
 
-**Sectie 2: Rapportage en dashboarding voor projecten (30%)**
+**Sectie 2: Het melden en het dashboarding voor projecten (30%)**
 
 * Houd rekening met de voordelen van het gebruik van een rapporteringsinstrument op basis van een bepaald scenario
 * Fallout- en stroomvisualisatie vergelijken en de juiste typen variabelen voor rapportage
@@ -107,7 +107,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * Gezien een scenario, bepaal het aangewezen punt aan gebruik
 * Pas het proces toe om mobiele scorecards te creëren, te vormen en te gebruiken
 
-**Sectie 3: Segmentering en berekende cijfers (22%)**
+**Sectie 3: Segmentatie en berekende metriek (22%)**
 
 * Bepaal hoe u segmenten ontwikkelt en configureert
 * Pas het proces toe om segmenten met anderen in de organisatie te delen
@@ -115,19 +115,19 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 * Segmenten toepassen op projecten en componenten
 * Pas het proces toe om berekende en/of gesegmenteerde metriek te produceren
 
-**Sectie 4: Algemene kennis van gereedschappen en probleemoplossing (12%)**
+**Sectie 4: Algemene het hulpmiddelkennis en het oplossen van problemen (12%)**
 
 * Rapporten analyseren en problemen met de gegevenskwaliteit identificeren
-* Verschillende typen dimensies en parameters definiëren die bestaan in [!DNL Adobe Analytics] (eVars, props en evenementen)
-* Bepalen hoe gegevens in- en worden geplaatst [!DNL Adobe Analytics]
+* Verschillende typen dimensies en parameters definiëren die in [!DNL Adobe Analytics] bestaan (variabelen, profielen en gebeurtenissen)
+* Bepalen hoe gegevens van en naar [!DNL Adobe Analytics] worden overgebracht
 * Informatie van marketing-URL&#39;s identificeren
 
-**Afdeling 5: Administratie (10%)**
+**Sectie 5: Beleid (10%)**
 
-* Pas het proces toe om het te vormen [!UICONTROL Marketing Channel] rapporten met [!UICONTROL Marketing Channel] verwerkingsvoorschriften
+* Pas het proces toe om de [!UICONTROL Marketing Channel] -rapporten te configureren met [!UICONTROL Marketing Channel] -verwerkingsregels
 * Pas het proces toe om de Indeler van de Indeling en de Bouwer van de Regel te vormen
 * Pas het proces toe om een virtuele rapportreeks te vormen die op een bestaand segment wordt gebaseerd
-* Gebruik de [!UICONTROL Data Feed] Gebruikersinterface beheerder
+* De gebruikersinterface voor [!UICONTROL Data Feed] beheer gebruiken
 * Begrip van gegevensbeheer
 
 <br>
@@ -136,7 +136,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208) {target="_blank"}
 
 <br>
 
@@ -154,19 +154,19 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/220)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/220)
 
 +++
 
@@ -232,7 +232,7 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.
 

@@ -1,6 +1,6 @@
 ---
 title: Core Developer Professional-certificering
-description: Leer hoe u een gecertificeerde Adobe Developer Professional in Adobe kunt worden [!DNL Workfront].
+description: Leer hoe te om een verklaarde Beroeps van Adobe Developer in Adobe te worden  [!DNL Workfront].
 solution: Workfront
 role: Developer
 badge: label="Examen AD0-E908" type="neutral"
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Workfront] Core Developer Professional
+# Certification trip for Adobe [!DNL Workfront] Core Developer Professional
 
 {{intro}}
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
 >
->* **Nieuwe beschikbare cursus:** De [Adobe Workfront Core Developer - Professionele cursus](https://app.rockinfo.com/courses/231) bevat uitleg over belangrijke concepten, praktijkdemonstraties en kenniscontroles.
+>* **Nieuwe beschikbare cursus:** de [ Ontwikkelaar van de Kern van Adobe Workfront - Professionele cursus ](https://app.rockinfo.com/courses/231) omvat verklaringen van zeer belangrijke concepten, hands-on demonstraties, en kenniscontroles.
 >
->* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/238) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de materialen u op uw examen zult moeten succesvol zijn.
+>* **Gids van de Prep van het Examen van het Examen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/238) verstrekt een op maat gemaakte weg door uw examen prep proces, met inbegrip van de materialen u op uw examen zult moeten succesvol zijn.
 >
->_Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
+>_als u aan login wordt ertoe aangezet, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -55,22 +55,22 @@ ht-degree: 0%
 * Resource Manager
 * Analyst
 * IT-specialist
-* [!DNL Workfront] implementatieconsultant/lead
+* [!DNL Workfront] implementatiedeskundige/lead
 
 <br>
 
 ### Minimale ervaring {#minimum-experience}
 
-Hoewel dit examen coderings/programmeringskennis niet vereist, vereist het minstens 3 tot 6 maanden praktijkervaring gebruikend Adobe [!DNL Workfront]
+Hoewel voor dit examen geen kennis van coderen/programmeren vereist is, is het minstens 3 tot 6 maanden praktijkervaring met Adobe vereist [!DNL Workfront]
 
 Gekwalificeerde kandidaten moeten ook:
 
-* Ervaring met Adobe [!DNL Workfront] functionaliteit en connectiviteit via inname, goedkeuring, planning, uitvoering en rapportage
-* Uitgebreid inzicht in de Adobe [!DNL Workfront] objecttypen, waaronder aangepaste formulieren en goedkeuringswerkstromen, sjablonen, duur, werkinspanning/geplande uren
-* Uitgebreid inzicht in de Adobe [!DNL Workfront] Opstelling, met inbegrip van toegangsniveaus, lay-outmalplaatjes, projectvoorkeur, en andere methodes om eenvoud van eindgebruikerontwerp te bereiken
+* Ervaring met Adobe [!DNL Workfront] functionaliteit en connectiviteit via opname, goedkeuring, planning, uitvoering en rapportage
+* Uitgebreid inzicht in de objecttypen Adobe [!DNL Workfront] , waaronder aangepaste formulieren en goedkeuringswerkstromen, sjablonen, tijdsduur, werkinspanning/geplande uren
+* Uitgebreid inzicht in Adobe [!DNL Workfront] instellen, inclusief toegangsniveaus, lay-outsjablonen, projectvoorkeuren en andere methoden om het ontwerp van de eindgebruiker eenvoudiger te maken
 * Inzicht in en ervaring met procesmapping
-* Inzicht in verschillende Adoben [!DNL Workfront] persona&#39;s en hoe u ondersteuning kunt bieden
-* Vertrouwdheid met native connectors en andere Adobe [!DNL Workfront] producten en diensten
+* Inzicht in verschillende Adobe [!DNL Workfront] persona&#39;s en hoe u ondersteuning kunt bieden
+* Kennis van native connectors en andere Adobe [!DNL Workfront] producten en services
 * Kennis van het projectbeheer, inclusief flexibiliteit en waterval, en concepten voor middelenbeheer
 
 <br>
@@ -79,19 +79,19 @@ Gekwalificeerde kandidaten moeten ook:
 
 {{exam-objectives}}
 
-**Deel 1: Strategie en opname (23%)**
+**Sectie 1: Strategie en Inname (23%)**
 
 * Portfolio&#39;s en programma&#39;s gebruiken
 * Aanvraagwachtrijen gebruiken
 * Aangepaste Forms gebruiken
 * Basisgoedkeuringen gebruiken
 
-**Afdeling 2: Begroting en planning (11%)**
+**Sectie 2: Begroting en Planning (11%)**
 
 * Bronnen gebruiken
 * Op basis van een scenario/reeks vereisten past u de configuraties toe op het instellen van een projectsjabloon
 
-**Sectie 3: Gebruikerservaring (25%)**
+**Sectie 3: De Ervaring van de gebruiker (25%)**
 
 * De beste werkwijzen illustreren voor gebruikersbeheer bij het creëren van de juiste gebruikerservaring
 * Op basis van een scenario de juiste instelling toepassen voor het delen en toegangsrechten in het hele systeem
@@ -99,7 +99,7 @@ Gekwalificeerde kandidaten moeten ook:
 * Toon hoe te om timesheets tot stand te brengen en te gebruiken
 * Beschrijf het doel en de waarde van schakelaars, stop-ins, en toe:voegen-ons
 
-**Sectie 4: Metriek en rapportage (16%)**
+**Sectie 4: Metriek en het Melden (16%)**
 
 * Beschrijf basisconcepten voor het bouwen, verzenden, en het aanpassen van rapporten
 * Uitleggen hoe u dashboards kunt maken en aanpassen
@@ -110,9 +110,9 @@ Gekwalificeerde kandidaten moeten ook:
 * Demonstreer hoe te opstellings goedkeuring en proefdrukken werkschema&#39;s
 * Het doel van het maken van een uitgave voor een project herkennen
 * Toon hoe te om groep-vlakke projectstatussen aan te passen
-* Identificeer de attributen nodig om Agile binnen toe te laten [!DNL Workfront]
-* Identificeer de manieren om tijd binnen in te gaan [!DNL Workfront]
-* Identificeer de elementen van financiële tracking in [!DNL Workfront]
+* De kenmerken identificeren die nodig zijn om Agile in te schakelen [!DNL Workfront]
+* De manieren identificeren waarop u tijd kunt invoeren in [!DNL Workfront]
+* Elementen van financiële tracering identificeren in [!DNL Workfront]
 
 <br>
 
@@ -130,25 +130,25 @@ Gekwalificeerde kandidaten moeten ook:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Een cursus volgen**
+**neem een cursus**
 
 {{take-course}}
 
-[Neem de Adobe Workfront Core Developer - Professionele cursus](https://app.rockinfo.com/courses/231)
+[ neem de Ontwikkelaar van de Kern van Adobe Workfront - Professionele cursus ](https://app.rockinfo.com/courses/231)
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/238)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/238)
 
 +++
 
@@ -203,6 +203,6 @@ Gekwalificeerde kandidaten moeten ook:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

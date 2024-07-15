@@ -1,6 +1,6 @@
 ---
 title: Professionele certificering
-description: Leer hoe u een gecertificeerde Adobe Professional kunt worden in [!DNL Customer Journey Analytics]
+description: Leer hoe u een gecertificeerde Adobe Professional kunt worden in  [!DNL Customer Journey Analytics]
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Customer Journey Analytics] Professioneel als bedrijf
+# Certification trip for Adobe [!DNL Customer Journey Analytics] Business Practitioner Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
 >
->* **Cursus:** Als u net begint, of een verfrisser nodig hebt, neem [Adobe Experience Platform-oprichtingscursus](https://app.rockinfo.com/courses/216) toegang tot verklaringen van zeer belangrijke concepten, productlooptijden, en kenniscontroles. Deze cursus zal een basis van kennis verstrekken u op in uw certificatiereis kunt voortbouwen.
+>* **Cursus:** als u enkel begint, of een verfrisser nodig hebt, neem de [ Cursus van de Stichting van Adobe Experience Platform ](https://app.rockinfo.com/courses/216) om tot verklaringen van zeer belangrijke concepten, productloops, en kenniscontroles toegang te hebben. Deze cursus zal een basis van kennis verstrekken u op in uw certificatiereis kunt voortbouwen.
 >
->* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/131) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
+>* **Gids van de Prep van het Examen van het Examen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/131) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
 >
->_Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
+>_als u aan login wordt ertoe aangezet, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### Minimale ervaring {#minimum-experience}
 
-De ideale minimaal gekwalificeerde kandidaat is een analist met minstens zes maanden ervaring in de Adobe [!DNL Customer Journey Analytics] en een grondbegrip van hoe het werkt in samenhang met [!DNL Adobe Experience Platform]. De kandidaat kan de aangewezen rapportering en visualisatieopties gebruiken om basis en geavanceerde analyse voor een bepaalde bedrijfsbehoefte uit te voeren.
+De ideale kandidaat die minimaal gekwalificeerd is, is een analist met minstens zes maanden ervaring in Adobe [!DNL Customer Journey Analytics] en een basiskennis van de werking ervan in combinatie met [!DNL Adobe Experience Platform] . De kandidaat kan de aangewezen rapportering en visualisatieopties gebruiken om basis en geavanceerde analyse voor een bepaalde bedrijfsbehoefte uit te voeren.
 
 <br>
 
@@ -75,19 +75,19 @@ De ideale minimaal gekwalificeerde kandidaat is een analist met minstens zes maa
 * Een subset van gegevens maken met de juiste componenten en filters
 * Bouw componenten niet-admin om bedrijfsvragen te richten
 
-**Sectie 2: Rapportage (32%)**
+**Sectie 2: Het melden (32%)**
 
 * Bepaal aangewezen visualisaties of lijsten om bedrijfsvragen te richten
 * Bepaal welke gegevensweergave moet worden gebruikt op basis van gegevensbronnen, identiteiten en datumbereiken
 * Bepalen hoe u datumbereiken kunt gebruiken en toepassen
 
-**Deel 3: Distributie (12%)**
+**Sectie 3: Distributie (12%)**
 
 * Rapporten plannen en delen met belangrijke belanghebbenden
 * Curvevelden beschikbaar in een bepaald rapport of dashboard
 * Projecten op logische wijze organiseren
 
-**Sectie 4: Gegevensanalyse (26%)**
+**Sectie 4: De Analyse van gegevens (26%)**
 
 * Verkennende analyse uitvoeren en resultaten interpreteren om inzichten te bieden
 * Evalueer publiek om met andere hulpmiddelen AEP te delen
@@ -109,15 +109,15 @@ De ideale minimaal gekwalificeerde kandidaat is een analist met minstens zes maa
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Een cursus volgen**
+**neem een cursus**
 
 {{take-course}}
 
@@ -128,11 +128,11 @@ De ideale minimaal gekwalificeerde kandidaat is een analist met minstens zes maa
 </span>
 </a>
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/131)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/131)
 
 +++
 
@@ -187,6 +187,6 @@ De ideale minimaal gekwalificeerde kandidaat is een analist met minstens zes maa
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

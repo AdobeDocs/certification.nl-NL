@@ -1,6 +1,6 @@
 ---
 title: Certificering ontwikkelaarsexpert
-description: Leer hoe u een gecertificeerde Adobe Developer-expert kunt worden in [!DNL Campaign Classic].
+description: Leer hoe te om een verklaarde deskundige van Adobe Developer in  [!DNL Campaign Classic] te worden.
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Campaign Classic] Ontwikkelaarsexpert
+# Certificatietraject voor Adobe [!DNL Campaign Classic] Ontwikkelaarsexpert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/252) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/252) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 * Technisch consultant
 * Technologie-engineer
-* Adobe [!DNL Campaign Classic] ontwikkelaar
+* Adobe [!DNL Campaign Classic] -ontwikkelaar
 
 <br>
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 U zou moeten hebben:
 
 * Ervaring met minimaal twee jaar campagnesoftware
-* Minstens drie jaar ervaring in JavaScript-programmering, SQL-ontwikkeling inclusief ETL en webtechnologieën (XML, HTML en webservices)
+* Ten minste drie jaar ervaring in JavaScript-programmering, SQL-ontwikkeling inclusief ETL en webtechnologieën (XML, HTML en webservices)
 * Ervaar het uitvoeren van een marketingcampagne met gebruik van digitaal omnichannel
 * Ervaring met databasearchitectuur en kennis van marketing in databases
 * Mogelijkheid om vereisten toe te wijzen aan de functie Campagne
@@ -66,7 +66,7 @@ U zou moeten hebben:
 
 {{exam-objectives}}
 
-**Sectie 1: Systeemconfiguratie (16%)**
+**Sectie 1: De configuratie van het systeem (16%)**
 
 * Configuratie-instellingen en standaardinstellingen voor het hele systeem toepassen
 * Selecteer op basis van verschillende parameters de juiste Adobe Campaign-functie om een gebruiksgeval te implementeren
@@ -78,20 +78,20 @@ U zou moeten hebben:
 
 * Op basis van een aantal vereisten kunt u best practices toepassen om een gegevensmodel te ontwerpen
 * Beschrijf de implementatie van APIs in Campagne
-* Beschrijf beste praktijken voor het ontwikkelen met JavaScript in Adobe Campaign
-* JavaScript-bibliotheken toepassen in workflows, SOAP-aanroepen, typologische regels en verpersoonlijkingsblokken
-* Beschrijf beste praktijken voor het gebruiken van SQL functies in Adobe [!DNL Campaign Classic]
+* Beschrijf best practices voor ontwikkeling met JavaScript in Adobe Campaign
+* JavaScript-bibliotheken toepassen in workflows, SOAP aanroepen, typologische regels en aanpassingsblokken
+* Beschrijf de beste werkwijzen voor het gebruik van SQL-functies in Adobe [!DNL Campaign Classic]
 * In een scenario leert u hoe u SQL-scripts in Adobe kunt gebruiken [!DNL Campaign Classic]
 * Beschrijf algemeen gebruikte OOTB functies
 
-**Sectie 3: Toegangsbeheer (8%)**
+**Sectie 3: Het beheer van de toegang (8%)**
 
 * In een scenario, vorm veiligheidsmontages voor een exploitant
 * Beschrijf hoe te om de montages van het toegangsbeheer te vormen die op het document van het oplossingsontwerp worden gebaseerd
 * Beschrijf toegangsbeheer gebruikend het Controlebord van de Campagne
 * Identificeer de beperkingen van gegevensverdeling en wanneer om sysfilter te gebruiken
 
-**Sectie 4: Gegevensintegratie (16%)**
+**Sectie 4: De integratie van gegevens (16%)**
 
 * Selecteer bij een scenario de beste aanpak voor integratie met externe gegevensbronnen
 * Tips en trucs implementeren voor de verwerking van workflowgegevens
@@ -99,7 +99,7 @@ U zou moeten hebben:
 * Beveiligings- en netwerkinstellingen identificeren die met Adobe Campaign kunnen worden geïntegreerd vanuit een extern systeem
 * Het CRUD-proces instellen op een schema van buiten Adobe Campaign
 
-**Sectie 5: Instantie-onderhoud (12%)**
+**Sectie 5: Het onderhoud van de instantie (12%)**
 
 * Begrijp en neem op de Werkstroomkaart in werking
 * Toon het proces aan om een douanewerkschema tot stand te brengen of een rapport voor bijvoorbeeld controle
@@ -107,11 +107,11 @@ U zou moeten hebben:
 * Verklaar het effect van de diensten en processen op het systeem
 * De standaardmeetgegevens/controles van systeemaudits aantonen
 
-**Sectie 6: Configuratie campagne (25%)**
+**Sectie 6: De configuratie van de campagne (25%)**
 
 * Geavanceerde verpersoonlijkingstechnieken toepassen
 * Aangepaste doeltoewijzingen configureren en toepassen
-* Identificeer aangewezen gebruik JavaScript in het werkschema van de Campagne en waarom
+* Identificeer aangewezen gebruik JavaScript in de werkschema van de Campagne en waarom
 * Aangepaste code toepassen om tijdelijke tabellen en workflowcontext te bewerken
 * Workflowlogica valideren en fouten opsporen
 * Geavanceerde leveringsinstellingen toepassen
@@ -124,7 +124,7 @@ U zou moeten hebben:
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam) {target="_blank"}
 
 <br>
 
@@ -142,19 +142,19 @@ U zou moeten hebben:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/252)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/252)
 
 +++
 
@@ -209,6 +209,6 @@ U zou moeten hebben:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

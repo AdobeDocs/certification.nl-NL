@@ -1,6 +1,6 @@
 ---
 title: Certificering van ontwikkelaars
-description: Leer hoe u een gecertificeerde Adobe Developer Professional kunt worden in [!DNL Campaign Classic].
+description: Leer hoe u een gecertificeerde Adobe Developer Professional kunt worden in  [!DNL Campaign Classic] .
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Campaign Classic] Developer Professional
+# Certificatietraject voor Adobe [!DNL Campaign Classic] Developer Professional
 
 {{intro}}
 
 >[!NOTE]
 >
->**Nieuwe beschikbare studiemiddelen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/250) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _Als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/250) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de diepgaande studiematerialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 U zou moeten hebben:
 
-* Ten minste één jaar Adobe [!DNL Campaign Classic] software-ervaring
+* Ten minste één jaar ervaring met Adobe van [!DNL Campaign Classic] software
 * Minstens één jaar ervaring in JavaScript-programmering, SQL-ontwikkeling inclusief ETL en webtechnologieën (XML, HTML en webservices)
 * Basiskennis van marketingautomatisering
 * Kennis van relationele databaseconcepten
@@ -64,7 +64,7 @@ U zou moeten hebben:
 
 {{exam-objectives}}
 
-**Sectie 1: Systeemconfiguratie (25%)**
+**Sectie 1: De configuratie van het systeem (25%)**
 
 * Toon systeem-brede configuratie van montages in de knoop van het Beleid aan
 * Pas het proces toe om het OOTB Ontvangerschema uit te breiden
@@ -75,7 +75,7 @@ U zou moeten hebben:
 * De configuratie-instellingen voor Openen en Gesloten opsommingen identificeren
 * Verschillende typen typologische regels
 * Identificeer vereisten om een Kaart van het douaneDoel en zijn gevolgen aan functionaliteit te gebruiken OTB
-* Beschrijf hoe extern geproduceerd publiek van andere oplossingen van Adobe Experience Cloud in Adobe wordt betreden [!DNL Campaign Classic]
+* Beschrijf hoe extern gegenereerd publiek van andere Adobe Experience Cloud-oplossingen wordt benaderd in de Adobe [!DNL Campaign Classic]
 * Beschrijf de bedrijfs gebruikscase voor interactie en aanbiedingen
 * Beschrijf de bedrijfs gebruikscase voor het Centrum van het Bericht
 * Functionaliteit voor het importeren van V8 API-gegevens identificeren
@@ -91,14 +91,14 @@ U zou moeten hebben:
 * Identificeer de gebruiksgevallen voor het gebruik van contentbeheer
 * Toepassen op proces om de OOTB-formulieren bij te werken
 
-**Afdeling 3: Operationele veiligheid (10%)**
+**Sectie 3: Operationele veiligheid (10%)**
 
 * Beschrijf het proces om gebruikersgroepen en rollen toe te voegen
 * Pas het proces toe om de matrix voor gebruikersbeheer te vertalen met de juiste gebruikersrechten en hiërarchie
 * De juiste machtigingen identificeren en definiëren
 * Identificeer de veiligheidsstreek voor een gebruikersgroep
 
-**Sectie 4: Technische werkstromen (29%)**
+**Sectie 4: Technische Werkschema&#39;s (29%)**
 
 * Het proces voor importeren/exporteren toepassen
 * Identificeer de verschillende gegevensbronnen waartoe een werkstroom toegang heeft
@@ -114,12 +114,12 @@ U zou moeten hebben:
 * Pas het proces toe om alarm en goedkeuringen te vormen
 * Typen campagnecabases identificeren
 
-**Sectie 5: Instantie-onderhoud (4%)**
+**Sectie 5: Het Onderhoud van de instantie (4%)**
 
 * Fouten uit verschillende servicelogboeken identificeren
 * Heatmap-lezingen werkstroom verkennen
 
-**Sectie 6: Campagne-configuratie (14%)**
+**Sectie 6: De configuratie van de campagne (14%)**
 
 * Het proces toepassen om campagnes te maken met behulp van Campagneresjablonen
 * Beschrijf het proces om goedkeuringen te creëren
@@ -134,7 +134,7 @@ U zou moeten hebben:
 
 {{readiness}}
 
-[Neem de online-gereedheidsvragenlijst](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"}
+[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam) {target="_blank"}
 
 <br>
 
@@ -152,19 +152,19 @@ U zou moeten hebben:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/250)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/250)
 
 +++
 
@@ -219,6 +219,6 @@ U zou moeten hebben:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

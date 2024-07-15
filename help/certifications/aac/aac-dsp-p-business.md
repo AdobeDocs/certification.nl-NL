@@ -1,6 +1,6 @@
 ---
 title: Bedrijfs Praktijkgerichte Beroeps certificatie
-description: Leer hoe u gecertificeerd kunt worden als Adobe [!DNL Advertising DSP] Zakelijke beroepsbeoefenaar.
+description: Leer hoe te om als Beroeps van de Praktijk van de Adobe  [!DNL Advertising DSP]  te worden verklaard.
 solution: Advertising
 product: Advertising Cloud
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Advertising DSP] Professioneel als bedrijf
+# Certification trip for Adobe [!DNL Advertising DSP] Business Practitioner Professional
 
 {{intro}}
 
@@ -68,7 +68,7 @@ U zou ook met de volgende hulpmiddelen en de technologieën vertrouwd moeten zij
 
 {{exam-objectives}}
 
-**Sectie 1: Opzetten van campagnes (42%)**
+**Sectie 1: De campagnes van de vestiging (42%)**
 
 * Bepaal, gezien de behoeften van een campagne, de strategie voor die campagne
 * Gezien een scenario, creeer een nieuwe campagne
@@ -78,14 +78,14 @@ U zou ook met de volgende hulpmiddelen en de technologieën vertrouwd moeten zij
 * Op basis van een scenario een campagne dupliceren en bewerken
 * Procedurele concepten toepassen die vereist zijn voor het opzetten van particuliere en op verzoek verkrijgbare inventarissen voor een campagne
 
-**Sectie 2: Bezig met uitvoeren en optimaliseren van campagnes (22%)**
+**Sectie 2: Het runnen van en het optimaliseren van campagnes (22%)**
 
 * procedureconcepten toepassen om ervoor te zorgen dat campagnes correct worden uitgevoerd
 * Procedurele concepten toepassen om een campagne te optimaliseren
 * Pas procedureconcepten toe om een campagne problemen op te lossen
 * Op basis van een scenario, de integratie met oplossingen in het platform beheren
 
-**Sectie 3: Rapportage en analyse (26%)**
+**Sectie 3: Het melden en het analyseren (26%)**
 
 * Bij een scenario leest u gegevens binnen het platform
 * Voor een scenario maakt en leest u aangepaste rapporten
@@ -93,7 +93,7 @@ U zou ook met de volgende hulpmiddelen en de technologieën vertrouwd moeten zij
 * Op basis van een scenario de prestaties van een campagne evalueren
 * Procedurele concepten toepassen om prestaties toe te wijzen aan een campagne
 
-**Sectie 4: Voorstellen voor campagnes (10%)**
+**Sectie 4: Het leveren van aanbevelingen voor campagnes (10%)**
 
 * Gezien een scenario, verstrek updates aan cliënten die op een campagne worden gebaseerd
 * Op basis van een scenario past u de campagnestrategie aan op basis van de prestaties van de campagne
@@ -114,33 +114,33 @@ U zou ook met de volgende hulpmiddelen en de technologieën vertrouwd moeten zij
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Deel 1: Opzetten van campagnes**
+**Sectie 1: De campagnes van de vestiging**
 
-* [Over Auditiebeheer in [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html){target="_blank"}
-* [Overzicht van inventariskenmerken in [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
-* [[!DNL Campaign] Instellingen](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/campaigns/campaign-settings.html){target="_blank"}
-* [Plaatsingsinstellingen](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html){target="_blank"}
+* [ Ongeveer het Beheer van het Publiek in  [!DNL Advertising DSP] ](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html) {target="_blank"}
+* [ Overzicht van de Eigenschappen van de Inventaris in  [!DNL Advertising DSP] ](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html) {target="_blank"}
+* [[!DNL Campaign]  Montages ](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/campaigns/campaign-settings.html) {target="_blank"}
+* [ Montages van de Plaatsing ](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html) {target="_blank"}
 
-**Sectie 2: Campagnes uitvoeren en optimaliseren**
+**Sectie 2: Het runnen van en het optimaliseren van campagnes**
 
-* [Hoe [!DNL Advertising DSP] Optimaliseert uw campagnes](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
-* [Aangepaste doelen](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/custom-goals/custom-goal-about.html){target="_blank"}
-* [Beste praktijken voor de Campagnes van Prestaties van de Opstelling](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html){target="_blank"}
-* [Info over Premium-voorraad op aanvraag](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html){target="_blank"}
-* [Rapportage met [!DNL Advertising] Marketingkanalen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html){target="_blank"}
+* [ hoe  [!DNL Advertising DSP]  uw campagnes ](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html) optimaliseert {target="_blank"}
+* [ Ongeveer de Doelen van de Douane ](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/custom-goals/custom-goal-about.html) {target="_blank"}
+* [ Beste praktijken voor de Campagnes van Prestaties van de Opstelling ](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html) {target="_blank"}
+* [ Ongeveer de Voorraad van de Premie van de Vraag ](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html) {target="_blank"}
+* [ Meldend met  [!DNL Advertising]  de Kanalen van de Marketing ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html) {target="_blank"}
 
-**Sectie 3: Rapportage en analyse**
+**Sectie 3: Het melden en het analyseren**
 
-* [Webconsole](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
+* [ Console van het Web ](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html) {target="_blank"}
 
-**Sectie 4: Aanbevelingen voor campagnes**
+**Sectie 4: Het leveren van aanbevelingen voor campagnes**
 
-* [Hoe [!DNL Advertising] DSP optimaliseert uw campagnes](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
-* [Over Advertentiebeheer in [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html){target="_blank"}
+* [ hoe  [!DNL Advertising]  DSP uw campagnes ](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html) optimaliseert {target="_blank"}
+* [ Ongeveer Advertentiebeheer in  [!DNL Advertising]  DSP ](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html) {target="_blank"}
 
 +++
 
@@ -195,6 +195,6 @@ U zou ook met de volgende hulpmiddelen en de technologieën vertrouwd moeten zij
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

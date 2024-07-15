@@ -1,6 +1,6 @@
 ---
 title: Nieuwe certificering voor front-end Developer Professional
-description: Leer hoe u een gecertificeerde Adobe Developer professional voor Adobe kunt worden [!DNL Commerce].
+description: Leer hoe te om een verklaarde beroeps van Adobe Developer voor Adobe  [!DNL Commerce] te worden.
 solution: Commerce
 product: Magento
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Commerce] Front-end Developer Professional
+# Certification trip for Adobe [!DNL Commerce] Front-end Developer Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
 >
->* **Cursus**: Als u net bent begonnen, of een verfrisser nodig hebt, neemt u de [Adobe Commerce-oprichtingscursus](https://app.rockinfo.com/courses/148) toegang tot verklaringen van zeer belangrijke concepten, productlooptijden, en kenniscontroles. Dit verstrekt een basis van kennis u op in uw certificatiereis kunt voortbouwen.
+>* **Cursus**: Als u enkel begint, of een verfrisser nodig hebt, neem de [ Cursus van de Stichting van Adobe Commerce ](https://app.rockinfo.com/courses/148) om tot verklaringen van zeer belangrijke concepten, productloops, en kenniscontroles toegang te hebben. Dit verstrekt een basis van kennis u op in uw certificatiereis kunt voortbouwen.
 >
->* **Handleiding voor voorvoegsel van examen:** De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/138) verstrekt een op maat gemaakt weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
+>* **Gids van de Prep van het Examen van het Examen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/138) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn.
 >
->_Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
+>_als u aan login wordt ertoe aangezet, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -86,13 +86,13 @@ Bovendien, zou u kennis van de volgende technologieën moeten tonen:
 
 {{exam-objectives}}
 
-**Sectie 1: Themabeheer (Themahiërarchie, beeldconfiguratie, vertalingen) (14%)**
+**Sectie 1: Het beheer van het thema (de hiërarchie van het Thema, beeldconfiguratie, vertalingen) (14%)**
 
-* Beschrijf Adobe [!DNL Commerce] themamastructuur
+* Beschrijf de Adobe [!DNL Commerce] themamastructuur
 * Toon capaciteit aan om nieuwe of uitbreiding bestaande thema&#39;s tot stand te brengen
 * Toon capaciteit aan om douanevertaaluitdrukkingen toe te voegen
 
-**Sectie 2: XML-indeling en sjablonen (30%)**
+**Sectie 2: Lay-out XML &amp; malplaatjes (30%)**
 
 * Toon de capaciteit aan om met basislay-outXML instructies te werken
 * Toon de capaciteit aan om bestaande paginalay-outs te gebruiken
@@ -104,28 +104,28 @@ Bovendien, zou u kennis van de volgende technologieën moeten tonen:
 
 * Beschrijf het doel van styles-m.less, styles-l.less, print.less
 * Beschrijf het verschil tussen specifieke gedeeltelijke dossiers (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less)
-* Toon bij een scenario de mogelijkheid om de functie te overschrijven of uit te breiden [!DNL Magento] MINDER
+* Toon bij een scenario de mogelijkheid om [!DNL Magento] LESS te overschrijven of uit te breiden
 * Beschrijf de basisconcepten van LESS
 * Verklaar de hiërarchie van stijlen (lib, modules, thema&#39;s)
 * Klant- en servercompilatie uitleggen
 
 **Sectie 4: JavaScript (18%)**
 
-* Toon de capaciteit aan initialiseren en componenten te roepen JavaScript
+* Toon de capaciteit aan om de componenten van JavaScript te initialiseren en te roepen
 * Het gebruik van RequireJS aantonen
 * Beschrijf het gebruik van mengsels
 * Beschrijven hoe u een vertaling in JS kunt toevoegen
 * Beschrijf het gebruik van Knockout JS
 * Beschrijf het gebruik van jQuery-widgets
 
-**Sectie 5: Admin-configuratie en Page Builder (6%)**
+**Sectie 5: De configuratie van Admin en de Bouwer van de Pagina (6%)**
 
 * Toon de capaciteit aan om de Inhoud van de Bouwer van de Pagina en van CMS aan te passen&quot;
 * Een thema toepassen/plannen op een specifiek bereik (website, winkel, winkel-weergave)
 * Ontwerpwijzigingen toepassen op categorieën, producten en CMS-pagina&#39;s met behulp van beheerconfiguratie
 * Beschrijf stappen om transactie-e-mails aan te passen
 
-**Sectie 6: Gereedschappen (CLI en Grunt) (8%)**
+**Sectie 6: Hulpmiddelen (CLI en Grunt) (8%)**
 
 * Beschrijf het gebruik van basisbak/Magento bevelen
 * Beschrijf het gebruik van Composer-opdrachten (installeren, bijwerken, vereisen, verwijderen)
@@ -148,15 +148,15 @@ Bovendien, zou u kennis van de volgende technologieën moeten tonen:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Een cursus volgen**
+**neem een cursus**
 
 {{take-course}}
 
@@ -167,11 +167,11 @@ Bovendien, zou u kennis van de volgende technologieën moeten tonen:
 </span>
 </a>
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/138)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/138)
 
 +++
 
@@ -226,6 +226,6 @@ Bovendien, zou u kennis van de volgende technologieën moeten tonen:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.

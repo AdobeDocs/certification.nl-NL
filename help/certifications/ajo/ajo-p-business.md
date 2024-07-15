@@ -1,6 +1,6 @@
 ---
 title: Professionele certificering
-description: Leer hoe u een gecertificeerde Adobe kunt worden [!DNL Journey Optimizer] Zakelijke beroepsbeoefenaar.
+description: Leer hoe te om een verklaarde Beroeps van de Praktijk van de Adobe  [!DNL Journey Optimizer]  te worden Bedrijfs.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Certificeringsreis voor Adobe [!DNL Journey Optimizer] Professioneel als bedrijf
+# Certification trip for Adobe [!DNL Journey Optimizer] Business Practitioner Professional
 
 {{intro}}
 
@@ -21,12 +21,12 @@ ht-degree: 0%
 >
 >Gratis cursussen op aanvraag zijn nu beschikbaar om u te helpen zich voor te bereiden op uw examen. Begin vandaag met uw leerreis door de cursus te kiezen die het beste aansluit bij uw ervaringsniveau!
 >
->* De [Adobe Experience Platform-oprichtingscursus](https://app.rockinfo.com/courses/216) introduceert Adobe Experience Cloud, een end-to-end suite met digitale marketingtools die is gebaseerd op het enige platform dat is ontworpen voor personalisatie op schaal.
->* De [Adobe Journey Optimizer-oprichtingscursus](https://app.rockinfo.com/courses/113) biedt een basis voor kennis over deze specifieke toepassing.
->* De [Adobe Journey Optimizer Business Practitioner Professional-cursus](https://app.rockinfo.com/courses/107) bouwt op de cursus van Stichting voort en helpt u voor het professionele niveau certificatieexamen voorbereidingen treffen.
->* De [Handleiding voor voorinstelling van examen](https://app.rockinfo.com/courses/232) verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de materialen u op uw examen zult moeten succesvol zijn.
+>* De [ cursus van de Stichting van Adobe Experience Platform ](https://app.rockinfo.com/courses/216) introduceert Adobe Experience Cloud, een reeks van begin tot eind van digitale marketing hulpmiddelen die op het enige platform worden voortgebouwd dat voor verpersoonlijking bij schaal wordt ontworpen.
+>* De [ cursus van de Stichting van Adobe Journey Optimizer ](https://app.rockinfo.com/courses/113) verstrekt een basis van kennis over deze specifieke toepassing.
+>* De [ Van Bedrijfs Adobe Journey Optimizer BeroepsCursus van de Praktijk ](https://app.rockinfo.com/courses/107) bouwt op de cursus van Bevestigingen voort en helpt u voor het professioneel-vlakke certificatieexamen voorbereiden.
+>* De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/232) verstrekt een op maat gemaakte weg door uw examen prep proces, met inbegrip van de materialen u op uw examen zult moeten succesvol zijn.
 >
->_Als u wordt gevraagd u aan te melden, gebruikt u uw Adobe ID._
+>_als u aan login wordt ertoe aangezet, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ### Beoogd publiek {#intended-audience}
 
-* Adobe [!DNL Journey Optimizer] bedrijfsadviseur
+* Adobe [!DNL Journey Optimizer] bedrijfsconsultant
 * Marketer
 * Zakelijk deskundige op het gebied van marketingautomatisering
 * Campagnebeheer
@@ -75,7 +75,7 @@ Kandidaten moeten in staat zijn:
 * Abonnementenlijsten gebruiken
 * Profielkenmerken en -gebeurtenissen controleren (een profiel laden in de gebruikersinterface)
 * Begrijpen en landingspagina&#39;s gebruiken
-* Begrijp wanneer om verschillende soorten reizen/campagnes te gebruiken en de capaciteit om &quot;Campagnes&quot;eigenschap in Adobe te gebruiken [!DNL Journey Optimizer] voor het samenstellen van een eenmalige e-mailontploffing
+* Begrijp wanneer om verschillende soorten reizen/campagnes te gebruiken en de capaciteit te hebben om de eigenschap &quot;Campaigns&quot;in Adobe [!DNL Journey Optimizer] te gebruiken voor het bouwen van een eenmalig e-mailoverzicht
 * Begrijp de mogelijkheden van gegevensbron, Gebeurtenissen en Acties
 * Reisrapporten controleren en bekijken om problemen met e-mailovereenkomsten/Bounces/Error rate/Spam rates/Domains te volgen
 * Basissegmentcriteria maken en valideren
@@ -96,7 +96,7 @@ Kandidaten moeten ook in staat zijn:
 
 * Een publiek samenstellen (met nieuwe composer voor het publiek)
 * Een publiek importeren (een CSV-publiek uploaden)
-* HTML uploaden en automatisch converteren voor e-mail (nieuwe HTML-converter)
+* HTML uploaden en automatisch converteren voor e-mail  (nieuwe HTML-converter)
 * Een inhoudexperiment maken
 * De resultaten van een inhoudexperiment meten
 * Trajecten, campagnes en meer voor tags/filters/zoekopdrachten
@@ -116,7 +116,7 @@ Kandidaten moeten ook in staat zijn:
 
 {{exam-objectives}}
 
-**Sectie 1: Campagne en Reisoptimalisatie (48%)**
+**Sectie 1: De Optimalisering van de Campagne en van de Reis (48%)**
 
 * Op basis van een scenario bepalen hoe een reis van de Klant kan worden gebouwd
 * Op basis van een scenario bepalen hoe een reis van de Klant moet worden gevalideerd
@@ -132,7 +132,7 @@ Kandidaten moeten ook in staat zijn:
 * Op basis van een scenario bepalen wanneer offer decisioning of personalisatie op schaal moet worden gebruikt
 * Op basis van een scenario onderscheid maken tussen statische en dynamische aanbiedingen
 
-**Sectie 3: Inhoud schrijven (20%)**
+**Sectie 3: Inhoud Authoring (20%)**
 
 * Omgaan met essentiële elementen van bedrijfsmiddelen
 * Geef aan hoe u gepersonaliseerde velden kunt toevoegen aan e-mailberichten
@@ -142,7 +142,7 @@ Kandidaten moeten ook in staat zijn:
 * De typen fragmenten identificeren
 * Bepalen hoe u een e-mailsjabloon maakt
 
-**Afdeling 4: Stichting AEP (20%)**
+**Sectie 4: Stichting van AEP (20%)**
 
 * Op basis van een scenario bepalen wanneer verschillende typen gegevens moeten worden gebruikt
 * Bepaal waar u de kenmerken van profielen en het lidmaatschap van het publiek wilt controleren
@@ -169,27 +169,27 @@ Kandidaten moeten ook in staat zijn:
 
 +++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
 
-**Materialen onderzoeken**
+**Materialen van de Studie**
 
 {{study-materials-intro}}
 
-**Een cursus volgen**
+**neem een cursus**
 
 {{take-course}}
 
-[De cursus Adobe Experience Platform-stichtingen volgen](https://app.rockinfo.com/courses/216){target="_blank"}
-[De cursus Adobe Journey Optimizer-stichtingen volgen](https://app.rockinfo.com/courses/113){target="_blank"}
-[De Adobe Journey Optimizer Business Practitioner Professional-cursus volgen](https://app.rockinfo.com/courses/107){target="_blank"}
+[ neem de Cursus van de Stichting van Adobe Experience Platform ](https://app.rockinfo.com/courses/216) {target="_blank"}
+[ neem de Cursus van de Stichting van Adobe Journey Optimizer ](https://app.rockinfo.com/courses/113) {target="_blank"}
+[ neem de Professionele Cursus van de Beroeps van de Praktijk van Adobe Journey Optimizer ](https://app.rockinfo.com/courses/107) {target="_blank"}
 
-**Een praktijktest uitvoeren**
+**neem een praktijktest**
 
 {{practice-test}}
 
-**Handleiding voor voorinstelling van examen**
+**Gids van de Prep van het Examen**
 
 {{exam-prep-guide}}
 
-[Handleiding voor voorinstelling van examen weergeven](https://app.rockinfo.com/courses/232)
+[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/232)
 
 +++
 
@@ -244,7 +244,7 @@ Kandidaten moeten ook in staat zijn:
 
 ## Vragen
 
-De certificering weergeven [Veelgestelde vragen](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [Contact opnemen](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.
 
