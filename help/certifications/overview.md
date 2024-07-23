@@ -4,10 +4,10 @@ description: Leer over  [!DNL Experience Cloud]  Certificatie bij Adobe. Ontdek 
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 70d644fb8bbf20a4826ed187174c0127f98bce89
+source-git-commit: 0b468095d89029882f3b2492d52a4cf03731d4df
 workflow-type: tm+mt
-source-wordcount: '437'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,11 @@ ht-degree: 3%
 Meer informatie over certificatie van Experiencen Cloud bij Adobe en over wat u kunt doen als u gecertificeerd bent.
 
 ![Banner](/help/certifications/assets/home_banner_smallwide.png)
+
+>[!WARNING]
+>
+>Sommige gebruikers hebben gemeld dat ze een fout hebben ontvangen wanneer ze proberen zich aan te melden bij het Adobe Credential Management System, zodat ze hun examen niet kunnen afleggen. We werken eraan om dit probleem op te lossen. Betrokken gebruikers zullen met verdere informatie worden gecontacteerd.
+
 
 Het Adobe Digital Experience Certification Program is gemaakt om u te helpen uw vaardigheden in Adobe [!DNL Experience Cloud] -producten te bewijzen. Door Adobe Certified te worden kunt u uw expertise tonen en zowel klanten als werkgevers onder de aandacht brengen.
 

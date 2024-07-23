@@ -1,7 +1,7 @@
 ---
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 0b468095d89029882f3b2492d52a4cf03731d4df
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 <!--divider-->
 
 ## Intro {#intro}
+
+>[!WARNING]
+>
+>Sommige gebruikers hebben gemeld dat ze een fout hebben ontvangen wanneer ze proberen zich aan te melden bij het Adobe Credential Management System, zodat ze hun examen niet kunnen afleggen. We werken eraan om dit probleem op te lossen. Betrokken gebruikers zullen met verdere informatie worden gecontacteerd.
 
 Deze pagina bevat informatie over hoe u deze certificering kunt bereiken. Het omvat een beschrijving van het examen, studiematerialen, geleidelijke instructies over het certificatieproces, en hoe te om uw certificatie te vernieuwen.
 
