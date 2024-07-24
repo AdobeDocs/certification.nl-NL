@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Examen AD0-E409" type="neutral"
 mini-toc-levels: 1
 exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: 150bbde0e2f440fffa3d9f53fbba0a58a3652688
 workflow-type: tm+mt
 source-wordcount: '588'
 ht-degree: 0%
@@ -125,7 +125,7 @@ Omgevingen:
 **Sectie 6: Architect, ontwerp en voer [!DNL Adobe Target] (18%) uit**
 
 * Selecteer de correcte implementatie van het Verzoek van het Doel (Globaal, Bevestigen van de Orde, Hybride)
-Evalueer en ontwerp een [!DNL Adobe Target] -implementatie
+* Evalueer en ontwerp een [!DNL Adobe Target] -implementatie
 * Beschrijf de implementatie van [!DNL Adobe Target] in systeemeigen mobiele toepassingen
 
 **Sectie 7: Het oplossen van problemen (28%)**
