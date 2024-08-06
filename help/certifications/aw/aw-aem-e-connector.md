@@ -6,7 +6,7 @@ role: Developer
 badge: label="Examen AD0-E906" type="neutral"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 0%
@@ -188,4 +188,4 @@ En u moet:
 
 Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com).

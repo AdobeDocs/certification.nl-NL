@@ -7,7 +7,7 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: f443d1012717ae90dea490d67595bfa5c879484b
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '1195'
 ht-degree: 0%
@@ -238,6 +238,6 @@ Zorg ervoor dat u stap 1 hierboven hebt gevolgd, en met succes het programma geo
 
 ## Vragen
 
-Heb je een vraag over Adobe certificatie? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.
+Heb je een vraag over Adobe certificatie? [ Contact ons ](mailto:certif@adobe.com).
 
 Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.

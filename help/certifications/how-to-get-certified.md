@@ -4,7 +4,7 @@ description: Leer hoe u gecertificeerd kunt worden tijdens de Adobe. Zoek alle b
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: 8439a5bd025d0bd30b85bc32b1017c00829fe609
 workflow-type: tm+mt
 source-wordcount: '1496'
 ht-degree: 0%
@@ -60,7 +60,7 @@ Als u er niet in slaagt om een Adobe certificatieexamen op uw eerste poging over
 
 **de prijzen van het Certificatieexamen**
 
-| Adobe | Prijs (USD) | Prijs voor India (USD) |
+| Adobe-certificering | Prijs (USD) | Prijs voor India (USD) |
 | ------- | ------- | ------- |
 | Adobe Certified Professional | $ 125 | $ 95 |
 | Adobe Certified Expert | $ 225 | $ 150 |
@@ -225,4 +225,4 @@ Uw badge is een tastbaar bewijs van uw ervaring met Adobe Experience Cloud-produ
 
 Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com).

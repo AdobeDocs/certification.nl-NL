@@ -4,7 +4,7 @@ description: Leer over  [!DNL Experience Cloud]  Certificatie bij Adobe. Ontdek 
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: fb21863d0649b641cb4156b84b295463f578707e
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 3%
@@ -69,4 +69,4 @@ Bent u op zoek naar Adobe [!DNL Creative Cloud] certificeringen? Bezoek de [ Ado
 
 Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com).

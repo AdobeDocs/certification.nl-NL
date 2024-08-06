@@ -7,7 +7,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 4faaca20-9d03-48b2-b3d7-0f964c63000e
-source-git-commit: f443d1012717ae90dea490d67595bfa5c879484b
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '692'
 ht-degree: 0%
@@ -154,4 +154,4 @@ Zorg ervoor dat u stap 1 hierboven hebt gevolgd, en met succes het programma geo
 
 Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com).

@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '2295'
 ht-degree: 0%
@@ -362,7 +362,7 @@ Adobe [!DNL Commerce] Front-End Developer Professional
 
 **Sectie 5: De Configuratie van Admin en PageBuilder (8%)**
 
-* Toon de capaciteit aan om de Inhoud van de Bouwer van de Pagina en van CMS aan te passen
+* Toon de capaciteit aan om de inhoud van de Bouwer van de Pagina en van CMS aan te passen
 * Beschrijf stappen om transactie-e-mails aan te passen
 
 **Sectie 6: Hulpmiddelen (CLI en Grunt) (8%)**
@@ -478,4 +478,4 @@ Eerst, selecteer **twee cursussen** om elke cursusbeoordeling met een score van 
 
 Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com).

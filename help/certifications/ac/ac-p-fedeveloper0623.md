@@ -7,7 +7,7 @@ role: Developer
 badge: label="Examen AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 0%
@@ -120,7 +120,7 @@ Bovendien, zou u kennis van de volgende technologieën moeten tonen:
 
 **Sectie 5: De configuratie van Admin en de Bouwer van de Pagina (6%)**
 
-* Toon de capaciteit aan om de Inhoud van de Bouwer van de Pagina en van CMS aan te passen&quot;
+* Toon de capaciteit aan om de inhoud van de Bouwer en van CMS aan te passen&quot;
 * Een thema toepassen/plannen op een specifiek bereik (website, winkel, winkel-weergave)
 * Ontwerpwijzigingen toepassen op categorieën, producten en CMS-pagina&#39;s met behulp van beheerconfiguratie
 * Beschrijf stappen om transactie-e-mails aan te passen
@@ -228,4 +228,4 @@ Bovendien, zou u kennis van de volgende technologieën moeten tonen:
 
 Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com).

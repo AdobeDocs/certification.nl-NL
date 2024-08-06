@@ -6,7 +6,7 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '2125'
 ht-degree: 0%
@@ -118,7 +118,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 * [ Inleiding aan AEM Screens ](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/introduction.html) {target="_blank"}
 * [ machtigt Uw Digitale Ervaring met AEM as a Cloud Service ](https://blog.developer.adobe.com/empower-your-digital-experience-with-aem-as-a-cloud-service-683d39eb98e3) {target="_blank"}
-* [ Inleiding aan Adobe Experience Manager als Koploze CMS ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html) {target="_blank"}
+* [ Inleiding aan Adobe Experience Manager als Headless CMS ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html) {target="_blank"}
 * [ beheer product, hulp en steuninhoud van verwezenlijking aan levering.](https://business.adobe.com/products/experience-manager/guides/aem-guides.html) {target="_blank"}
 * [ Overzicht van Experience Manager Assets Brand Portal ](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html) {target="_blank"}
 * [ Rollen en Verantwoordelijkheden van het Project ](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/roles-responsibilities.html) {target="_blank"}
@@ -415,4 +415,4 @@ Eerst, selecteer **twee cursussen** om elke cursusbeoordeling met een score van 
 
 Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com).

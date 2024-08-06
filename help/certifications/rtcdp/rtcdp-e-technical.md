@@ -9,7 +9,7 @@ badge: label="Examen AD0-E600 &amp; AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
 hidefromtoc: true
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '1474'
 ht-degree: 0%
@@ -74,7 +74,7 @@ U zou moeten hebben:
 >
 ><br>
 >
->**als u reeds examen AD0-E600** hebt gepland, adviseren wij sterk het annuleren van uw benoeming in het Portaal van het Onderzoek (zie stap 3 hieronder) en het opnieuw plannen wanneer het nieuwe examen wordt vrijgegeven. Voor vragen, gelieve te contacteren [ CertificatieSteun ](mailto:certif@adobe.com){target="_blank"}.
+>**als u reeds examen AD0-E600** hebt gepland, adviseren wij sterk het annuleren van uw benoeming in het Portaal van het Onderzoek (zie stap 3 hieronder) en het opnieuw plannen wanneer het nieuwe examen wordt vrijgegeven. Voor vragen, gelieve te contacteren [ CertificatieSteun ](mailto:certif@adobe.com).
 
 Het examen AD0-E600 bevestigt vaardigheden en kennis die de basiseigenschappen en vaak uitgevoerde taken van Adobe [!DNL Experience Platform] op het niveau van de Expert behandelen.
 
@@ -183,7 +183,7 @@ Het examen AD0-E600 bevestigt vaardigheden en kennis die de basiseigenschappen e
 >
 ><br>
 >
->**als u reeds examen AD0-E600** hebt gepland, adviseren wij sterk het annuleren van uw benoeming in het portaal van het Onderzoek en het opnieuw plannen wanneer het nieuwe examen wordt vrijgegeven. Voor vragen, gelieve te contacteren [ CertificatieSteun ](mailto:certif@adobe.com){target="_blank"}.
+>**als u reeds examen AD0-E600** hebt gepland, adviseren wij sterk het annuleren van uw benoeming in het portaal van het Onderzoek en het opnieuw plannen wanneer het nieuwe examen wordt vrijgegeven. Voor vragen, gelieve te contacteren [ CertificatieSteun ](mailto:certif@adobe.com).
 
 {{schedule-and-pay}}
 
@@ -211,7 +211,7 @@ Het examen AD0-E600 bevestigt vaardigheden en kennis die de basiseigenschappen e
 >
 ><br>
 >
->**als u reeds examen AD0-E600** hebt gepland, adviseren wij sterk het annuleren van uw benoeming in het portaal van het Onderzoek en het opnieuw plannen wanneer het nieuwe examen wordt vrijgegeven. Voor vragen, gelieve te contacteren [ CertificatieSteun ](mailto:certif@adobe.com){target="_blank"}.
+>**als u reeds examen AD0-E600** hebt gepland, adviseren wij sterk het annuleren van uw benoeming in het portaal van het Onderzoek en het opnieuw plannen wanneer het nieuwe examen wordt vrijgegeven. Voor vragen, gelieve te contacteren [ CertificatieSteun ](mailto:certif@adobe.com).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -244,7 +244,7 @@ Het examen AD0-E600 bevestigt vaardigheden en kennis die de basiseigenschappen e
 >
 ><br>
 >
->**als u reeds het AD0-E600 Adobe [!DNL Experience Platform] Technische examen van de Stichting hebt overgegaan en voor het examen AD7-E601** voorbereidingen getroffen, adviseren wij u uw benoeming te houden, aangezien het overgaan van het examen AD7-E601 u de Adobe [!DNL Real-Time Customer Data Platform] Certificatie van de Expert zal toekennen. Voor vragen, gelieve te contacteren [ CertificatieSteun ](mailto:certif@adobe.com){target="_blank"}.
+>**als u reeds het AD0-E600 Adobe [!DNL Experience Platform] Technische examen van de Stichting hebt overgegaan en voor het examen AD7-E601** voorbereidingen getroffen, adviseren wij u uw benoeming te houden, aangezien het overgaan van het examen AD7-E601 u de Adobe [!DNL Real-Time Customer Data Platform] Certificatie van de Expert zal toekennen. Voor vragen, gelieve te contacteren [ CertificatieSteun ](mailto:certif@adobe.com).
 
 Het examen AD7-E601 behandelt de verwezenlijking, het beheer en het begrip van klantenprofiel, de segmentatie, de bestemmingen over bronnen, en andere onderwerpen. Het examen bevestigt de grondvaardigheden en de kennis nodig om in real time CDP voor publiekssegmentatie, bestemmingsuitvoer, en activering op een basis in real time voor verenigde profielen aan gegevens en privacyverordeningen aan te wenden. Kandidaten moeten ervaring hebben met CDP (Customer Data Platforms) en kennis hebben van Adobe [!DNL Experience Platform] .
 
@@ -431,4 +431,4 @@ Deel 3: Doelen (27%)
 
 Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
 
-Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com){target="_blank"}.
+Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com).
