@@ -1,7 +1,7 @@
 ---
-source-git-commit: fb21863d0649b641cb4156b84b295463f578707e
+source-git-commit: 77e59533d17d4bcf02805f69b89e9bfbf44110d2
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1835'
 ht-degree: 0%
 
 ---
@@ -190,6 +190,10 @@ De Adobe gebruikt Onderzoek om geproctorde examens online te beheren. In het por
 >[!NOTE]
 >
 >U moet login aan het [ Systeem van het Beheer van de Verantwoordelijkheid van de Adobe ](https://www.certmetrics.com/adobe) {target="_blank"} alvorens op de knoop van het Onderzoek hieronder te klikken.
+
+>[!WARNING]
+>
+>Het Adobe Digital Experience Certification Program bereidt upgrades voor. Daarom kunnen kandidaten momenteel geen examenbenoemingen plannen die na 26 september 2024 plaatsvinden. De planning zal aan normaal terugkeren zodra de verbeteringen worden gebeëindigd.
 
 <!--divider-->
 
