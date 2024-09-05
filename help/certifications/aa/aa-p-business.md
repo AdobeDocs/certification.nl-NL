@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 591a2c0a135e1a4acdf6e6fde6961b24044eae0f
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '572'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/145) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
+>De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
+>
+>* **Cursus:** als u enkel begint, of een verfrisser nodig hebt, neem de [ cursus van de Stichting van Adobe Analytics ](https://app.rockinfo.com/courses/263) om tot verklaringen van zeer belangrijke concepten, productloops, en kenniscontroles toegang te hebben. Deze cursus zal een basis van kennis verstrekken u op in uw certificatiereis kunt voortbouwen.
+>
+>* **Gids van de Prep van het Examen van het Examen:** de [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/145) verstrekt een op maat gemaakte weg door uw examen prep proces, met inbegrip van de diepgaande studiematerialen u op uw examen zult moeten succesvol zijn.
+>
+>_als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
 
 ## Beschrijving van examen {#exam-description}
 
@@ -128,6 +134,12 @@ U moet minimaal drie maanden ervaring hebben met [!DNL Adobe Analytics] en de vo
 **Materialen van de Studie**
 
 {{study-materials-intro}}
+
+**neem een cursus**
+
+{{take-course}}
+
+[ cursus van de Stichting van Adobe Analytics ](https://app.rockinfo.com/courses/263)
 
 **Gids van de Prep van het Examen**
 
