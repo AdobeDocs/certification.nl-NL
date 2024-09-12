@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 1c42b43504436e797f4d3a68c4438ed0d956fc14
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -157,10 +157,6 @@ Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten
 **Materialen van de Studie**
 
 {{study-materials-intro}}
-
-**neem een praktijktest**
-
-{{practice-test}}
 
 **Gids van de Prep van het Examen**
 
