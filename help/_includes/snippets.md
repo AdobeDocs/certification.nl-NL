@@ -1,5 +1,5 @@
 ---
-source-git-commit: 77e59533d17d4bcf02805f69b89e9bfbf44110d2
+source-git-commit: e98d6f96841c0efbe07c33625ac728069393a99e
 workflow-type: tm+mt
 source-wordcount: '1835'
 ht-degree: 0%
@@ -193,7 +193,7 @@ De Adobe gebruikt Onderzoek om geproctorde examens online te beheren. In het por
 
 >[!WARNING]
 >
->Het Adobe Digital Experience Certification Program bereidt upgrades voor. Daarom kunnen kandidaten momenteel geen examenbenoemingen plannen die na 26 september 2024 plaatsvinden. De planning zal aan normaal terugkeren zodra de verbeteringen worden gebeëindigd.
+>Het Adobe Digital Experience Certification Program bereidt upgrades voor. Daarom kunnen kandidaten momenteel geen examenbenoemingen plannen die na 13 oktober 2024 plaatsvinden. De planning zal aan normaal terugkeren zodra de verbeteringen worden gebeëindigd.
 
 <!--divider-->
 
