@@ -1,7 +1,7 @@
 ---
-source-git-commit: e98d6f96841c0efbe07c33625ac728069393a99e
+source-git-commit: b343d44734e84224e6e266235573a3c29a273721
 workflow-type: tm+mt
-source-wordcount: '1835'
+source-wordcount: '1836'
 ht-degree: 0%
 
 ---
@@ -123,13 +123,13 @@ Betalen via voucher: Ga naar: Adobe Certification Voucher Center om een examenvo
 
 **het Aankopen van een voucher**
 
-U kunt voor een examen met een bon betalen. Om een examenbon te kopen ga naar het [ Centrum van de Certificatie van de Adobe Voucher ](https://market.xvoucher.com/adobe/global) {target="_blank"}.
+U kunt voor een examen met een bon betalen. Om een examenbon te kopen ga naar het [ Centrum van de Certificatie van de Adobe Voucher ](https://certification.adobe.com/certifications/vouchers) {target="_blank"}.
 
 U kunt de vouchercode toepassen wanneer u uw examen plant. Zie hieronder voor informatie over bonkorting.
 
 Alle gegadigden kunnen een korting krijgen op bulkaankopen van 10 of meer examens wanneer ze deze aankopen via het Adobe Certification Voucher Center.
 
-Voor meer informatie over vouchers, gelieve te zien [ FAQ ](https://experienceleague.adobe.com/docs/certification/program/faq.html) {target="_blank"}.
+Voor meer informatie over vouchers, gelieve te zien [ FAQ ](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab) {target="_blank"}.
 
 **Kortingen**
 
@@ -143,7 +143,7 @@ Er zijn bulkkortingen beschikbaar:
 
 De kortingen van de partner: De partners van het niveau Bronze en hierboven krijgen kortingen op alle Adobe certificatieexamens en klassen. U kunt meer over deze kortingen lezen en hoe te om tot partnervoordelen op het Portaal van de Partner van de Oplossing toegang te hebben.
 
-Voucher-kortingen: alle gegadigden kunnen een korting krijgen op bulkaankopen van 10 of meer examens wanneer ze deze aankopen via het Adobe Certification Voucher Center.
+De kortingen van de voucher: Alle kandidaten kunnen een korting op bulkaankopen van 10 of meer examens ontvangen wanneer zij via het ](https://certification.adobe.com/certifications/vouchers) {target="_blank"} Centrum van de Certificatie van de Adobe 0} [ kopen.
 
 Opmerking: Bulkkortingen kunnen niet worden gecombineerd met een andere aanbieding of korting.
 
@@ -183,7 +183,7 @@ De Adobe gebruikt Onderzoek om geproctorde examens online te beheren. In het por
 
 * **Plan, herprogrammeer of annuleer uw examen.** Houd er rekening mee dat het annuleren en opnieuw plannen moet worden gestart vóór 48 uur voor de geplande examenafspraak. De kandidaten moeten deze benoeming zelf wijzigen.
 
-* **betaal voor uw examen.** Betaal voor uw certificatieexamen of door bon of creditcard in het examenportaal. Om een examenbon te kopen gaat naar: [ het Systeem van de Certificatie van de Adobe Voucher ](https://market.xvoucher.com/adobe/global) {target="_blank"}. U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, wordt deze toegepast bij afhandeling.
+* **betaal voor uw examen.** Betaal voor uw certificatieexamen of door bon of creditcard in het examenportaal. Om een examenbon te kopen gaat naar: [ het Centrum van de Certificatie van de Adobe Voucher ](https://certification.adobe.com/certifications/vouchers) {target="_blank"}. U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, wordt deze toegepast bij afhandeling.
 
 * **neem uw examen.**
 
