@@ -4,9 +4,9 @@ description: Leer hoe u gecertificeerd kunt worden tijdens de Adobe. Zoek alle b
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 8439a5bd025d0bd30b85bc32b1017c00829fe609
+source-git-commit: 818318d0eaee1dec2beb545fd8433f359fec5c33
 workflow-type: tm+mt
-source-wordcount: '1496'
+source-wordcount: '1406'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ De meeste certificatievernieuwingen zijn **kosteloos**. Voor certificatie die ge
 
 **die voor uw examen** betaalt
 
-U kunt voor uw certificatieexamen door bon of creditcard betalen. Om een examenbon te kopen gaat naar: [ het Centrum van de Certificatie van de Adobe Voucher ](https://market.xvoucher.com/adobe/global) {target="_blank"}.
+U kunt voor uw certificatieexamen door bon of creditcard betalen. Om een examenbon te kopen gaat naar: [ het Centrum van de Certificatie van de Adobe Voucher ](https://certification.adobe.com/certifications/vouchers) {target="_blank"}.
 
 U kunt de vouchercode toepassen wanneer u uw examen plant. Als u een korting hebt, wordt deze toegepast bij het afrekenen.
 
@@ -82,7 +82,7 @@ Bronze en hierboven krijgen kortingen op alle Adobe certificatieexamens en klass
 
 **Andere kortingen**
 
-Bovendien, kunnen alle kandidaten een korting op bulkaankopen van 10 of meer examens ontvangen wanneer zij via het ](https://market.xvoucher.com/adobe/global) {target="_blank"} Centrum van de Certificatie van de Adobe 1} kopen.[
+Bovendien, kunnen alle kandidaten een korting op bulkaankopen van 10 of meer examens ontvangen wanneer zij via het [ Centrum van de Certificatie van de Adobe Certificatie Voucher ](https://certification.adobe.com/certifications/vouchers) kopen.
 
 **Bulk kortingsniveaus**
 
@@ -94,6 +94,68 @@ Opmerking: Bulkkortingen kunnen niet worden gecombineerd met een andere aanbiedi
 | 25-49 | 25% |
 | 50+ | 33% |
 
+>[!TAB  Vouchers ]
+
+Het Adobe Digital Experience Certification Program gaat deze herfst naar een nieuw platform! De nieuwe Adobe Certification Portal biedt technische training en een verbeterde gebruikerservaring voor certificeringskandidaten.
+
+Als deel van het portaal, hebben wij een nieuw [ Centrum van Voucher van de Adobe ](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab) {target="_blank"} ontworpen, dat op 23 september, 2024 lanceert. Dit nieuwe systeem voor het aanschaffen en beheren van vouchers is robuuster, eenvoudiger te navigeren en biedt verbeterde rapportopties voor beheerders.
+
+Alle vouchers die u al via Xvoucher hebt aangeschaft, zijn binnen 72 uur na deze overgang beschikbaar op de Adobe Certification Portal. Nadat u het programma hebt geopend, ga naar het [ Centrum van de Adobe Voucher ](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab) {target="_blank"} om uw actieve vouchers en vouchergeschiedenis te bekijken, en nieuwe vouchers te kopen.
+
+**Belangrijke te herinneren data:**
+
+**September 23, 2024, 12:01 AM ET**
+* Vouchers kunnen niet meer worden aangeschaft op Xvoucher.
+* Voucher de aankoop zal in het [ Centrum van de Voucher van de Adobe ](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab) {target="_blank"} beschikbaar zijn.
+* De onderzoeken kunnen nog van het [ Systeem van het Beheer van de Adobe van de Referentie ](https://www.certmetrics.com/adobe/) worden gepland {target="_blank"}.
+
+**September 25, 2024 bij 8:00 AM ET**
+* De vouchers van uw rekening van Xvoucher zullen in het [ Centrum van de Voucher van de Adobe ](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab) {target="_blank"} verschijnen.
+
+**Veelgestelde vragen van de a-blik**
+
++++Wat gebeurt er met bestaande vouchers?
+
+Alle vouchers die u al via Xvoucher hebt aangeschaft, zijn op 25 september 2024 om 8:00 uur ET beschikbaar op de Adobe Certification Portal. U kunt deze vouchers nog steeds gebruiken voor het plannen van examens. De getallen veranderen niet, zelfs niet na de overgang weg van Xvoucher.
+
++++
+
++++Hoe kan ik vouchers aanschaffen op de Adobe Certification Portal?
+
+Ga naar het [ Centrum van de Voucher van de Adobe ](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab) {target="_blank"} en voeg het gewenste aantal vouchers aan uw kar toe. Zolang u met uw partner e-mail het programma wordt geopend, zal uw partnerkorting worden toegepast.
+
+Voor een demo bij voucheraankoop, bekijk deze [ video ](https://video.tv.adobe.com/v/3434122){target="_blank"}.
+
++++
+
++++Hoe kan ik vouchers toewijzen en beheren voor mijn team?
+
+Deze [ video ](https://video.tv.adobe.com/v/3434581){target="_blank"} verstrekt een gedetailleerd overzicht van de admineigenschappen van het Centrum van de Adobe Voucher.
+
++++
+
++++Waar kan ik de vouchers van mijn team bekijken?
+
+De vouchers van uw team zullen in het [ Centrum van de Adobe Voucher ](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab) {target="_blank"} zichtbaar zijn.
+
++++
+
++++Waar kunnen mijn teamleden hun toegewezen vouchers bekijken?
+
+De individuen kunnen hun toegewezen vouchers in hun [ rekening ](https://certification.adobe.com/user/purchases) bekijken {target="_blank"} op het Portaal van de Certificatie van de Adobe.
+
++++
+
++++Hoe begin ik mijn kooporder op instapniveau in het nieuwe systeem?
+
+Gelieve te zien de laatste vraag in onze [ Voucher FAQ ](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab) {target="_blank"}: &quot;Wat is het proces om met een Inkooporder te betalen?&quot;
+
++++
+
+**Vragen?**
+
+Gelieve te bezoeken gedetailleerde [ Voucher FAQ ](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab) {target="_blank"} op onze website.
+
 >[!TAB  Verkopers van de Certificatie ]
 
 Het Adobe Digital Experience Certification Program werkt samen met leveranciers om de initiatieven en doelstellingen van het programma te ondersteunen. Hier zijn de verkopers en hun contactinformatie:
@@ -102,7 +164,6 @@ Het Adobe Digital Experience Certification Program werkt samen met leveranciers 
 | ------- | ------- | ------- |
 | Credly | Badge Management System | [ Steun ](https://credlyissuer.zendesk.com/hc/en-us) {target="_blank"} |
 | Exemplaar | Leverancier testen (alleen online verwerking) | [ E-mail ](mailto:support@examity.com){target="_blank"} of 855-Onderzoek (855-392-6489) |
-| Xvoucher - Adobe Certification Voucher Center | Vouchercentrum voor de aanschaf van individuele vouchers of vouchers in bulk | [ E-mail ](mailto:support@xvoucher.com){target="_blank"} of [ Online hulp ](https://help.xvoucher.com/hc/en-us) |
 
 Andere bronnen van leveranciers:
 
@@ -123,69 +184,6 @@ Nuttige video&#39;s:
 * [ hoe te om uw testbenoeming ](https://vimeo.com/394507149) te herschikken {target="_blank"}
 * [ hoe te om uw testbenoeming ](https://vimeo.com/394507135) te annuleren {target="_blank"}
 * [ hoe te om u online test ](https://vimeo.com/394506686) te nemen {target="_blank"}
-
-Veelgestelde vragen over Adobe Certification Voucher Center (Xvoucher)
-
-+++Wanneer verlopen de examenvouchers? Hoe lang zijn ze goed voor?
-
-Adobe examenvouchers verlopen twaalf maanden na aankoop. Vouchers kunnen na de vervaldatum niet worden uitgebreid. De registraties van het examen moeten voor, worden gepland betaald en worden genomen vóór de vervaldatum van de examenbon.
-
-+++
-
-+++Kunnen vouchers worden geretourneerd voor creditering of terugbetaling?
-
-_alle verkoop is definitief._ Retourzendingen en terugbetalingen worden niet geaccepteerd. Adobe examenvouchers worden gekocht op een examenniveau, niet voor specifieke examens, en dat verstrekt flexibiliteit.
-
-* Voorbeeld: Wanneer u 10 examenvouchers op Adobe Certified Expert-niveau koopt en deze verspreidt, hoeft u niet vooraf te weten wie welk Expert-examen zal afleggen.
-* Beheerders kunnen de voucher toewijzen aan een gebruiker en controleren of de voucher is bekeken, is afgelost of wanneer het examen gepland is of heeft plaatsgevonden.
-
-+++
-
-+++Welke betalingen worden geaccepteerd?
-
-De betaling kan worden verricht met (alle belangrijke) creditcards. Betalingen via creditcard vereisen acceptatie van een online overeenkomst met een klik-omslag. De verschillende betalingsopties zijn:
-
-* Duur, inkooporder of ACH: Maak een inkooporder in het Xvoucher-systeem die kan worden afgedrukt en naar de te betalen afdeling van uw rekening kan worden verzonden. Deze bestelling wordt goedgekeurd na ontvangst van de overschrijving of cheque.
-* Creditcard: alle creditcards zijn geaccepteerd.
-* Xwallet: hiermee wordt het orderbedrag van uw Xwallet-pool afgetrokken.
-
-+++
-
-+++Is er een minimum of maximum aantal vouchers dat ik kan kopen?
-
-Nee, er is geen minimum of maximum. Aankopen door klanten zijn slechts beperkt op basis van beschikbare middelen, zoals een creditcardlimiet of een bankrekeningsaldo voor overschrijvingen.
-
-+++
-
-+++Hoe lang duurt het om toegang tot vouchers te krijgen nadat ik mijn bestelling heb geplaatst?
-
-Vouchers zijn direct na aankoop beschikbaar als ze via creditcard of Xwallet worden betaald.
-
-* Als u voor uzelf koopt, worden boncodes op het scherm en in e-mail verstrekt.
-* Als u voor anderen koopt, meldt u zich aan bij uw Xvoucher-account en stuurt u de vouchers van daaruit naar uw eindgebruikers.
-* Als u via een kabel of inkooporder betaalt, worden voucheropdrachten vrijgegeven wanneer Xvoucher de middelen heeft ontvangen.
-
-[ Online hulp ](https://help.xvoucher.com/) {target="_blank"}
-
-+++
-
-+++Hoe heb ik toegang tot mijn Xvoucher-account?
-
-Eenvoudig login aan uw rekening [ hier ](https://www.xvoucher.com/Login.aspx) {target="_blank"}.
-
-+++
-
-+++Hoe heb ik toegang tot mijn Adobe voucher?
-
-Nadat u een voucher hebt toegewezen, ontvangt u een e-mail van support@xvoucher.com met een vouchercode en instructies voor het inwisselen van de voucher. Controleer de spammap als u geen e-mail hebt ontvangen. Als u het e-mailbericht nog steeds niet kunt vinden, kunt u zich aanmelden bij uw Xvoucher-account.
-
-+++
-
-+++Kunnen vouchers worden geretourneerd voor creditering of terugbetaling?
-
-Alle verkopen zijn definitief. Retourzendingen en terugbetalingen worden niet geaccepteerd. De Vouchers van het Examen van de Adobe worden gekocht op een examenniveau, niet voor specifieke examens, die grote flexibiliteit verstrekt.
-
-+++
 
 >[!TAB  Beheerd uw certificatieprofiel ]
 
