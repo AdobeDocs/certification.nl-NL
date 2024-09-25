@@ -1,7 +1,7 @@
 ---
-source-git-commit: b343d44734e84224e6e266235573a3c29a273721
+source-git-commit: b8d1594007a079fb2f18deb1484634a8fb385177
 workflow-type: tm+mt
-source-wordcount: '1836'
+source-wordcount: '1838'
 ht-degree: 0%
 
 ---
@@ -187,9 +187,7 @@ De Adobe gebruikt Onderzoek om geproctorde examens online te beheren. In het por
 
 * **neem uw examen.**
 
->[!NOTE]
->
->U moet login aan het [ Systeem van het Beheer van de Verantwoordelijkheid van de Adobe ](https://www.certmetrics.com/adobe) {target="_blank"} alvorens op de knoop van het Onderzoek hieronder te klikken.
+**gelieve nota te nemen:** u moet login aan het [ Systeem van het Beheer van de Verantwoordelijkheid van de Adobe ](https://www.certmetrics.com/adobe) {target="_blank"} alvorens op de hieronder knoop van het Onderzoek te klikken.
 
 >[!WARNING]
 >
