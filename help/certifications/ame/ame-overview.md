@@ -1,9 +1,10 @@
 ---
 title: Overzicht van certificering van Marketo's Engage
 description: Overzicht van certificeringsopties voor Adobe Marketo Engage
-solution: Experience Manager
+solution: Marketo Engage
+product: Marketo
 exl-id: 8746c2a3-351f-4f6b-875d-5c72526d3166
-source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
+source-git-commit: 9cdd882f1946ed46fb403ae3040e1184a8ed822e
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 20%
