@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
 source-wordcount: '2421'
 ht-degree: 0%
@@ -15,6 +15,8 @@ ht-degree: 0%
 ---
 
 # De Adobe verlengen [!DNL Marketo Engage]
+
+{{renewals-hold}}
 
 Uw Adobe is twee jaar geldig. Als u dit merk van twee jaar nadert, is het tijd om uw certificatie te vernieuwen om het actief te houden.
 
@@ -271,7 +273,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 **Sectie 1: Beleid en onderhoud**
 
 * [ Experience League -  [!DNL Marketo Engage]  Documentatie van het Product ](https://experienceleague.adobe.com/docs/marketo/using/home.html) {target="_blank"} (het Beheer van het Gebied, de Synchronisatie van CRM, het Spoor van de Controle, het Beleid van de Gebruiker, Werkruimten en Verdelingen, Slimme Lijsten, het Gebied van de Douane)
-* [ de Natie van Marketo van de Adobe ](https://nation.marketo.com/t5/products/ct-p/products) {target="_blank"} (Synchroon met Salesforce, Integraties van CRM)
+* [ de Natie van Marketo van de Adobe ](https://nation.marketo.com/t5/products/ct-p/products) {target="_blank"} (Synchroon met Salesforce, de integraties van CRM)
 
 **Sectie 2: De marketing activiteiten/het beheer van de Campagne**
 

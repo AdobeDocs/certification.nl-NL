@@ -1,7 +1,7 @@
 ---
-source-git-commit: b8d1594007a079fb2f18deb1484634a8fb385177
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
-source-wordcount: '1838'
+source-wordcount: '1989'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,16 @@ ht-degree: 0%
 ## Intro {#intro}
 
 Deze pagina bevat informatie over hoe u deze certificering kunt bereiken. Het omvat een beschrijving van het examen, studiematerialen, geleidelijke instructies over het certificatieproces, en hoe te om uw certificatie te vernieuwen.
+
+>[!NOTE]
+>Adobe Digital Experience Certification Program Update
+>
+>**het Programma van de Certificatie van de Ervaring van de Adobe Digitale Bewegende!** De nieuwe Adobe Certification Portal wordt op 22 oktober 2024 gestart. Gelieve te maken nota van deze **belangrijke data:**
+>
+>* **Oktober 14, 2024:** het plannen van het examen, praktijktests, en de toegang tot het Systeem van het Beheer van de Referentie van de Adobe zullen niet beschikbaar zijn terwijl wij gegevens aan het nieuwe portaal migreren
+>* **22 Oktober, 2024:** De Portaallanceringen van de Certificatie van de Adobe! Uw certificatiegeschiedenis zal op het nieuwe portaal, samen met alle exameninformatie, studiemiddelen, en het plannen mogelijkheden beschikbaar zijn. Uw testscores en coachingrapporten die teruggaan tot 1 januari 2021, zijn ook beschikbaar in uw account.
+>
+>Kijk hier op 22 oktober voor meer informatie over het aanmelden bij de nieuwe Adobe Certification Portal!
 
 <!--divider-->
 
@@ -240,3 +250,9 @@ Onze gratis cursussen op aanvraag helpen u voor te bereiden op uw examen. De cur
 ## Handleiding voor voorinstelling van examen {#exam-prep-guide}
 
 De vrije Gids van de Prep van het Examen verstrekt een op maat gemaakt weg door uw examen prep proces, met inbegrip van de materialen u op uw examen zult moeten succesvol zijn.
+
+## Verlenging in wachtstand {#renewals-hold}
+
+>[!WARNING]
+>
+>Het Adobe Digital Experience Certification Program zal binnenkort worden gewijzigd. Als u bezig bent om uw certificatie te vernieuwen, gelieve te merken dat **13 Oktober, 2024 de laatste datum is om uw vernieuwing te voltooien.**
