@@ -1,7 +1,7 @@
 ---
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: a6939c76c6440e9de928688b256fd3410046b174
 workflow-type: tm+mt
-source-wordcount: '1989'
+source-wordcount: '1983'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,6 @@ ht-degree: 0%
 Deze pagina bevat informatie over hoe u deze certificering kunt bereiken. Het omvat een beschrijving van het examen, studiematerialen, geleidelijke instructies over het certificatieproces, en hoe te om uw certificatie te vernieuwen.
 
 >[!NOTE]
->Adobe Digital Experience Certification Program Update
 >
 >**het Programma van de Certificatie van de Ervaring van de Adobe Digitale Bewegende!** De nieuwe Adobe Certification Portal wordt op 22 oktober 2024 gestart. Gelieve te maken nota van deze **belangrijke data:**
 >
