@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: 839b73b72e72e4460d78028047abc8bf6ada0675
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -42,20 +42,24 @@ De meeste certificaties kunnen **kosteloos** worden vernieuwd. Sommige certifice
 
 De certificeringen die onder de onderstaande koppelingen worden gevonden, kunnen gratis worden vernieuwd, hetzij door voortdurend leren, hetzij door het afnemen van een nieuw examen op aanvraag. Als u uw certificatie hier niet vindt, zult u moeten vernieuwen door het volledige certificatieexamen opnieuw te nemen.
 
+<!-- 
+
 >[!NOTE]
 >
->Als u de verbinding aan een het vernieuwingsexamen of beoordeling met een collega wilt delen, gelieve verbinding aan de algemene pagina van de examenvernieuwing, niet URL van het examen zelf, om login kwesties te vermijden.
+>If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
-* [ Adobe  [!DNL Analytics] ](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aa/aa-renew.html) {target="_blank"}
-* [ Adobe  [!DNL Audience Manager] ](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aam/aam-renew.html) {target="_blank"}
-* [ Adobe  [!DNL Campaign Classic] ](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/acc/acc-renew.html) {target="_blank"}
-* [ Adobe  [!DNL Campaign Standard] ](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/acs/acs-renew.html) {target="_blank"}
-* [ Adobe  [!DNL Commerce] ](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html) {target="_blank"}
-* [ Adobe  [!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aem/aem-renew.html) {target="_blank"}
-* [ Adobe  [!DNL Marketo Engage] ](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ame/ame-renew.html) {target="_blank"}
-* [ Adobe  [!DNL Real-Time CDP] ](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/rtcdp/rtcdp-renew.html) {target="_blank"}
-* [ Adobe  [!DNL Target] ](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/at/at-renew.html) {target="_blank"}
-* [ Adobe  [!DNL Workfront] ](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/aw/aw-renew.html) {target="_blank"}
+* [Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aa/aa-renew.html){target="_blank"}
+* [Adobe [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aam/aam-renew.html){target="_blank"}
+* [Adobe [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/acc/acc-renew.html){target="_blank"}
+* [Adobe [!DNL Campaign Standard]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/acs/acs-renew.html){target="_blank"}
+* [Adobe [!DNL Commerce]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html){target="_blank"}
+* [Adobe [!DNL Experience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aem/aem-renew.html){target="_blank"}
+* [Adobe [!DNL Marketo Engage]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ame/ame-renew.html){target="_blank"}
+* [Adobe [!DNL Real-Time CDP]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/rtcdp/rtcdp-renew.html){target="_blank"}
+* [Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/at/at-renew.html){target="_blank"} 
+* [Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/aw/aw-renew.html){target="_blank"}
+
+-->
 
 ## Vragen
 
