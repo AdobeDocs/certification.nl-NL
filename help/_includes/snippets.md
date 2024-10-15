@@ -1,7 +1,7 @@
 ---
-source-git-commit: a6939c76c6440e9de928688b256fd3410046b174
+source-git-commit: db72e72c2b642102d1ecb991df04138e6bd7f630
 workflow-type: tm+mt
-source-wordcount: '1983'
+source-wordcount: '1970'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Intro {#intro}
 
-Deze pagina bevat informatie over hoe u deze certificering kunt bereiken. Het omvat een beschrijving van het examen, studiematerialen, geleidelijke instructies over het certificatieproces, en hoe te om uw certificatie te vernieuwen.
+Deze pagina heeft voorheen informatie verschaft over de manier waarop deze certificering kan worden bereikt. Zie de notitie voor bijgewerkte informatie.
 
 >[!NOTE]
 >
