@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: 839b73b72e72e4460d78028047abc8bf6ada0675
+source-git-commit: ecdd9647a660eb3662f925408a4fd27fb9a3c2d9
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -38,11 +38,11 @@ Adobe biedt verschillende bronnen en hulpmiddelen om u te helpen uw certificerin
 
 De meeste certificaties kunnen **kosteloos** worden vernieuwd. Sommige certificeringen hebben nog geen optie voor gratis verlenging. Om die certificatie te vernieuwen, zult u het volledige certificatieexamen moeten hernemen.
 
-## Opties voor gratis verlenging
-
-De certificeringen die onder de onderstaande koppelingen worden gevonden, kunnen gratis worden vernieuwd, hetzij door voortdurend leren, hetzij door het afnemen van een nieuw examen op aanvraag. Als u uw certificatie hier niet vindt, zult u moeten vernieuwen door het volledige certificatieexamen opnieuw te nemen.
-
 <!-- 
+
+## Free renewal options
+
+The certifications found under the links below can be renewed for free, either through continuous learning or by taking an on-demand renewal exam. If you do not find your certification here, you will need to renew by retaking the full certification exam.
 
 >[!NOTE]
 >
