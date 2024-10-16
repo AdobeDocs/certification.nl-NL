@@ -4,10 +4,10 @@ description: Overzicht van certificeringsopties voor Adobe Advertising
 solution: Advertising
 product: Advertising Cloud
 exl-id: fffb8e56-5afa-4fc0-a384-8a00f96b74a2
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 7%
+source-wordcount: '74'
+ht-degree: 10%
 
 ---
 
@@ -22,10 +22,6 @@ Adobe biedt meerdere certificeringen voor Advertising Business-professionals.  D
 * [ Bedrijfs Praktijk (Onderzoek) ](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
 * [ Bedrijfs Praktijk (DSP) ](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
 
-## Verlenging
-
-Bezoek [ vernieuwt uw certificatie ](/help/certifications/renew.md) pagina om te zien of is een vernieuwingsoptie beschikbaar voor dit product.
-
 ## Bronnen
 
 Voor meer informatie over deze producten, gebruik deze {](https://business.adobe.com/) verbindingen 0} business.adobe.com:[
@@ -33,8 +29,5 @@ Voor meer informatie over deze producten, gebruik deze {](https://business.adobe
 * [ Adobe Advertising vraag-zijPlatform (DSP) ](https://business.adobe.com/products/advertising/demand-side-platform.html) {target="_blank"}
 * [ het Onderzoek van de Adobe Advertising ](https://business.adobe.com/products/advertising/search-marketing-management.html) {target="_blank"}
 
-## Vragen
+{{questions}}
 
-Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
-
-Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com).

@@ -3,10 +3,10 @@ title: Overzicht van Experience Manager-certificering
 description: Overzicht van certificeringsopties voor Adobe Experience Manager
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 7%
+source-wordcount: '84'
+ht-degree: 9%
 
 ---
 
@@ -36,4 +36,4 @@ Als u informatie bij het vernieuwen van uw bestaande certificatie zoekt, bezoek 
 
 * [ Architect (Plaatsen) ](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
-Bezoek [ vernieuwt uw certificatie ](/help/certifications/renew.md) pagina om te zien of is een vernieuwingsoptie beschikbaar voor dit product.
+{{questions}}

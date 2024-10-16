@@ -6,9 +6,9 @@ product: Experience Platform
 role: User,Developer,Data Architect
 badge: label="Adobe Journey Optimizer Verlenging" type="neutral"
 hidefromtoc: true
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '20'
 ht-degree: 0%
 
 ---
@@ -17,23 +17,29 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-Wanneer u een certificatieexamen overgaat, is uw certificatie geldig voor twee jaar.
+<!--
 
-We zijn blij om aan te kondigen dat u nu in staat bent om uw certificering te vernieuwen via een nieuwe, gratis indeling. Het impliceert het gebruiken van cursussen en zelfstudies van het Experience League op bestelling-voltooit eenvoudig drie activiteiten om uw certificatie tegen geen kosten te vernieuwen. U moet vernieuwen alvorens uw certificatie verloopt, of u zult het volledige examen moeten nemen om opnieuw verklaard te worden.
+When you pass a certification exam, your certification is valid for two years.
+
+We're happy to announce that you are now able to renew your certification via a new, no-cost format. It involves using on-demand Experience League courses and tutorials—simply complete three activities to renew your certification at no cost. You must renew before your certification expires, or you will need to take the full exam to become certified again. 
 
 >[!IMPORTANT]
 >
->**Login eerst:** De volgende verbindingen zullen **slechts** na a **succesvolle login** aan het [ Systeem van het Beheer van de Verantwoordelijkheid van de Adobe ](https://www.certmetrics.com/adobe) {target="_blank"} functioneren.
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**om een verbinding te delen:** als u de verbinding aan een het vernieuwingsexamen of beoordeling met een collega zou willen delen, gelieve met de algemene pagina van de examenvernieuwing, niet URL van het examen zelf te verbinden, om login kwesties te vermijden.
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!NOTE]
->De verlenging van experts komt binnenkort.
+>Expert renewal coming soon.
 
-## Vragen
+## Questions
 
-Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com).
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}

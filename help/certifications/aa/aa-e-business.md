@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 21c5386c5979cc9446e206f49a4d128f4aab4450
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,4 @@ ht-degree: 0%
 * Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E208 (Engels), AD0-E208-J (Japans)
 
-## Vragen
-
-[ Contact ons ](mailto:certif@adobe.com)
+{{questions}}

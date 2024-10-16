@@ -1,7 +1,7 @@
 ---
-source-git-commit: db72e72c2b642102d1ecb991df04138e6bd7f630
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '1970'
+source-wordcount: '2012'
 ht-degree: 0%
 
 ---
@@ -252,6 +252,16 @@ De vrije Gids van de Prep van het Examen verstrekt een op maat gemaakt weg door 
 
 ## Verlenging in wachtstand {#renewals-hold}
 
->[!WARNING]
+>[!NOTE]
 >
->Het Adobe Digital Experience Certification Program zal binnenkort worden gewijzigd. Als u bezig bent om uw certificatie te vernieuwen, gelieve te merken dat **13 Oktober, 2024 de laatste datum is om uw vernieuwing te voltooien.**
+>Het Adobe Digital Experience Certification Program vereenvoudigt het certificeringsvernieuwingsproces zodat uw ervaring gebruiksvriendelijker wordt. Terwijl dit nieuwe proces wordt uitgevoerd, **vernieuwingen zijn tijdelijk op greep.**
+>
+>* Voor degenen wier certificeringen tussen 14 oktober 2024 en 30 september 2025 verlopen, wordt uw certificering verlengd tot 1 oktober 2025.
+>
+>* De details betreffende het bijgewerkte vernieuwingsproces zullen begin maart worden gedeeld, zodat alle certificatiehouders voldoende tijd hebben om hun certificeringen te vernieuwen.
+
+<!--divider-->
+
+## Vragen {#questions}
+
+**Vragen?** [ Contact ons ](mailto:certif@adobe.com)

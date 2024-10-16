@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '1729'
+source-wordcount: '15'
 ht-degree: 0%
 
 ---
@@ -18,317 +18,323 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-Uw Adobe is twee jaar geldig. Als u dit merk van twee jaar nadert, is het tijd om uw certificatie te vernieuwen om het actief te houden.
+<!--
 
-Selecteer eerst het juiste niveau op het onderstaande tabblad (Professional, Expert of Master). Controleer vervolgens zorgvuldig wat u moet doen om uw certificering te vernieuwen.
+Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
-Zorg ervoor dat u voldoende tijd hebt om alle vereisten te voltooien voordat uw certificering verloopt.
-
-Het is belangrijk om op te merken dat als uw certificatie verloopt, u het certificatieexamen opnieuw zult moeten nemen, dat NIET kosteloos is.
+First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
+ 
+Be sure that you provide ample time to complete all the requirements before your certification expires. 
+ 
+It's important to note that if your certification expires, you'll have to retake the certification exam, which is NOT free of charge. 
 
 >[!IMPORTANT]
 >
->**Login eerst:** De volgende verbindingen zullen **slechts** na a **succesvolle login** aan het [ Systeem van het Beheer van de Verantwoordelijkheid van de Adobe ](https://www.certmetrics.com/adobe) {target="_blank"} functioneren.
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**om een verbinding te delen:** als u de verbinding aan een het vernieuwingsexamen of beoordeling met een collega zou willen delen, gelieve met de algemene pagina van de examenvernieuwing, niet URL van het examen zelf te verbinden, om login kwesties te vermijden.
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!BEGINTABS]
 
->[!TAB  Beroeps ]
+>[!TAB Professional]
 
-## Instructies voor het vernieuwen van uw certificering:
+## Instructions for renewing your certification:
 
-* **Stap 1**: Succesvol login aan [ Systeem van het Beheer van de Referentie van de Adobe ](https://www.certmetrics.com/adobe) {target="_blank"}, dan terugkeer aan deze pagina
-* **Stap 2**: Herzie de doelstellingen en de middelen van het examen
-* **Stap 3**: Neem en ga het examen over
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### Adobe [!DNL Audience Manager] Professionele hernieuwing van de Praktijkwerker
+### Adobe [!DNL Audience Manager] Business Practitioner Professional Renewal Exam
 
-U moet momenteel zijn gecertificeerd (niet verlopen) in:
+You should be currently certified (not expired) in:
 
-* Adobe [!DNL Audience Manager] Professional
+* Adobe [!DNL Audience Manager] Business Practitioner Professional
 
-### Klaar
+### Get ready
 
-**de details van het Examen:**
+**Exam details:**
+  
+* Level: Professional (0-12 months' experience)
+* Passing Score: 27/35
+* Time: 70 minutes
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E852 Adobe [!DNL Audience Manager] Business Practitioner Professional Renewal Exam
 
-* Niveau: Professional (0-12 maanden ervaring)
-* Voldoende score: 27/35
-* Tijd: 70 minuten
-* Levering: Op aanvraag/niet-afgehandeld
-* Beschikbare talen: Engels
-* Kosten: GRATIS
-* Examen-id: AD5-E852-Adobe [!DNL Audience Manager] Professioneel en zakelijk gebruik - Verlengingsexamen
+### Exam Objectives and Scope
 
-### Doelstellingen en toepassingsgebied van examen
+**Section 1: Segment Creation and Syndication (32%)**
 
-**Sectie 1: De Creatie en de Syndicatie van het segment (32%)**
+* Identify ways to utilize first-, second-, and third-party data for targeting and analytical purposes
+* Describe the basic process for the activation of business or campaign goals
+* Differentiate the methods for segment activation
+* Identify the different types of destinations
+* Identify the different types of sources
 
-* Identificeer manieren om eerste, tweede, en derdegegevens voor gerichte en analytische doeleinden te gebruiken
-* Beschrijf het basisproces voor de activering van zaken of campagnedoelstellingen
-* Verschil de methoden voor segmentactivering
-* Identificeer de verschillende soorten bestemmingen
-* De verschillende typen bronnen identificeren
+**Section 2: Trait Creation (16%)**
 
-**Sectie 2: Het Treinschepping (16%)**
+* Given a scenario, identify signals, traits, segments, and audiences
+* Identify the uses of different types of traits
 
-* Op basis van een scenario signalen, kenmerken, segmenten en doelgroepen identificeren
-* Identificeer het gebruik van verschillende types van eigenschappen
+**Section 3: Reporting and Measurements (16%)**
 
-**Sectie 3: Het melden en Metingen (16%)**
+* Given a scenario, generate reports to measure activation or campaign goals
+* Given a scenario, compare audiences on the basis of match rates
 
-* Op basis van een scenario rapporten genereren om activering of campagnedoelstellingen te meten
-* Vergelijk, in een scenario, het publiek op basis van gelijke tarieven
+**Section 4: Troubleshooting (10%)**
 
-**Sectie 4: Het oplossen van problemen (10%)**
+* Given a scenario, troubleshoot inbound data from different sources and source types
+* Validate format for inbound data files
 
-* Gezien een scenario, los binnenkomende gegevens van verschillende bronnen en brontypes problemen op
-* Indeling voor inkomende gegevensbestanden valideren
+**Section 5: Taxonomy (12%)**
 
-**Sectie 5: Taxonomie (12%)**
+* Identify best practices for organized folder structure using clear and consistent nomenclature
+* Classify traits and segments into folders using consistent and clear nomenclature
 
-* Tips en trucs identificeren voor de structuur van georganiseerde mappen met behulp van duidelijke en consistente nomenclatuur
-* Kenmerken en segmenten in mappen indelen met een consistente en duidelijke nomenclatuur
+**Section 6: Profile Merge, ID Sync, and Audience Marketplace (14%)**
 
-**Sectie 6: De Fusie van het profiel, de Synchronisatie van identiteitskaart, en Audience Marketplace (14%)**
+* Organize user traits into a single unified profile to create household- or device-based audiences
+* Identify activation using Audience Marketplace
 
-* Gebruikerseigenschappen indelen in één uniform profiel om een publiek in een huishouden of op een apparaat te maken
-* Activering identificeren met Audience Marketplace
+### Get prepped
 
-### Vooraf ingesteld
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+Here are some suggested resources to help you prepare:
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+**Section 1**
 
-**Sectie 1**
+* [Types of Data Collected](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-types-collected.html?lang=en){target="_blank"}
+* [Data Security in Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-security.html){target="_blank"}
+* [Data Privacy Requests](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-requests.html){target="_blank"}
+* [Audience Manager Overview](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=en){target="_blank"}
+* [Customer Data Feed FAQ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/faqs/faq-cdf.html){target="_blank"}
+* [Destination Builder](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-reference/destination-builder.html){target="_blank"}
+* [Destination Macros Defined](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-reference/destination-macros.html){target="_blank"}
+* [Activate audiences to batch profile export destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html?lang=en){target="_blank"}
+* [Add New Device-Based Destinations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/add-device-based-destinations.html?lang=en){target="_blank"}
+ 
+**Section 2**
 
-* [ Types van Gegevens verzameld ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-types-collected.html?lang=en) {target="_blank"}
-* [ Veiligheid van Gegevens in Audience Manager ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-security.html) {target="_blank"}
-* [ de Verzoeken van de Privacy van Gegevens ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-requests.html) {target="_blank"}
-* [ Overzicht van de Audience Manager ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=nl) {target="_blank"}
-* [ Veelgestelde Veelgestelde vragen van de Gegevens van de Klant 1} {target="_blank"}](https://experienceleague.adobe.com/docs/audience-manager/user-guide/faqs/faq-cdf.html)
-* [ Bouwer van de Bestemming ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-reference/destination-builder.html) {target="_blank"}
-* [ Gedefinieerde Macro&#39;s van de Bestemming ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-reference/destination-macros.html) {target="_blank"}
-* [ activeer publiek aan de uitvoerbestemmingen van het partijprofiel ](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html?lang=en) {target="_blank"}
-* [ voeg Nieuwe op apparaat-Gebaseerde Doelen ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/add-device-based-destinations.html?lang=en) toe {target="_blank"}
+* [Understand segments in Analytics and Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/audience-analytics-workflow/aam-analytics-segments.html?lang=en){target="_blank"}
+* [Understanding Signals](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-understanding-signals.html?lang=en){target="_blank"}
+* [Prefix Requirements for Key Variables](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-variable-prefixes.html?lang=en){target="_blank"}
+* [Trait Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=en){target="_blank"}
+* [Create Algorithmic Traits](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-algorithmic-traits.html?lang=en){target="_blank"}
 
-**Sectie 2**
+**Section 3**
 
-* [ begrijp segmenten in Analytics en Audience Manager ](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/audience-analytics-workflow/aam-analytics-segments.html?lang=en) {target="_blank"}
-* [ Begrijpend Signalen ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-understanding-signals.html?lang=en) {target="_blank"}
-* [ Eisen van de Prefix voor Zeer belangrijke Variabelen ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-variable-prefixes.html?lang=en) {target="_blank"}
-* [ Trait Recommendations ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=en) {target="_blank"}
-* [ creeer Algorithmic Traits ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-algorithmic-traits.html?lang=en) {target="_blank"}
+* [Conversions reports](https://experienceleague.adobe.com/docs/analytics/technotes/ga-to-aa/reports/conversions-reports.html?lang=en){target="_blank"}
+* [Unique User Reach](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-unique-reach.html?lang=en){target="_blank"}
+* [Ad Unit Overlap](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-ad-unit-overlap.html?lang=en){target="_blank"}
+* [Understand Match Rates](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html?lang=en){target="_blank"}
+* [Causes of Low Match Rates for Addressable Audiences](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=en#low-match-rates){target="_blank"}
+* [Understanding ID synchronization and match rates](https://experienceleague.adobe.com/docs/id-service/using/intro/match-rates.html?lang=en){target="_blank"}
 
-**Sectie 3**
+**Section 4**
 
-* [ Conversierapporten van Conversies ](https://experienceleague.adobe.com/docs/analytics/technotes/ga-to-aa/reports/conversions-reports.html?lang=en) {target="_blank"}
-* [ Unieke Gebruiker Bereik ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-unique-reach.html?lang=en) {target="_blank"}
-* [ Adde Eenheid overlap ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-ad-unit-overlap.html?lang=en) {target="_blank"}
-* [ Begrijp de Tarieven van de Gelijke ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html?lang=en) {target="_blank"}
-* [ OORZAKEN VAN Lage Tarieven van de Gelijke Lage voor Adresseerbare Soorten ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=en#low-match-rates) {target="_blank"}
-* [ Begrijpend de synchronisatie van identiteitskaart en passen tarieven ](https://experienceleague.adobe.com/docs/id-service/using/intro/match-rates.html?lang=en) {target="_blank"} aan
+* [Onboarding Status Report: About](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#onboarding-status-about){target="_blank"}
+* [Data Sources List and Settings](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html?lang=en){target="_blank"}
+* [Inbound Data File Contents: Syntax, Invalid Characters, Variables, and Examples](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=en){target="_blank"}
 
-**Sectie 4**
+**Section 5**
 
-* [ het aan boord gaan Rapport van de Status: Ongeveer ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#onboarding-status-about) {target="_blank"}
-* ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html?lang=en) {target="_blank"} de Bronlijst van 0} Gegevens en Montages[
-* [ Binnenkomende Inhoud van het Dossier van Gegevens: Syntaxis, Ongeldige Karakters, Variabelen, en Voorbeelden ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=en) {target="_blank"}
+* [Audience Manager Use Cases](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/intro-to-audience-manager/audience-manager-use-cases.html?lang=en){target="_blank"}
+* [Create a trait taxonomy](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=en){target="_blank"}
+* [Classifying Traits with a Common Taxonomy](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html?lang=en){target="_blank"}
+* [Create a segment taxonomy](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-segment-taxonomy.html?lang=en){target="_blank"}
 
-**Sectie 5**
+**Section 6**
 
-* [ Gevallen van het Gebruik van de Audience Manager ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/intro-to-audience-manager/audience-manager-use-cases.html?lang=en) {target="_blank"}
-* [ creeer een taxonomie van het bezit ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=en) {target="_blank"}
-* [ classificerend Beelden met een Gemeenschappelijke Taxonomie ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html?lang=en) {target="_blank"}
-* [ creeer een segment taxonomie ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-segment-taxonomy.html?lang=en) {target="_blank"}
+* [General Use Cases for Profile Merge Rules](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rule-targeting-options.html?lang=en){target="_blank"}
+* [Profile Merge Rules Overview](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=en)
+* [Getting Started with Profile Merge Rules](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-start.html?lang=en){target="_blank"}
+* [Create, Price, and Manage Data Feeds](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-providers/marketplace-create-manage-feeds.html?lang=en){target="_blank"}
+* [Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace.html?lang=en){target="_blank"}
 
-**Sectie 6**
+### Renew your certification
 
-* [ Algemene Gevallen van het Gebruik voor de Regels van de Fusie van het Profiel ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rule-targeting-options.html?lang=en) {target="_blank"}
-* [ Overzicht van de Regels van de Fusie van het Profiel ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=en)
-* [ Begonnen het worden met de Regels van de Fusie van het Profiel ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-start.html?lang=en) {target="_blank"}
-* [ creeer, Prijs, en beheer de Evoer van Gegevens ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-providers/marketplace-create-manage-feeds.html?lang=en) {target="_blank"}
-* [ Audience Marketplace ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace.html?lang=en) {target="_blank"}
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the link below.
 
-### Uw certificering verlengen
-
-Zorg ervoor dat u stap 1 hierboven hebt gevolgd, en met succes het programma geopend aan [ Systeem van het Beheer van de Adobe Referentie ](https://www.certmetrics.com/adobe) {target="_blank"} eerst. Klik vervolgens op de onderstaande koppeling om de certificering te vernieuwen.
-
-[!BADGE  neem de Adobe [!DNL Audience Manager] Professionele Vernieuwingsexamen van de Beroeps van de Praktijk - AD5-E852]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E852 newtab=true"}
+[!BADGE Take the Adobe [!DNL Audience Manager] Business Practitioner Professional Renewal Exam - AD5-E852]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E852 newtab=true"}
 
 >[!NOTE]
 >
->Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging niet succesvol bent, moet u **30 dagen** wachten om opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
->[!TAB  Deskundige ]
+>[!TAB Expert]
 
-## Instructies voor het vernieuwen van uw certificering:
+## Instructions for renewing your certification:
 
-* **Stap 1**: Succesvol login aan [ Systeem van het Beheer van de Referentie van de Adobe ](https://www.certmetrics.com/adobe) {target="_blank"}, dan terugkeer aan deze pagina
-* **Stap 2**: Herzie de doelstellingen en de middelen van het examen
-* **Stap 3**: Neem en ga het examen over
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### U moet momenteel zijn gecertificeerd (niet verlopen) in:
+### You should be currently certified (not expired) in:
 
 * Adobe Audience Manager Business Practitioner Expert
 
-### Klaar
+### Get ready
 
-**de details van het Examen:**
+**Exam details:**
+  
+* Level: Expert (1-3 years' experience)
+* Passing Score: 23/30
+* Time: 68 mins
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E826 - Adobe Audience Manager Business Practitioner Expert Renewal Exam
 
-* Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 23/30
-* Tijd: 68 min
-* Levering: Op aanvraag/niet-afgehandeld
-* Beschikbare talen: Engels
-* Kosten: GRATIS
-* Examen-id: AD5-E826 - Adobe Audience Manager Business Practitioner Expert Renewal Exam
+### Exam Objectives and Scope
 
-### Doelstellingen en toepassingsgebied van examen
+**Section 1: Segment Creation and Syndication (25%)**
 
-**Sectie 1: De Creatie en de Syndicatie van het segment (25%)**
+* Determine the appropriate method to create segments utilizing 1p/2p/3p data for targeting and analytical purposes
+* Given a scenario, recommend segments for activation that align to business or campaign goals
+* Determine the appropriate method to syndicate segments to destinations for activation
 
-* Bepaal de geschikte methode om segmenten te maken die 1p/2p/3p-gegevens gebruiken voor doelgerichte en analytische doeleinden
-* Gezien een scenario, adviseer segmenten voor activering die zich aan zaken of campagnedoelstellingen richten
-* Bepaal de aangewezen methode om segmenten aan bestemmingen voor activering te synchroniseren
+**Section 2: Trait Creation (17%)**
 
-**Sectie 2: Het Treinschepping (17%)**
+* Recommend traits for a given audience strategy
+* Determine the correct method to create and update rule-based and/or onboarded traits
 
-* Aanbevolen kenmerken voor een bepaalde publieksstrategie
-* Bepaal de correcte methode om op regel-gebaseerde en/of onboard eigenschappen tot stand te brengen en bij te werken
+**Section 3: Reporting and Measurements (21%)**
 
-**Sectie 3: Het melden en Metingen (21%)**
+* Given a scenario, analyze reports to provide actionable next steps to meet business goals
+* Given a scenario, analyze audience optimization
 
-* Op basis van een scenario, analyseert u rapporten om de volgende stappen te ondernemen om aan de bedrijfsdoelstellingen te voldoen
-* Op basis van een scenario de optimalisatie voor het publiek analyseren
+**Section 4: Troubleshooting and Administration (26%)**
 
-**Sectie 4: Het oplossen van problemen en Beleid (26%)**
+* Given a scenario, verify audience delivery information to ensure scheduled delivery needs
+* Determine the appropriate practice to validate offline inbound files
+* Given a scenario, determine the correct method to perform QA against the ID sync
+* Determine the appropriate method to navigate and activate from the Adobe Audience Marketplace
 
-* Gezien een scenario, verifieer de informatie van de publiekslevering om geplande leveringsbehoeften te verzekeren
-* Bepaal de aangewezen praktijk om off-line binnenkomende dossiers te bevestigen
-* Gezien een scenario, bepaal de correcte methode om QA tegen de synchronisatie van identiteitskaart uit te voeren
-* Bepaal de aangewezen methode om van het Audience Marketplace van de Adobe te navigeren en te activeren
+**Section 5: Taxonomy (11%)**
 
-**Sectie 5: Taxonomie (11%)**
+* Determine the appropriate structure to create traits and segments that utilize a clear and consistent nomenclature
+* Determine the correct technique to maintain an organized platform using a clear folder structure
+* Differentiate between the different types of destinations
 
-* Bepaal de aangewezen structuur om eigenschappen en segmenten tot stand te brengen die een duidelijke en verenigbare nomenclatuur gebruiken
-* De juiste techniek bepalen om een georganiseerd platform te onderhouden met behulp van een duidelijke mapstructuur
-* Verschil tussen de verschillende soorten bestemmingen
+### Get prepped
 
-### Vooraf ingesteld
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+Here are some suggested resources to help you prepare:
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+[!BADGE Sample questions]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
 
-[!BADGE  de vragen van de Steekproef ]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
+### Resources:
 
-### Bronnen:
+* [Adobe [!DNL Audience Manager] Product Documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [Adobe Support - Experience Cloud Audiences](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
+* [Adobe Experience Cloud Learn and Support](https://helpx.adobe.com/support/experience-cloud.html){target="_blank"}
+* [Experience League [!DNL Audience Manager]](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}
 
-* [ Adobe  [!DNL Audience Manager]  Documentatie van het Product ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) {target="_blank"}
-* [ de Steun van de Adobe - de Soorten van het publiek van het Experience Cloud ](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community) {target="_blank"}
-* [ Adobe Experience Cloud Leer en Steun ](https://helpx.adobe.com/nl/support/experience-cloud.html) {target="_blank"}
-* [ Experience League  [!DNL Audience Manager] ](https://experienceleague.adobe.com/#recommended/solutions/audience-manager) {target="_blank"}
+**Restart your certification**
 
-**herstart uw certificatie**
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the Adobe Audience Manager Business Practitioner Expert - AD5-E826 link below.
 
-Zorg ervoor dat u stap 1 hierboven hebt gevolgd, en met succes het programma geopend aan [ Systeem van het Beheer van de Adobe Referentie ](https://www.certmetrics.com/adobe) {target="_blank"} eerst. Klik vervolgens op de koppeling Adobe Audience Manager Business Practitioner - AD5-E826 hieronder om uw certificering te vernieuwen.
-
-[!BADGE  neem het de vernieuwingsexamen AD5-E826 van de Bedrijfs van de Praktijk van Adobe Audience Manager ]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
+[!BADGE Take the Adobe Audience Manager Business Practitioner Expert renewal exam AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E826 newtab=true"} 
 
 >[!NOTE]
 >
->Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging niet succesvol bent, moet u **30 dagen** wachten om opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 
->[!TAB  Meester ]
+>[!TAB Master]
 
-## Instructies voor het vernieuwen van uw certificering
+## Instructions for renewing your certification
 
-* **Stap 1** - herzie de examendoelstellingen
-* **Stap 2** - herzie de middelen
-* **Stap 3** - neem en ga het examen over
+* **Step 1** - Review the exam objectives
+* **Step 2** - Review the resources
+* **Step 3** - Take and pass the exam
 
-### U moet momenteel zijn gecertificeerd (niet verlopen) in:
+### You should be currently certified (not expired) in:
 
 * Adobe Audience Manager Architect master
 
-### Klaar
+### Get ready
 
-**de details van het Examen:**
+**Exam details:**
+  
+* Level: Master (3-5 years' experience)
+* Passing Score: 22/29
+* Time: 58 mins
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E825 - Adobe Audience Manager Architect Master Renewal Exam
 
-* Niveau: master (3-5 jaar ervaring)
-* Voldoende score: 22/29
-* Tijd: 58 minuten
-* Levering: Op aanvraag/niet-afgehandeld
-* Beschikbare talen: Engels
-* Kosten: GRATIS
-* Examen-id: AD5-E825 - Adobe Audience Manager Architect Master Renewal Exam
+## Exam Objectives and Scope:
 
-## Doelstellingen en toepassingsgebied van examen:
+**Section 1: Implementation Analysis (28%)**
 
-**Sectie 1: De Analyse van de implementatie (28%)**
+* Determine how to guide and support implementation of AAM as a stand-alone product or as part of a cloud solution
+* Analyze outbound destination options and recommend an AAM implementation approach
+* Determine a data onboarding strategy for a business use case
+* Identify features such as visitor profile viewer, tags, RBAC, and so on, to align with business goals
+* Determine how to design and test pixels required to create segments and traits
 
-* Bepaal hoe u de implementatie van AAM als een zelfstandig product of als onderdeel van een cloudoplossing kunt begeleiden en ondersteunen
-* Analyseer uitgaande bestemmingsopties en adviseer een AAM implementatiebenadering
-* Bepaal een gegevensonboarding strategie voor een bedrijfs gebruiksgeval
-* Omgaan met functies zoals viewer voor bezoekersprofielen, tags, RBAC enzovoort, om deze uit te lijnen op bedrijfsdoelen
-* Bepaal hoe u pixels ontwerpt en test die nodig zijn om segmenten en kenmerken te maken
+**Section 2: Solution Design and Recommendations (17%)**
 
-**Sectie 2: Het Ontwerp van de Oplossing en Recommendations (17%)**
+* Determine AAM capabilities based on customer use case for audience and activation
+* Apply procedural concepts to utilize audience identity solutions to compliment design architecture
+* Identify attribute and behavioral data and map it to specific business use cases
+* Apply procedural concepts to design folder taxonomy and naming convention
 
-* AAM mogelijkheden bepalen op basis van het gebruiksscenario van de klant voor publiek en activering
-* Pas procedureconcepten toe om oplossingen voor publieksidentiteit te gebruiken om ontwerparchitectuur aan te vullen
-* Kenmerken en gedragsgegevens identificeren en deze toewijzen aan specifieke gevallen van zakelijk gebruik
-* Procedureconcepten toepassen op de ontwerpmappentaxonomie en naamgevingsconventie
+**Section 3: Segmentation and Activation (31%)**
 
-**Sectie 3: Segmentatie en Activering (31%)**
+* Apply procedural concepts to create destinations in [!DNL Audience Manager]
+* Identify signals to create Rule-Based, Onboarded, and Algorithmic Traits
+* Apply procedural concepts to create segments using frequency/recency
+* Determine how to create segments using profile merge rules
+* Apply procedural concepts to create an algorithmic or predictive model
+* Determine segmentation logic based on use cases
 
-* Procedurele concepten toepassen om doelen te maken in [!DNL Audience Manager]
-* Identificeer signalen om op regel-Gebaseerde, Onboard, en Algorithmic Traits te creëren
-* Procedurele concepten toepassen om segmenten te maken met behulp van frequentie/recentie
-* Bepaal hoe u segmenten maakt met behulp van de samenvoegregels voor profielen
-* Procedurele concepten toepassen om een algoritmisch of voorspellend model te maken
-* Segmentatielogica bepalen op basis van gebruiksgevallen
+**Section 4: Privacy and Data Governance (7%)**
 
-**Sectie 4: Privacy en het Beheer van Gegevens (7%)**
+* Recommend [!DNL Audience Manager] capabilities as it relates to governance, privacy, and security
+* Identify customer data policies that are in line with government regulations
 
-* U kunt [!DNL Audience Manager] -functies aanbevelen als het gaat om governance, privacy en beveiliging
-* Identificeer het beleid van klantengegevens dat in overeenstemming met overheidsverordeningen is
+**Section 5: Performance and Reporting (17%)**
 
-**Sectie 5: Prestaties en het Melden (17%)**
+* Determine how to configure reports in AAM to gather signal, traits, and segment performance per business requirements
 
-* Bepaal hoe te om rapporten in AAM te vormen om signaal, eigenschappen, en segmentprestaties per bedrijfsvereisten te verzamelen
+### Get prepped
 
-### Vooraf ingesteld
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-U wordt niet vereist om opleiding te voltooien alvorens het examen te nemen, en de opleiding alleen zal u niet van de kennis en de vaardigheden voorzien die worden vereist om het examen te overdoen. Een combinatie van training en een geslaagde praktijkervaring is van essentieel belang om u de opslagplaats te bieden die nodig is om het examen te doorstaan.
+Here are some suggested resources to help you prepare:
 
-Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorbereiden van:
+* [AAM: Technical Foundations](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
+* [AAM: Integration Series](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
+* [AAM: Advanced Features](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
+* [ Launch Training & Resources](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
-* [ AAM: Technische Stichting ](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html) {target="_blank"}
-* [ AAM: De Reeks van de integratie ](https://solutionpartners.adobe.com/training/courses/course500091.html) {target="_blank"}
-* [ AAM: Geavanceerde Eigenschappen ](https://solutionpartners.adobe.com/training/courses/course500092.html) {target="_blank"}
-* [ Opleiding &amp; Middelen van de Lancering ](https://solutionpartners.adobe.com/training/courses/course1326130.html) {target="_blank"}
+### Renew your certification
 
-### Uw certificering verlengen
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the Adobe Audience Manager Architect Master renewal - AD5-E825 link below.
 
-Zorg ervoor dat u stap 1 hierboven hebt gevolgd, en met succes het programma geopend aan [ Systeem van het Beheer van de Adobe Referentie ](https://www.certmetrics.com/adobe) {target="_blank"} eerst. Klik vervolgens op de koppeling AD5-E825 hieronder op de Adobe Audience Manager Architect Master-vernieuwing - als u uw certificering wilt vernieuwen.
-
-[!BADGE  neem het HoofdVerlengingsexamen AD5-E825 van de Architect van Adobe Audience Manager ]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+[!BADGE Take the Adobe Audience Manager Architect Master renewal exam AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E825 newtab=true"}
 
 >[!NOTE]
 >
->Dit examen is vrij, open boek, en unproctored. U kunt het examen tot drie keer nemen. Als u na de derde poging niet succesvol bent, moet u **30 dagen** wachten om opnieuw te proberen. Als u niet aan de voorschriften voldoet, wordt uw certificering mogelijk ingetrokken.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 
 >[!ENDTABS]
 
-### Vragen
+### Questions
 
-Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com).
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}

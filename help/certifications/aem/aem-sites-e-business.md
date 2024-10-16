@@ -7,9 +7,9 @@ role: User
 badge: label="Examen AD0-E121" type="neutral"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,7 @@ ht-degree: 0%
 
 {{intro}}
 
->[!NOTE]
->
->**Nieuwe beschikbare onderzoeksmiddelen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/127) verstrekt een op maat gemaakte weg door uw prep proces van het certificatieexamen, met inbegrip van de materialen u in het bereiken van deze certificatie zult moeten succesvol zijn. _als u wordt ertoe aangezet om aan login aan de Gids van de Prep van het Examen, gebruik uw Adobe ID._
-
-## Beschrijving van examen {#exam-description}
-
-{{exam-description}}
-
-<br>
-
-### Details van examen {#exam-details}
+## Details van examen {#exam-details}
 
 * Niveau: Expert (1-3 jaar ervaring)
 * Voldoende score: 32/50
@@ -38,187 +28,4 @@ ht-degree: 0%
 * Kosten: $225 (wereldwijd) / $150 (India)
 * Examen-id: AD0-E121 (Engels), AD0-E121-J (Japans)
 
-<br>
-
-### Beoogd publiek {#intended-audience}
-
-* Oplossingsconsultant
-* Deskundigen op het gebied van consumentenervaring
-* Producteigenaars van oplossingen die worden ontworpen en geïmplementeerd
-* Zakelijke analisten
-* Oplossingsarchitecten
-* Individuen in partnerorganisaties en freelancers die een analist-baanrol voor AEM oplossingen uitvoeren
-* Marketing specialisten die de eigenschappen en de mogelijkheden kennen nodig om ontwikkelaars in dienst te nemen om een oplossing voor bedrijfsbehoeften te bepalen
-* Klanten die het product gebruiken (dat wil zeggen, Power Users)
-
-<br>
-
-### Minimale ervaring {#minimum-experience}
-
-U zou moeten hebben:
-
-* Ervaring met AEM functies en mogelijkheden die nodig zijn om ontwikkelaars te betrekken bij het vinden van zakelijke oplossingen
-* De mogelijkheid om AEM producten te gebruiken voor het beheer van inhoud om digitale ervaringen te stimuleren
-* Begrip welke modules aanwezig zijn
-* Een diepgaander inzicht in modules zoals [!DNL Sites] , [!DNL Assets] en [!DNL Forms]
-
-Bovendien, zou u met de volgende technologieën en milieu&#39;s vertrouwd moeten zijn:
-
-* Gereedschappen voor inhoudsbeheer
-* Hulpprogramma&#39;s voor middelenbeheer
-* Projecten
-* Forms
-* Ervaar fragmenten en inhoudsfragmenten
-* Screens
-* Workflows
-* Starten
-* CRXDE Lite
-* Gebruikersbeheer
-* Beheer op meerdere locaties
-* Monitoringinstrumenten
-* Versioning
-* Personalization en contexthub
-* SPA Editor
-* Tags
-* Browsergebruik
-* Algemeen begrip van het Web
-* Responsieve concepten voor webontwerp
-
-<br>
-
-### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
-
-{{exam-objectives}}
-
-**Sectie 1: Onderwijs (22%)**
-
-* Geef relevante AEM en mogelijkheden weer
-* Aanbevelen hoe u AEM functies kunt gebruiken om aan uw bedrijfsbehoeften te voldoen
-* Procedurele concepten toepassen die nodig zijn voor het volgen van training voor contenteditors
-
-**Sectie 2: Architectuur (24%)**
-
-* Een informatiearchitectuur aanbevelen om AEM standaardfuncties te gebruiken om aan bedrijfsbehoeften te voldoen met behulp van een op-prem- of Adobe gehoste (cloud) omgeving
-* Beschrijf hoe AEM met de diensten van derden integreert
-* Bepalen hoe rollen en machtigingen moeten worden gedefinieerd
-* Beschrijf caching-benaderingen
-
-**Sectie 3: BedrijfsAnalyse (38%)**
-
-* Kaart standaardmodules van AEM aan verschillende bedrijfsproblemen voor de klant
-* Concepten voor inhoudsbeheer toepassen op AEM
-* Identificeer typische projectbelanghebbenden
-* Procedurele concepten toepassen die nodig zijn ter ondersteuning van de samenwerking tussen alle betrokken partijen
-* Bepaal hoe te om de kernbedrijfsdoelstellingen te ontmoeten terwijl het blijven binnen begroting en/of werkingsgebied
-* Bepaal hoe de vragen van ontwikkelaars met betrekking tot de bedrijfsdoelstellingen zouden moeten worden beantwoord
-
-**Sectie 4: Opstelling en Implementatie (16%)**
-
-* Bepaal hoe te om inhoudscomponenten te vormen en te gebruiken om beste praktijken van AEM te tonen
-* Controleer de correcte implementatie van functies en zoek en beschrijf eventuele fouten
-
-<br>
-
-### Readiness-vragenlijst
-
-{{readiness}}
-
-[ neem de online bereidheidsvragenlijst ](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam) {target="_blank"}
-
-<br>
-
-## Hoe wordt gecertificeerd? {#how-to-get-certified}
-
-{{how-to-get-certified-intro}}
-
-+++Stap 1: Maak uw account
-
-{{create-your-account}}
-
-+++
-
-<br>
-
-+++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
-
-**Materialen van de Studie**
-
-{{study-materials-intro}}
-
-**neem een praktijktest**
-
-{{practice-test}}
-
-**Gids van de Prep van het Examen**
-
-{{exam-prep-guide}}
-
-[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/127)
-
-+++
-
-<br>
-
-+++Stap 3: Planning en betaal voor examen
-
-{{schedule-and-pay}}
-
-+++
-
-<br>
-
-+++Stap 4: Voor en na het examen
-
-{{before-and-after}}
-
-+++
-
-<br>
-
-+++Stap 5: Neem het examen
-
-{{about-certification-exam}}
-
-## Plan of neem examen AD0-E121 (Engels)
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E121" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ga naar examenportaal - Engels examen
-</span>
-</a>
-
-## Plan of neem examen AD0-E121-J (Japans)
-
-{{Japanese-exam-details}}
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E121-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ga naar examenportal - Japans examen
-</span>
-</a>
-
-+++
-
-<br>
-
-+++Stap 6: Uw badges beheren
-
-{{manage-your-badges}}
-
-+++
-
-<br>
-
-## Uw certificering vernieuwen
-
-{{renewing-intro}}
-
-<br>
-
-## Vragen
-
-Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
-
-Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com).
+{{questions}}

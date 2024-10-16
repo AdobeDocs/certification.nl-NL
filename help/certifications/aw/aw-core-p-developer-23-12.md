@@ -6,9 +6,9 @@ role: Developer
 badge: label="Examen AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
@@ -17,23 +17,7 @@ ht-degree: 0%
 
 {{intro}}
 
->[!NOTE]
->
->De vrije, op bestelling middelen zijn nu beschikbaar om u voor uw examen voor te bereiden:
->
->* **Nieuwe beschikbare cursus:** de [ Ontwikkelaar van de Kern van Adobe Workfront - Professionele cursus ](https://app.rockinfo.com/courses/231) omvat verklaringen van zeer belangrijke concepten, hands-on demonstraties, en kenniscontroles.
->
->* **Gids van de Prep van het Examen van het Examen:** De [ Gids van de Prep van het Examen ](https://app.rockinfo.com/courses/238) verstrekt een op maat gemaakte weg door uw examen prep proces, met inbegrip van de materialen u op uw examen zult moeten succesvol zijn.
->
->_als u aan login wordt ertoe aangezet, gebruik uw Adobe ID._
-
-## Beschrijving van examen {#exam-description}
-
-{{exam-description}}
-
-<br>
-
-### Details van examen {#exam-details}
+## Details van examen {#exam-details}
 
 * Niveau: Professional (0-12 maanden ervaring)
 * Voldoende score: 45/70
@@ -43,166 +27,4 @@ ht-degree: 0%
 * Kosten: $125 (wereldwijd) / $95 (India)
 * Examen-id: AD0-E908
 
-<br>
-
-### Beoogd publiek {#intended-audience}
-
-* Technisch consultant
-* Systeembeheerder
-* Projectmanager
-* Projectcoördinator
-* Strategist
-* Resource Manager
-* Analyst
-* IT-specialist
-* [!DNL Workfront] implementatiedeskundige/lead
-
-<br>
-
-### Minimale ervaring {#minimum-experience}
-
-Hoewel voor dit examen geen kennis van coderen/programmeren vereist is, is het minstens 3 tot 6 maanden praktijkervaring met Adobe vereist [!DNL Workfront]
-
-Gekwalificeerde kandidaten moeten ook:
-
-* Ervaring met Adobe [!DNL Workfront] functionaliteit en connectiviteit via opname, goedkeuring, planning, uitvoering en rapportage
-* Uitgebreid inzicht in de objecttypen Adobe [!DNL Workfront] , waaronder aangepaste formulieren en goedkeuringswerkstromen, sjablonen, tijdsduur, werkinspanning/geplande uren
-* Uitgebreid inzicht in Adobe [!DNL Workfront] instellen, inclusief toegangsniveaus, lay-outsjablonen, projectvoorkeuren en andere methoden om het ontwerp van de eindgebruiker eenvoudiger te maken
-* Inzicht in en ervaring met procesmapping
-* Inzicht in verschillende Adobe [!DNL Workfront] persona&#39;s en hoe u ondersteuning kunt bieden
-* Kennis van native connectors en andere Adobe [!DNL Workfront] producten en services
-* Kennis van het projectbeheer, inclusief flexibiliteit en waterval, en concepten voor middelenbeheer
-
-<br>
-
-### Doelstellingen en toepassingsgebied van examen {#exam-objectives}
-
-{{exam-objectives}}
-
-**Sectie 1: Strategie en Inname (23%)**
-
-* Portfolio&#39;s en programma&#39;s gebruiken
-* Aanvraagwachtrijen gebruiken
-* Aangepaste Forms gebruiken
-* Basisgoedkeuringen gebruiken
-
-**Sectie 2: Begroting en Planning (11%)**
-
-* Bronnen gebruiken
-* Op basis van een scenario/reeks vereisten past u de configuraties toe op het instellen van een projectsjabloon
-
-**Sectie 3: De Ervaring van de gebruiker (25%)**
-
-* De beste werkwijzen illustreren voor gebruikersbeheer bij het creëren van de juiste gebruikerservaring
-* Op basis van een scenario de juiste instelling toepassen voor het delen en toegangsrechten in het hele systeem
-* Beschrijf wat een Kickstart is en herken wanneer om het te gebruiken
-* Toon hoe te om timesheets tot stand te brengen en te gebruiken
-* Beschrijf het doel en de waarde van schakelaars, stop-ins, en toe:voegen-ons
-
-**Sectie 4: Metriek en het Melden (16%)**
-
-* Beschrijf basisconcepten voor het bouwen, verzenden, en het aanpassen van rapporten
-* Uitleggen hoe u dashboards kunt maken en aanpassen
-* Toon aan hoe te om functionele meningen van rapporten te vormen
-
-**Sectie 5: Uitvoering (24%)**
-
-* Demonstreer hoe te opstellings goedkeuring en proefdrukken werkschema&#39;s
-* Het doel van het maken van een uitgave voor een project herkennen
-* Toon hoe te om groep-vlakke projectstatussen aan te passen
-* De kenmerken identificeren die nodig zijn om Agile in te schakelen [!DNL Workfront]
-* De manieren identificeren waarop u tijd kunt invoeren in [!DNL Workfront]
-* Elementen van financiële tracering identificeren in [!DNL Workfront]
-
-<br>
-
-## Hoe wordt gecertificeerd? {#how-to-get-certified}
-
-{{how-to-get-certified-intro}}
-
-+++Stap 1: Maak uw account
-
-{{create-your-account}}
-
-+++
-
-<br>
-
-+++Stap 2: Bereid voor voor uw onderzoek met deze vrije studiematerialen
-
-**Materialen van de Studie**
-
-{{study-materials-intro}}
-
-**neem een praktijktest**
-
-{{practice-test}}
-
-**neem een cursus**
-
-{{take-course}}
-
-[ neem de Ontwikkelaar van de Kern van Adobe Workfront - Professionele cursus ](https://app.rockinfo.com/courses/231)
-
-**Gids van de Prep van het Examen**
-
-{{exam-prep-guide}}
-
-[ Gids van de Prep van het Examen van het Examen van de Mening ](https://app.rockinfo.com/courses/238)
-
-+++
-
-<br>
-
-+++Stap 3: Planning en betaal voor examen
-
-{{schedule-and-pay}}
-
-+++
-
-<br>
-
-+++Stap 4: Voor en na het examen
-
-{{before-and-after}}
-
-+++
-
-<br>
-
-+++Stap 5: Neem het examen
-
-{{about-certification-exam}}
-
-## Plan of neem examen AD0-E908
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E908" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Ga naar examenportal
-</span>
-</a>
-
-+++
-
-<br>
-
-+++Stap 6: Uw badges beheren
-
-{{manage-your-badges}}
-
-+++
-
-<br>
-
-## Uw certificering vernieuwen
-
-{{renewing-intro}}
-
-<br>
-
-## Vragen
-
-Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html) {target="_blank"}.
-
-Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com).
+{{questions}}
