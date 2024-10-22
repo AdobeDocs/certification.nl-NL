@@ -5,44 +5,105 @@ solution: Experience Platform
 product: Experience Platform
 role: Developer
 badge: label="Examen AD0-E600 &amp; AD7-E601" type="neutral"
-hidefromtoc: true
 hide: true
 mini-toc-levels: 1
+hidefromtoc: true
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
-source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
+source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
 
 # Reis voor certificering voor Adobe [!DNL Experience Platform] Expert
 
-{{intro}}
+>[!NOTE]
+>
+>**het Digitale Programma van de Certificatie van de Ervaring van de Adobe heeft naar het nieuwe [ Portaal van de Certificatie van de Adobe ](https://certification.adobe.com/) {target="_blank"} bewogen!** Lees hieronder over de nieuwe functies en hoe u aan de slag kunt gaan.
 
-## Vereiste nr. 1: Informatie voor Adobe [!DNL Experience Platform] Technische stichtingen (AD0-E600) {#req-1}
+## Wat is op het nieuwe Portaal van de Certificatie van de Adobe?
 
-## Details examen voor AD0-E600 {#exam-details-600}
+Alles wat u vroeger op deze pagina vond, en meer!
 
-* Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 35/50
-* Tijd: 105 minuten
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Taal: Engels
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD0-E600
+* Examen plannen
+* Details van examen
+* Onderzoeksbronnen
+* Praktijktests
+* Badvalidatie en delen
+* Nieuwe technische cursussen
+* De nieuwe Adobe Digital Experience Community
+* Een nieuw interactief dashboard om uw cursus- en certificeringsactiviteiten te volgen en te delen
 
-## Vereiste nr. 2: Informatie voor Adobe [!DNL Real-Time CDP] Technisch deskundige (AD7-E601) {#req-2}
+## Veelgestelde vragen
 
-## Details examen voor AD7-E601
+### Waar begin ik?
 
-* Niveau: Expert (1-3 jaar ervaring)
-* Voldoende score: 25/34
-* Tijd: 51 minuten
-* Aflevering: online geproclameerd (hiervoor is cameratoegang vereist) of testcentrum gepromoveerd
-* Taal: Engels
-* Kosten: $225 (wereldwijd) / $150 (India)
-* Examen-id: AD7-E601
+[ Login vandaag ](https://certification.adobe.com/) {target="_blank"} en verifieer uw profielgegevens.
+
+Dan, onderzoek onze [ cursussen ](https://certification.adobe.com/courses/?/courses) {target="_blank"}, [ certificatie ](https://certification.adobe.com/certifications) {target="_blank"}, [ gemeenschap ](https://certification.adobe.com/community/) {target="_blank"} en [ klantgerichte dashboard ](https://certification.adobe.com/user/dashboard) {target="_blank"}.
+
+### Hoe plant ik een examen?
+
+U kunt nu een examen op het Portaal van de Certificatie van de Adobe plannen.
+
+1. Ga naar de [ Catalogus van de Certificatie ](https://certification.adobe.com/certifications) {target="_blank"}.
+2. Zoek uw examen
+3. Ga naar het **Programma of neem examen** tabel.
+4. In het **Programma en betaal voor uw examen** sectie, zult u de verbinding van de examenpagina vinden.
+5. Klik op het **examen van het Programma** knoop.
+
+### Waar vind ik mijn certificeringsgeschiedenis?
+
+Uw actieve certificatie is reeds gemigreerd aan [ uw rekening ](https://certification.adobe.com/user/certifications) {target="_blank"} op het Portaal van de Certificatie van de Adobe. Sommige aspecten van uw account zijn mogelijk nog niet volledig ingevuld tijdens het migreren van de resterende gebruikersgegevens. Dank u voor uw geduld!
+
+### Waar vind ik mijn bonnen?
+
+Uw vouchers (met inbegrip van die die van Xvoucher worden overgebracht) zullen in [ uw rekening ](https://certification.adobe.com/user/purchases) {target="_blank"} op het Portaal van de Certificatie van de Adobe verschijnen.
+
+### Waar is mijn certificeringsbadge?
+
+Uw badge is nu beschikbaar op de Adobe Certification Portal.
+
+1. Ga naar **Mijn Rekening** > [ Resultaten ](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements) {target="_blank"}.
+2. Vind de **Actieve certificatie** widget.
+
+* Om uw pagina van de merkverificatie te bekijken, klik op de **knoop van het Aandeel**. Vanaf die pagina kunt u delen naar sociale media.
+
+* Om uw badge te downloaden, klik op het **beeld van de paginaminiatuur**.
+
+### Vragen?
+
+Bekijk [ hoe te video&#39;s ](https://certification.adobe.com/#) {target="_blank"} bij de bodem van onze homepage, bezoek onze [ Veelgestelde vragen ](https://certification.adobe.com/support/faq) {target="_blank"}, of [ contacteer ons ](https://certification.adobe.com/support/contactus) {target="_blank"}.
+
+We zijn blij dat u de nieuwe startpagina van het Adobe Digital Experience Certification Program kunt verkennen en de nieuwe functies kunt verkennen!
+
+<!--
+
+## Requirement #1: Information for Adobe [!DNL Experience Platform] Technical Foundations (AD0-E600) {#req-1}
+
+## Exam details for AD0-E600 {#exam-details-600}
+
+* Level: Expert (1-3 years' experience)
+* Passing Score: 35/50
+* Time: 105 mins
+* Delivery: Online proctored (requires camera access) or test center proctored
+* Language: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E600
+
+## Requirement #2: Information for Adobe [!DNL Real-Time CDP] Technical Practitioner (AD7-E601) {#req-2}
+
+## Exam details for AD7-E601
+
+* Level: Expert (1-3 years' experience)
+* Passing Score: 25/34
+* Time: 51 mins
+* Delivery: Online proctored (requires camera access) or test center proctored
+* Language: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD7-E601 
 
 {{questions}}
 
+-->
