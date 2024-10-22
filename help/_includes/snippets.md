@@ -1,7 +1,7 @@
 ---
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+source-git-commit: 623b5ac3fe79543a23f7ac0f79a688ad4a3c98ec
 workflow-type: tm+mt
-source-wordcount: '2228'
+source-wordcount: '2229'
 ht-degree: 0%
 
 ---
@@ -316,4 +316,4 @@ De vrije Gids van de Prep van het Examen verstrekt een op maat gemaakt weg door 
 
 ## Vragen {#questions}
 
-**Vragen?** [ Contact ons ](mailto:certif@adobe.com)
+**Vragen?** [ Contact ons ](https://certification.adobe.com/support/contactus) {target="_blank"}
