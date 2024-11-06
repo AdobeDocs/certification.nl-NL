@@ -5,7 +5,7 @@ user-guide-description: Leer over  [!DNL Experience Cloud]  Certificatie bij Ado
 source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 27%
+ht-degree: 28%
 
 ---
 
