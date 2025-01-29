@@ -3,16 +3,16 @@ title: Overzicht van Workfront-certificering
 description: Overzicht van certificeringsopties voor Adobe Workfront
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
+source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 19%
+source-wordcount: '65'
+ht-degree: 10%
 
 ---
 
 # Adobe [!DNL Workfront] Overzicht van certificering
 
-## Alle beschikbare Exams voor Adobe [!DNL Workfront]
+Selecteer uw niveau en baanrol om de details van het certificatieexamen, de middelen van de toegangsstudie, en uw examen te vinden te plannen. U kunt ook de [ volledige certificatiecatalogus ](https://certification.adobe.com/certifications) {target="_blank"} evenals [ technische opleidingscursussen ](https://certification.adobe.com/courses/?/courses) {target="_blank"} onderzoeken.
 
 **Beroeps**
 

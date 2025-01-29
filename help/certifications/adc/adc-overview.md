@@ -4,14 +4,16 @@ description: Overzicht van certificeringsopties voor Adobe Document Cloud
 solution: Document Cloud
 hide: true
 exl-id: e7bb19f7-a87e-46df-a4ef-98b8dede4aba
-source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
+source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
 workflow-type: tm+mt
-source-wordcount: '19'
-ht-degree: 42%
+source-wordcount: '53'
+ht-degree: 15%
 
 ---
 
 # [!DNL Adobe Document Cloud] Overzicht van certificering
+
+Selecteer uw niveau en baanrol om de details van het certificatieexamen, de middelen van de toegangsstudie, en uw examen te vinden te plannen. U kunt ook de [ volledige certificatiecatalogus ](https://certification.adobe.com/certifications) {target="_blank"} evenals [ technische opleidingscursussen ](https://certification.adobe.com/courses/?/courses) {target="_blank"} onderzoeken.
 
 **Beroeps**
 

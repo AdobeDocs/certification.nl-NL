@@ -3,16 +3,16 @@ title: Overzicht van Experience Manager-certificering
 description: Overzicht van certificeringsopties voor Adobe Experience Manager
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: bcf93b87d923a5902a7a93afe0e2eb52c060a1a1
+source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 8%
 
 ---
 
 # Adobe [!DNL Experience Manager] Overzicht van certificering
 
-Selecteer uw niveau en uw taakrol om meer informatie over de certificatie te vinden u in geinteresseerd bent.
+Selecteer uw niveau en baanrol om de details van het certificatieexamen, de middelen van de toegangsstudie, en uw examen te vinden te plannen. U kunt ook de [ volledige certificatiecatalogus ](https://certification.adobe.com/certifications) {target="_blank"} evenals [ technische opleidingscursussen ](https://certification.adobe.com/courses/?/courses) {target="_blank"} onderzoeken.
 
 **Beroeps**
 

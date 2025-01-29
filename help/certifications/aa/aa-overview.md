@@ -4,14 +4,16 @@ description: Overzicht van certificeringsopties voor Adobe Analytics
 solution: Analytics
 product: Analytics
 exl-id: 38beb41b-b943-4058-a3fb-da7babff8499
-source-git-commit: 307d716211cf1c4b5c9cfe4e2698389bc8fde5f4
+source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
 workflow-type: tm+mt
-source-wordcount: '29'
-ht-degree: 24%
+source-wordcount: '63'
+ht-degree: 11%
 
 ---
 
 # Overzicht van Adobe Analytics-certificering
+
+Selecteer uw niveau en baanrol om de details van het certificatieexamen, de middelen van de toegangsstudie, en uw examen te vinden te plannen. U kunt ook de [ volledige certificatiecatalogus ](https://certification.adobe.com/certifications) {target="_blank"} evenals [ technische opleidingscursussen ](https://certification.adobe.com/courses/?/courses) {target="_blank"} onderzoeken.
 
 **Beroeps**
 
