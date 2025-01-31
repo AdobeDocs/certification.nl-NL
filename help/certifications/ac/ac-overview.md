@@ -4,10 +4,10 @@ description: Overzicht van certificeringsopties voor Adobe Commerce
 solution: Commerce
 product: Magento
 exl-id: 8a9f63f9-b2f9-438f-b1f5-8706b2768626
-source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
+source-git-commit: 077b8ee1a5f6420ce393dac8074e2abe375e2710
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 8%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ Selecteer uw niveau en baanrol om de details van het certificatieexamen, de midd
 * [ Ontwikkelaar - NIEUW ](https://certification.adobe.com/certification/adobe-commerce-developer-expert-v2) {target="_blank"} <!--AD0-E716-->
 * [ Ontwikkelaar - Verloopt 17 Februari, 2025 ](https://certification.adobe.com/certification/adobe-commerce-developer-expert) {target="_blank"} <!--AD0-E716-->
 * [ Front-end Ontwikkelaar - NIEUW ](https://certification.adobe.com/certification/front-end-developer-expert-v2) {target="_blank"} <!--AD0-E727-->
-* [ Front-end Ontwikkelaar - Verloopt 15 Maart, 2025 ](https://certification.adobe.com/certification/front-end-developer-expert) {target="_blank"} <!--AD0-E720-->
+* [ Front-end Ontwikkelaar - Verloopt 30 Maart, 2025 ](https://certification.adobe.com/certification/front-end-developer-expert) {target="_blank"} <!--AD0-E720-->
 
 **Meester**
 
