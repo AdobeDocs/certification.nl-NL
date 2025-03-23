@@ -1,17 +1,17 @@
 ---
-title: Overzicht van certificering van Campaigns Classic
+title: Overzicht van Campaign Classic-certificering
 description: Overzicht van certificeringsopties voor Adobe Campaign Classic
 solution: Campaign, Campaign Classic v7
-version: Classic v7
+version: Campaign Classic v7
 exl-id: c80ad5d1-6245-4c99-b4ac-97b8dc48e80f
-source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
+source-git-commit: 92f6bb8abb8932e90208745584bcfb1d149ba64e
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 12%
 
 ---
 
-# Adobe [!DNL Campaign Classic] Overzicht van certificering
+# Overzicht van Adobe [!DNL Campaign Classic] -certificering
 
 Selecteer uw niveau en baanrol om de details van het certificatieexamen, de middelen van de toegangsstudie, en uw examen te vinden te plannen. U kunt ook de [ volledige certificatiecatalogus ](https://certification.adobe.com/certifications) {target="_blank"} evenals [ technische opleidingscursussen ](https://certification.adobe.com/courses/?/courses) {target="_blank"} onderzoeken.
 
