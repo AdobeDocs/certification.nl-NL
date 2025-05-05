@@ -12,7 +12,7 @@ ht-degree: 14%
 
 # [!DNL Adobe Real-Time CDP] Overzicht van certificering
 
-Selecteer uw niveau en baanrol om de details van het certificatieexamen, de middelen van de toegangsstudie, en uw examen te vinden te plannen. U kunt ook de [ volledige certificatiecatalogus ](https://certification.adobe.com/certifications) {target="_blank"} evenals [ technische opleidingscursussen ](https://certification.adobe.com/courses/?/courses) {target="_blank"} onderzoeken.
+Selecteer uw niveau en baanrol om de details van het certificatieexamen, de middelen van de toegangsstudie, en uw examen te vinden te plannen. U kunt ook de [ volledige certificatiecatalogus ](https://certification.adobe.com/certifications){target="_blank"}  evenals [ technische opleidingscursussen ](https://certification.adobe.com/courses/?/courses){target="_blank"}  onderzoeken.
 
 **Beroeps**
 

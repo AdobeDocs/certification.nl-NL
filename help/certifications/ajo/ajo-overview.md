@@ -12,15 +12,15 @@ ht-degree: 14%
 
 # Adobe [!DNL Journey Optimizer] Overzicht van certificering
 
-Selecteer uw niveau en baanrol om de details van het certificatieexamen, de middelen van de toegangsstudie, en uw examen te vinden te plannen. U kunt ook de [ volledige certificatiecatalogus ](https://certification.adobe.com/certifications) {target="_blank"} evenals [ technische opleidingscursussen ](https://certification.adobe.com/courses/?/courses) {target="_blank"} onderzoeken.
+Selecteer uw niveau en baanrol om de details van het certificatieexamen, de middelen van de toegangsstudie, en uw examen te vinden te plannen. U kunt ook de [ volledige certificatiecatalogus ](https://certification.adobe.com/certifications){target="_blank"}  evenals [ technische opleidingscursussen ](https://certification.adobe.com/courses/?/courses){target="_blank"}  onderzoeken.
 
 **Beroeps**
 
-* [ Bedrijfs Praktijk ](https://certification.adobe.com/certification/journey-optimizer-business-practitioner-professional) {target="_blank"}<!--AD0-E607-->
+* [ Bedrijfs Praktijk ](https://certification.adobe.com/certification/journey-optimizer-business-practitioner-professional){target="_blank"} <!--AD0-E607-->
 
 **Deskundige**
 
-* [ Ontwikkelaar ](https://certification.adobe.com/certification/journey-optimizer-developer-expert) {target="_blank"} <!--AD0-E606-->
+* [ Ontwikkelaar ](https://certification.adobe.com/certification/journey-optimizer-developer-expert){target="_blank"}  <!--AD0-E606-->
 
 {{questions}}
 

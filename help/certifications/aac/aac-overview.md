@@ -13,12 +13,12 @@ ht-degree: 12%
 
 # Overzicht van Adobe Advertising-certificering
 
-Selecteer uw niveau en baanrol om de details van het certificatieexamen, de middelen van de toegangsstudie, en uw examen te vinden te plannen. U kunt ook de [ volledige certificatiecatalogus ](https://certification.adobe.com/certifications) {target="_blank"} evenals [ technische opleidingscursussen ](https://certification.adobe.com/courses/?/courses) {target="_blank"} onderzoeken.
+Selecteer uw niveau en baanrol om de details van het certificatieexamen, de middelen van de toegangsstudie, en uw examen te vinden te plannen. U kunt ook de [ volledige certificatiecatalogus ](https://certification.adobe.com/certifications){target="_blank"}  evenals [ technische opleidingscursussen ](https://certification.adobe.com/courses/?/courses){target="_blank"}  onderzoeken.
 
 **Beroeps**
 
-* [ Bedrijfs Praktijk (Onderzoek) ](https://certification.adobe.com/certification/advertising-search-business-practitioner-professional) {target="_blank"} <!--AD0-E501-->
-* [ Bedrijfs Praktijk (DSP) ](https://certification.adobe.com/certification/advertising-dsp-business-practitioner-professional) {target="_blank"} <!--AD0-E502-->
+* [ Bedrijfs Praktijk (Onderzoek) ](https://certification.adobe.com/certification/advertising-search-business-practitioner-professional){target="_blank"}  <!--AD0-E501-->
+* [ Bedrijfs Praktijk (DSP) ](https://certification.adobe.com/certification/advertising-dsp-business-practitioner-professional){target="_blank"}  <!--AD0-E502-->
 
 {{questions}}
 

@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Overzicht van Adobe Audience Manager-certificering
 
-Selecteer uw niveau en baanrol om de details van het certificatieexamen, de middelen van de toegangsstudie, en uw examen te vinden te plannen. U kunt ook de [ volledige certificatiecatalogus ](https://certification.adobe.com/certifications) {target="_blank"} evenals [ technische opleidingscursussen ](https://certification.adobe.com/courses/?/courses) {target="_blank"} onderzoeken.
+Selecteer uw niveau en baanrol om de details van het certificatieexamen, de middelen van de toegangsstudie, en uw examen te vinden te plannen. U kunt ook de [ volledige certificatiecatalogus ](https://certification.adobe.com/certifications){target="_blank"}  evenals [ technische opleidingscursussen ](https://certification.adobe.com/courses/?/courses){target="_blank"}  onderzoeken.
 
 **Beroeps**
 
-* [ Bedrijfs Praktijk ](https://certification.adobe.com/certification/adobe-audience-business-practitioner-professional) {target="_blank"} <!--AD0-E458-->
+* [ Bedrijfs Praktijk ](https://certification.adobe.com/certification/adobe-audience-business-practitioner-professional){target="_blank"}  <!--AD0-E458-->
 
 **Deskundige**
 
-* [ Bedrijfs Praktijk ](https://certification.adobe.com/certification/adobe-audience-manager-business-practitioner-expert) {target="_blank"} <!--AD0-E457-->
+* [ Bedrijfs Praktijk ](https://certification.adobe.com/certification/adobe-audience-manager-business-practitioner-expert){target="_blank"}  <!--AD0-E457-->
 
 **Meester**
 
-* [ Architect ](https://certification.adobe.com/certification/audience-manager-architect-master) {target="_blank"} <!--AD0-E454-->
+* [ Architect ](https://certification.adobe.com/certification/audience-manager-architect-master){target="_blank"}  <!--AD0-E454-->
 
 {{questions}}
 

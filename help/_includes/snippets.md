@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**het Digitale Programma van de Certificatie van de Ervaring van de Adobe heeft naar het nieuwe [ Portaal van de Certificatie van de Adobe ](https://certification.adobe.com/) {target="_blank"} bewogen!** Lees hieronder over de nieuwe functies en hoe u aan de slag kunt gaan.
+>**het Digitale Programma van de Certificatie van de Ervaring van de Adobe heeft naar het nieuwe [ Portaal van de Certificatie van de Adobe ](https://certification.adobe.com/){target="_blank"}  bewogen!** Lees hieronder over de nieuwe functies en hoe u aan de slag kunt gaan.
 
 ## Wat is op het nieuwe Portaal van de Certificatie van de Adobe?
 
@@ -38,15 +38,15 @@ Alles wat u vroeger op deze pagina vond, en meer!
 
 ### Waar begin ik?
 
-[ Login vandaag ](https://certification.adobe.com/) {target="_blank"} en verifieer uw profielgegevens.
+[ Login vandaag ](https://certification.adobe.com/){target="_blank"}  en verifieer uw profielgegevens.
 
-Dan, onderzoek onze [ cursussen ](https://certification.adobe.com/courses/?/courses) {target="_blank"}, [ certificatie ](https://certification.adobe.com/certifications) {target="_blank"}, [ gemeenschap ](https://certification.adobe.com/community/) {target="_blank"} en [ klantgerichte dashboard ](https://certification.adobe.com/user/dashboard) {target="_blank"}.
+Dan, onderzoek onze [ cursussen ](https://certification.adobe.com/courses/?/courses){target="_blank"} , [ certificatie ](https://certification.adobe.com/certifications){target="_blank"} , [ gemeenschap ](https://certification.adobe.com/community/){target="_blank"}  en [ klantgerichte dashboard ](https://certification.adobe.com/user/dashboard){target="_blank"} .
 
 ### Hoe plant ik een examen?
 
 U kunt nu een examen op het Portaal van de Certificatie van de Adobe plannen.
 
-1. Ga naar de [ Catalogus van de Certificatie ](https://certification.adobe.com/certifications) {target="_blank"}.
+1. Ga naar de [ Catalogus van de Certificatie ](https://certification.adobe.com/certifications){target="_blank"} .
 2. Zoek uw examen
 3. Ga naar het **Programma of neem examen** tabel.
 4. In het **Programma en betaal voor uw examen** sectie, zult u de verbinding van de examenpagina vinden.
@@ -54,17 +54,17 @@ U kunt nu een examen op het Portaal van de Certificatie van de Adobe plannen.
 
 ### Waar vind ik mijn certificeringsgeschiedenis?
 
-Uw actieve certificatie is reeds gemigreerd aan [ uw rekening ](https://certification.adobe.com/user/certifications) {target="_blank"} op het Portaal van de Certificatie van de Adobe. Sommige aspecten van uw account zijn mogelijk nog niet volledig ingevuld tijdens het migreren van de resterende gebruikersgegevens. Dank u voor uw geduld!
+Uw actieve certificatie is reeds gemigreerd aan [ uw rekening ](https://certification.adobe.com/user/certifications){target="_blank"}  op het Portaal van de Certificatie van de Adobe. Sommige aspecten van uw account zijn mogelijk nog niet volledig ingevuld tijdens het migreren van de resterende gebruikersgegevens. Dank u voor uw geduld!
 
 ### Waar vind ik mijn bonnen?
 
-Uw vouchers (met inbegrip van die die van Xvoucher worden overgebracht) zullen in [ uw rekening ](https://certification.adobe.com/user/purchases) {target="_blank"} op het Portaal van de Certificatie van de Adobe verschijnen.
+Uw vouchers (met inbegrip van die die van Xvoucher worden overgebracht) zullen in [ uw rekening ](https://certification.adobe.com/user/purchases){target="_blank"}  op het Portaal van de Certificatie van de Adobe verschijnen.
 
 ### Waar is mijn certificeringsbadge?
 
 Uw badge is nu beschikbaar op de Adobe Certification Portal.
 
-1. Ga naar **Mijn Rekening** > [ Resultaten ](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements) {target="_blank"}.
+1. Ga naar **Mijn Rekening** > [ Resultaten ](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"} .
 2. Vind de **Actieve certificatie** widget.
 
 * Om uw pagina van de merkverificatie te bekijken, klik op de **knoop van het Aandeel**. Vanaf die pagina kunt u delen naar sociale media.
@@ -73,7 +73,7 @@ Uw badge is nu beschikbaar op de Adobe Certification Portal.
 
 ### Vragen?
 
-Bekijk [ hoe te video&#39;s ](https://certification.adobe.com/#) {target="_blank"} bij de bodem van onze homepage, bezoek onze [ Veelgestelde vragen ](https://certification.adobe.com/support/faq) {target="_blank"}, of [ contacteer ons ](https://certification.adobe.com/support/contactus) {target="_blank"}.
+Bekijk [ hoe te video&#39;s ](https://certification.adobe.com/#){target="_blank"}  bij de bodem van onze homepage, bezoek onze [ Veelgestelde vragen ](https://certification.adobe.com/support/faq){target="_blank"} , of [ contacteer ons ](https://certification.adobe.com/support/contactus){target="_blank"} .
 
 We zijn blij dat u de nieuwe startpagina van het Adobe Digital Experience Certification Program kunt verkennen en de nieuwe functies kunt verkennen!
 
@@ -114,7 +114,7 @@ U moet een Adobe ID hebben om uw examen te plannen en te nemen. Als u geen Adobe
 
 Een Adobe ID is om drie redenen noodzakelijk:
 
-* U zult een Adobe ID nodig hebben om tot stand te brengen en login aan uw ](https://www.certmetrics.com/adobe) {target="_blank"} rekening 1} van het Beheer van de Referentie van de Adobe van de . [ Dit is waar u uw certificatie, examengeschiedenis, examencores, en extra informatie kunt bekijken.
+* U zult een Adobe ID nodig hebben om tot stand te brengen en login aan uw [&#128279;](https://www.certmetrics.com/adobe){target="_blank"}  rekening 1&rbrace; van het Beheer van de Referentie van de Adobe van de .  Dit is waar u uw certificatie, examengeschiedenis, examencores, en extra informatie kunt bekijken.
 * U moet aan het Systeem van het Beheer van de Verantwoordelijkheid van de Adobe worden het programma geopend om en login aan uw rekening van het Onderzoek te creëren. Dat is waar je gaat plannen, betalen en je test afleggen.
 * U moet aan het Systeem van het Beheer van de Aanwijzing van de Adobe worden het programma geopend om praktijktests op het Portaal van de Prep van het Prep van het CertificatieExamen van de Adobe te nemen.
 
@@ -128,7 +128,7 @@ Hier volgen enkele suggesties voor bronnen die u kunnen helpen bij het voorberei
 
 >[!NOTE]
 >
->Sommige verbindingen in deze sectie zullen slechts werken nadat u in het [ Systeem van het Beheer van de Adobe Credentials ](https://www.certmetrics.com/adobe) {target="_blank"} hebt geregistreerd. Neem even de tijd om u nu aan te melden.
+>Sommige verbindingen in deze sectie zullen slechts werken nadat u in het [ Systeem van het Beheer van de Adobe Credentials ](https://www.certmetrics.com/adobe){target="_blank"}  hebt geregistreerd. Neem even de tijd om u nu aan te melden.
 
 <!--divider-->
 
@@ -148,9 +148,9 @@ Houd er rekening mee dat het slagen van een praktijktest niet garandeert dat u v
 
 De praktijktest uitvoeren:
 
-1. Eerst, login aan het [ Systeem van het Beheer van de Verantwoordelijkheid van de Adobe ](https://www.certmetrics.com/adobe) {target="_blank"} met uw Adobe ID.
+1. Eerst, login aan het [ Systeem van het Beheer van de Verantwoordelijkheid van de Adobe ](https://www.certmetrics.com/adobe){target="_blank"}  met uw Adobe ID.
 
-2. Dan, ga naar het [ Portaal van de Prep van het Examen van de Certificatie van de Adobe ](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx) {target="_blank"} om uw praktijktest te vinden.
+2. Dan, ga naar het [ Portaal van de Prep van het Examen van de Certificatie van de Adobe ](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"}  om uw praktijktest te vinden.
 
 <!--divider-->
 
@@ -158,7 +158,7 @@ De praktijktest uitvoeren:
 
 >[!NOTE]
 >
->Sommigen in deze sectie zullen slechts werken nadat u in het [ Systeem van het Beheer van de Adobe Credentials ](https://www.certmetrics.com/adobe) {target="_blank"} hebt geregistreerd. Neem even de tijd om u nu aan te melden.
+>Sommigen in deze sectie zullen slechts werken nadat u in het [ Systeem van het Beheer van de Adobe Credentials ](https://www.certmetrics.com/adobe){target="_blank"}  hebt geregistreerd. Neem even de tijd om u nu aan te melden.
 
 **levering van het Examen**
 
@@ -168,9 +168,9 @@ De Adobe gebruikt een verkoper genoemd Onderzoek om geplande, geproctorde onderz
 
 Om uw examen te plannen, opnieuw te plannen, of te annuleren:
 
-1. Eerst, login aan het [ Systeem van het Beheer van de Verantwoordelijkheid van de Adobe ](https://www.certmetrics.com/adobe) {target="_blank"} met uw Adobe ID.
+1. Eerst, login aan het [ Systeem van het Beheer van de Verantwoordelijkheid van de Adobe ](https://www.certmetrics.com/adobe){target="_blank"}  met uw Adobe ID.
 
-2. Dan, ga naar het [ Portaal van het Onderzoek ](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?) {target="_blank"} en volg de instructies op het scherm worden verstrekt.
+2. Dan, ga naar het [ Portaal van het Onderzoek ](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"}  en volg de instructies op het scherm worden verstrekt.
 
 De annuleringen en het opnieuw plannen moeten **48 uren vóór** de geplande examenbenoeming in werking worden gesteld. De kandidaten moeten deze benoeming zelf wijzigen. Geen van de leveranciers van de Steun van de Adobe of van het examen kan herplannings en annuleringsverzoeken verwerken. Voor annuleringen onder de 48 uur geldt naast de examenkosten een herplanningsvergoeding.
 
@@ -182,13 +182,13 @@ Betalen via voucher: Ga naar: Adobe Certification Voucher Center om een examenvo
 
 **het Aankopen van een voucher**
 
-U kunt voor een examen met een bon betalen. Om een examenbon te kopen ga naar het [ Centrum van de Certificatie van de Adobe Voucher ](https://certification.adobe.com/certifications/vouchers) {target="_blank"}.
+U kunt voor een examen met een bon betalen. Om een examenbon te kopen ga naar het [ Centrum van de Certificatie van de Adobe Voucher ](https://certification.adobe.com/certifications/vouchers){target="_blank"} .
 
 U kunt de vouchercode toepassen wanneer u uw examen plant. Zie hieronder voor informatie over bonkorting.
 
 Alle gegadigden kunnen een korting krijgen op bulkaankopen van 10 of meer examens wanneer ze deze aankopen via het Adobe Certification Voucher Center.
 
-Voor meer informatie over vouchers, gelieve te zien [ FAQ ](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab) {target="_blank"}.
+Voor meer informatie over vouchers, gelieve te zien [ FAQ ](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"} .
 
 **Kortingen**
 
@@ -202,7 +202,7 @@ Er zijn bulkkortingen beschikbaar:
 
 De kortingen van de partner: De partners van het niveau Bronze en hierboven krijgen kortingen op alle Adobe certificatieexamens en klassen. U kunt meer over deze kortingen lezen en hoe te om tot partnervoordelen op het Portaal van de Partner van de Oplossing toegang te hebben.
 
-De kortingen van de voucher: Alle kandidaten kunnen een korting op bulkaankopen van 10 of meer examens ontvangen wanneer zij via het ](https://certification.adobe.com/certifications/vouchers) {target="_blank"} Centrum van de Certificatie van de Adobe 0} [ kopen.
+De kortingen van de voucher: Alle kandidaten kunnen een korting op bulkaankopen van 10 of meer examens ontvangen wanneer zij via het [&#128279;](https://certification.adobe.com/certifications/vouchers){target="_blank"}  Centrum van de Certificatie van de Adobe 0&rbrace;  kopen.
 
 Opmerking: Bulkkortingen kunnen niet worden gecombineerd met een andere aanbieding of korting.
 
@@ -242,11 +242,11 @@ De Adobe gebruikt Onderzoek om geproctorde examens online te beheren. In het por
 
 * **Plan, herprogrammeer of annuleer uw examen.** Houd er rekening mee dat het annuleren en opnieuw plannen moet worden gestart vóór 48 uur voor de geplande examenafspraak. De kandidaten moeten deze benoeming zelf wijzigen.
 
-* **betaal voor uw examen.** Betaal voor uw certificatieexamen of door bon of creditcard in het examenportaal. Om een examenbon te kopen gaat naar: [ het Centrum van de Certificatie van de Adobe Voucher ](https://certification.adobe.com/certifications/vouchers) {target="_blank"}. U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, wordt deze toegepast bij afhandeling.
+* **betaal voor uw examen.** Betaal voor uw certificatieexamen of door bon of creditcard in het examenportaal. Om een examenbon te kopen gaat naar: [ het Centrum van de Certificatie van de Adobe Voucher ](https://certification.adobe.com/certifications/vouchers){target="_blank"} . U kunt de vouchercode toepassen wanneer u uw examen plant. Als je korting hebt, wordt deze toegepast bij afhandeling.
 
 * **neem uw examen.**
 
-**gelieve nota te nemen:** u moet login aan het [ Systeem van het Beheer van de Verantwoordelijkheid van de Adobe ](https://www.certmetrics.com/adobe) {target="_blank"} alvorens op de hieronder knoop van het Onderzoek te klikken.
+**gelieve nota te nemen:** u moet login aan het [ Systeem van het Beheer van de Verantwoordelijkheid van de Adobe ](https://www.certmetrics.com/adobe){target="_blank"}  alvorens op de hieronder knoop van het Onderzoek te klikken.
 
 >[!WARNING]
 >
@@ -262,7 +262,7 @@ Uw badge is een tastbaar bewijs van uw ervaring met Adobe Experience Cloud-produ
 
 **voor bestaande gebruikers, zijn er twee manieren om uw Adobe Certificatie badge goed te keuren:**
 
-* **Stap 1:** Teken in [ Geloofwaardig ](https://www.credly.com/users/sign_in) {target="_blank"}. (Je moet hetzelfde e-mailadres gebruiken dat je hebt gebruikt om je Adobe te betalen, of je ziet je badge niet.)
+* **Stap 1:** Teken in [ Geloofwaardig ](https://www.credly.com/users/sign_in){target="_blank"} . (Je moet hetzelfde e-mailadres gebruiken dat je hebt gebruikt om je Adobe te betalen, of je ziet je badge niet.)
 * **Stap 2:** of ga naar e-mail u van Credly aan goedkeurt de badge ontving.
 * **Stap 3:** keur en deel uw badge goed.
 
@@ -272,13 +272,13 @@ Uw badge is een tastbaar bewijs van uw ervaring met Adobe Experience Cloud-produ
 * **Stap 2:** creeer een rekening. (Je moet hetzelfde e-mailadres gebruiken dat je hebt gebruikt om je Adobe te betalen, of je ziet je badge niet.)
 * **Stap 3:** keur en deel uw badge goed.
 
-[ leer meer ](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge) {target="_blank"}
+[ leer meer ](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge){target="_blank"} 
 
 <!--divider-->
 
 ## Uw certificering vernieuwen {#renewing-intro}
 
-Certificeringen verlopen na twee jaar. Als u uw certificering wilt behouden, moet u deze vernieuwen voordat deze verloopt. Bezoek [ vernieuw uw certificatie ](https://experienceleague.adobe.com/docs/certification/program/renew.html) {target="_blank"} pagina voor meer informatie.
+Certificeringen verlopen na twee jaar. Als u uw certificering wilt behouden, moet u deze vernieuwen voordat deze verloopt. Bezoek [ vernieuw uw certificatie ](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}  pagina voor meer informatie.
 
 <!--divider-->
 
@@ -310,10 +310,10 @@ De vrije Gids van de Prep van het Examen verstrekt een op maat gemaakt weg door 
 >
 >* De details betreffende het bijgewerkte vernieuwingsproces zullen begin maart worden gedeeld, zodat alle certificatiehouders voldoende tijd hebben om hun certificeringen te vernieuwen.
 >
->**gelieve te bezoeken gelieve het nieuwe [ Certificatieportaal van de Adobe ](https://certification.adobe.com/certifications/learn-more?tab=learnmore8) {target="_blank"} voor de meest bijgewerkte informatie.**
+>**gelieve te bezoeken gelieve het nieuwe [ Certificatieportaal van de Adobe ](https://certification.adobe.com/certifications/learn-more?tab=learnmore8){target="_blank"}  voor de meest bijgewerkte informatie.**
 
 <!--divider-->
 
 ## Vragen {#questions}
 
-**Vragen?** [ Contact ons ](https://certification.adobe.com/support/contactus) {target="_blank"}
+**Vragen?** [ Contact ons ](https://certification.adobe.com/support/contactus){target="_blank"} 
