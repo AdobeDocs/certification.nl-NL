@@ -131,27 +131,27 @@ Adobe Journey Optimizer wordt aangedreven door Experience Platform. Kandidaten d
 
 **Sectie 1: Beleid en Configuratie**
 
-* [ Experience Platform, Toegangsbeheer, Gids van Sandboxes ](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html){target="_blank"} 
-* [ de Gids van AJO, Configuratie, het kanaal van SMS, Reizen ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"} 
+* [ Experience Platform, Toegangsbeheer, Gids van Sandboxes ](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=nl-NL){target="_blank"} 
+* [ de Gids van AJO, Configuratie, het kanaal van SMS, Reizen ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=nl-NL){target="_blank"} 
 * [ AJO APIs ](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"} 
 
 **Sectie 2: Journey Orchestration**
 
-* [ Gids van AJO, Reizen, Uitdrukkingen, Spoor en monitor ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"} 
+* [ Gids van AJO, Reizen, Uitdrukkingen, Spoor en monitor ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=nl-NL){target="_blank"} 
 
 **Sectie 3: Offer decisioning**
 
-* [ de Gids van AJO, Beslissingsbeheer, API verwijzing ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"} 
+* [ de Gids van AJO, Beslissingsbeheer, API verwijzing ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=nl-NL){target="_blank"} 
 
 **Sectie 4: Inhoud Authoring**
 
-* [ de Gids van AJO, het kanaal van SMS, Privacy, Configuratie, Reizen, Uitdrukkingen, het beheer van de Inhoud, Spoor en monitor, het kanaal van het pushbericht ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"} 
-* [ Tutorials van Journey Optimizer ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"} 
+* [ de Gids van AJO, het kanaal van SMS, Privacy, Configuratie, Reizen, Uitdrukkingen, het beheer van de Inhoud, Spoor en monitor, het kanaal van het pushbericht ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=nl-NL){target="_blank"} 
+* [ Tutorials van Journey Optimizer ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=nl-NL){target="_blank"} 
 
 **Sectie 5: De Modellering van gegevens**
 
-* [ de Gids van AJO, Configuratie, Soorten, profielen en identiteit, het beheer van Gegevens ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"} 
-* [ Experience Platform, Datasets, de Gids van de Verbindingen van Source, API Tutorials, de Gids van de Dienst van de Identiteit van het Platform, Segmentatie UI, Tutorials UI ](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"} 
+* [ de Gids van AJO, Configuratie, Soorten, profielen en identiteit, het beheer van Gegevens ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=nl-NL){target="_blank"} 
+* [ Experience Platform, Datasets, de Gids van de Verbindingen van Source, API Tutorials, de Gids van de Dienst van de Identiteit van het Platform, Segmentatie UI, Tutorials UI ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=nl-NL){target="_blank"} 
 
 +++
 
@@ -210,6 +210,6 @@ Adobe Journey Optimizer wordt aangedreven door Experience Platform. Kandidaten d
 
 ## Vragen
 
-Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} .
+Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=nl-NL){target="_blank"} .
 
 Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com).

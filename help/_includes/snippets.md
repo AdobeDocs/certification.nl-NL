@@ -110,7 +110,7 @@ Deze stappen nemen u door het certificatieproces van begin tot eind.
 >
 > **vereiste identiteitskaart van de Regering:** U MOET een door de overheid uitgegeven foto identiteitskaart als uw geldige vorm van identiteitskaart gebruiken Elektronische kopieën of digitale id&#39;s zijn niet toegestaan. <br><br> **Adobe ID rekeningsnaam:** Uw Adobe ID rekeningsnaam MOET uw naam op uw overheidsidentiteitskaart aanpassen E-mail <certif@adobe.com> om de naam van uw Adobe ID-account bij te werken. Gelieve te verzoeken om deze correctie **72 uren vooraf**. Als de namen niet op het tijdstip van het examen aanpassen, zult u voor een nieuw examen aan een extra last moeten ondertekenen.
 
-U moet een Adobe ID hebben om uw examen te plannen en te nemen. Als u geen Adobe ID hebt, kunt u één [ hier ](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html) tot stand brengen.
+U moet een Adobe ID hebben om uw examen te plannen en te nemen. Als u geen Adobe ID hebt, kunt u één [ hier ](https://helpx.adobe.com/nl/manage-account/using/create-update-adobe-id.html) tot stand brengen.
 
 Een Adobe ID is om drie redenen noodzakelijk:
 
@@ -278,7 +278,7 @@ Uw badge is een tastbaar bewijs van uw ervaring met Adobe Experience Cloud-produ
 
 ## Uw certificering vernieuwen {#renewing-intro}
 
-Certificeringen verlopen na twee jaar. Als u uw certificering wilt behouden, moet u deze vernieuwen voordat deze verloopt. Bezoek [ vernieuw uw certificatie ](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}  pagina voor meer informatie.
+Certificeringen verlopen na twee jaar. Als u uw certificering wilt behouden, moet u deze vernieuwen voordat deze verloopt. Bezoek [ vernieuw uw certificatie ](https://experienceleague.adobe.com/docs/certification/program/renew.html?lang=nl-NL){target="_blank"}  pagina voor meer informatie.
 
 <!--divider-->
 
