@@ -219,7 +219,7 @@ Here are some suggested resources to help you prepare:
 * [Change the status of a project](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/change-project-status.html?lang=nl-NL){target="_blank"}
 * [System project statuses](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html?lang=nl-NL){target="_blank"}
 * [Use the Milestone view](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html?lang=nl-NL){target="_blank"}
-* [Overview of Business Case financial fields](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/business-case-finances.html){target="_blank"}
+* [Overview of Business Case financial fields](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/business-case-finances.html?lang=nl-NL){target="_blank"}
 * [Project finances included in project baselines](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/project-finances-included-in-project-baselines.html?lang=nl-NL#financial-information-included-in-baseline-reports){target="_blank"}
 * [Track work progress with project metrics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.html?lang=nl-NL){target="_blank"}
 
@@ -303,14 +303,14 @@ Here are some suggested resources to help you prepare:
 
 **Section 2: Budget and Planning**
 
-* [Locate the Workload Balancer](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer.html){target="_blank"}
+* [Locate the Workload Balancer](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer.html?lang=nl-NL){target="_blank"}
 * [Assign work in bulk using the Workload Balancer](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=nl-NL){target="_blank"}
-* [Manage user allocations in the Workload Balancer](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/manage-user-allocations-workload-balancer.html){target="_blank"}
+* [Manage user allocations in the Workload Balancer](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/manage-user-allocations-workload-balancer.html?lang=nl-NL){target="_blank"}
 
 **Section 3: User Experience**
 
-* [When and how to deactivate or delete users](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html){target="_blank"}
-* [Share project templates](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/share-project-template.html){target="_blank"}
+* [When and how to deactivate or delete users](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html?lang=nl-NL){target="_blank"}
+* [Share project templates](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/share-project-template.html?lang=nl-NL){target="_blank"}
 * [Actions to take after installing a blueprint](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/best-next-actions-after-install.html?lang=nl-NL){target="_blank"}
 * [Create a single-use timesheet](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/create-tmshts.html?lang=nl-NL){target="_blank"}
 
