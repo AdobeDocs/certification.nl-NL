@@ -4,16 +4,16 @@ description: Overzicht van certificeringsopties voor Adobe Analytics
 solution: Analytics
 product: Analytics
 exl-id: 38beb41b-b943-4058-a3fb-da7babff8499
-source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
+source-git-commit: 62849867a001b41cd0139488bc4a72bd2ea504b7
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 11%
+source-wordcount: '70'
+ht-degree: 10%
 
 ---
 
 # Overzicht van Adobe Analytics-certificering
 
-Selecteer uw niveau en baanrol om de details van het certificatieexamen, de middelen van de toegangsstudie, en uw examen te vinden te plannen. U kunt ook de [ volledige certificatiecatalogus ](https://certification.adobe.com/certifications){target="_blank"}  evenals [ technische opleidingscursussen ](https://certification.adobe.com/courses/?/courses){target="_blank"}  onderzoeken.
+Selecteer uw niveau en baanrol om de details van het certificatieexamen, de middelen van de toegangsstudie, en uw examen te vinden te plannen. U kunt ook de [ volledige certificatiecatalogus ](https://certification.adobe.com/certifications){target="_blank"} evenals [ technische opleidingscursussen ](https://certification.adobe.com/courses/?/courses){target="_blank"} onderzoeken.
 
 **Beroeps**
 
@@ -23,7 +23,9 @@ Selecteer uw niveau en baanrol om de details van het certificatieexamen, de midd
 **Deskundige**
 
 * [ Bedrijfs Praktijk ](https://certification.adobe.com/certification/analytics-business-practitioner-expert) <!--AD0-E208-->
+* [ Bedrijfs Praktijk - Japans ](https://certification.adobe.com/certification/analytics-business-practitioner-expert) <!--AD0-E208-J-->
 * [ Ontwikkelaar ](https://certification.adobe.com/certification/developer-expert) <!--AD0-E209-->
+* [ Ontwikkelaar - Japans ](https://certification.adobe.com/certification/developer-expert) <!--AD0-E209-J-->
 
 **Meester**
 
