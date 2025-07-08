@@ -19,7 +19,7 @@ Selecteer uw niveau en baanrol om de details van het certificatieexamen, de midd
 
 * [ Verklaarde Beroeps ](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-->
 * [ Verklaarde Beroeps - Japans ](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-J-->
-* [ Digitale Marketer ](https://certification.adobe.com/certification/digital-marketer-professional) (Gelieve te merken op dat deze certificatie niet naar partnervereisten telt.) {target="_blank"} <!--AD0-E564-->
+* [ Digitale Marketer ](https://certification.adobe.com/certification/digital-marketer-professional) (Gelieve te merken op dat deze certificatie niet naar partnervereisten telt.){target="_blank"}  <!--AD0-E564-->
 
 **Deskundige**
 
