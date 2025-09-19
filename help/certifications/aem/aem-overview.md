@@ -3,7 +3,7 @@ title: Overzicht van Experience Manager-certificering
 description: Overzicht van certificeringsopties voor Adobe Experience Manager
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: d0e1c6a499d5f3016d1147135e2e85d2b930372b
+source-git-commit: 51821a1e368916d6bd4d0224be99ee5ae5b97ae1
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 6%
@@ -21,9 +21,8 @@ Selecteer uw niveau en baanrol om de details van het certificatieexamen, de midd
 * [ Ontwikkelaar (Assets) ](https://certification.adobe.com/certification/assets-developer-professional){target="_blank"} <!--AD0-E129-->
 * [ achterste-eindontwikkelaar (Forms) ](https://certification.adobe.com/certification/backend-developer-professional){target="_blank"} <!--AD0-E127-->
 * [ Technische Stichting ](https://certification.adobe.com/certification/technical-foundations-professional){target="_blank"} <!--AD0-E132-->
-* [ Digitale Bibliotheek ](https://certification.adobe.com/certification/digital-librarian-professional) (Gelieve te merken op dat deze certificatie niet naar partnervereisten telt.){target="_blank"}  <!--AD0-E143-->
-* [ Inhoudsauteur ](https://certification.adobe.com/certification/sites-content-author-professional) (Gelieve te merken op dat deze certificatie niet naar partnervereisten telt.)
-  {target="_blank"} <!--AD0-E144-->
+* [ Digitale Bibliotheek ](https://certification.adobe.com/certification/digital-librarian-professional){target="_blank"} (Gelieve te merken op dat deze certificatie niet naar partnervereisten telt.) <!--AD0-E143-->
+* [ Inhoudsauteur ](https://certification.adobe.com/certification/sites-content-author-professional){target="_blank"} (Gelieve te merken op dat deze certificatie niet naar partnervereisten telt.) <!--AD0-E144-->
 
 **Deskundige**
 
