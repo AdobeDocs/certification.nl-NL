@@ -13,33 +13,33 @@ ht-degree: 18%
 
 **Analytics**
 
-* [ Architect ](/help/certifications/aa/aa-m-architect.md) <!--AD0-E207-->
+* [&#x200B; Architect &#x200B;](/help/certifications/aa/aa-m-architect.md) <!--AD0-E207-->
 
 **Audience Manager**
 
-* [ Architect ](/help/certifications/aam/aam-m-architect.md) <!--AD0-E454-->
+* [&#x200B; Architect &#x200B;](/help/certifications/aam/aam-m-architect.md) <!--AD0-E454-->
 
 **Campaign Classic**
 
-* [ Ontwikkelaar ](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
+* [&#x200B; Ontwikkelaar &#x200B;](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
 
 **Commerce**
 
-* [ Architect ](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
+* [&#x200B; Architect &#x200B;](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
 
 **Experience Manager**
 
-* [ Architect (Plaatsen) ](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
+* [&#x200B; Architect (Plaatsen) &#x200B;](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
 **Marketo Engage**
 
-* [ Architect ](/help/certifications/ame/ame-m-architect.md) <!--AD0-E556-->
+* [&#x200B; Architect &#x200B;](/help/certifications/ame/ame-m-architect.md) <!--AD0-E556-->
 
 **Doel**
 
-* [ Architect ](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
+* [&#x200B; Architect &#x200B;](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
 
 >[!MORELIKETHIS]
 >
->* [ Expert technische certificatie ](expert.md)
->* [ Professionele technische certificatie ](professional.md)
+>* [&#x200B; Expert technische certificatie &#x200B;](expert.md)
+>* [&#x200B; Professionele technische certificatie &#x200B;](professional.md)

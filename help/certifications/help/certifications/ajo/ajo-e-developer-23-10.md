@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dit is het nieuwste Adobe [!DNL Journey Optimizer] Expert examen ontwikkelaar (AD0-E606). Als u reeds begonnen bent te bestuderen of de [ oudere versie ](ajo-e-developer.md) gepland hebt, moet u het tegen 22 December, 2023 voltooien.
+>Dit is het nieuwste Adobe [!DNL Journey Optimizer] Expert examen ontwikkelaar (AD0-E606). Als u reeds begonnen bent te bestuderen of de [&#x200B; oudere versie &#x200B;](ajo-e-developer.md) gepland hebt, moet u het tegen 22 December, 2023 voltooien.
 
 
 ## Beschrijving van examen {#exam-description}
@@ -131,27 +131,27 @@ Adobe Journey Optimizer wordt aangedreven door Experience Platform. Kandidaten d
 
 **Sectie 1: Beleid en Configuratie**
 
-* [ Experience Platform, Toegangsbeheer, Gids van Sandboxes ](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=nl-NL){target="_blank"} 
-* [ de Gids van AJO, Configuratie, het kanaal van SMS, Reizen ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=nl-NL){target="_blank"} 
-* [ AJO APIs ](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"} 
+* [&#x200B; Experience Platform, Toegangsbeheer, Gids van Sandboxes &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=nl-NL){target="_blank"} 
+* [&#x200B; de Gids van AJO, Configuratie, het kanaal van SMS, Reizen &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=nl-NL){target="_blank"} 
+* [&#x200B; AJO APIs &#x200B;](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"} 
 
 **Sectie 2: Journey Orchestration**
 
-* [ Gids van AJO, Reizen, Uitdrukkingen, Spoor en monitor ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=nl-NL){target="_blank"} 
+* [&#x200B; Gids van AJO, Reizen, Uitdrukkingen, Spoor en monitor &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=nl-NL){target="_blank"} 
 
 **Sectie 3: Offer decisioning**
 
-* [ de Gids van AJO, Beslissingsbeheer, API verwijzing ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=nl-NL){target="_blank"} 
+* [&#x200B; de Gids van AJO, Beslissingsbeheer, API verwijzing &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=nl-NL){target="_blank"} 
 
 **Sectie 4: Inhoud Authoring**
 
-* [ de Gids van AJO, het kanaal van SMS, Privacy, Configuratie, Reizen, Uitdrukkingen, het beheer van de Inhoud, Spoor en monitor, het kanaal van het pushbericht ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=nl-NL){target="_blank"} 
-* [ Tutorials van Journey Optimizer ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=nl-NL){target="_blank"} 
+* [&#x200B; de Gids van AJO, het kanaal van SMS, Privacy, Configuratie, Reizen, Uitdrukkingen, het beheer van de Inhoud, Spoor en monitor, het kanaal van het pushbericht &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=nl-NL){target="_blank"} 
+* [&#x200B; Tutorials van Journey Optimizer &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=nl-NL){target="_blank"} 
 
 **Sectie 5: De Modellering van gegevens**
 
-* [ de Gids van AJO, Configuratie, Soorten, profielen en identiteit, het beheer van Gegevens ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=nl-NL){target="_blank"} 
-* [ Experience Platform, Datasets, de Gids van de Verbindingen van Source, API Tutorials, de Gids van de Dienst van de Identiteit van het Platform, Segmentatie UI, Tutorials UI ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=nl-NL){target="_blank"} 
+* [&#x200B; de Gids van AJO, Configuratie, Soorten, profielen en identiteit, het beheer van Gegevens &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=nl-NL){target="_blank"} 
+* [&#x200B; Experience Platform, Datasets, de Gids van de Verbindingen van Source, API Tutorials, de Gids van de Dienst van de Identiteit van het Platform, Segmentatie UI, Tutorials UI &#x200B;](https://experienceleague.adobe.com/docs/experience-platform.html?lang=nl-NL){target="_blank"} 
 
 +++
 
@@ -181,7 +181,7 @@ Adobe Journey Optimizer wordt aangedreven door Experience Platform. Kandidaten d
 
 >[!NOTE]
 >
->Dit is het nieuwste Adobe [!DNL Journey Optimizer] Expert examen ontwikkelaar (AD0-E606). Als u reeds begonnen bent te bestuderen of de [ oudere versie ](ajo-e-developer.md) gepland hebt, moet u het tegen 22 December, 2023 voltooien.
+>Dit is het nieuwste Adobe [!DNL Journey Optimizer] Expert examen ontwikkelaar (AD0-E606). Als u reeds begonnen bent te bestuderen of de [&#x200B; oudere versie &#x200B;](ajo-e-developer.md) gepland hebt, moet u het tegen 22 December, 2023 voltooien.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -210,6 +210,6 @@ Adobe Journey Optimizer wordt aangedreven door Experience Platform. Kandidaten d
 
 ## Vragen
 
-Bekijk de certificatie [ Veelgestelde vragen ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=nl-NL){target="_blank"} .
+Bekijk de certificatie [&#x200B; Veelgestelde vragen &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=nl-NL){target="_blank"} .
 
-Aanvullende vragen? [ Contact ons ](mailto:certif@adobe.com).
+Aanvullende vragen? [&#x200B; Contact ons &#x200B;](mailto:certif@adobe.com).

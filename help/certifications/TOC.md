@@ -143,7 +143,7 @@ ht-degree: 28%
          + [Ontwikkelaar (Core)](/help/certifications/aw/aw-core-e-developer-23-08.md)
          + [AEM verbeterde aansluiting](/help/certifications/aw/aw-aem-e-connector.md)
       + [Verlenging](/help/certifications/aw/aw-renew.md)
-   + [ Gekwalificeerde die examens door ADLS  worden verstrekt](https://learning.adobe.com/certification/credentials)
+   + [&#x200B; Gekwalificeerde die examens door ADLS  worden verstrekt](https://learning.adobe.com/certification/credentials)
 + [Veelgestelde vragen](faq.md)
 + Verborgen {#hidden}
    + [Certificering subsidiabiliteitstest opnieuw starten](exam-eligibility-check.md)

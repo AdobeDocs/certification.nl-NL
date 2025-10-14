@@ -14,11 +14,11 @@ ht-degree: 0%
 
 # Adobe [!DNL Experience Platform] Overzicht van certificering
 
-Selecteer uw niveau en baanrol om de details van het certificatieexamen, de middelen van de toegangsstudie, en uw examen te vinden te plannen. U kunt ook de [ volledige certificatiecatalogus ](https://certification.adobe.com/certifications){target="_blank"}  evenals [ technische opleidingscursussen ](https://certification.adobe.com/courses/?/courses){target="_blank"}  onderzoeken.
+Selecteer uw niveau en baanrol om de details van het certificatieexamen, de middelen van de toegangsstudie, en uw examen te vinden te plannen. U kunt ook de [&#x200B; volledige certificatiecatalogus &#x200B;](https://certification.adobe.com/certifications){target="_blank"}  evenals [&#x200B; technische opleidingscursussen &#x200B;](https://certification.adobe.com/courses/?/courses){target="_blank"}  onderzoeken.
 
 **Deskundige**
 
-* [ Ontwikkelaar ](/help/certifications/aep/aep-e-foundations.md){target="_blank"} <!--AD0-E601-->
+* [&#x200B; Ontwikkelaar &#x200B;](/help/certifications/aep/aep-e-foundations.md){target="_blank"} <!--AD0-E601-->
 
 {{questions}}
 

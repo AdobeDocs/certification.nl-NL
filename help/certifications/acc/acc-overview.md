@@ -13,21 +13,21 @@ ht-degree: 12%
 
 # Overzicht van Adobe [!DNL Campaign Classic] -certificering
 
-Selecteer uw niveau en baanrol om de details van het certificatieexamen, de middelen van de toegangsstudie, en uw examen te vinden te plannen. U kunt ook de [ volledige certificatiecatalogus ](https://certification.adobe.com/certifications){target="_blank"}  evenals [ technische opleidingscursussen ](https://certification.adobe.com/courses/?/courses){target="_blank"}  onderzoeken.
+Selecteer uw niveau en baanrol om de details van het certificatieexamen, de middelen van de toegangsstudie, en uw examen te vinden te plannen. U kunt ook de [&#x200B; volledige certificatiecatalogus &#x200B;](https://certification.adobe.com/certifications){target="_blank"}  evenals [&#x200B; technische opleidingscursussen &#x200B;](https://certification.adobe.com/courses/?/courses){target="_blank"}  onderzoeken.
 
 **Beroeps**
 
-* [ Bedrijfs Praktijk ](https://certification.adobe.com/certification/campaign-classic-business-practitioner-professional){target="_blank"}  <!--AD0-E329-->
-* [ Ontwikkelaar ](https://certification.adobe.com/certification/developer-professional){target="_blank"}  <!--AD0-E331-->
+* [&#x200B; Bedrijfs Praktijk &#x200B;](https://certification.adobe.com/certification/campaign-classic-business-practitioner-professional){target="_blank"}  <!--AD0-E329-->
+* [&#x200B; Ontwikkelaar &#x200B;](https://certification.adobe.com/certification/developer-professional){target="_blank"}  <!--AD0-E331-->
 
 **Deskundige**
 
-* [ Bedrijfs Praktijk ](https://certification.adobe.com/certification/campaign-classic-business-practitioner-expert){target="_blank"}  <!--AD0-E327-->
-* [ Ontwikkelaar ](https://certification.adobe.com/certification/campaign-classic-developer-expert){target="_blank"}  <!--AD0-E330-->
+* [&#x200B; Bedrijfs Praktijk &#x200B;](https://certification.adobe.com/certification/campaign-classic-business-practitioner-expert){target="_blank"}  <!--AD0-E327-->
+* [&#x200B; Ontwikkelaar &#x200B;](https://certification.adobe.com/certification/campaign-classic-developer-expert){target="_blank"}  <!--AD0-E330-->
 
 **Meester**
 
-* [ Architect ](https://certification.adobe.com/certification/campaign-classic-architect-master){target="_blank"}  <!--AD0-E328-->
+* [&#x200B; Architect &#x200B;](https://certification.adobe.com/certification/campaign-classic-architect-master){target="_blank"}  <!--AD0-E328-->
 
 {{questions}}
 

@@ -13,24 +13,24 @@ ht-degree: 8%
 
 # Overzicht van Adobe Analytics-certificering
 
-Selecteer uw niveau en baanrol om de details van het certificatieexamen, de middelen van de toegangsstudie, en uw examen te vinden te plannen. U kunt ook de [ volledige certificatiecatalogus ](https://certification.adobe.com/certifications){target="_blank"} evenals [ technische opleidingscursussen ](https://certification.adobe.com/courses/?/courses){target="_blank"} onderzoeken.
+Selecteer uw niveau en baanrol om de details van het certificatieexamen, de middelen van de toegangsstudie, en uw examen te vinden te plannen. U kunt ook de [&#x200B; volledige certificatiecatalogus &#x200B;](https://certification.adobe.com/certifications){target="_blank"} evenals [&#x200B; technische opleidingscursussen &#x200B;](https://certification.adobe.com/courses/?/courses){target="_blank"} onderzoeken.
 
 **Beroeps**
 
-* [ Bedrijfs Praktijk ](https://certification.adobe.com/certification/analytics-business-practitioner-professional) <!--AD0-E212-->
-* [ Ontwikkelaar ](https://certification.adobe.com/certification/adobe-analytics-developer-professional) <!--AD0-E213-->
-* [ Analyst van Gegevens ](https://certification.adobe.com/certification/data-analyst-professional) (Gelieve te merken op dat deze certificatie niet naar partnervereisten telt.) <!--AD0-E215-->
+* [&#x200B; Bedrijfs Praktijk &#x200B;](https://certification.adobe.com/certification/analytics-business-practitioner-professional) <!--AD0-E212-->
+* [&#x200B; Ontwikkelaar &#x200B;](https://certification.adobe.com/certification/adobe-analytics-developer-professional) <!--AD0-E213-->
+* [&#x200B; Analyst van Gegevens &#x200B;](https://certification.adobe.com/certification/data-analyst-professional) (Gelieve te merken op dat deze certificatie niet naar partnervereisten telt.) <!--AD0-E215-->
 
 **Deskundige**
 
-* [ Bedrijfs Praktijk ](https://certification.adobe.com/certification/analytics-business-practitioner-expert) <!--AD0-E208-->
-* [ Bedrijfs Praktijk - Japans ](https://certification.adobe.com/certification/analytics-business-practitioner-expert) <!--AD0-E208-J-->
-* [ Ontwikkelaar ](https://certification.adobe.com/certification/developer-expert) <!--AD0-E209-->
-* [ Ontwikkelaar - Japans ](https://certification.adobe.com/certification/developer-expert) <!--AD0-E209-J-->
+* [&#x200B; Bedrijfs Praktijk &#x200B;](https://certification.adobe.com/certification/analytics-business-practitioner-expert) <!--AD0-E208-->
+* [&#x200B; Bedrijfs Praktijk - Japans &#x200B;](https://certification.adobe.com/certification/analytics-business-practitioner-expert) <!--AD0-E208-J-->
+* [&#x200B; Ontwikkelaar &#x200B;](https://certification.adobe.com/certification/developer-expert) <!--AD0-E209-->
+* [&#x200B; Ontwikkelaar - Japans &#x200B;](https://certification.adobe.com/certification/developer-expert) <!--AD0-E209-J-->
 
 **Meester**
 
-* [ Architect ](https://certification.adobe.com/certification/architect-master) <!--AD0-E207-->
+* [&#x200B; Architect &#x200B;](https://certification.adobe.com/certification/architect-master) <!--AD0-E207-->
 
 {{questions}}
 

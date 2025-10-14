@@ -12,59 +12,59 @@ ht-degree: 15%
 
 **Analytics**
 
-* [ Bedrijfs Praktijk ](/help/certifications/aa/aa-e-business.md) <!--AD0-E208-->
-* [ Ontwikkelaar ](/help/certifications/aa/aa-e-developer.md) <!--AD0-E209-->
+* [&#x200B; Bedrijfs Praktijk &#x200B;](/help/certifications/aa/aa-e-business.md) <!--AD0-E208-->
+* [&#x200B; Ontwikkelaar &#x200B;](/help/certifications/aa/aa-e-developer.md) <!--AD0-E209-->
 
 **Audience Manager**
 
-* [ Bedrijfs Praktijk ](/help/certifications/aam/aam-e-business.md) <!--AD0-E457-->
+* [&#x200B; Bedrijfs Praktijk &#x200B;](/help/certifications/aam/aam-e-business.md) <!--AD0-E457-->
 
 **Campaign Classic**
 
-* [ Bedrijfs Praktijk ](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
-* [ Ontwikkelaar ](/help/certifications/acc/acc-e-developer.md) <!--AD0-E330-->
+* [&#x200B; Bedrijfs Praktijk &#x200B;](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
+* [&#x200B; Ontwikkelaar &#x200B;](/help/certifications/acc/acc-e-developer.md) <!--AD0-E330-->
 
 **Campaign Standard**
 
-* [ Bedrijfs Praktijk ](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
-* [ Ontwikkelaar ](/help/certifications/acs/acs-e-developer.md) <!--AD0-E306-->
+* [&#x200B; Bedrijfs Praktijk &#x200B;](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
+* [&#x200B; Ontwikkelaar &#x200B;](/help/certifications/acs/acs-e-developer.md) <!--AD0-E306-->
 
 **Commerce**
 
-* [ Bedrijfs Praktijk ](/help/certifications/ac/ac-e-business.md) <!--AD0-E708-->
-* [ Ontwikkelaar ](/help/certifications/ac/ac-e-developer.md) <!--AD0-E716-->
-* [ Ontwikkelaar ](/help/certifications/ac/ac-e-fedeveloper.md) <!--AD0-E710-->
+* [&#x200B; Bedrijfs Praktijk &#x200B;](/help/certifications/ac/ac-e-business.md) <!--AD0-E708-->
+* [&#x200B; Ontwikkelaar &#x200B;](/help/certifications/ac/ac-e-developer.md) <!--AD0-E716-->
+* [&#x200B; Ontwikkelaar &#x200B;](/help/certifications/ac/ac-e-fedeveloper.md) <!--AD0-E710-->
 
 **Customer Journey Analytics**
 
-* [ Ontwikkelaar ](/help/certifications/acja/acja-e-developer.md) <!--AD0-E604-->
+* [&#x200B; Ontwikkelaar &#x200B;](/help/certifications/acja/acja-e-developer.md) <!--AD0-E604-->
 
 **Experience Manager**
 
-* [ Bedrijfs Praktijk (Plaatsen) ](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
-* [ Ontwikkelaar (Plaatsen) ](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
-* [ DevOps ](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
-* [ Ontwikkelaar (Forms) ](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
-* [ de Migratie van de Cloud Service ](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
+* [&#x200B; Bedrijfs Praktijk (Plaatsen) &#x200B;](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
+* [&#x200B; Ontwikkelaar (Plaatsen) &#x200B;](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
+* [&#x200B; DevOps &#x200B;](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
+* [&#x200B; Ontwikkelaar (Forms) &#x200B;](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
+* [&#x200B; de Migratie van de Cloud Service &#x200B;](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
 
 **Marketo Engage**
 
-* [ Bedrijfs Praktijk ](/help/certifications/ame/ame-e-business.md) <!--AD0-E559-->
+* [&#x200B; Bedrijfs Praktijk &#x200B;](/help/certifications/ame/ame-e-business.md) <!--AD0-E559-->
 
 **Real-Time CDP**
 
-* [ Bedrijfs Praktijk ](/help/certifications/rtcdp/rtcdp-p-business.md) <!--AD0-E602-->
+* [&#x200B; Bedrijfs Praktijk &#x200B;](/help/certifications/rtcdp/rtcdp-p-business.md) <!--AD0-E602-->
 
 **Doel**
 
-* [ Bedrijfs Praktijk ](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
+* [&#x200B; Bedrijfs Praktijk &#x200B;](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
 
 **Workfront**
 
-* [ Ontwikkelaar (Kern) ](/help/certifications/aw/aw-core-e-developer.md) <!--AD0-E904-->
-* [ AEM Verbeterde Schakelaar ](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
+* [&#x200B; Ontwikkelaar (Kern) &#x200B;](/help/certifications/aw/aw-core-e-developer.md) <!--AD0-E904-->
+* [&#x200B; AEM Verbeterde Schakelaar &#x200B;](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
 >[!MORELIKETHIS]
 >
->* [ Professionele technische certificatie ](professional.md)
->* [ Meester technische certificatie ](master.md)
+>* [&#x200B; Professionele technische certificatie &#x200B;](professional.md)
+>* [&#x200B; Meester technische certificatie &#x200B;](master.md)

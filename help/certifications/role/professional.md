@@ -12,57 +12,57 @@ ht-degree: 9%
 
 **Advertising**
 
-* [ Bedrijfs Praktijk (Onderzoek) ](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
-* [ Bedrijfs Praktijk (DSP) ](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
+* [&#x200B; Bedrijfs Praktijk (Onderzoek) &#x200B;](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
+* [&#x200B; Bedrijfs Praktijk (DSP) &#x200B;](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
 
 **Analytics**
 
-* [ Bedrijfs Praktijk ](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
-* [ Ontwikkelaar ](/help/certifications/aa/aa-p-developer.md) <!--AD0-E213-->
+* [&#x200B; Bedrijfs Praktijk &#x200B;](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
+* [&#x200B; Ontwikkelaar &#x200B;](/help/certifications/aa/aa-p-developer.md) <!--AD0-E213-->
 
 
 **Audience Manager**
 
-* [ Bedrijfs Praktijk ](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
+* [&#x200B; Bedrijfs Praktijk &#x200B;](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
 
 **Campaign Classic**
 
-* [ Bedrijfs Praktijk ](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
-* [ Ontwikkelaar ](/help/certifications/acc/acc-p-developer.md) <!--AD0-E331-->
+* [&#x200B; Bedrijfs Praktijk &#x200B;](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
+* [&#x200B; Ontwikkelaar &#x200B;](/help/certifications/acc/acc-p-developer.md) <!--AD0-E331-->
 
 **Commerce**
 
-* [ Bedrijfs Praktijk ](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
-* [ Ontwikkelaar ](/help/certifications/ac/ac-p-developer.md) <!--AD0-E717-->
-* [ Ontwikkelaar ](/help/certifications/ac/ac-p-fedeveloper.md) <!--AD0-E719-->
+* [&#x200B; Bedrijfs Praktijk &#x200B;](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
+* [&#x200B; Ontwikkelaar &#x200B;](/help/certifications/ac/ac-p-developer.md) <!--AD0-E717-->
+* [&#x200B; Ontwikkelaar &#x200B;](/help/certifications/ac/ac-p-fedeveloper.md) <!--AD0-E719-->
 
 **Experience Manager**
 
-* [ Bedrijfs Praktijk ](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
-* [ Ontwikkelaar (Plaatsen) ](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
-* [ Ontwikkelaar (Assets) ](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
-* [ achterste-eindontwikkelaar (Forms) ](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
-* [ Technische Stichting ](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
+* [&#x200B; Bedrijfs Praktijk &#x200B;](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
+* [&#x200B; Ontwikkelaar (Plaatsen) &#x200B;](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
+* [&#x200B; Ontwikkelaar (Assets) &#x200B;](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
+* [&#x200B; achterste-eindontwikkelaar (Forms) &#x200B;](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
+* [&#x200B; Technische Stichting &#x200B;](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
 
 **Marketo Engage**
 
-* [ Verklaarde Beroeps ](/help/certifications/ame/ame-p.md) <!--AD0-E555-->
+* [&#x200B; Verklaarde Beroeps &#x200B;](/help/certifications/ame/ame-p.md) <!--AD0-E555-->
 
 **Real-Time CDP**
 
-* [ Bedrijfs Praktijk ](/help/certifications/rtcdp/rtcdp-p-business.md) <!--AD0-E602-->
+* [&#x200B; Bedrijfs Praktijk &#x200B;](/help/certifications/rtcdp/rtcdp-p-business.md) <!--AD0-E602-->
 
 **Doel**
 
-* [ Verklaarde Beroeps ](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
+* [&#x200B; Verklaarde Beroeps &#x200B;](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
 
 **Workfront**
 
-* [ Ontwikkelaar (Fusion) ](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
-* [ de Manager van het Project ](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
-* [ Ontwikkelaar (Kern) ](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
+* [&#x200B; Ontwikkelaar (Fusion) &#x200B;](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
+* [&#x200B; de Manager van het Project &#x200B;](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
+* [&#x200B; Ontwikkelaar (Kern) &#x200B;](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
 
 >[!MORELIKETHIS]
 >
->* [ Expert technische certificatie ](expert.md)
->* [ Meester technische certificatie ](master.md)
+>* [&#x200B; Expert technische certificatie &#x200B;](expert.md)
+>* [&#x200B; Meester technische certificatie &#x200B;](master.md)
