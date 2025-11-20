@@ -5,7 +5,7 @@ user-guide-description: Leer over  [!DNL Experience Cloud]  Certificatie bij Ado
 source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 28%
+ht-degree: 33%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 28%
       + [Advertising - Overzicht](/help/certifications/aac/aac-overview.md)
       + Professional {#aac-professional}
          + [Bedrijfs Praktijk (Onderzoek)](/help/certifications/aac/aac-search-p-business.md)
-         + [Zakelijke praktiserer (DSP)](/help/certifications/aac/aac-dsp-p-business.md)
+         + [Business Practitioner (DSP)](/help/certifications/aac/aac-dsp-p-business.md)
       + [Verlenging](/help/certifications/aac/aac-renew.md)
    + Adobe [!DNL Analytics] {#aa}
       + [Overzicht van analysemogelijkheden](/help/certifications/aa/aa-overview.md)
@@ -31,7 +31,7 @@ ht-degree: 28%
       + Expert {#aa-expert}
          + [Business Practitioner](/help/certifications/aa/aa-e-business.md)
          + [Ontwikkelaar](/help/certifications/aa/aa-e-developer.md)
-      + Stramien {#aa-master}
+      + Master {#aa-master}
          + [Architect](/help/certifications/aa/aa-m-architect.md)
       + [Verlenging](/help/certifications/aa/aa-renew.md)
    + Adobe [!DNL Audience Manager] {#aam}
@@ -40,22 +40,22 @@ ht-degree: 28%
          + [Business Practitioner](/help/certifications/aam/aam-p-business.md)
       + Expert {#aam-expert}
          + [Business Practitioner](/help/certifications/aam/aam-e-business.md)
-      + Stramien {#aam-master}
+      + Master {#aam-master}
          + [Architect](/help/certifications/aam/aam-m-architect.md)
       + [Verlenging](/help/certifications/aam/aam-renew.md)
    + Adobe [!DNL Campaign Classic] {#acc}
-      + [Overzicht van Campaign Classic](/help/certifications/acc/acc-overview.md)
+      + [Campaign Classic - Overzicht](/help/certifications/acc/acc-overview.md)
       + Professional {#acc-professional}
          + [Business Practitioner](/help/certifications/acc/acc-p-business.md)
          + [Ontwikkelaar](/help/certifications/acc/acc-p-developer.md)
       + Expert {#acc-expert}
          + [Business Practitioner](/help/certifications/acc/acc-e-business.md)
          + [Ontwikkelaar](/help/certifications/acc/acc-e-developer.md)
-      + Stramien {#acc-master}
+      + Master {#acc-master}
          + [Architect](/help/certifications/acc/acc-m-developer.md)
       + [Verlenging](/help/certifications/acc/acc-renew.md)
    + Adobe [!DNL Campaign Standard] {#acs}
-      + [Overzicht van Campaign Standard](/help/certifications/acs/acs-overview.md)
+      + [Campaign Standard - Overzicht](/help/certifications/acs/acs-overview.md)
       + Expert {#acs-expert}
          + [Business Practitioner](/help/certifications/acs/acs-e-business.md)
          + [Ontwikkelaar](/help/certifications/acs/acs-e-developer.md)
@@ -70,22 +70,22 @@ ht-degree: 28%
          + [Business Practitioner](/help/certifications/ac/ac-e-business.md)
          + [Ontwikkelaar](/help/certifications/ac/ac-e-developer.md)
          + [Front-end Developer](/help/certifications/ac/ac-e-fedeveloper0623.md)
-      + Stramien {#ac-master}
+      + Master {#ac-master}
          + [Architect](/help/certifications/ac/ac-m-architect.md)
       + [Verlenging](/help/certifications/ac/ac-renew.md)
    + Adobe [!DNL Customer Journey Analytics] {#acja}
-      + [Overzicht van Customer Journey Analytics](/help/certifications/acja/acja-overview.md)
+      + [Customer Journey Analytics - Overzicht](/help/certifications/acja/acja-overview.md)
       + Professional {#acja-professional}
          + [Business Practitioner](/help/certifications/acja/acja-p-business.md)
       + Expert {#acja-expert}
          + [Ontwikkelaar](/help/certifications/acja/acja-e-developer.md)
    + Adobe [!DNL Document Cloud] {#adc}
-      + [Overzicht van Document Cloud](/help/certifications/adc/adc-overview.md)
+      + [Document Cloud - Overzicht](/help/certifications/adc/adc-overview.md)
       + Professional {#adc-professional}
          + [Business Practitioner](/help/certifications/adc/adc-p-business.md)
       + [Verlenging](/help/certifications/adc/adc-renew.md)
    + Adobe [!DNL Experience Manager] {#aem}
-      + [Overzicht van Experience Manager](/help/certifications/aem/aem-overview.md)
+      + [Experience Manager - Overzicht](/help/certifications/aem/aem-overview.md)
       + Professional {#aem-professional}
          + [Business Practitioner](/help/certifications/aem/aem-p-business.md)
          + [Ontwikkelaar (sites)](/help/certifications/aem/aem-sites-p-developer.md)
@@ -97,8 +97,8 @@ ht-degree: 28%
          + [Ontwikkelaar (sites)](/help/certifications/aem/aem-sites-e-developer.md)
          + [DevOps](/help/certifications/aem/aem-devops-e-engineer.md)
          + [Ontwikkelaar (Forms)](/help/certifications/aem/aem-forms-e-developer.md)
-         + [Migratie van Cloud Service](/help/certifications/aem/aem-cs-e-migration.md)
-      + Stramien {#aem-master}
+         + [Cloud Service-migratie](/help/certifications/aem/aem-cs-e-migration.md)
+      + Master {#aem-master}
          + [Architect (sites)](/help/certifications/aem/aem-sites-m-architect.md)
       + [Verlenging](/help/certifications/aem/aem-renew.md)
    + Adobe [!DNL Journey Optimizer] {#ajo}
@@ -109,12 +109,12 @@ ht-degree: 28%
          + [Ontwikkelaar](/help/certifications/ajo/ajo-e-developer-23-10.md)
       + [Verlenging](/help/certifications/ajo/ajo-renew.md)
    + Adobe [!DNL Marketo Engage] {#ame}
-      + [Overzicht van Marketo Engage](/help/certifications/ame/ame-overview.md)
+      + [Marketo Engage - Overzicht](/help/certifications/ame/ame-overview.md)
       + Professional {#ame-professional}
          + [Certified Professional](/help/certifications/ame/ame-p.md)
       + Expert {#ame-expert}
          + [Business Practitioner](/help/certifications/ame/ame-e-business.md)
-      + Stramien {#ame-master}
+      + Master {#ame-master}
          + [Architect](/help/certifications/ame/ame-m-architect-23-08.md)
       + [Verlenging](/help/certifications/ame/ame-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
@@ -130,7 +130,7 @@ ht-degree: 28%
          + [Business Practitioner](/help/certifications/at/at-p-business.md)
       + Expert {#at-expert}
          + [Business Practitioner](/help/certifications/at/at-e-business.md)
-      + Stramien {#at-master}
+      + Master {#at-master}
          + [Architect](/help/certifications/at/at-m-architect0623.md)
       + [Verlenging](/help/certifications/at/at-renew.md)
    + Adobe [!DNL Workfront] {#aw}
@@ -141,9 +141,9 @@ ht-degree: 28%
          + [Ontwikkelaar (Core)](/help/certifications/aw/aw-core-p-developer-23-12.md)
       + Expert {#aw-expert}
          + [Ontwikkelaar (Core)](/help/certifications/aw/aw-core-e-developer-23-08.md)
-         + [AEM verbeterde aansluiting](/help/certifications/aw/aw-aem-e-connector.md)
+         + [AEM Enhanced Connector](/help/certifications/aw/aw-aem-e-connector.md)
       + [Verlenging](/help/certifications/aw/aw-renew.md)
-   + [&#x200B; Gekwalificeerde die examens door ADLS  worden verstrekt](https://learning.adobe.com/certification/credentials)
+   + [ Gekwalificeerde die examens door ADLS ](https://learning.adobe.com/certification/credentials) worden verstrekt
 + [Veelgestelde vragen](faq.md)
 + Verborgen {#hidden}
    + [Certificering subsidiabiliteitstest opnieuw starten](exam-eligibility-check.md)
